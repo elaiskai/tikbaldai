@@ -70,6 +70,11 @@
       "path": "assets/welcome-03/hero-editorial-v2-d3049a574e63.jpg",
       "sha256": "d3049a574e6399b393d89d126adac22bd79fd1bfbed61cae4a160bd2facde03b",
       "bytes": 210318
+    },
+    {
+      "path": "assets/welcome-01/hero-studio-v3-381c3602090d.jpg",
+      "sha256": "381c3602090d294d6c0b28203343a15db5f1c75b48a8e58360834a7cc00a25c2",
+      "bytes": 121386
     }
   ]
 }
