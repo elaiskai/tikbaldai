@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "updated_date": "2026-10-10",
   "subject": "Jaukumas turi daug formų",
   "preheader": "Atraskite baldus poilsiui, laikui kartu ir kasdienei namų tvarkai.",
@@ -35,8 +35,7 @@
       "mso": "VML roundrect, 370px by 56px, full shape hyperlink"
     },
     "head_stripped": "24px inline padding and full width stacked categories",
-    "qa_status": "passed browser geometry checks and required visual review; platform delivery unverified",
-    "qa_html_sha256": "4551d2c6caff0a23981950ac7d49bb3b21321fe862a2e9ed79237cfb060cd627"
+    "qa_status": "PASS: four required widths, normal and stripped styles, eight fresh visually reviewed browser renders."
   },
   "category_urls": {
     "Lovos ir čiužinio komplektai": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai",
@@ -50,7 +49,7 @@
     "Georgia"
   ],
   "font_links": false,
-  "html_sha256": "4551d2c6caff0a23981950ac7d49bb3b21321fe862a2e9ed79237cfb060cd627",
+  "html_sha256": "bdfea48807c8d9caf87815227987dab84bdfab13aa5b982c332d6c0240caa134",
   "unsubscribe_placeholder": "{{unsubscribe_url}}",
   "trigger": "New confirmed marketing subscriber without prior purchase",
   "stop_conditions": [
@@ -58,5 +57,8 @@
     "Unsubscribe",
     "Suppression"
   ],
-  "status": "local_design_draft"
+  "status": "reviewed_design_draft",
+  "browser_qa_pass": true,
+  "platform_delivery_verified": false,
+  "image_treatment": "AI campaign compositions made with authentic catalog product references; see visual-refresh-v2 provenance."
 }

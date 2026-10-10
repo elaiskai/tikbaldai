@@ -1,54 +1,142 @@
 {
-  "html_sha256": "ab16533f3dab29cb2658c9b4563901ba3a09067c82a263b3ee3805a8f836e09c",
+  "email": "winback-03",
+  "html_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/winback/email-03.html",
+  "html_sha256": "25932637739f630e4f894353fb6358b4f65130beb5137b3bd6d8bf0abe72f82b",
+  "reviewed_utc": "2026-10-10T16:57:38.274480+00:00",
   "status": "PASS",
-  "method": "Direct visual inspection of all eight fresh browser screenshots, desktop600 and mobile320390430, normal and head styles removed.",
-  "views": [
+  "viewed_filenames": [
+    "winback-03-w320.jpg",
+    "winback-03-w320-stripped.jpg",
+    "winback-03-w390.jpg",
+    "winback-03-w390-stripped.jpg",
+    "winback-03-w430.jpg",
+    "winback-03-w430-stripped.jpg",
+    "winback-03-w600.jpg",
+    "winback-03-w600-stripped.jpg"
+  ],
+  "screenshots": [
     {
-      "file": "e03-w320.jpg",
-      "screenshot_sha256": "460a6f69e6d3e80004c619ebbecf0ba433e8bc055cbc5dce52d1d31b035c1caf",
-      "status": "PASS"
+      "file": "winback-03-w320.jpg",
+      "sha256": "1554acb1c51aca5da0315b558885c11f7bbc19ecc113e0678b5c5883bd7de85e",
+      "viewport_width_px": 320,
+      "dimensions_px": [
+        320,
+        2104
+      ],
+      "head_styles_removed": false,
+      "status": "PASS",
+      "inspection": "Direct view_image at original pixel resolution",
+      "issues": []
     },
     {
-      "file": "e03-w320-stripped.jpg",
-      "screenshot_sha256": "448b97b060d5ddff1c998cece3ec326cd1e07daac76c4780fc6a9c7920b8db2f",
-      "status": "PASS"
+      "file": "winback-03-w320-stripped.jpg",
+      "sha256": "a527ae78f6d41b1d954d3a484fe53c3dc6b17c76451ee9d6f1118e1b6de2b5bb",
+      "viewport_width_px": 320,
+      "dimensions_px": [
+        320,
+        2116
+      ],
+      "head_styles_removed": true,
+      "status": "PASS",
+      "inspection": "Direct view_image at original pixel resolution",
+      "issues": []
     },
     {
-      "file": "e03-w390.jpg",
-      "screenshot_sha256": "77ed0dbb4f3a1510dac237fae93337f60d12f45b47d6f1570636ff658bcfdb12",
-      "status": "PASS"
+      "file": "winback-03-w390.jpg",
+      "sha256": "626b113b7d1690c6306d6ff495d2a4dbdf1e2a4175bcf53f3a9c66363dd56cd2",
+      "viewport_width_px": 390,
+      "dimensions_px": [
+        390,
+        2011
+      ],
+      "head_styles_removed": false,
+      "status": "PASS",
+      "inspection": "Direct view_image at original pixel resolution",
+      "issues": []
     },
     {
-      "file": "e03-w390-stripped.jpg",
-      "screenshot_sha256": "bbc7c8c91e78bc5cc74d7ec3e729ffd45d6a85d43ba0d5a74dccfc5214ffe45c",
-      "status": "PASS"
+      "file": "winback-03-w390-stripped.jpg",
+      "sha256": "1f700a757f7d485cec77ec42a79c025f0a5834c0495a90516e488a4ab8cb4bda",
+      "viewport_width_px": 390,
+      "dimensions_px": [
+        390,
+        2023
+      ],
+      "head_styles_removed": true,
+      "status": "PASS",
+      "inspection": "Direct view_image at original pixel resolution",
+      "issues": []
     },
     {
-      "file": "e03-w430.jpg",
-      "screenshot_sha256": "642f772438f1b1f4dd6d34ac7b7aa0657cdcf8ea484c9b5ec7a11233e7b5bc74",
-      "status": "PASS"
+      "file": "winback-03-w430.jpg",
+      "sha256": "a05d7a99fa484d883711760da2c95e6b8b37cfce8f9aac88197d8600d35b9503",
+      "viewport_width_px": 430,
+      "dimensions_px": [
+        430,
+        1975
+      ],
+      "head_styles_removed": false,
+      "status": "PASS",
+      "inspection": "Direct view_image at original pixel resolution",
+      "issues": []
     },
     {
-      "file": "e03-w430-stripped.jpg",
-      "screenshot_sha256": "160fe516273037c09d27efe76cfedf9944bdc54385d5d77d7c1fb44559fd2dc3",
-      "status": "PASS"
+      "file": "winback-03-w430-stripped.jpg",
+      "sha256": "7c2dfd4bec575bac1489019f88d8dd002568b206eacfc32823038e3a08949cbf",
+      "viewport_width_px": 430,
+      "dimensions_px": [
+        430,
+        2012
+      ],
+      "head_styles_removed": true,
+      "status": "PASS",
+      "inspection": "Direct view_image at original pixel resolution",
+      "issues": []
     },
     {
-      "file": "e03-w600.jpg",
-      "screenshot_sha256": "db12261095bc4f78c921bd48a1bcfdd114959a974d90882c2e12dd8182e266d9",
-      "status": "PASS"
+      "file": "winback-03-w600.jpg",
+      "sha256": "7d790f5195ad5747ec7316912795c1618c8f158158ea9cd04898d8783189902f",
+      "viewport_width_px": 600,
+      "dimensions_px": [
+        600,
+        2144
+      ],
+      "head_styles_removed": false,
+      "status": "PASS",
+      "inspection": "Direct view_image at original pixel resolution",
+      "issues": []
     },
     {
-      "file": "e03-w600-stripped.jpg",
-      "screenshot_sha256": "31cd1918d483ff44f29184f3cd537450d4d1dca85d91b358370963289cdff93b",
-      "status": "PASS"
+      "file": "winback-03-w600-stripped.jpg",
+      "sha256": "a1afafcfde5b395f4931fd9f379aab47fa7ff2a6c753278b67356257a91fdd94",
+      "viewport_width_px": 600,
+      "dimensions_px": [
+        600,
+        2075
+      ],
+      "head_styles_removed": true,
+      "status": "PASS",
+      "inspection": "Direct view_image at original pixel resolution",
+      "issues": []
     }
   ],
   "findings": [
-    "Readable Lithuanian text and intact headings/product names.",
-    "Photos preserve natural proportions. Product photographs remain directly above or beside their matching copy and CTA.",
-    "No excessive empty columns or clipped text. Spacing and CTA alignment intact.",
-    "Normal desktop uses editorial rows where present; stripped and mobile use stacked cards."
+    "All eight complete screenshots inspected at native resolution. Lithuanian text, question headings and coupon code remain readable without clipped or split words.",
+    "The cabinet image preserves natural square proportions and the full furniture subject.",
+    "The numbered advice rows retain a modest number gutter and a readable text column at every viewport. Text order remains correct after head styles are removed.",
+    "Consultation copy, main button, contact link and return code retain clear grouping with balanced spacing. No oversized empty columns or overlapping content appears.",
+    "The main consultation button is fully visible. Existing browser metrics report a 54 pixel button and a 44 pixel contact link target."
   ],
-  "platform_delivery_verified": false
+  "issues": [],
+  "limitation": "Browser screenshot visual QA only. No Gmail, Omnisend or other actual email client delivery has been verified. Interaction and coupon functionality are outside this visual review.",
+  "viewed_files": [
+    "qa/e03-w320.jpg",
+    "qa/e03-w320-stripped.jpg",
+    "qa/e03-w390.jpg",
+    "qa/e03-w390-stripped.jpg",
+    "qa/e03-w430.jpg",
+    "qa/e03-w430-stripped.jpg",
+    "qa/e03-w600.jpg",
+    "qa/e03-w600-stripped.jpg"
+  ]
 }

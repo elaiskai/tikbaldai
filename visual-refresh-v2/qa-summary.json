@@ -1,0 +1,893 @@
+{
+  "checked_utc": "2026-10-10T16:57:57.387071+00:00",
+  "widths": [
+    320,
+    390,
+    430,
+    600
+  ],
+  "head_styles_removed_variant": true,
+  "platform_delivery_verified": false,
+  "emails": {
+    "welcome-01": {
+      "html_sha256": "3b32b39dc35d562a2ecbeba7b2f5040fc91d71d69baf6e45eb5e682225f63f82",
+      "browser_qa_pass": true,
+      "views": [
+        {
+          "file": "responsive-previews/w320.jpg",
+          "sha256": "69738bd7324287e95db4bcdbb55de0bd7c22fa41d7472620836078b7a463b26a",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "responsive-previews/w320-stripped.jpg",
+          "sha256": "124f7c6a0a0fdf18da50bd38f457026e3bf06799e12c8afc306f2e38b41733d6",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "responsive-previews/w390.jpg",
+          "sha256": "1c92c55d376e51268431926422b6cf646bb40b634c2dd54177af5dfaf579861c",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "responsive-previews/w390-stripped.jpg",
+          "sha256": "1c92c55d376e51268431926422b6cf646bb40b634c2dd54177af5dfaf579861c",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "responsive-previews/w430.jpg",
+          "sha256": "1428e79e92aca27eb227a8f2ec3fe348272ae9bb5ad4d61b6cbdd92ae76f9714",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "responsive-previews/w430-stripped.jpg",
+          "sha256": "1428e79e92aca27eb227a8f2ec3fe348272ae9bb5ad4d61b6cbdd92ae76f9714",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "responsive-previews/w600.jpg",
+          "sha256": "9d3ee71f2f7c94f45e847dd922dea70697bc340c73968d92583524ecd0633100",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "responsive-previews/w600-stripped.jpg",
+          "sha256": "83622d35235d40648f776079813d1e79690a409b675624e12633c34ef4c34e32",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        }
+      ],
+      "visual_review": "qa-visual.json",
+      "email_directory": "../welcome-01/"
+    },
+    "welcome-02": {
+      "html_sha256": "bdfea48807c8d9caf87815227987dab84bdfab13aa5b982c332d6c0240caa134",
+      "browser_qa_pass": true,
+      "views": [
+        {
+          "file": "responsive-previews/w320.jpg",
+          "sha256": "53d5d3bec0334dff73442b93be113951256bb0e8cf401f44d23eca769e7c6943",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "responsive-previews/w320-stripped.jpg",
+          "sha256": "b7af4a8a33b790ee9162149008068332cee30c7151bff47950db7bd9ed2d404c",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "responsive-previews/w390.jpg",
+          "sha256": "d30c68346318bfa096064afc696de42dee818800a4b24e76dc1cbaaf2f843c2b",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "responsive-previews/w390-stripped.jpg",
+          "sha256": "7a54fc7dc78db6cb226910e06b6773f73e42f7e4b5a6eb4185ac37cf51743d8f",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "responsive-previews/w430.jpg",
+          "sha256": "6f77c9a30730f7b0f706af3597c7668f7ca3861b2dfbfa95514a261f06ad7f7f",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "responsive-previews/w430-stripped.jpg",
+          "sha256": "7fb2db7374abf786980cef5ef39d051c8c4b334db5b0fcff026d7e838e60ca2f",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "responsive-previews/w600.jpg",
+          "sha256": "b367d293e93d51e47ff7b53bad32b2e69e31b1d3a6d214335f5e682819c0ca00",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "responsive-previews/w600-stripped.jpg",
+          "sha256": "3586a439ed37eeeb22d3e9e329a0759eb69afb5cbc10fd557e455f7ebb4544b4",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        }
+      ],
+      "visual_review": "qa-visual.json",
+      "email_directory": "../welcome-02/"
+    },
+    "winback-01": {
+      "html_sha256": "6386fdf701348fa1de4d647c4b4ece195be4e61bdc1e81a38bb0eab23081950a",
+      "browser_qa_pass": true,
+      "views": [
+        {
+          "file": "qa/e01-w320.jpg",
+          "sha256": "83941add3b679d0fa953387596cf2c369431b64352bf062bf94d86a7ee4bf4d7",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e01-w320-stripped.jpg",
+          "sha256": "83941add3b679d0fa953387596cf2c369431b64352bf062bf94d86a7ee4bf4d7",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e01-w390.jpg",
+          "sha256": "ece2bc27fc39ef5d83b794a83c50d072737e95dceac5bf1a7d5db77bebce90bf",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e01-w390-stripped.jpg",
+          "sha256": "ece2bc27fc39ef5d83b794a83c50d072737e95dceac5bf1a7d5db77bebce90bf",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e01-w430.jpg",
+          "sha256": "aeeb1df7bd6f831b066380c52eed7cf3995b01518ad173676db51bdc5856b72d",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e01-w430-stripped.jpg",
+          "sha256": "aeeb1df7bd6f831b066380c52eed7cf3995b01518ad173676db51bdc5856b72d",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e01-w600.jpg",
+          "sha256": "85f25f10b12009cc9b73a94e7a4b32221d539410190a0e0f53432041bbf59478",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e01-w600-stripped.jpg",
+          "sha256": "da74b5c603c484c08fe0bb4ceb2ff164c4a3a2dbd0a69ea99fba888c31b22329",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        }
+      ],
+      "visual_review": "qa/visual-01.json",
+      "email_directory": "../winback/"
+    },
+    "winback-02": {
+      "html_sha256": "6ed02cce413db17d0f44fb00be4dd4ba6a2112286f640bac133a266029aa461e",
+      "browser_qa_pass": true,
+      "views": [
+        {
+          "file": "qa/e02-w320.jpg",
+          "sha256": "9bc8f3a9a3dee28c28e9ac783228cb53d74591af8aeec4d392bf1f433867fee3",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e02-w320-stripped.jpg",
+          "sha256": "9bc8f3a9a3dee28c28e9ac783228cb53d74591af8aeec4d392bf1f433867fee3",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e02-w390.jpg",
+          "sha256": "d81fe03385fb2b96ef2d97a775c8277900a3d5329de5d23efd9b89f0dec84e1c",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e02-w390-stripped.jpg",
+          "sha256": "d81fe03385fb2b96ef2d97a775c8277900a3d5329de5d23efd9b89f0dec84e1c",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e02-w430.jpg",
+          "sha256": "1949e601a819d59fa13eb76445a258c0e9f99f7a05cecb4eeb761af6d88af744",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e02-w430-stripped.jpg",
+          "sha256": "1949e601a819d59fa13eb76445a258c0e9f99f7a05cecb4eeb761af6d88af744",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e02-w600.jpg",
+          "sha256": "7c3f4bcf500bf13f405b79139c9a61e0b49c1bfb62459c1ea23c55edae70344b",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e02-w600-stripped.jpg",
+          "sha256": "9fa36372692ee0baef7335674e76135b3cd8cf46cd8c899363b642ff0dd7eae4",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        }
+      ],
+      "visual_review": "qa/visual-02.json",
+      "email_directory": "../winback/"
+    },
+    "winback-03": {
+      "html_sha256": "25932637739f630e4f894353fb6358b4f65130beb5137b3bd6d8bf0abe72f82b",
+      "browser_qa_pass": true,
+      "views": [
+        {
+          "file": "qa/e03-w320.jpg",
+          "sha256": "1554acb1c51aca5da0315b558885c11f7bbc19ecc113e0678b5c5883bd7de85e",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e03-w320-stripped.jpg",
+          "sha256": "a527ae78f6d41b1d954d3a484fe53c3dc6b17c76451ee9d6f1118e1b6de2b5bb",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e03-w390.jpg",
+          "sha256": "626b113b7d1690c6306d6ff495d2a4dbdf1e2a4175bcf53f3a9c66363dd56cd2",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e03-w390-stripped.jpg",
+          "sha256": "1f700a757f7d485cec77ec42a79c025f0a5834c0495a90516e488a4ab8cb4bda",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e03-w430.jpg",
+          "sha256": "a05d7a99fa484d883711760da2c95e6b8b37cfce8f9aac88197d8600d35b9503",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e03-w430-stripped.jpg",
+          "sha256": "7c2dfd4bec575bac1489019f88d8dd002568b206eacfc32823038e3a08949cbf",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e03-w600.jpg",
+          "sha256": "7d790f5195ad5747ec7316912795c1618c8f158158ea9cd04898d8783189902f",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        },
+        {
+          "file": "qa/e03-w600-stripped.jpg",
+          "sha256": "a1afafcfde5b395f4931fd9f379aab47fa7ff2a6c753278b67356257a91fdd94",
+          "checks": {
+            "current_html": true,
+            "current_source": true,
+            "current_assets": true,
+            "screenshot_hash": true,
+            "screenshot_size": true,
+            "viewport": true,
+            "email_width": true,
+            "no_overflow": true,
+            "images_loaded": true,
+            "photo_proportions": true,
+            "cta_44px": true,
+            "head_styles": true,
+            "no_dashes": true,
+            "photo_cta_association": true,
+            "readable_card_width": true
+          }
+        }
+      ],
+      "visual_review": "qa/visual-03.json",
+      "email_directory": "../winback/"
+    }
+  }
+}

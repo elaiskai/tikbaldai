@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "date": "2026-10-10",
   "subject": "Ką norėtumėte atnaujinti savo namuose?",
   "preheader": "Vieta poilsiui, bendriems vakarams ar daugiau tvarkos. Atraskite savo kitą pasirinkimą.",
@@ -8,16 +8,16 @@
   "send_rule": "Eligible prior customers without newer purchase.",
   "personalization": "Generic fallback. Dynamic category selection not connected.",
   "offer": null,
-  "html_sha256": "e72570aec89fdd9d6e33ca3a62f1cb1bf0e3b11aaed89826884340b1efbac0f0",
-  "stripped_sha256": "6a91f4fa9f3130c6f68c947bdf1c2f49d23e641cd7a21222da7a8c0075b2401f",
+  "html_sha256": "6386fdf701348fa1de4d647c4b4ece195be4e61bdc1e81a38bb0eab23081950a",
+  "stripped_sha256": "4bea9702bd4b6c3610b0f0aa231c5a0cec17ca19b8bf2ce572bde2f89028588f",
   "platform_delivery_verified": false,
   "status": "reviewed_design_draft",
   "image_urls": [
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-living-182beb46bd8d.jpg",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-dining-f67416c27e81.jpg",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-living-390ff315e9df.jpg",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-storage-852944f3af0f.jpg"
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-dining-v2-4cbf7f9e4e1d.jpg",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-living-v2-bd31a97387e9.jpg",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-storage-v2-99d6122ea5d7.jpg",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png"
   ],
-  "browser_qa_pass": true
+  "browser_qa_pass": true,
+  "image_treatment": "AI campaign compositions made with authentic catalog product references; see visual-refresh-v2 provenance."
 }

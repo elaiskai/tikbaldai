@@ -1,16 +1,16 @@
 # TIK BALDAI winback laiškai
 
-Trys atskiri HTML dizaino maketai esamiems baldų pirkėjams. Versija 1, 2026 m. spalio 10 d.
+Trys atskiri HTML dizaino maketai esamiems baldų pirkėjams. Versija 2, 2026 m. spalio 10 d.
 
 | Laiškas | Paskirtis | Siūlomas laikas |
 |---|---|---|
 | [1](email-01.html) | Sugrįžti su nauju poreikiu namams, pasirinkti kategoriją | 180 dieną nuo paskutinio užsakymo |
-| [2](email-02.html) | Sugrįžimo pasiūlymas ir konkretūs baldai | 187 dieną, jei nepirko |
+| [2](email-02.html) | Sugrįžimo pasiūlymas ir kategorijų atranka | 187 dieną, jei nepirko |
 | [3](email-03.html) | Pasitarti dėl dominančio baldo ir užbaigti pasirinkimą | 194 dieną, jei nepirko ir paspaudė laiške ar patikimai užfiksuotas apsilankymas |
 
 ## Turinys
 
-Maketuose naudojamos autentiškos katalogo nuotraukos. Jokių naujų generuotų baldų ar scenų. Pirmasis laiškas yra bendras variantas, kai nežinoma aktuali gavėjo kategorija. Antrojo Amorinito fotelis ir kavos staliukas sudaro bendrą svetainės papildymų atranką. Dinaminis pasirinkimas pagal ankstesnį pirkimą ar paspaudimą dar neprijungtas. Generatorius pirkusiems kontaktams, kurių baldų interesas nežinomas, ši serija neskirta.
+Naujose kampanijos kompozicijose naudojamos tikrų katalogo produktų referencijos. Aplinka, šviesa ir Winback 2 sofa ant sidabrinio padėklo sukurta su AI. Tai nėra nepakitusios gamintojo nuotraukos. Kategorijos turi vientisą šiltą akmens foną. Pirmasis laiškas yra bendras variantas, kai nežinoma aktuali gavėjo kategorija. Dinaminis pasirinkimas pagal ankstesnį pirkimą ar paspaudimą dar neprijungtas. Generatorius pirkusiems kontaktams, kurių baldų interesas nežinomas, ši serija neskirta.
 
 Kliento kodas `assugrizau` rodomas antrame ir trečiame laiškuose. Skaitinė nuolaida neįrašyta, kol nepatikslinta, ar turimi omenyje 5 procentai, ar 5 eurai. Kodo veikimas, sąlygos ir galiojimas parduotuvėje netestuoti. Fiktyvaus termino ar didėjančios nuolaidos nėra.
 

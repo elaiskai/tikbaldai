@@ -1,122 +1,98 @@
 {
-  "captured_utc": "2026-10-10T15:20:12.822Z",
+  "captured_utc": "2026-10-10T16:55:06.939Z",
   "cards": [
     {
       "copy": {
-        "bottom": 1714.0546875,
         "height": 183,
-        "right": 576,
         "width": 552,
         "x": 24,
-        "y": 1531.0546875
+        "y": 2021.84375
       },
       "cta": {
-        "bottom": 1714.0546875,
         "height": 47,
-        "right": 576,
         "width": 552,
         "x": 24,
-        "y": 1667.0546875
+        "y": 2157.84375
       },
-      "ctaHref": "https://tikbaldai.lt/products/fotelis-amorinito?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=product_amorinito",
-      "heading": "Fotelis Amorinito",
+      "ctaHref": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_dining",
+      "heading": "Daugiau vietos pokalbiams.",
       "photo": {
-        "bottom": 1531.0546875,
-        "height": 619.9375,
-        "right": 544,
+        "height": 520,
         "width": 520,
         "x": 24,
-        "y": 911.1171875
+        "y": 1501.84375
       },
-      "photoHref": "https://tikbaldai.lt/products/fotelis-amorinito?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=product_amorinito"
+      "photoHref": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_dining"
     },
     {
       "copy": {
-        "bottom": 2468.0546875,
         "height": 183,
-        "right": 576,
         "width": 552,
         "x": 24,
-        "y": 2285.0546875
+        "y": 2775.84375
       },
       "cta": {
-        "bottom": 2468.0546875,
         "height": 47,
-        "right": 576,
         "width": 552,
         "x": 24,
-        "y": 2421.0546875
+        "y": 2911.84375
       },
-      "ctaHref": "https://tikbaldai.lt/collections/kavos-staliukai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=product_table",
-      "heading": "Kavos staliukas",
+      "ctaHref": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_storage",
+      "heading": "Viskas savo vietoje.",
       "photo": {
-        "bottom": 2285.0546875,
         "height": 520,
-        "right": 544,
         "width": 520,
         "x": 24,
-        "y": 1765.0546875
+        "y": 2255.84375
       },
-      "photoHref": "https://tikbaldai.lt/collections/kavos-staliukai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=product_table"
+      "photoHref": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_storage"
     }
   ],
   "copyHasDash": false,
   "cta": [
     {
-      "bottom": 537.1171875,
       "height": 54,
       "href": "https://tikbaldai.lt/?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=return_offer",
-      "right": 480,
-      "text": "Rinktis su pasiūlymu",
+      "text": "Pasinaudoti pasiūlymu",
       "width": 360,
       "x": 120,
-      "y": 483.1171875
+      "y": 1272.84375
     },
     {
-      "bottom": 1714.0546875,
       "height": 47,
-      "href": "https://tikbaldai.lt/products/fotelis-amorinito?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=product_amorinito",
-      "right": 576,
-      "text": "Apžiūrėti fotelį  ↗",
+      "href": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_dining",
+      "text": "Atrasti valgomojo baldus  ↗",
       "width": 552,
       "x": 24,
-      "y": 1667.0546875
+      "y": 2157.84375
     },
     {
-      "bottom": 2468.0546875,
       "height": 47,
-      "href": "https://tikbaldai.lt/collections/kavos-staliukai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=product_table",
-      "right": 576,
-      "text": "Atrasti kavos staliukus  ↗",
+      "href": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_storage",
+      "text": "Atrasti spintas ir komodas  ↗",
       "width": 552,
       "x": 24,
-      "y": 2421.0546875
+      "y": 2911.84375
     },
     {
-      "bottom": 2634.0546875,
       "height": 54,
       "href": "https://tikbaldai.lt/?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=all_categories",
-      "right": 384,
       "text": "Peržiūrėti visą asortimentą",
       "width": 360,
       "x": 24,
-      "y": 2580.0546875
+      "y": 3011.84375
     },
     {
-      "bottom": 2916.0546875,
       "height": 48,
-      "href": "{{unsubscribe_url}}",
-      "right": 363.03125,
+      "href": "http://127.0.0.1:8772/winback/%7B%7Bunsubscribe_url%7D%7D",
       "text": "Atsisakyti naujienlaiškių",
       "width": 126.0625,
       "x": 236.96875,
-      "y": 2868.0546875
+      "y": 3299.84375
     }
   ],
   "email": {
-    "bottom": 2932.0546875,
-    "height": 2932.0546875,
-    "right": 600,
+    "height": 3363.84375,
     "width": 600,
     "x": 0,
     "y": 0
@@ -124,94 +100,85 @@
   "headStyles": 0,
   "headings": [
     {
-      "bottom": 249.1171875,
       "height": 92,
-      "right": 576,
-      "text": "Gera Jusvėl matyti.",
+      "text": "Jūsų namams.\nSu malonumu.",
       "width": 552,
       "x": 24,
       "y": 157.1171875
     },
     {
-      "bottom": 757.1171875,
-      "height": 74,
-      "right": 576,
-      "text": "Vienas baldas.Daug gerų akimirkų.",
+      "height": 34,
+      "text": "Daugiau vietos pokalbiams.",
       "width": 552,
       "x": 24,
-      "y": 683.1171875
+      "y": 2077.84375
     },
     {
-      "bottom": 1621.0546875,
       "height": 34,
-      "right": 576,
-      "text": "Fotelis Amorinito",
+      "text": "Viskas savo vietoje.",
       "width": 552,
       "x": 24,
-      "y": 1587.0546875
-    },
-    {
-      "bottom": 2375.0546875,
-      "height": 34,
-      "right": 576,
-      "text": "Kavos staliukas",
-      "width": 552,
-      "x": 24,
-      "y": 2341.0546875
+      "y": 2831.84375
     }
   ],
-  "height": 2932,
+  "height": 3364,
   "images": [
     {
       "alt": "TIK BALDAI",
-      "bottom": 52.1171875,
       "complete": true,
       "height": 27.1171875,
       "naturalHeight": 104,
       "naturalWidth": 579,
-      "right": 375.5,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
       "width": 151,
       "x": 224.5,
       "y": 25
     },
     {
-      "alt": "Žalias Amorinito fotelis su auksinės spalvos kojelėmis",
-      "bottom": 1531.0546875,
+      "alt": "Universe sofa ant sidabrinio padėklo, kūrybinė TIK BALDAI kompozicija",
       "complete": true,
-      "height": 619.9375,
-      "naturalHeight": 763,
-      "naturalWidth": 640,
-      "right": 544,
-      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/2f952859b5435b118bdb97af8dd949eb260e9488/assets/winback/chair-7583466301ed.jpg",
-      "width": 520,
-      "x": 24,
-      "y": 911.1171875
+      "height": 749.7265625,
+      "naturalHeight": 1402,
+      "naturalWidth": 1122,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/winback-02-hero-v2-45c079757a49.jpg",
+      "width": 600,
+      "x": 0,
+      "y": 271.1171875
     },
     {
-      "alt": "Šviesiai rudas skulptūriškas MDF kavos staliukas",
-      "bottom": 2285.0546875,
+      "alt": "Valgomojo stalas su keturiomis šviesiomis kėdėmis šiltame interjere",
       "complete": true,
       "height": 520,
-      "naturalHeight": 1024,
-      "naturalWidth": 1024,
-      "right": 544,
-      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/2f952859b5435b118bdb97af8dd949eb260e9488/assets/winback/table-bd6e4e87af29.jpg",
+      "naturalHeight": 1254,
+      "naturalWidth": 1254,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-dining-v2-4cbf7f9e4e1d.jpg",
       "width": 520,
       "x": 24,
-      "y": 1765.0546875
+      "y": 1501.84375
+    },
+    {
+      "alt": "Alyvuogių spalvos komoda šviesiame interjere",
+      "complete": true,
+      "height": 520,
+      "naturalHeight": 1254,
+      "naturalWidth": 1254,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-storage-v2-99d6122ea5d7.jpg",
+      "width": 520,
+      "x": 24,
+      "y": 2255.84375
     }
   ],
   "overflow": [],
   "scrollWidth": 600,
   "width": 600,
-  "source_sha256": "ed9a9d1fae8b76bc1cfc8262f9c5cbe8daed23ebf86390ba8fe831ba8ead32e3",
-  "html_sha256": "3b38180a33a2a1257fba3f4f9da491dce8f7ba13517f3e1e261183585f92d609",
-  "screenshot_sha256": "8d7570d9a8fe4c23faed03f2fa0bade9ade8118da24fcf381a48af228232885b",
+  "source_sha256": "360f57f9d06b2bf818b79a0040e83e9bb807733a588418b129c2edbdae8905c6",
+  "html_sha256": "6ed02cce413db17d0f44fb00be4dd4ba6a2112286f640bac133a266029aa461e",
+  "screenshot_sha256": "9fa36372692ee0baef7335674e76135b3cd8cf46cd8c899363b642ff0dd7eae4",
   "asset_hashes": {
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/2f952859b5435b118bdb97af8dd949eb260e9488/assets/winback/chair-7583466301ed.jpg": "7583466301ed53aaf0022917eceaa9de86224f34f98779561370239c59c99a9b",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/2f952859b5435b118bdb97af8dd949eb260e9488/assets/winback/table-bd6e4e87af29.jpg": "bd6e4e87af29e87c27a6a22a549521311a398e14a7d0ffb98369117658a666a0"
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/winback-02-hero-v2-45c079757a49.jpg": "45c079757a49c04f2227ec9e3e7841274b4caed868250e9e9fe938d0648b99cd",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-dining-v2-4cbf7f9e4e1d.jpg": "4cbf7f9e4e1df84594c2786440ef9b74fd8fd0a56979b29c31bb64c581bb4fec",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-storage-v2-99d6122ea5d7.jpg": "99d6122ea5d715ca7cdd68cd2531e2b90a1fc77cee03bb68e1f9d98f699e285e"
   },
-  "saved_utc": "2026-10-10T15:20:14.048195+00:00"
+  "saved_utc": "2026-10-10T16:55:08.135514+00:00"
 }

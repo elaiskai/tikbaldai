@@ -90,6 +90,42 @@
       "path": "assets/welcome-01/offer-transition-out-v4-581df07fa226.png",
       "sha256": "581df07fa22655bd85100874cf671df3bdc9a20c741ab0475f481ce67a1306db",
       "bytes": 52673
+    },
+    {
+      "path": "assets/visual-refresh-v2/category-bedroom-v2-26a8bd310b18.jpg",
+      "sha256": "26a8bd310b1853401fa6ee7e65693d26b01c4ed72379d427f95fbd0c5b625e3a",
+      "bytes": 343777,
+      "commit": "7c3d482d025223db1511b38b8d7b2b5fcc4281fe"
+    },
+    {
+      "path": "assets/visual-refresh-v2/category-dining-v2-4cbf7f9e4e1d.jpg",
+      "sha256": "4cbf7f9e4e1df84594c2786440ef9b74fd8fd0a56979b29c31bb64c581bb4fec",
+      "bytes": 397097,
+      "commit": "7c3d482d025223db1511b38b8d7b2b5fcc4281fe"
+    },
+    {
+      "path": "assets/visual-refresh-v2/category-living-v2-bd31a97387e9.jpg",
+      "sha256": "bd31a97387e97941054430735a56d49ec29436cc88ef1c03267692ff11fee2c9",
+      "bytes": 282872,
+      "commit": "7c3d482d025223db1511b38b8d7b2b5fcc4281fe"
+    },
+    {
+      "path": "assets/visual-refresh-v2/category-outdoor-v2-c200bacbe99d.jpg",
+      "sha256": "c200bacbe99d558c030fc42fdd7ae7837272bcd0e5dfd5ce4fac874c6bdbe6ea",
+      "bytes": 532244,
+      "commit": "7c3d482d025223db1511b38b8d7b2b5fcc4281fe"
+    },
+    {
+      "path": "assets/visual-refresh-v2/category-storage-v2-99d6122ea5d7.jpg",
+      "sha256": "99d6122ea5d715ca7cdd68cd2531e2b90a1fc77cee03bb68e1f9d98f699e285e",
+      "bytes": 321598,
+      "commit": "7c3d482d025223db1511b38b8d7b2b5fcc4281fe"
+    },
+    {
+      "path": "assets/visual-refresh-v2/winback-02-hero-v2-45c079757a49.jpg",
+      "sha256": "45c079757a49c04f2227ec9e3e7841274b4caed868250e9e9fe938d0648b99cd",
+      "bytes": 175806,
+      "commit": "7c3d482d025223db1511b38b8d7b2b5fcc4281fe"
     }
   ]
 }

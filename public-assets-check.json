@@ -147,5 +147,6 @@
       "sha256": "d3049a574e6399b393d89d126adac22bd79fd1bfbed61cae4a160bd2facde03b",
       "passed": true
     }
-  ]
+  ],
+  "latest_visual_refresh_check": "visual-refresh-v2/public-assets-check.json"
 }

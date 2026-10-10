@@ -1,131 +1,142 @@
 {
-  "email": "email-01.html",
-  "reviewed_utc": "2026-10-10T15:21:39.978349+00:00",
-  "html_sha256": "e72570aec89fdd9d6e33ca3a62f1cb1bf0e3b11aaed89826884340b1efbac0f0",
-  "expected_html_hash_matches": true,
+  "email": "winback-01",
+  "html_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/winback/email-01.html",
+  "html_sha256": "6386fdf701348fa1de4d647c4b4ece195be4e61bdc1e81a38bb0eab23081950a",
+  "reviewed_utc": "2026-10-10T16:57:38.269132+00:00",
   "status": "PASS",
-  "scope": "Visual review of eight supplied browser render screenshots at 600, 320, 390 and 430 pixels, normal and without head styles. Not a Gmail or Omnisend delivery test.",
+  "viewed_filenames": [
+    "winback-01-w320.jpg",
+    "winback-01-w320-stripped.jpg",
+    "winback-01-w390.jpg",
+    "winback-01-w390-stripped.jpg",
+    "winback-01-w430.jpg",
+    "winback-01-w430-stripped.jpg",
+    "winback-01-w600.jpg",
+    "winback-01-w600-stripped.jpg"
+  ],
   "screenshots": [
     {
-      "file": "e01-w600.jpg",
-      "sha256": "d79b3459e3885646aecffc50374f5f4a32a0c7672990ce4690f256e760dca596",
-      "viewport_width_px": 600,
-      "image_dimensions_px": [
-        600,
-        2237
-      ],
-      "head_styles_removed": false,
-      "status": "PASS",
-      "inspection_method": "Direct view_image at original pixel resolution",
-      "normal_and_stripped_pixels_identical": false,
-      "issues": []
-    },
-    {
-      "file": "e01-w600-stripped.jpg",
-      "sha256": "dc36d4929629066d9d62cc4f55b99947476cc8cc644037f6d2e544c355d42de3",
-      "viewport_width_px": 600,
-      "image_dimensions_px": [
-        600,
-        3539
-      ],
-      "head_styles_removed": true,
-      "status": "PASS",
-      "inspection_method": "Direct view_image at original pixel resolution",
-      "normal_and_stripped_pixels_identical": false,
-      "issues": []
-    },
-    {
-      "file": "e01-w320.jpg",
-      "sha256": "e192923cda11377f1a4d00cb6a15dceb27ab6cd8af7aab6e467baac1b71f7ddd",
+      "file": "winback-01-w320.jpg",
+      "sha256": "83941add3b679d0fa953387596cf2c369431b64352bf062bf94d86a7ee4bf4d7",
       "viewport_width_px": 320,
-      "image_dimensions_px": [
+      "dimensions_px": [
         320,
-        2834
+        2652
       ],
       "head_styles_removed": false,
       "status": "PASS",
-      "inspection_method": "Direct view_image at original pixel resolution",
-      "normal_and_stripped_pixels_identical": true,
+      "inspection": "Direct view_image at original pixel resolution",
       "issues": []
     },
     {
-      "file": "e01-w320-stripped.jpg",
-      "sha256": "e192923cda11377f1a4d00cb6a15dceb27ab6cd8af7aab6e467baac1b71f7ddd",
+      "file": "winback-01-w320-stripped.jpg",
+      "sha256": "83941add3b679d0fa953387596cf2c369431b64352bf062bf94d86a7ee4bf4d7",
       "viewport_width_px": 320,
-      "image_dimensions_px": [
+      "dimensions_px": [
         320,
-        2834
+        2652
       ],
       "head_styles_removed": true,
       "status": "PASS",
-      "inspection_method": "Decoded pixels identical to directly inspected e01-w320.jpg",
-      "normal_and_stripped_pixels_identical": true,
+      "inspection": "Direct view_image at original pixel resolution",
       "issues": []
     },
     {
-      "file": "e01-w390.jpg",
-      "sha256": "f212fe694581d83d1532b83c06ef795c68be5d78c2733a153c9e7ac7ddc17b34",
+      "file": "winback-01-w390.jpg",
+      "sha256": "ece2bc27fc39ef5d83b794a83c50d072737e95dceac5bf1a7d5db77bebce90bf",
       "viewport_width_px": 390,
-      "image_dimensions_px": [
+      "dimensions_px": [
         390,
-        3012
+        2790
       ],
       "head_styles_removed": false,
       "status": "PASS",
-      "inspection_method": "Direct view_image at original pixel resolution",
-      "normal_and_stripped_pixels_identical": true,
+      "inspection": "Direct view_image at original pixel resolution",
       "issues": []
     },
     {
-      "file": "e01-w390-stripped.jpg",
-      "sha256": "f212fe694581d83d1532b83c06ef795c68be5d78c2733a153c9e7ac7ddc17b34",
+      "file": "winback-01-w390-stripped.jpg",
+      "sha256": "ece2bc27fc39ef5d83b794a83c50d072737e95dceac5bf1a7d5db77bebce90bf",
       "viewport_width_px": 390,
-      "image_dimensions_px": [
+      "dimensions_px": [
         390,
-        3012
+        2790
       ],
       "head_styles_removed": true,
       "status": "PASS",
-      "inspection_method": "Decoded pixels identical to directly inspected e01-w390.jpg",
-      "normal_and_stripped_pixels_identical": true,
+      "inspection": "Direct view_image at original pixel resolution",
       "issues": []
     },
     {
-      "file": "e01-w430.jpg",
-      "sha256": "62dcef298cbcd58c22eab32aff6d3d96f1a8a39216706b9bff8fb29e85128de5",
+      "file": "winback-01-w430.jpg",
+      "sha256": "aeeb1df7bd6f831b066380c52eed7cf3995b01518ad173676db51bdc5856b72d",
       "viewport_width_px": 430,
-      "image_dimensions_px": [
+      "dimensions_px": [
         430,
-        3129
+        2884
       ],
       "head_styles_removed": false,
       "status": "PASS",
-      "inspection_method": "Direct view_image at original pixel resolution",
-      "normal_and_stripped_pixels_identical": true,
+      "inspection": "Direct view_image at original pixel resolution",
       "issues": []
     },
     {
-      "file": "e01-w430-stripped.jpg",
-      "sha256": "62dcef298cbcd58c22eab32aff6d3d96f1a8a39216706b9bff8fb29e85128de5",
+      "file": "winback-01-w430-stripped.jpg",
+      "sha256": "aeeb1df7bd6f831b066380c52eed7cf3995b01518ad173676db51bdc5856b72d",
       "viewport_width_px": 430,
-      "image_dimensions_px": [
+      "dimensions_px": [
         430,
-        3129
+        2884
       ],
       "head_styles_removed": true,
       "status": "PASS",
-      "inspection_method": "Decoded pixels identical to directly inspected e01-w430.jpg",
-      "normal_and_stripped_pixels_identical": true,
+      "inspection": "Direct view_image at original pixel resolution",
+      "issues": []
+    },
+    {
+      "file": "winback-01-w600.jpg",
+      "sha256": "85f25f10b12009cc9b73a94e7a4b32221d539410190a0e0f53432041bbf59478",
+      "viewport_width_px": 600,
+      "dimensions_px": [
+        600,
+        1895
+      ],
+      "head_styles_removed": false,
+      "status": "PASS",
+      "inspection": "Direct view_image at original pixel resolution",
+      "issues": []
+    },
+    {
+      "file": "winback-01-w600-stripped.jpg",
+      "sha256": "da74b5c603c484c08fe0bb4ceb2ff164c4a3a2dbd0a69ea99fba888c31b22329",
+      "viewport_width_px": 600,
+      "dimensions_px": [
+        600,
+        3197
+      ],
+      "head_styles_removed": true,
+      "status": "PASS",
+      "inspection": "Direct view_image at original pixel resolution",
       "issues": []
     }
   ],
-  "visual_findings": {
-    "readability": "PASS. Lithuanian headings, paragraphs, captions, links and footer readable at each native viewport; words remain intact. The main heading wraps to three lines at 320 and two lines at larger widths without clipping.",
-    "images": "PASS. Hero and three category photos load, preserve natural proportions and retain complete principal furniture subjects. Original catalog watermarks remain visible.",
-    "ordering_and_association": "PASS. Desktop normal places each photo beside its own copy and CTA. All mobile views and desktop stripped place each photo directly before its corresponding copy and CTA.",
-    "spacing": "PASS. Consistent inner margins, section rules and vertical spacing. No oversized empty columns or dislocated card content. Desktop stripped uses a legible full width stacked layout.",
-    "ctas": "PASS for visual clarity. Category links remain distinct and associated with the correct photo. The final light CTA button is clear and unclipped. Click targets and href behavior are a separate automated check.",
-    "copy": "PASS. Visible Lithuanian spelling and diacritics are intact. No dash punctuation observed in customer text. No discount or artificial expiry appears."
-  },
-  "issues": []
+  "findings": [
+    "All eight complete screenshots inspected at native resolution. Lithuanian text and diacritics remain readable; heading wraps naturally at 320 pixels.",
+    "Three category photographs keep their square proportions and show the furniture intact, without stretching or clipping.",
+    "At 600 pixels with head styles, each photo sits beside its matching heading, paragraph and category CTA. Mobile and stripped desktop preserve each photo, copy and CTA as a complete stacked unit.",
+    "Margins, separators and vertical spacing remain aligned. No oversized empty columns, overlap or detached CTA appears.",
+    "Category links are clear and the final light CTA button is fully visible. Existing browser metrics report 47 pixel category link targets and a 54 pixel main button."
+  ],
+  "issues": [],
+  "limitation": "Browser screenshot visual QA only. No Gmail, Omnisend or other actual email client delivery has been verified. Interaction and coupon functionality are outside this visual review.",
+  "viewed_files": [
+    "qa/e01-w320.jpg",
+    "qa/e01-w320-stripped.jpg",
+    "qa/e01-w390.jpg",
+    "qa/e01-w390-stripped.jpg",
+    "qa/e01-w430.jpg",
+    "qa/e01-w430-stripped.jpg",
+    "qa/e01-w600.jpg",
+    "qa/e01-w600-stripped.jpg"
+  ]
 }

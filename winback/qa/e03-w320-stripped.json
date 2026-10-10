@@ -1,33 +1,27 @@
 {
-  "captured_utc": "2026-10-10T15:20:33.176Z",
+  "captured_utc": "2026-10-10T16:56:06.065Z",
   "cards": [],
   "copyHasDash": false,
   "cta": [
     {
-      "bottom": 1686.1171875,
       "height": 54,
       "href": "mailto:info@tikbaldai.lt?subject=Pagalba%20renkantis%20bald%C4%85",
-      "right": 296,
       "text": "Pasitarti dėl baldo",
       "width": 272,
       "x": 24,
       "y": 1632.1171875
     },
     {
-      "bottom": 1730.1171875,
       "height": 44,
       "href": "mailto:info@tikbaldai.lt",
-      "right": 123.0390625,
       "text": "info@tikbaldai.lt",
       "width": 99.0390625,
       "x": 24,
       "y": 1686.1171875
     },
     {
-      "bottom": 2100.1171875,
       "height": 48,
-      "href": "{{unsubscribe_url}}",
-      "right": 223.03125,
+      "href": "http://127.0.0.1:8772/winback/%7B%7Bunsubscribe_url%7D%7D",
       "text": "Atsisakyti naujienlaiškių",
       "width": 126.0625,
       "x": 96.96875,
@@ -35,9 +29,7 @@
     }
   ],
   "email": {
-    "bottom": 2116.1171875,
     "height": 2116.1171875,
-    "right": 320,
     "width": 320,
     "x": 0,
     "y": 0
@@ -45,46 +37,36 @@
   "headStyles": 0,
   "headings": [
     {
-      "bottom": 293.1171875,
       "height": 138,
-      "right": 296,
-      "text": "Gražu.O ar tiksJūsų namams?",
+      "text": "Gražu.\nO ar tiks\nJūsų namams?",
       "width": 272,
       "x": 24,
       "y": 155.1171875
     },
     {
-      "bottom": 789.1171875,
       "height": 31,
-      "right": 294,
       "text": "Ar užteks vietos?",
       "width": 212,
       "x": 82,
       "y": 758.1171875
     },
     {
-      "bottom": 1008.1171875,
       "height": 62,
-      "right": 294,
       "text": "Ar tiks prie to, ką turite?",
       "width": 212,
       "x": 82,
       "y": 946.1171875
     },
     {
-      "bottom": 1252.1171875,
       "height": 62,
-      "right": 294,
       "text": "Ar bus patogu kasdien?",
       "width": 212,
       "x": 82,
       "y": 1190.1171875
     },
     {
-      "bottom": 1512.1171875,
       "height": 74,
-      "right": 296,
-      "text": "Atsiųskite nuorodą.Pradėkime nuo jos.",
+      "text": "Atsiųskite nuorodą.\nPradėkime nuo jos.",
       "width": 272,
       "x": 24,
       "y": 1438.1171875
@@ -94,26 +76,22 @@
   "images": [
     {
       "alt": "TIK BALDAI",
-      "bottom": 52.1171875,
       "complete": true,
       "height": 27.1171875,
       "naturalHeight": 104,
       "naturalWidth": 579,
-      "right": 235.5,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
       "width": 151,
       "x": 84.5,
       "y": 25
     },
     {
-      "alt": "Komoda prie fotelio namų interjere",
-      "bottom": 705.1171875,
+      "alt": "Alyvuogių spalvos komoda šviesiame interjere",
       "complete": true,
       "height": 272,
-      "naturalHeight": 900,
-      "naturalWidth": 900,
-      "right": 296,
-      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-storage-852944f3af0f.jpg",
+      "naturalHeight": 1254,
+      "naturalWidth": 1254,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-storage-v2-99d6122ea5d7.jpg",
       "width": 272,
       "x": 24,
       "y": 433.1171875
@@ -122,12 +100,12 @@
   "overflow": [],
   "scrollWidth": 320,
   "width": 320,
-  "source_sha256": "5fc4732517cd567dcb6fa1dfd36b272bb4827196169f4986b8340b85a1e23177",
-  "html_sha256": "ab16533f3dab29cb2658c9b4563901ba3a09067c82a263b3ee3805a8f836e09c",
-  "screenshot_sha256": "448b97b060d5ddff1c998cece3ec326cd1e07daac76c4780fc6a9c7920b8db2f",
+  "source_sha256": "2d2941e45a0546c33e953199266f901987c3604e2658433021b55b693c4266e3",
+  "html_sha256": "25932637739f630e4f894353fb6358b4f65130beb5137b3bd6d8bf0abe72f82b",
+  "screenshot_sha256": "a527ae78f6d41b1d954d3a484fe53c3dc6b17c76451ee9d6f1118e1b6de2b5bb",
   "asset_hashes": {
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-storage-852944f3af0f.jpg": "852944f3af0f5074c3aa0e87a708e9c9d12963c56dc98096a9f0228a74575fdd"
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-storage-v2-99d6122ea5d7.jpg": "99d6122ea5d715ca7cdd68cd2531e2b90a1fc77cee03bb68e1f9d98f699e285e"
   },
-  "saved_utc": "2026-10-10T15:20:34.410198+00:00"
+  "saved_utc": "2026-10-10T16:56:07.262444+00:00"
 }

@@ -1,279 +1,97 @@
 {
+  "campaign": "welcome-01",
   "status": "PASS",
-  "result": "PASS",
-  "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
-  "reviewed_date": "2026-10-10",
-  "platform_delivery_verified": false,
-  "review_method": "Independent direct visual inspection of all 12 named fresh full-page JPGs using view_image at original resolution, with particular attention to hero-to-intro, intro-to-offer and offer-to-body joins. Current hash-linked DOM metrics and screenshot file hashes were verified.",
-  "reviewed_views": [
+  "review_scope": "Visual browser screenshot review of the eight current captures only",
+  "reviewed_utc": "2026-10-10T16:56:36.012521+00:00",
+  "html_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/email.html",
+  "html_sha256": "3b32b39dc35d562a2ecbeba7b2f5040fc91d71d69baf6e45eb5e682225f63f82",
+  "viewed_filenames": [
+    "welcome-01-w600.jpg",
+    "welcome-01-w430.jpg",
+    "welcome-01-w390.jpg",
+    "welcome-01-w320.jpg",
+    "welcome-01-w600-stripped.jpg",
+    "welcome-01-w430-stripped.jpg",
+    "welcome-01-w390-stripped.jpg",
+    "welcome-01-w320-stripped.jpg"
+  ],
+  "views": [
     {
-      "file": "responsive-previews/w320.jpg",
-      "viewport_width_px": 320,
-      "mode": "normal",
-      "image_dimensions_px": [
-        320,
-        3502
-      ],
-      "screenshot_sha256": "46725ead9522104ef87a4664ea15550cf37d2173f726aded2aa59e7e01cd64ce",
-      "metrics_file": "responsive-previews/w320.json",
-      "captured_utc": "2026-10-10T14:30:28.515Z",
-      "result": "pass",
-      "category_columns": 1,
-      "all_images_loaded": true,
-      "min_cta_height_px": 44,
-      "photo_cta_destinations_match": true,
-      "horizontal_overflow": false,
-      "transition_seams": "PASS"
+      "filename": "welcome-01-w600.jpg",
+      "viewport_width": 600,
+      "head_styles_removed": false,
+      "screenshot_sha256": "9d3ee71f2f7c94f45e847dd922dea70697bc340c73968d92583524ecd0633100"
     },
     {
-      "file": "responsive-previews/w320-stripped.jpg",
-      "viewport_width_px": 320,
-      "mode": "stripped",
-      "image_dimensions_px": [
-        320,
-        3502
-      ],
-      "screenshot_sha256": "46725ead9522104ef87a4664ea15550cf37d2173f726aded2aa59e7e01cd64ce",
-      "metrics_file": "responsive-previews/w320-stripped.json",
-      "captured_utc": "2026-10-10T14:30:30.422Z",
-      "result": "pass",
-      "category_columns": 1,
-      "all_images_loaded": true,
-      "min_cta_height_px": 44,
-      "photo_cta_destinations_match": true,
-      "horizontal_overflow": false,
-      "transition_seams": "PASS"
+      "filename": "welcome-01-w430.jpg",
+      "viewport_width": 430,
+      "head_styles_removed": false,
+      "screenshot_sha256": "1428e79e92aca27eb227a8f2ec3fe348272ae9bb5ad4d61b6cbdd92ae76f9714"
     },
     {
-      "file": "responsive-previews/w390.jpg",
-      "viewport_width_px": 390,
-      "mode": "normal",
-      "image_dimensions_px": [
-        390,
-        3790
-      ],
-      "screenshot_sha256": "1eb4e83d52b034f49b08d4296802dd31c8c01d5102f84ecc6da45c3e90265051",
-      "metrics_file": "responsive-previews/w390.json",
-      "captured_utc": "2026-10-10T14:30:32.367Z",
-      "result": "pass",
-      "category_columns": 1,
-      "all_images_loaded": true,
-      "min_cta_height_px": 44,
-      "photo_cta_destinations_match": true,
-      "horizontal_overflow": false,
-      "transition_seams": "PASS"
+      "filename": "welcome-01-w390.jpg",
+      "viewport_width": 390,
+      "head_styles_removed": false,
+      "screenshot_sha256": "1c92c55d376e51268431926422b6cf646bb40b634c2dd54177af5dfaf579861c"
     },
     {
-      "file": "responsive-previews/w390-stripped.jpg",
-      "viewport_width_px": 390,
-      "mode": "stripped",
-      "image_dimensions_px": [
-        390,
-        3790
-      ],
-      "screenshot_sha256": "1eb4e83d52b034f49b08d4296802dd31c8c01d5102f84ecc6da45c3e90265051",
-      "metrics_file": "responsive-previews/w390-stripped.json",
-      "captured_utc": "2026-10-10T14:30:34.122Z",
-      "result": "pass",
-      "category_columns": 1,
-      "all_images_loaded": true,
-      "min_cta_height_px": 44,
-      "photo_cta_destinations_match": true,
-      "horizontal_overflow": false,
-      "transition_seams": "PASS"
+      "filename": "welcome-01-w320.jpg",
+      "viewport_width": 320,
+      "head_styles_removed": false,
+      "screenshot_sha256": "69738bd7324287e95db4bcdbb55de0bd7c22fa41d7472620836078b7a463b26a"
     },
     {
-      "file": "responsive-previews/w430.jpg",
-      "viewport_width_px": 430,
-      "mode": "normal",
-      "image_dimensions_px": [
-        430,
-        4016
-      ],
-      "screenshot_sha256": "15b8ded9a4be24d479e17e486b0f0e466690cdc975204172cbf7ac4d8633ce91",
-      "metrics_file": "responsive-previews/w430.json",
-      "captured_utc": "2026-10-10T14:30:35.928Z",
-      "result": "pass",
-      "category_columns": 1,
-      "all_images_loaded": true,
-      "min_cta_height_px": 44,
-      "photo_cta_destinations_match": true,
-      "horizontal_overflow": false,
-      "transition_seams": "PASS"
+      "filename": "welcome-01-w600-stripped.jpg",
+      "viewport_width": 600,
+      "head_styles_removed": true,
+      "screenshot_sha256": "83622d35235d40648f776079813d1e79690a409b675624e12633c34ef4c34e32"
     },
     {
-      "file": "responsive-previews/w430-stripped.jpg",
-      "viewport_width_px": 430,
-      "mode": "stripped",
-      "image_dimensions_px": [
-        430,
-        4016
-      ],
-      "screenshot_sha256": "15b8ded9a4be24d479e17e486b0f0e466690cdc975204172cbf7ac4d8633ce91",
-      "metrics_file": "responsive-previews/w430-stripped.json",
-      "captured_utc": "2026-10-10T14:30:37.655Z",
-      "result": "pass",
-      "category_columns": 1,
-      "all_images_loaded": true,
-      "min_cta_height_px": 44,
-      "photo_cta_destinations_match": true,
-      "horizontal_overflow": false,
-      "transition_seams": "PASS"
+      "filename": "welcome-01-w430-stripped.jpg",
+      "viewport_width": 430,
+      "head_styles_removed": true,
+      "screenshot_sha256": "1428e79e92aca27eb227a8f2ec3fe348272ae9bb5ad4d61b6cbdd92ae76f9714"
     },
     {
-      "file": "responsive-previews/w720.jpg",
-      "viewport_width_px": 720,
-      "mode": "normal",
-      "image_dimensions_px": [
-        720,
-        2958
-      ],
-      "screenshot_sha256": "e2a306dda0453ac760e79c5546053d2a76a9072dc962ff34194387e7d037042f",
-      "metrics_file": "responsive-previews/w720.json",
-      "captured_utc": "2026-10-10T14:30:43.036Z",
-      "result": "pass",
-      "category_columns": 2,
-      "all_images_loaded": true,
-      "min_cta_height_px": 44,
-      "photo_cta_destinations_match": true,
-      "horizontal_overflow": false,
-      "transition_seams": "PASS"
+      "filename": "welcome-01-w390-stripped.jpg",
+      "viewport_width": 390,
+      "head_styles_removed": true,
+      "screenshot_sha256": "1c92c55d376e51268431926422b6cf646bb40b634c2dd54177af5dfaf579861c"
     },
     {
-      "file": "responsive-previews/w720-stripped.jpg",
-      "viewport_width_px": 720,
-      "mode": "stripped",
-      "image_dimensions_px": [
-        720,
-        4905
-      ],
-      "screenshot_sha256": "7148d039c2e630742cb2e22d813eb25fbf5fd97f6dea40b0d0b5f3006358e564",
-      "metrics_file": "responsive-previews/w720-stripped.json",
-      "captured_utc": "2026-10-10T14:30:44.713Z",
-      "result": "pass",
-      "category_columns": 1,
-      "all_images_loaded": true,
-      "min_cta_height_px": 44,
-      "photo_cta_destinations_match": true,
-      "horizontal_overflow": false,
-      "transition_seams": "PASS"
-    },
-    {
-      "file": "responsive-previews/w599.jpg",
-      "viewport_width_px": 599,
-      "mode": "normal",
-      "image_dimensions_px": [
-        599,
-        4922
-      ],
-      "screenshot_sha256": "814ba69a9ccc8612ce26c742cf7d502787724a6484197334822932722fcc3830",
-      "metrics_file": "responsive-previews/w599.json",
-      "captured_utc": "2026-10-10T14:30:46.414Z",
-      "result": "pass",
-      "category_columns": 1,
-      "all_images_loaded": true,
-      "min_cta_height_px": 44,
-      "photo_cta_destinations_match": true,
-      "horizontal_overflow": false,
-      "transition_seams": "PASS"
-    },
-    {
-      "file": "responsive-previews/w600.jpg",
-      "viewport_width_px": 600,
-      "mode": "normal",
-      "image_dimensions_px": [
-        600,
-        2958
-      ],
-      "screenshot_sha256": "c6b97929e1784d894634b54a4eeffaf5360f0a7dfcc380a1c1cb047ff099be65",
-      "metrics_file": "responsive-previews/w600.json",
-      "captured_utc": "2026-10-10T14:30:39.337Z",
-      "result": "pass",
-      "category_columns": 2,
-      "all_images_loaded": true,
-      "min_cta_height_px": 44,
-      "photo_cta_destinations_match": true,
-      "horizontal_overflow": false,
-      "transition_seams": "PASS"
-    },
-    {
-      "file": "responsive-previews/w768.jpg",
-      "viewport_width_px": 768,
-      "mode": "normal",
-      "image_dimensions_px": [
-        768,
-        2958
-      ],
-      "screenshot_sha256": "dbfd58241b54b98fef342f168056f6bd3533d44e53688f47c6745f2f48bd47b6",
-      "metrics_file": "responsive-previews/w768.json",
-      "captured_utc": "2026-10-10T14:30:49.954Z",
-      "result": "pass",
-      "category_columns": 2,
-      "all_images_loaded": true,
-      "min_cta_height_px": 44,
-      "photo_cta_destinations_match": true,
-      "horizontal_overflow": false,
-      "transition_seams": "PASS"
-    },
-    {
-      "file": "responsive-previews/w1440.jpg",
-      "viewport_width_px": 1440,
-      "mode": "normal",
-      "image_dimensions_px": [
-        1440,
-        2958
-      ],
-      "screenshot_sha256": "d837c79050ed2aa35625f2f80c591e44d93dfee93fabe5fce5a598fd075ac95a",
-      "metrics_file": "responsive-previews/w1440.json",
-      "captured_utc": "2026-10-10T14:30:53.504Z",
-      "result": "pass",
-      "category_columns": 2,
-      "all_images_loaded": true,
-      "min_cta_height_px": 44,
-      "photo_cta_destinations_match": true,
-      "horizontal_overflow": false,
-      "transition_seams": "PASS"
+      "filename": "welcome-01-w320-stripped.jpg",
+      "viewport_width": 320,
+      "head_styles_removed": true,
+      "screenshot_sha256": "124f7c6a0a0fdf18da50bd38f457026e3bf06799e12c8afc306f2e38b41733d6"
     }
   ],
   "findings": [
-    "The hero-to-intro transition is now continuous at every reviewed width; the previous abrupt dark image edge against the body color is removed.",
-    "The intro-to-plum offer and plum-to-body gradients blend smoothly in normal and head-style-stripped screenshots. The previously observed 599px single-pixel dark line at the outgoing offer boundary is absent in the final capture.",
-    "The decorative transitions introduce proportionate spacing without excessive blank blocks or detached content. The order remains hero, introduction, welcome offer, four categories, purchase assistance and footer.",
-    "The two-line baked headline ČIA GERA / GRĮŽTI. remains complete and legible at 320px, with correct Č, Į and Ž marks. Live Lithuanian body text, headings and category names remain intact and readable.",
-    "The hero retains natural proportions and its recognizable sofa and lounging pose. All four category photographs remain square without stretching or unintended cropping.",
-    "The complete 10 EUR offer, SVEIKI10 code and 56px filled primary CTA fit at 320px. Category CTA geometry remains at least 44px, with consultation and unsubscribe anchors 46px high.",
-    "Each category photo stays directly associated with its matching title, caption and CTA. DOM metrics confirm matching photo and CTA destinations.",
-    "Category cards stack below 600px and in every reviewed stripped layout. At 600px and above the normal layout cleanly uses two aligned columns; the 600px email stays centered in wider viewports.",
-    "All nine public HTTPS images loaded in every reviewed capture. Current metrics show no horizontal overflow and no dash punctuation in visible customer-facing copy or alt text."
+    "All eight complete screenshots inspected from header through footer. Text is readable, category names remain intact, and wrapping is natural at 320, 390 and 430 px.",
+    "The 600 px styled desktop layout has balanced columns and consistent spacing. Stripped styles use a coherent single column fallback with no excessive empty columns.",
+    "Furniture photographs retain natural square proportions without stretching, clipped furniture or disrupted ordering. Each category image remains associated with its own heading and CTA after stacking.",
+    "Primary buttons remain clear, contained and visibly padded. Category link targets are aligned under their associated content.",
+    "Recorded CTA target heights are at least 44 px in all views; the main offer button is 56 px high.",
+    "Current HTML SHA256 matches every capture record; actual JPG hashes match recorded screenshot hashes. All images are marked loaded and all category photo and CTA URLs match in the capture metrics.",
+    "No horizontal overflow, broken names, overlapping text, missing photos, detached CTAs or layout defects observed."
   ],
-  "resolved_capture_issues": [],
   "issues": [],
-  "limitations": [
-    "Direct visual review covers the 12 listed screenshots, not the other 18 generated widths and modes.",
-    "Browser QA is not a Gmail, Outlook or Omnisend delivered email test. Conditional Outlook VML and actual recipient-client rendering of decorative overlaps were not exercised by these screenshots.",
-    "Clickable anchor dimensions and photo/CTA destinations were checked in captured DOM metrics; actual recipient mail-client interaction remains unverified.",
-    "The hero is an AI campaign restaging of the catalog sofa, not a literal product photograph.",
-    "Draft SVEIKI10 coupon configuration and redemption were not tested."
-  ],
-  "reviewed_view_count": 12,
-  "resolved_visual_issues": [
-    {
-      "view": "w599 normal",
-      "issue": "A one-pixel dark boundary was visible where the plum offer met the outgoing gradient in an earlier revision.",
-      "resolution": "The final revision overlaps decorative strip edges by one pixel. Fresh final-hash full-page visual inspection confirms the dark line is gone."
-    }
-  ],
-  "version": 7,
-  "asset_hashes": {
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/62aa63c4d91279e7184ff4417dd4c3fa3a83a30f/assets/welcome-01/hero-studio-v3-381c3602090d.jpg": "381c3602090d294d6c0b28203343a15db5f1c75b48a8e58360834a7cc00a25c2",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/hero-transition-v4-63ff1ba699a7.png": "63ff1ba699a73e7b00577596abbbc72eef3ab09a46a1cc2a80be1692ad4bcc8d",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-in-v4-6524af04d59c.png": "6524af04d59c19df3b5c26e416a7c0230d02a1a69fe9ef919f541da4a8ad78f0",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-out-v4-581df07fa226.png": "581df07fa22655bd85100874cf671df3bdc9a20c741ab0475f481ce67a1306db",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-bedroom-90acd898d882.jpg": "90acd898d882759d8f4ca53873bd2e0169cf2c2ad6668e75f68c060aa2b2a4ba",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-living-182beb46bd8d.jpg": "182beb46bd8de188fce8cfadd786a1406370fa44ea2b54e3f2d1295a72bd6d35",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-dining-fd28c0a1fead.jpg": "fd28c0a1feada0161313aad4fa9ea5244db73803122b07f3b8ee6ecafe4ea41d",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-outdoor-ccb67a95c0eb.jpg": "ccb67a95c0eb64044c8694d8ed94e9c076bfea6ace4806c3180648fea7dab97a"
+  "browser_only_limitation": "These are browser renders, including removal of head styles and font links. They do not verify Gmail, Omnisend, Outlook or any live delivered email. This review did not perform a platform send, import or click test.",
+  "metrics_summary": {
+    "view_count": 8,
+    "minimum_cta_height_px": 44,
+    "overflow_count": 0,
+    "all_images_loaded": true,
+    "all_category_photo_cta_urls_match": true,
+    "all_copy_dash_checks_clear": true
   },
-  "automated_view_count": 30
+  "viewed_files": [
+    "responsive-previews/w320.jpg",
+    "responsive-previews/w320-stripped.jpg",
+    "responsive-previews/w390.jpg",
+    "responsive-previews/w390-stripped.jpg",
+    "responsive-previews/w430.jpg",
+    "responsive-previews/w430-stripped.jpg",
+    "responsive-previews/w600.jpg",
+    "responsive-previews/w600-stripped.jpg"
+  ]
 }

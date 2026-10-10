@@ -1,159 +1,97 @@
 {
-  "html_sha256": "4551d2c6caff0a23981950ac7d49bb3b21321fe862a2e9ed79237cfb060cd627",
-  "reviewed_date": "2026-10-10",
-  "review_type": "Independent visual review of fresh browser screenshots and exact-HTML-hash metrics",
+  "campaign": "welcome-02",
   "status": "PASS",
-  "reviewed_views": [
+  "review_scope": "Visual browser screenshot review of the eight current captures only",
+  "reviewed_utc": "2026-10-10T16:56:36.017187+00:00",
+  "html_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-02/email.html",
+  "html_sha256": "bdfea48807c8d9caf87815227987dab84bdfab13aa5b982c332d6c0240caa134",
+  "viewed_filenames": [
+    "welcome-02-w600.jpg",
+    "welcome-02-w430.jpg",
+    "welcome-02-w390.jpg",
+    "welcome-02-w320.jpg",
+    "welcome-02-w600-stripped.jpg",
+    "welcome-02-w430-stripped.jpg",
+    "welcome-02-w390-stripped.jpg",
+    "welcome-02-w320-stripped.jpg"
+  ],
+  "views": [
     {
-      "view": "w320",
-      "viewport_width_px": 320,
+      "filename": "welcome-02-w600.jpg",
+      "viewport_width": 600,
       "head_styles_removed": false,
-      "screenshot": "responsive-previews/w320.jpg",
-      "metrics": "responsive-previews/w320.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
+      "screenshot_sha256": "b367d293e93d51e47ff7b53bad32b2e69e31b1d3a6d214335f5e682819c0ca00"
     },
     {
-      "view": "w320-stripped",
-      "viewport_width_px": 320,
+      "filename": "welcome-02-w430.jpg",
+      "viewport_width": 430,
+      "head_styles_removed": false,
+      "screenshot_sha256": "6f77c9a30730f7b0f706af3597c7668f7ca3861b2dfbfa95514a261f06ad7f7f"
+    },
+    {
+      "filename": "welcome-02-w390.jpg",
+      "viewport_width": 390,
+      "head_styles_removed": false,
+      "screenshot_sha256": "d30c68346318bfa096064afc696de42dee818800a4b24e76dc1cbaaf2f843c2b"
+    },
+    {
+      "filename": "welcome-02-w320.jpg",
+      "viewport_width": 320,
+      "head_styles_removed": false,
+      "screenshot_sha256": "53d5d3bec0334dff73442b93be113951256bb0e8cf401f44d23eca769e7c6943"
+    },
+    {
+      "filename": "welcome-02-w600-stripped.jpg",
+      "viewport_width": 600,
       "head_styles_removed": true,
-      "screenshot": "responsive-previews/w320-stripped.jpg",
-      "metrics": "responsive-previews/w320-stripped.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
+      "screenshot_sha256": "3586a439ed37eeeb22d3e9e329a0759eb69afb5cbc10fd557e455f7ebb4544b4"
     },
     {
-      "view": "w390",
-      "viewport_width_px": 390,
-      "head_styles_removed": false,
-      "screenshot": "responsive-previews/w390.jpg",
-      "metrics": "responsive-previews/w390.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
-    },
-    {
-      "view": "w390-stripped",
-      "viewport_width_px": 390,
+      "filename": "welcome-02-w430-stripped.jpg",
+      "viewport_width": 430,
       "head_styles_removed": true,
-      "screenshot": "responsive-previews/w390-stripped.jpg",
-      "metrics": "responsive-previews/w390-stripped.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
+      "screenshot_sha256": "7fb2db7374abf786980cef5ef39d051c8c4b334db5b0fcff026d7e838e60ca2f"
     },
     {
-      "view": "w430",
-      "viewport_width_px": 430,
-      "head_styles_removed": false,
-      "screenshot": "responsive-previews/w430.jpg",
-      "metrics": "responsive-previews/w430.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
-    },
-    {
-      "view": "w430-stripped",
-      "viewport_width_px": 430,
+      "filename": "welcome-02-w390-stripped.jpg",
+      "viewport_width": 390,
       "head_styles_removed": true,
-      "screenshot": "responsive-previews/w430-stripped.jpg",
-      "metrics": "responsive-previews/w430-stripped.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
+      "screenshot_sha256": "7a54fc7dc78db6cb226910e06b6773f73e42f7e4b5a6eb4185ac37cf51743d8f"
     },
     {
-      "view": "w720",
-      "viewport_width_px": 720,
-      "head_styles_removed": false,
-      "screenshot": "responsive-previews/w720.jpg",
-      "metrics": "responsive-previews/w720.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
-    },
-    {
-      "view": "w720-stripped",
-      "viewport_width_px": 720,
+      "filename": "welcome-02-w320-stripped.jpg",
+      "viewport_width": 320,
       "head_styles_removed": true,
-      "screenshot": "responsive-previews/w720-stripped.jpg",
-      "metrics": "responsive-previews/w720-stripped.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
-    },
-    {
-      "view": "w599",
-      "viewport_width_px": 599,
-      "head_styles_removed": false,
-      "screenshot": "responsive-previews/w599.jpg",
-      "metrics": "responsive-previews/w599.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
-    },
-    {
-      "view": "w600",
-      "viewport_width_px": 600,
-      "head_styles_removed": false,
-      "screenshot": "responsive-previews/w600.jpg",
-      "metrics": "responsive-previews/w600.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
-    },
-    {
-      "view": "w768",
-      "viewport_width_px": 768,
-      "head_styles_removed": false,
-      "screenshot": "responsive-previews/w768.jpg",
-      "metrics": "responsive-previews/w768.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
-    },
-    {
-      "view": "w1440",
-      "viewport_width_px": 1440,
-      "head_styles_removed": false,
-      "screenshot": "responsive-previews/w1440.jpg",
-      "metrics": "responsive-previews/w1440.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
+      "screenshot_sha256": "b7af4a8a33b790ee9162149008068332cee30c7151bff47950db7bd9ed2d404c"
     }
   ],
-  "checks": {
-    "readability": "Paragraphs, headings and category captions are readable at every reviewed width; complete Lithuanian words and accents remain intact.",
-    "image_proportions": "Hero and all four catalog photographs retain their natural proportions without stretching or unintended crops.",
-    "category_order": "Bedroom, living room, dining and storage remain in the intended sequence. Each photograph stays directly above its own heading and CTA in stacked views, and beside them in desktop rows.",
-    "stacking": "Normal views below 600px and every reviewed stripped view use one full content column. The 600px breakpoint introduces 45% photo and 55% copy rows without cramped text.",
-    "desktop_columns": "Desktop text columns have sufficient width and balanced vertical alignment; no accidental empty columns or detached CTA elements.",
-    "headline": "The three intended headline lines are intact in normal and fallback typography.",
-    "cta": "Filled CTAs are 56px high with intact readable labels. Category and unsubscribe links have 46px minimum clickable geometry. Each category photo and link retain the same destination.",
-    "spacing": "The portrait, landscape and square catalog photographs create different row heights while preserving consistent section padding and separators.",
-    "desktop_tablet": "The 600px email remains centered at 720px, 768px and 1440px viewports.",
-    "public_images": "All six public GitHub-hosted images are present in every reviewed screenshot and confirmed complete in corresponding metrics. The 320px normal preview was inspected after its successful recapture.",
-    "no_dashes": "All reviewed metrics report no dash punctuation in customer-facing visible copy or image alt text."
-  },
-  "findings": [],
-  "limitations": [
-    "Browser screenshots and accompanying geometry only; this is not verified Gmail, Omnisend or Outlook delivery.",
-    "MSO/VML rendering and actual click behavior in email clients were not exercised by this visual review.",
-    "External destination availability and unsubscribe integration were not tested by this visual review."
+  "findings": [
+    "All eight complete screenshots inspected from header through footer. Text is readable, category names remain intact, and wrapping is natural at 320, 390 and 430 px.",
+    "The 600 px styled desktop layout has balanced columns and consistent spacing. Stripped styles use a coherent single column fallback with no excessive empty columns.",
+    "Furniture photographs retain natural square proportions without stretching, clipped furniture or disrupted ordering. Each category image remains associated with its own heading and CTA after stacking.",
+    "Primary buttons remain clear, contained and visibly padded. Category link targets are aligned under their associated content.",
+    "Recorded CTA target heights are at least 46 px in all views; primary buttons are 56 px high.",
+    "Current HTML SHA256 matches every capture record; actual JPG hashes match recorded screenshot hashes. All images are marked loaded and all category photo and CTA URLs match in the capture metrics.",
+    "No horizontal overflow, broken names, overlapping text, missing photos, detached CTAs or layout defects observed."
   ],
-  "platform_delivery_verified": false,
-  "reviewed_view_count": 12,
-  "version": 5,
-  "asset_hashes": {
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/hero-assortment-v2-676ca84253dd.jpg": "676ca84253dd1687c601648bc675c55eb86c2b7cad1490b41ad0b1d83f8db186",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-bedroom-a08d6e7ccb36.jpg": "a08d6e7ccb361f30495b09dc073301585a2b024834f88f7147672ee1185a0520",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-living-390ff315e9df.jpg": "390ff315e9df1f1eb0c203f761af40c74a6bbbafaa1424681242369ab93ba19e",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-dining-f67416c27e81.jpg": "f67416c27e81760d60b4d987adb1913ed302c046a045fd2e9b75bc801d233480",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-storage-852944f3af0f.jpg": "852944f3af0f5074c3aa0e87a708e9c9d12963c56dc98096a9f0228a74575fdd"
+  "issues": [],
+  "browser_only_limitation": "These are browser renders, including removal of head styles and font links. They do not verify Gmail, Omnisend, Outlook or any live delivered email. This review did not perform a platform send, import or click test.",
+  "metrics_summary": {
+    "view_count": 8,
+    "minimum_cta_height_px": 46,
+    "overflow_count": 0,
+    "all_images_loaded": true,
+    "all_category_photo_cta_urls_match": true,
+    "all_copy_dash_checks_clear": true
   },
-  "automated_view_count": 30
+  "viewed_files": [
+    "responsive-previews/w320.jpg",
+    "responsive-previews/w320-stripped.jpg",
+    "responsive-previews/w390.jpg",
+    "responsive-previews/w390-stripped.jpg",
+    "responsive-previews/w430.jpg",
+    "responsive-previews/w430-stripped.jpg",
+    "responsive-previews/w600.jpg",
+    "responsive-previews/w600-stripped.jpg"
+  ]
 }

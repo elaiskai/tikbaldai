@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "date": "2026-10-10",
   "subject": "Jūsų kitam pirkiniui turime pasiūlymą",
   "preheader": "Sugrįžkite su kodu assugrizau ir išsirinkite tai, ko dabar reikia Jūsų namams.",
@@ -13,14 +13,16 @@
     "unit": null,
     "status": "Amount awaiting user clarification; show code only."
   },
-  "html_sha256": "3b38180a33a2a1257fba3f4f9da491dce8f7ba13517f3e1e261183585f92d609",
-  "stripped_sha256": "ed9a9d1fae8b76bc1cfc8262f9c5cbe8daed23ebf86390ba8fe831ba8ead32e3",
+  "html_sha256": "6ed02cce413db17d0f44fb00be4dd4ba6a2112286f640bac133a266029aa461e",
+  "stripped_sha256": "360f57f9d06b2bf818b79a0040e83e9bb807733a588418b129c2edbdae8905c6",
   "platform_delivery_verified": false,
   "status": "reviewed_design_draft",
   "image_urls": [
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/2f952859b5435b118bdb97af8dd949eb260e9488/assets/winback/chair-7583466301ed.jpg",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/2f952859b5435b118bdb97af8dd949eb260e9488/assets/winback/table-bd6e4e87af29.jpg",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-dining-v2-4cbf7f9e4e1d.jpg",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-storage-v2-99d6122ea5d7.jpg",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/winback-02-hero-v2-45c079757a49.jpg",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png"
   ],
-  "browser_qa_pass": true
+  "browser_qa_pass": true,
+  "image_treatment": "AI campaign compositions made with authentic catalog product references; see visual-refresh-v2 provenance."
 }
