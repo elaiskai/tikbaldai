@@ -1,13 +1,14 @@
 {
   "date": "2026-10-10",
-  "recorded_utc": "2026-10-10T14:00:47.797762+00:00",
-  "html_sha256": "240cc7b4f984843ab170f4daa42a14a2431eb752f33e89f3ccd62ba8bba93214",
-  "stripped_sha256": "d0612bef7d2f90bf26c674d5a753408268c7de024e72b6ecf1080f5b57b85220",
+  "recorded_utc": "2026-10-10T14:33:16.273459+00:00",
+  "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+  "stripped_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
   "asset_hashes": {
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/62aa63c4d91279e7184ff4417dd4c3fa3a83a30f/assets/welcome-01/hero-studio-v3-381c3602090d.jpg": "381c3602090d294d6c0b28203343a15db5f1c75b48a8e58360834a7cc00a25c2",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/offer-transition-in-399c380cdcba.png": "399c380cdcba0c60f63888c2bc9732f0800ed57cedcc45fd2b114bae9630727d",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/offer-transition-out-c5e3c6e014ee.png": "c5e3c6e014ee5c339a82477541615760e7d8290a18bef5a5d48ed1f2d8a8d340",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/hero-transition-v4-63ff1ba699a7.png": "63ff1ba699a73e7b00577596abbbc72eef3ab09a46a1cc2a80be1692ad4bcc8d",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-in-v4-6524af04d59c.png": "6524af04d59c19df3b5c26e416a7c0230d02a1a69fe9ef919f541da4a8ad78f0",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-out-v4-581df07fa226.png": "581df07fa22655bd85100874cf671df3bdc9a20c741ab0475f481ce67a1306db",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-bedroom-90acd898d882.jpg": "90acd898d882759d8f4ca53873bd2e0169cf2c2ad6668e75f68c060aa2b2a4ba",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-living-182beb46bd8d.jpg": "182beb46bd8de188fce8cfadd786a1406370fa44ea2b54e3f2d1295a72bd6d35",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-dining-fd28c0a1fead.jpg": "fd28c0a1feada0161313aad4fa9ea5244db73803122b07f3b8ee6ecafe4ea41d",
@@ -49,7 +50,7 @@
   "views": [
     {
       "name": "w320",
-      "captured_utc": "2026-10-10T13:58:34.731Z",
+      "captured_utc": "2026-10-10T14:30:28.515Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -70,11 +71,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "eff2f8d050e06dbd63912be7d77cc332d0218dd5dd1bbc257afdd9bca4412aa3"
+      "screenshot_sha256": "46725ead9522104ef87a4664ea15550cf37d2173f726aded2aa59e7e01cd64ce"
     },
     {
       "name": "w320-stripped",
-      "captured_utc": "2026-10-10T13:58:44.124Z",
+      "captured_utc": "2026-10-10T14:30:30.422Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -95,11 +96,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "eff2f8d050e06dbd63912be7d77cc332d0218dd5dd1bbc257afdd9bca4412aa3"
+      "screenshot_sha256": "46725ead9522104ef87a4664ea15550cf37d2173f726aded2aa59e7e01cd64ce"
     },
     {
       "name": "w360",
-      "captured_utc": "2026-10-10T13:59:30.720Z",
+      "captured_utc": "2026-10-10T14:31:54.187Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -120,11 +121,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "0d7fb6a3c8260b87b3d2784dc508eb85bf1836f01d2df311cabef72c8a83f325"
+      "screenshot_sha256": "d7fc9c30194258c60d15fc631b46e0192d613e534898589a6d1b9ec37fd27e30"
     },
     {
       "name": "w360-stripped",
-      "captured_utc": "2026-10-10T13:59:32.393Z",
+      "captured_utc": "2026-10-10T14:31:55.881Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -145,11 +146,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "0d7fb6a3c8260b87b3d2784dc508eb85bf1836f01d2df311cabef72c8a83f325"
+      "screenshot_sha256": "078f251d5fb85a9aa7f3011f6f9f618d08c1929be303bb2a250e10df4244eafc"
     },
     {
       "name": "w375",
-      "captured_utc": "2026-10-10T13:59:34.059Z",
+      "captured_utc": "2026-10-10T14:31:57.580Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -170,11 +171,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "73c3d1c1d2f9f1edb348a52785a8e4c0def52c81f7206c79d2b563ff3d3c5d8e"
+      "screenshot_sha256": "9f138136247a31ab579c37f0ec0b510b1318be3af9cc4a74f2471411e7e9acaf"
     },
     {
       "name": "w375-stripped",
-      "captured_utc": "2026-10-10T13:59:35.751Z",
+      "captured_utc": "2026-10-10T14:31:59.164Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -195,11 +196,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "73c3d1c1d2f9f1edb348a52785a8e4c0def52c81f7206c79d2b563ff3d3c5d8e"
+      "screenshot_sha256": "9f138136247a31ab579c37f0ec0b510b1318be3af9cc4a74f2471411e7e9acaf"
     },
     {
       "name": "w390",
-      "captured_utc": "2026-10-10T13:58:45.870Z",
+      "captured_utc": "2026-10-10T14:30:32.367Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -220,11 +221,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "9fb600762573a79649a9d68bd1c966c5dd95df85774e9a7d55c95d0d48b68c05"
+      "screenshot_sha256": "1eb4e83d52b034f49b08d4296802dd31c8c01d5102f84ecc6da45c3e90265051"
     },
     {
       "name": "w390-stripped",
-      "captured_utc": "2026-10-10T13:58:47.444Z",
+      "captured_utc": "2026-10-10T14:30:34.122Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -245,11 +246,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "9fb600762573a79649a9d68bd1c966c5dd95df85774e9a7d55c95d0d48b68c05"
+      "screenshot_sha256": "1eb4e83d52b034f49b08d4296802dd31c8c01d5102f84ecc6da45c3e90265051"
     },
     {
       "name": "w414",
-      "captured_utc": "2026-10-10T13:59:37.496Z",
+      "captured_utc": "2026-10-10T14:32:00.749Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -270,11 +271,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "749ac8e5be372751d464393c0ac845f34a9119e690dca453a4a7a52a39fbeb11"
+      "screenshot_sha256": "eff01ad82079a35fe5f702ba7701b9f71a55ed817d23ad8c8f79807a4fcf790e"
     },
     {
       "name": "w414-stripped",
-      "captured_utc": "2026-10-10T13:59:39.166Z",
+      "captured_utc": "2026-10-10T14:32:02.370Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -295,11 +296,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "749ac8e5be372751d464393c0ac845f34a9119e690dca453a4a7a52a39fbeb11"
+      "screenshot_sha256": "eff01ad82079a35fe5f702ba7701b9f71a55ed817d23ad8c8f79807a4fcf790e"
     },
     {
       "name": "w430",
-      "captured_utc": "2026-10-10T13:58:49.188Z",
+      "captured_utc": "2026-10-10T14:30:35.928Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -320,11 +321,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "2df0035546eeae61caa55c532fa779e1d2c786c3f542cbd3752a35e355e90e7f"
+      "screenshot_sha256": "15b8ded9a4be24d479e17e486b0f0e466690cdc975204172cbf7ac4d8633ce91"
     },
     {
       "name": "w430-stripped",
-      "captured_utc": "2026-10-10T13:58:50.878Z",
+      "captured_utc": "2026-10-10T14:30:37.655Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -345,11 +346,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "2df0035546eeae61caa55c532fa779e1d2c786c3f542cbd3752a35e355e90e7f"
+      "screenshot_sha256": "15b8ded9a4be24d479e17e486b0f0e466690cdc975204172cbf7ac4d8633ce91"
     },
     {
       "name": "w480",
-      "captured_utc": "2026-10-10T13:59:40.878Z",
+      "captured_utc": "2026-10-10T14:32:04.330Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -370,11 +371,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "6b05459db73672ffadfd13e1dffafff9c00062d7183cf1670c43cdf5dc0c220a"
+      "screenshot_sha256": "44dc0fd390bd99dea3e4cdb7faae267e50b5f3a11991f01e11a238881ca56b07"
     },
     {
       "name": "w480-stripped",
-      "captured_utc": "2026-10-10T13:59:42.575Z",
+      "captured_utc": "2026-10-10T14:32:06.394Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -395,11 +396,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "6b05459db73672ffadfd13e1dffafff9c00062d7183cf1670c43cdf5dc0c220a"
+      "screenshot_sha256": "44dc0fd390bd99dea3e4cdb7faae267e50b5f3a11991f01e11a238881ca56b07"
     },
     {
       "name": "w481",
-      "captured_utc": "2026-10-10T13:59:44.264Z",
+      "captured_utc": "2026-10-10T14:32:08.680Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -420,11 +421,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "d53ec2ba696f4e51d13eefe87af337d714a9eb78c8f020652ff9cf7287fb2849"
+      "screenshot_sha256": "e3cb48dbdc0d7445dd619102bed316469ed824a1e6cdeb124b404be2a9072224"
     },
     {
       "name": "w481-stripped",
-      "captured_utc": "2026-10-10T13:59:45.995Z",
+      "captured_utc": "2026-10-10T14:32:11.309Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -445,11 +446,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "d53ec2ba696f4e51d13eefe87af337d714a9eb78c8f020652ff9cf7287fb2849"
+      "screenshot_sha256": "e3cb48dbdc0d7445dd619102bed316469ed824a1e6cdeb124b404be2a9072224"
     },
     {
       "name": "w599",
-      "captured_utc": "2026-10-10T13:58:59.144Z",
+      "captured_utc": "2026-10-10T14:30:46.414Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -470,11 +471,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "b96784adda093295e3a68c94be6e6b8d026648171fcaab3c8a3da613b1de81e8"
+      "screenshot_sha256": "814ba69a9ccc8612ce26c742cf7d502787724a6484197334822932722fcc3830"
     },
     {
       "name": "w599-stripped",
-      "captured_utc": "2026-10-10T13:59:00.875Z",
+      "captured_utc": "2026-10-10T14:30:48.207Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -495,11 +496,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "b96784adda093295e3a68c94be6e6b8d026648171fcaab3c8a3da613b1de81e8"
+      "screenshot_sha256": "814ba69a9ccc8612ce26c742cf7d502787724a6484197334822932722fcc3830"
     },
     {
       "name": "w600",
-      "captured_utc": "2026-10-10T13:58:52.552Z",
+      "captured_utc": "2026-10-10T14:30:39.337Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -520,11 +521,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "64b1ce74c52c3c261bbf899b1fb2b3ac6d9fef9f4d9d416cf3e8cea7da27af71"
+      "screenshot_sha256": "c6b97929e1784d894634b54a4eeffaf5360f0a7dfcc380a1c1cb047ff099be65"
     },
     {
       "name": "w600-stripped",
-      "captured_utc": "2026-10-10T13:58:54.084Z",
+      "captured_utc": "2026-10-10T14:30:41.144Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -545,11 +546,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "7007d6bbd84bbd5002213d0c97bd6088e56a8c9cb76141d24e20aa3d3c5989e6"
+      "screenshot_sha256": "442d254fe4b96801468fd3a23ac2456d1f697c86559644be35e49cbc127c7d38"
     },
     {
       "name": "w720",
-      "captured_utc": "2026-10-10T13:58:55.795Z",
+      "captured_utc": "2026-10-10T14:30:43.036Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -570,11 +571,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "ec440eedcb96a74119385f6904380741b799c3b0f12f8be33575d14a907604ec"
+      "screenshot_sha256": "e2a306dda0453ac760e79c5546053d2a76a9072dc962ff34194387e7d037042f"
     },
     {
       "name": "w720-stripped",
-      "captured_utc": "2026-10-10T13:58:57.430Z",
+      "captured_utc": "2026-10-10T14:30:44.713Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -595,11 +596,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "6d0815a8a835e752849974766c855d8e41fa6a7d8662f03a6f1ff9745be40ce4"
+      "screenshot_sha256": "7148d039c2e630742cb2e22d813eb25fbf5fd97f6dea40b0d0b5f3006358e564"
     },
     {
       "name": "w768",
-      "captured_utc": "2026-10-10T13:59:02.650Z",
+      "captured_utc": "2026-10-10T14:30:49.954Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -620,11 +621,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "98e76c87812ec4b8acc9aa80d4dd6eaa8bfcf730a9fd8732bcd91ee649541d8d"
+      "screenshot_sha256": "dbfd58241b54b98fef342f168056f6bd3533d44e53688f47c6745f2f48bd47b6"
     },
     {
       "name": "w768-stripped",
-      "captured_utc": "2026-10-10T13:59:04.339Z",
+      "captured_utc": "2026-10-10T14:30:51.802Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -645,11 +646,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "2e293bf632d64aa0fd7eb9fe97fdc33a3772919a30c0d870bd3c61e6b7dfda03"
+      "screenshot_sha256": "629fa5b50f82ec147558a8abacc0ba5af6064b6a5df6d57caacb5287a045021e"
     },
     {
       "name": "w820",
-      "captured_utc": "2026-10-10T13:59:47.698Z",
+      "captured_utc": "2026-10-10T14:32:14.157Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -670,11 +671,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "9341840b8c422a17060daebe8b6e9290e4ac52005159b6d0dd0919bf3ff75cdc"
+      "screenshot_sha256": "5f3f01dadf272bf76552aeb8a99a07b8f44f11fcd67b27d3089adba398f01953"
     },
     {
       "name": "w820-stripped",
-      "captured_utc": "2026-10-10T13:59:49.313Z",
+      "captured_utc": "2026-10-10T14:32:16.106Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -695,11 +696,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "de0accf93d3107b820ba47b9fa890f6123d3f3696a56097cb3f8d64a514b986d"
+      "screenshot_sha256": "0a8abd038293b3fa2645853e82aa8995fab45b1aab9a4fd6638d304317a3d343"
     },
     {
       "name": "w1024",
-      "captured_utc": "2026-10-10T13:59:51.122Z",
+      "captured_utc": "2026-10-10T14:32:18.350Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -720,11 +721,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "aec912ed1429deb2d69ed5b4fb9f5033a3e7b705c110f03bedc6886084db948e"
+      "screenshot_sha256": "b901d4585aa1e5413ae163ae65d106b88f24634e4b8f17dc5ca2a4c41423c60e"
     },
     {
       "name": "w1024-stripped",
-      "captured_utc": "2026-10-10T13:59:52.749Z",
+      "captured_utc": "2026-10-10T14:32:23.460Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -745,11 +746,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "ca19c9d3fc1999f05735fb6553196dd976d05926f3d9277c9f629919ac9a55be"
+      "screenshot_sha256": "7a0cdddc0f5cc980bec014f621cbe74b58eccd2484dfaa6492bbc94a3e09a886"
     },
     {
       "name": "w1440",
-      "captured_utc": "2026-10-10T13:59:06.298Z",
+      "captured_utc": "2026-10-10T14:30:53.504Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -770,11 +771,11 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "9d8fb0a71ccac20ea35b9d301e5369ff4353861b982dc945c53053fa61c26016"
+      "screenshot_sha256": "d837c79050ed2aa35625f2f80c591e44d93dfee93fabe5fce5a598fd075ac95a"
     },
     {
       "name": "w1440-stripped",
-      "captured_utc": "2026-10-10T13:59:08.005Z",
+      "captured_utc": "2026-10-10T14:30:55.283Z",
       "checks": {
         "viewport_matches": true,
         "email_width": true,
@@ -795,7 +796,7 @@
         "category_layout": true
       },
       "pass": true,
-      "screenshot_sha256": "428e523bdebb21a2ad8c755d85922ba5d1e92dfd05c3391c5e7de10fbaa9367b"
+      "screenshot_sha256": "6c925a4d29e3aef49e82992f25321fef7b8e7de164b30945a12a94e6afec886b"
     }
   ],
   "browser_qa_pass": true,

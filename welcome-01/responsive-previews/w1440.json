@@ -3,156 +3,156 @@
   "categories": [
     {
       "card": {
-        "bottom": 1974.84375,
+        "bottom": 2117.84375,
         "height": 389,
         "right": 720,
         "width": 270,
         "x": 450,
-        "y": 1585.84375
+        "y": 1728.84375
       },
       "cta": {
-        "bottom": 1948.84375,
+        "bottom": 2091.84375,
         "height": 44,
         "right": 712,
         "width": 254,
         "x": 458,
-        "y": 1904.84375
+        "y": 2047.84375
       },
       "heading": {
-        "bottom": 1879.84375,
+        "bottom": 2022.84375,
         "height": 25,
         "right": 712,
         "width": 254,
         "x": 458,
-        "y": 1854.84375
+        "y": 1997.84375
       },
       "headingWidth": 254,
       "imageAboveCta": true,
       "name": "Miegamasis",
       "photo": {
-        "bottom": 1839.84375,
+        "bottom": 1982.84375,
         "height": 254,
         "right": 712,
         "width": 254,
         "x": 458,
-        "y": 1585.84375
+        "y": 1728.84375
       },
       "photoWidth": 254,
       "sameDestination": true
     },
     {
       "card": {
-        "bottom": 1974.84375,
+        "bottom": 2117.84375,
         "height": 389,
         "right": 990,
         "width": 270,
         "x": 720,
-        "y": 1585.84375
+        "y": 1728.84375
       },
       "cta": {
-        "bottom": 1948.84375,
+        "bottom": 2091.84375,
         "height": 44,
         "right": 982,
         "width": 254,
         "x": 728,
-        "y": 1904.84375
+        "y": 2047.84375
       },
       "heading": {
-        "bottom": 1879.84375,
+        "bottom": 2022.84375,
         "height": 25,
         "right": 982,
         "width": 254,
         "x": 728,
-        "y": 1854.84375
+        "y": 1997.84375
       },
       "headingWidth": 254,
       "imageAboveCta": true,
       "name": "Svetainė",
       "photo": {
-        "bottom": 1839.84375,
+        "bottom": 1982.84375,
         "height": 254,
         "right": 982,
         "width": 254,
         "x": 728,
-        "y": 1585.84375
+        "y": 1728.84375
       },
       "photoWidth": 254,
       "sameDestination": true
     },
     {
       "card": {
-        "bottom": 2363.84375,
+        "bottom": 2506.84375,
         "height": 389,
         "right": 720,
         "width": 270,
         "x": 450,
-        "y": 1974.84375
+        "y": 2117.84375
       },
       "cta": {
-        "bottom": 2337.84375,
+        "bottom": 2480.84375,
         "height": 44,
         "right": 712,
         "width": 254,
         "x": 458,
-        "y": 2293.84375
+        "y": 2436.84375
       },
       "heading": {
-        "bottom": 2268.84375,
+        "bottom": 2411.84375,
         "height": 25,
         "right": 712,
         "width": 254,
         "x": 458,
-        "y": 2243.84375
+        "y": 2386.84375
       },
       "headingWidth": 254,
       "imageAboveCta": true,
       "name": "Valgomasis",
       "photo": {
-        "bottom": 2228.84375,
+        "bottom": 2371.84375,
         "height": 254,
         "right": 712,
         "width": 254,
         "x": 458,
-        "y": 1974.84375
+        "y": 2117.84375
       },
       "photoWidth": 254,
       "sameDestination": true
     },
     {
       "card": {
-        "bottom": 2363.84375,
+        "bottom": 2506.84375,
         "height": 389,
         "right": 990,
         "width": 270,
         "x": 720,
-        "y": 1974.84375
+        "y": 2117.84375
       },
       "cta": {
-        "bottom": 2337.84375,
+        "bottom": 2480.84375,
         "height": 44,
         "right": 982,
         "width": 254,
         "x": 728,
-        "y": 2293.84375
+        "y": 2436.84375
       },
       "heading": {
-        "bottom": 2268.84375,
+        "bottom": 2411.84375,
         "height": 25,
         "right": 982,
         "width": 254,
         "x": 728,
-        "y": 2243.84375
+        "y": 2386.84375
       },
       "headingWidth": 254,
       "imageAboveCta": true,
       "name": "Lauko erdvei",
       "photo": {
-        "bottom": 2228.84375,
+        "bottom": 2371.84375,
         "height": 254,
         "right": 982,
         "width": 254,
         "x": 728,
-        "y": 1974.84375
+        "y": 2117.84375
       },
       "photoWidth": 254,
       "sameDestination": true
@@ -162,79 +162,79 @@
   "copyHasDash": false,
   "cta": [
     {
-      "bottom": 1381.84375,
+      "bottom": 1486.84375,
       "height": 56,
       "href": "https://tikbaldai.lt/?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=welcome_offer",
       "right": 905,
       "text": "Panaudoti 10 € nuolaidą",
       "width": 370,
       "x": 535,
-      "y": 1325.84375
+      "y": 1430.84375
     },
     {
-      "bottom": 1948.84375,
+      "bottom": 2091.84375,
       "height": 44,
       "href": "https://tikbaldai.lt/collections/miegamojo-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_bedroom",
       "right": 712,
       "text": "Atrasti kategoriją",
       "width": 254,
       "x": 458,
-      "y": 1904.84375
+      "y": 2047.84375
     },
     {
-      "bottom": 1948.84375,
+      "bottom": 2091.84375,
       "height": 44,
       "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_living",
       "right": 982,
       "text": "Atrasti kategoriją",
       "width": 254,
       "x": 728,
-      "y": 1904.84375
+      "y": 2047.84375
     },
     {
-      "bottom": 2337.84375,
+      "bottom": 2480.84375,
       "height": 44,
       "href": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_dining",
       "right": 712,
       "text": "Atrasti kategoriją",
       "width": 254,
       "x": 458,
-      "y": 2293.84375
+      "y": 2436.84375
     },
     {
-      "bottom": 2337.84375,
+      "bottom": 2480.84375,
       "height": 44,
       "href": "https://tikbaldai.lt/collections/lauko-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_outdoor",
       "right": 982,
       "text": "Atrasti kategoriją",
       "width": 254,
       "x": 728,
-      "y": 2293.84375
+      "y": 2436.84375
     },
     {
-      "bottom": 2640.84375,
+      "bottom": 2783.84375,
       "height": 46,
       "href": "mailto:info@tikbaldai.lt",
       "right": 605.8359375,
       "text": "Pasitarti dėl pasirinkimo",
       "width": 147.8359375,
       "x": 458,
-      "y": 2594.84375
+      "y": 2737.84375
     },
     {
-      "bottom": 2789.84375,
+      "bottom": 2932.84375,
       "height": 46,
       "href": "{{unsubscribe_url}}",
       "right": 777.7734375,
       "text": "Atsisakyti naujienlaiškių",
       "width": 115.5546875,
       "x": 662.21875,
-      "y": 2743.84375
+      "y": 2886.84375
     }
   ],
   "emailRect": {
-    "bottom": 2814.84375,
-    "height": 2814.84375,
+    "bottom": 2957.84375,
+    "height": 2957.84375,
     "right": 1020,
     "width": 600,
     "x": 420,
@@ -242,7 +242,7 @@
   },
   "emailWidth": 600,
   "headStyleCount": 1,
-  "height": 2815,
+  "height": 2958,
   "hero": {
     "bottom": 833.84375,
     "fontSize": "0px",
@@ -280,31 +280,43 @@
       "y": 84.1171875
     },
     {
-      "bottom": 1025.84375,
+      "bottom": 892.84375,
       "complete": true,
-      "height": 50,
-      "naturalHeight": 100,
+      "height": 60,
+      "naturalHeight": 120,
       "naturalWidth": 1200,
       "right": 1020,
-      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/offer-transition-in-399c380cdcba.png",
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/hero-transition-v4-63ff1ba699a7.png",
       "width": 600,
       "x": 420,
-      "y": 975.84375
+      "y": 832.84375
     },
     {
-      "bottom": 1477.84375,
+      "bottom": 1131.84375,
       "complete": true,
-      "height": 50,
-      "naturalHeight": 100,
+      "height": 90,
+      "naturalHeight": 180,
       "naturalWidth": 1200,
       "right": 1020,
-      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/offer-transition-out-c5e3c6e014ee.png",
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-in-v4-6524af04d59c.png",
       "width": 600,
       "x": 420,
-      "y": 1427.84375
+      "y": 1041.84375
     },
     {
-      "bottom": 1839.84375,
+      "bottom": 1621.84375,
+      "complete": true,
+      "height": 90,
+      "naturalHeight": 180,
+      "naturalWidth": 1200,
+      "right": 1020,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-out-v4-581df07fa226.png",
+      "width": 600,
+      "x": 420,
+      "y": 1531.84375
+    },
+    {
+      "bottom": 1982.84375,
       "complete": true,
       "height": 254,
       "naturalHeight": 600,
@@ -313,10 +325,10 @@
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-bedroom-90acd898d882.jpg",
       "width": 254,
       "x": 458,
-      "y": 1585.84375
+      "y": 1728.84375
     },
     {
-      "bottom": 1839.84375,
+      "bottom": 1982.84375,
       "complete": true,
       "height": 254,
       "naturalHeight": 452,
@@ -325,10 +337,10 @@
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-living-182beb46bd8d.jpg",
       "width": 254,
       "x": 728,
-      "y": 1585.84375
+      "y": 1728.84375
     },
     {
-      "bottom": 2228.84375,
+      "bottom": 2371.84375,
       "complete": true,
       "height": 254,
       "naturalHeight": 600,
@@ -337,10 +349,10 @@
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-dining-fd28c0a1fead.jpg",
       "width": 254,
       "x": 458,
-      "y": 1974.84375
+      "y": 2117.84375
     },
     {
-      "bottom": 2228.84375,
+      "bottom": 2371.84375,
       "complete": true,
       "height": 254,
       "naturalHeight": 600,
@@ -349,7 +361,7 @@
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-outdoor-ccb67a95c0eb.jpg",
       "width": 254,
       "x": 728,
-      "y": 1974.84375
+      "y": 2117.84375
     }
   ],
   "offer": null,
@@ -358,14 +370,15 @@
   "selectionTips": [],
   "url": "http://127.0.0.1:8770/welcome-01/email.html",
   "width": 1440,
-  "captured_utc": "2026-10-10T13:59:06.298Z",
-  "rendered_source_sha256": "240cc7b4f984843ab170f4daa42a14a2431eb752f33e89f3ccd62ba8bba93214",
-  "html_sha256": "240cc7b4f984843ab170f4daa42a14a2431eb752f33e89f3ccd62ba8bba93214",
+  "captured_utc": "2026-10-10T14:30:53.504Z",
+  "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+  "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
   "asset_hashes": {
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/62aa63c4d91279e7184ff4417dd4c3fa3a83a30f/assets/welcome-01/hero-studio-v3-381c3602090d.jpg": "381c3602090d294d6c0b28203343a15db5f1c75b48a8e58360834a7cc00a25c2",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/offer-transition-in-399c380cdcba.png": "399c380cdcba0c60f63888c2bc9732f0800ed57cedcc45fd2b114bae9630727d",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/offer-transition-out-c5e3c6e014ee.png": "c5e3c6e014ee5c339a82477541615760e7d8290a18bef5a5d48ed1f2d8a8d340",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/hero-transition-v4-63ff1ba699a7.png": "63ff1ba699a73e7b00577596abbbc72eef3ab09a46a1cc2a80be1692ad4bcc8d",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-in-v4-6524af04d59c.png": "6524af04d59c19df3b5c26e416a7c0230d02a1a69fe9ef919f541da4a8ad78f0",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-out-v4-581df07fa226.png": "581df07fa22655bd85100874cf671df3bdc9a20c741ab0475f481ce67a1306db",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-bedroom-90acd898d882.jpg": "90acd898d882759d8f4ca53873bd2e0169cf2c2ad6668e75f68c060aa2b2a4ba",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-living-182beb46bd8d.jpg": "182beb46bd8de188fce8cfadd786a1406370fa44ea2b54e3f2d1295a72bd6d35",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-dining-fd28c0a1fead.jpg": "fd28c0a1feada0161313aad4fa9ea5244db73803122b07f3b8ee6ecafe4ea41d",
