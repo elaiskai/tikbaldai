@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "date": "2026-10-10",
+  "subject": "Jūsų kitam pirkiniui turime pasiūlymą",
+  "preheader": "Sugrįžkite su kodu assugrizau ir išsirinkite tai, ko dabar reikia Jūsų namams.",
+  "day_from_last_order": 187,
+  "audience": "Existing furniture customers, general fallback design. Generator-only buyers excluded.",
+  "send_rule": "Eligible prior customers without newer purchase.",
+  "personalization": "Generic fallback. Dynamic category selection not connected.",
+  "offer": {
+    "code": "assugrizau",
+    "amount": null,
+    "unit": null,
+    "status": "Amount awaiting user clarification; show code only."
+  },
+  "html_sha256": "3b38180a33a2a1257fba3f4f9da491dce8f7ba13517f3e1e261183585f92d609",
+  "stripped_sha256": "ed9a9d1fae8b76bc1cfc8262f9c5cbe8daed23ebf86390ba8fe831ba8ead32e3",
+  "platform_delivery_verified": false,
+  "status": "reviewed_design_draft",
+  "image_urls": [
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/2f952859b5435b118bdb97af8dd949eb260e9488/assets/winback/chair-7583466301ed.jpg",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/2f952859b5435b118bdb97af8dd949eb260e9488/assets/winback/table-bd6e4e87af29.jpg",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png"
+  ],
+  "browser_qa_pass": true
+}

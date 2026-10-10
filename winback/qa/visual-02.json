@@ -1,0 +1,54 @@
+{
+  "html_sha256": "3b38180a33a2a1257fba3f4f9da491dce8f7ba13517f3e1e261183585f92d609",
+  "status": "PASS",
+  "method": "Direct visual inspection of all eight fresh browser screenshots, desktop600 and mobile320390430, normal and head styles removed.",
+  "views": [
+    {
+      "file": "e02-w320.jpg",
+      "screenshot_sha256": "825da942ff554602b762b09f7a2f33a9939d6973a502d41806a0e7fa13d2c6db",
+      "status": "PASS"
+    },
+    {
+      "file": "e02-w320-stripped.jpg",
+      "screenshot_sha256": "3963f2da6fb5a8dcddd22033d2750206fb2f5ca5ebd9f25d8d252d450b57f2df",
+      "status": "PASS"
+    },
+    {
+      "file": "e02-w390.jpg",
+      "screenshot_sha256": "3d9565bc9355993938e4fe65c89cffbeeec3222c1ef7d90cade1a013b8e57cc9",
+      "status": "PASS"
+    },
+    {
+      "file": "e02-w390-stripped.jpg",
+      "screenshot_sha256": "8974ba87b3dd4fc64bf75a9551d7afe2bf3e71480631107bdb825968851981ca",
+      "status": "PASS"
+    },
+    {
+      "file": "e02-w430.jpg",
+      "screenshot_sha256": "8df48d82e14a231f7a6fd3e990824b1bdd15b4b315e9e0aa8bda9f4158425a85",
+      "status": "PASS"
+    },
+    {
+      "file": "e02-w430-stripped.jpg",
+      "screenshot_sha256": "e0cf35ebe944a93d9a2bab4b7fa1988f5b02d396411fe9eedca0fc335992034c",
+      "status": "PASS"
+    },
+    {
+      "file": "e02-w600.jpg",
+      "screenshot_sha256": "b57a3366e3296ef3d054ec62d16ae321fcb9598e085d2670ef46f823a3071426",
+      "status": "PASS"
+    },
+    {
+      "file": "e02-w600-stripped.jpg",
+      "screenshot_sha256": "8d7570d9a8fe4c23faed03f2fa0bade9ade8118da24fcf381a48af228232885b",
+      "status": "PASS"
+    }
+  ],
+  "findings": [
+    "Readable Lithuanian text and intact headings/product names.",
+    "Photos preserve natural proportions. Product photographs remain directly above or beside their matching copy and CTA.",
+    "No excessive empty columns or clipped text. Spacing and CTA alignment intact.",
+    "Normal desktop uses editorial rows where present; stripped and mobile use stacked cards."
+  ],
+  "platform_delivery_verified": false
+}

@@ -1,0 +1,39 @@
+{
+  "logo": {
+    "local": "assets/logo.png",
+    "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
+    "sha256": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1"
+  },
+  "room": {
+    "local": "assets/room.jpg",
+    "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-living-390ff315e9df.jpg",
+    "sha256": "390ff315e9df1f1eb0c203f761af40c74a6bbbafaa1424681242369ab93ba19e"
+  },
+  "storage": {
+    "local": "assets/storage.jpg",
+    "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-storage-852944f3af0f.jpg",
+    "sha256": "852944f3af0f5074c3aa0e87a708e9c9d12963c56dc98096a9f0228a74575fdd"
+  },
+  "dining": {
+    "local": "assets/dining.jpg",
+    "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-dining-f67416c27e81.jpg",
+    "sha256": "f67416c27e81760d60b4d987adb1913ed302c046a045fd2e9b75bc801d233480"
+  },
+  "relax": {
+    "local": "assets/relax.jpg",
+    "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-living-182beb46bd8d.jpg",
+    "sha256": "182beb46bd8de188fce8cfadd786a1406370fa44ea2b54e3f2d1295a72bd6d35"
+  },
+  "chair": {
+    "local": "assets/chair.jpg",
+    "public_path": "assets/winback/chair-7583466301ed.jpg",
+    "sha256": "7583466301ed53aaf0022917eceaa9de86224f34f98779561370239c59c99a9b",
+    "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/2f952859b5435b118bdb97af8dd949eb260e9488/assets/winback/chair-7583466301ed.jpg"
+  },
+  "table": {
+    "local": "assets/table.jpg",
+    "public_path": "assets/winback/table-bd6e4e87af29.jpg",
+    "sha256": "bd6e4e87af29e87c27a6a22a549521311a398e14a7d0ffb98369117658a666a0",
+    "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/2f952859b5435b118bdb97af8dd949eb260e9488/assets/winback/table-bd6e4e87af29.jpg"
+  }
+}

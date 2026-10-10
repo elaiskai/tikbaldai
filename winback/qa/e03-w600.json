@@ -1,0 +1,133 @@
+{
+  "captured_utc": "2026-10-10T15:20:28.639Z",
+  "cards": [],
+  "copyHasDash": false,
+  "cta": [
+    {
+      "bottom": 1714.1171875,
+      "height": 54,
+      "href": "mailto:info@tikbaldai.lt?subject=Pagalba%20renkantis%20bald%C4%85",
+      "right": 400,
+      "text": "Pasitarti dėl baldo",
+      "width": 360,
+      "x": 40,
+      "y": 1660.1171875
+    },
+    {
+      "bottom": 1758.1171875,
+      "height": 44,
+      "href": "mailto:info@tikbaldai.lt",
+      "right": 139.0390625,
+      "text": "info@tikbaldai.lt",
+      "width": 99.0390625,
+      "x": 40,
+      "y": 1714.1171875
+    },
+    {
+      "bottom": 2128.1171875,
+      "height": 48,
+      "href": "{{unsubscribe_url}}",
+      "right": 363.03125,
+      "text": "Atsisakyti naujienlaiškių",
+      "width": 126.0625,
+      "x": 236.96875,
+      "y": 2080.1171875
+    }
+  ],
+  "email": {
+    "bottom": 2144.1171875,
+    "height": 2144.1171875,
+    "right": 600,
+    "width": 600,
+    "x": 0,
+    "y": 0
+  },
+  "headStyles": 1,
+  "headings": [
+    {
+      "bottom": 362.1171875,
+      "height": 207,
+      "right": 560,
+      "text": "Gražu.O ar tiksJūsų namams?",
+      "width": 520,
+      "x": 40,
+      "y": 155.1171875
+    },
+    {
+      "bottom": 1078.1171875,
+      "height": 31,
+      "right": 560,
+      "text": "Ar užteks vietos?",
+      "width": 466,
+      "x": 94,
+      "y": 1047.1171875
+    },
+    {
+      "bottom": 1212.1171875,
+      "height": 31,
+      "right": 560,
+      "text": "Ar tiks prie to, ką turite?",
+      "width": 466,
+      "x": 94,
+      "y": 1181.1171875
+    },
+    {
+      "bottom": 1346.1171875,
+      "height": 31,
+      "right": 560,
+      "text": "Ar bus patogu kasdien?",
+      "width": 466,
+      "x": 94,
+      "y": 1315.1171875
+    },
+    {
+      "bottom": 1566.1171875,
+      "height": 86,
+      "right": 560,
+      "text": "Atsiųskite nuorodą.Pradėkime nuo jos.",
+      "width": 520,
+      "x": 40,
+      "y": 1480.1171875
+    }
+  ],
+  "height": 2144,
+  "images": [
+    {
+      "alt": "TIK BALDAI",
+      "bottom": 52.1171875,
+      "complete": true,
+      "height": 27.1171875,
+      "naturalHeight": 104,
+      "naturalWidth": 579,
+      "right": 375.5,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
+      "width": 151,
+      "x": 224.5,
+      "y": 25
+    },
+    {
+      "alt": "Komoda prie fotelio namų interjere",
+      "bottom": 996.1171875,
+      "complete": true,
+      "height": 520,
+      "naturalHeight": 900,
+      "naturalWidth": 900,
+      "right": 560,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-storage-852944f3af0f.jpg",
+      "width": 520,
+      "x": 40,
+      "y": 476.1171875
+    }
+  ],
+  "overflow": [],
+  "scrollWidth": 600,
+  "width": 600,
+  "source_sha256": "ab16533f3dab29cb2658c9b4563901ba3a09067c82a263b3ee3805a8f836e09c",
+  "html_sha256": "ab16533f3dab29cb2658c9b4563901ba3a09067c82a263b3ee3805a8f836e09c",
+  "screenshot_sha256": "db12261095bc4f78c921bd48a1bcfdd114959a974d90882c2e12dd8182e266d9",
+  "asset_hashes": {
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-storage-852944f3af0f.jpg": "852944f3af0f5074c3aa0e87a708e9c9d12963c56dc98096a9f0228a74575fdd"
+  },
+  "saved_utc": "2026-10-10T15:20:29.894845+00:00"
+}

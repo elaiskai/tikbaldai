@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "date": "2026-10-10",
+  "subject": "Gražu. O ar tiks Jūsų namams?",
+  "preheader": "Pasitarkime dėl matmenų, apdailos ir kasdienio patogumo. Pradėkime nuo dominančio baldo.",
+  "day_from_last_order": 194,
+  "audience": "Existing furniture customers, general fallback design. Generator-only buyers excluded.",
+  "send_rule": "Eligible nonbuyers; email3 requires recent click or known site visit.",
+  "personalization": "Generic fallback. Dynamic category selection not connected.",
+  "offer": {
+    "code": "assugrizau",
+    "amount": null,
+    "unit": null,
+    "status": "Amount awaiting user clarification; show code only."
+  },
+  "html_sha256": "ab16533f3dab29cb2658c9b4563901ba3a09067c82a263b3ee3805a8f836e09c",
+  "stripped_sha256": "5fc4732517cd567dcb6fa1dfd36b272bb4827196169f4986b8340b85a1e23177",
+  "platform_delivery_verified": false,
+  "status": "reviewed_design_draft",
+  "image_urls": [
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-storage-852944f3af0f.jpg"
+  ],
+  "browser_qa_pass": true
+}

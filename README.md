@@ -25,3 +25,8 @@ Kiekvienam HTML patikrinta 15 pločių nuo 320 iki 1440 px, įprastai ir pašali
 ## Prieš siuntimą
 
 Tai dizaino maketai. `SVEIKI10` yra darbinis kodas, jo veikimas ir sąlygos parduotuvėje nepatvirtinti. `{{unsubscribe_url}}` būtina pakeisti konkrečios siuntimo platformos atsisakymo žymeniu. Reikia testinio siuntimo iš naudojamos platformos į Gmail, Outlook ir mobiliuosius klientus. Naršyklės patikra nėra tikro pristatymo patvirtinimas. Automatizacijos neaktyvuotos.
+
+
+## Winback laiškai
+
+[Trijų laiškų failai ir siuntimo logika](winback/README.md), [maketų apžvalga](winback/overview.jpg), [interaktyvi vietinė peržiūra](winback-preview.html). Kiekvienas maketas patikrintas 600 px desktop ir 320, 390, 430 px mobile su stiliais ir be jų. Maketuose rodomas kodas `assugrizau`, jo dydis laukia patikslinimo. Automatizacija neaktyvuota.

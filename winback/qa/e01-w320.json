@@ -1,0 +1,283 @@
+{
+  "captured_utc": "2026-10-10T15:20:43.825Z",
+  "cards": [
+    {
+      "copy": {
+        "bottom": 1225.515625,
+        "height": 208,
+        "right": 296,
+        "width": 272,
+        "x": 24,
+        "y": 1017.515625
+      },
+      "cta": {
+        "bottom": 1225.515625,
+        "height": 47,
+        "right": 296,
+        "width": 272,
+        "x": 24,
+        "y": 1178.515625
+      },
+      "ctaHref": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_living",
+      "heading": "Vieta sau.",
+      "photo": {
+        "bottom": 1017.515625,
+        "height": 272,
+        "right": 296,
+        "width": 272,
+        "x": 24,
+        "y": 745.515625
+      },
+      "photoHref": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_living"
+    },
+    {
+      "copy": {
+        "bottom": 1756.515625,
+        "height": 208,
+        "right": 296,
+        "width": 272,
+        "x": 24,
+        "y": 1548.515625
+      },
+      "cta": {
+        "bottom": 1756.515625,
+        "height": 47,
+        "right": 296,
+        "width": 272,
+        "x": 24,
+        "y": 1709.515625
+      },
+      "ctaHref": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_storage",
+      "heading": "Vieta daiktams.",
+      "photo": {
+        "bottom": 1548.515625,
+        "height": 272,
+        "right": 296,
+        "width": 272,
+        "x": 24,
+        "y": 1276.515625
+      },
+      "photoHref": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_storage"
+    },
+    {
+      "copy": {
+        "bottom": 2287.515625,
+        "height": 208,
+        "right": 296,
+        "width": 272,
+        "x": 24,
+        "y": 2079.515625
+      },
+      "cta": {
+        "bottom": 2287.515625,
+        "height": 47,
+        "right": 296,
+        "width": 272,
+        "x": 24,
+        "y": 2240.515625
+      },
+      "ctaHref": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_dining",
+      "heading": "Vieta susitikti.",
+      "photo": {
+        "bottom": 2079.515625,
+        "height": 272,
+        "right": 296,
+        "width": 272,
+        "x": 24,
+        "y": 1807.515625
+      },
+      "photoHref": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_dining"
+    }
+  ],
+  "copyHasDash": false,
+  "cta": [
+    {
+      "bottom": 1225.515625,
+      "height": 47,
+      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_living",
+      "right": 296,
+      "text": "Atrasti svetainės baldus  ↗",
+      "width": 272,
+      "x": 24,
+      "y": 1178.515625
+    },
+    {
+      "bottom": 1756.515625,
+      "height": 47,
+      "href": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_storage",
+      "right": 296,
+      "text": "Rinktis spintas ir komodas  ↗",
+      "width": 272,
+      "x": 24,
+      "y": 1709.515625
+    },
+    {
+      "bottom": 2287.515625,
+      "height": 47,
+      "href": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_dining",
+      "right": 296,
+      "text": "Atrasti valgomojo komplektus  ↗",
+      "width": 272,
+      "x": 24,
+      "y": 2240.515625
+    },
+    {
+      "bottom": 2580.515625,
+      "height": 54,
+      "href": "https://tikbaldai.lt/?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=browse_all",
+      "right": 296,
+      "text": "Rinktis baldus namams",
+      "width": 272,
+      "x": 24,
+      "y": 2526.515625
+    },
+    {
+      "bottom": 2818.515625,
+      "height": 48,
+      "href": "{{unsubscribe_url}}",
+      "right": 223.03125,
+      "text": "Atsisakyti naujienlaiškių",
+      "width": 126.0625,
+      "x": 96.96875,
+      "y": 2770.515625
+    }
+  ],
+  "email": {
+    "bottom": 2834.515625,
+    "height": 2834.515625,
+    "right": 320,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "headStyles": 1,
+  "headings": [
+    {
+      "bottom": 289.1171875,
+      "height": 138,
+      "right": 296,
+      "text": "Namai keičiasi.Kartu su Jumis.",
+      "width": 272,
+      "x": 24,
+      "y": 151.1171875
+    },
+    {
+      "bottom": 1107.515625,
+      "height": 34,
+      "right": 296,
+      "text": "Vieta sau.",
+      "width": 272,
+      "x": 24,
+      "y": 1073.515625
+    },
+    {
+      "bottom": 1638.515625,
+      "height": 34,
+      "right": 296,
+      "text": "Vieta daiktams.",
+      "width": 272,
+      "x": 24,
+      "y": 1604.515625
+    },
+    {
+      "bottom": 2169.515625,
+      "height": 34,
+      "right": 296,
+      "text": "Vieta susitikti.",
+      "width": 272,
+      "x": 24,
+      "y": 2135.515625
+    },
+    {
+      "bottom": 2432.515625,
+      "height": 74,
+      "right": 296,
+      "text": "Nuo vieno geropasirinkimo.",
+      "width": 272,
+      "x": 24,
+      "y": 2358.515625
+    }
+  ],
+  "height": 2834,
+  "images": [
+    {
+      "alt": "TIK BALDAI",
+      "bottom": 52.1171875,
+      "complete": true,
+      "height": 27.1171875,
+      "naturalHeight": 104,
+      "naturalWidth": 579,
+      "right": 235.5,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
+      "width": 151,
+      "x": 84.5,
+      "y": 25
+    },
+    {
+      "alt": "Šviesi Universe sofa svetainės interjere",
+      "bottom": 651.515625,
+      "complete": true,
+      "height": 182.3984375,
+      "naturalHeight": 513,
+      "naturalWidth": 900,
+      "right": 320,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-living-390ff315e9df.jpg",
+      "width": 320,
+      "x": 0,
+      "y": 469.1171875
+    },
+    {
+      "alt": "Juodas Relax fotelis su išskleistu pakoju",
+      "bottom": 1017.515625,
+      "complete": true,
+      "height": 272,
+      "naturalHeight": 452,
+      "naturalWidth": 452,
+      "right": 296,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-living-182beb46bd8d.jpg",
+      "width": 272,
+      "x": 24,
+      "y": 745.515625
+    },
+    {
+      "alt": "Alyvuogių spalvos komoda namų interjere",
+      "bottom": 1548.515625,
+      "complete": true,
+      "height": 272,
+      "naturalHeight": 900,
+      "naturalWidth": 900,
+      "right": 296,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-storage-852944f3af0f.jpg",
+      "width": 272,
+      "x": 24,
+      "y": 1276.515625
+    },
+    {
+      "alt": "Valgomojo stalas su keturiomis šviesiomis kėdėmis",
+      "bottom": 2079.515625,
+      "complete": true,
+      "height": 272,
+      "naturalHeight": 900,
+      "naturalWidth": 900,
+      "right": 296,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-dining-f67416c27e81.jpg",
+      "width": 272,
+      "x": 24,
+      "y": 1807.515625
+    }
+  ],
+  "overflow": [],
+  "scrollWidth": 320,
+  "width": 320,
+  "source_sha256": "e72570aec89fdd9d6e33ca3a62f1cb1bf0e3b11aaed89826884340b1efbac0f0",
+  "html_sha256": "e72570aec89fdd9d6e33ca3a62f1cb1bf0e3b11aaed89826884340b1efbac0f0",
+  "screenshot_sha256": "e192923cda11377f1a4d00cb6a15dceb27ab6cd8af7aab6e467baac1b71f7ddd",
+  "asset_hashes": {
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-living-390ff315e9df.jpg": "390ff315e9df1f1eb0c203f761af40c74a6bbbafaa1424681242369ab93ba19e",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-living-182beb46bd8d.jpg": "182beb46bd8de188fce8cfadd786a1406370fa44ea2b54e3f2d1295a72bd6d35",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-storage-852944f3af0f.jpg": "852944f3af0f5074c3aa0e87a708e9c9d12963c56dc98096a9f0228a74575fdd",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-dining-f67416c27e81.jpg": "f67416c27e81760d60b4d987adb1913ed302c046a045fd2e9b75bc801d233480"
+  },
+  "saved_utc": "2026-10-10T15:20:45.012943+00:00"
+}

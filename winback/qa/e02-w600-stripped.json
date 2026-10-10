@@ -1,0 +1,217 @@
+{
+  "captured_utc": "2026-10-10T15:20:12.822Z",
+  "cards": [
+    {
+      "copy": {
+        "bottom": 1714.0546875,
+        "height": 183,
+        "right": 576,
+        "width": 552,
+        "x": 24,
+        "y": 1531.0546875
+      },
+      "cta": {
+        "bottom": 1714.0546875,
+        "height": 47,
+        "right": 576,
+        "width": 552,
+        "x": 24,
+        "y": 1667.0546875
+      },
+      "ctaHref": "https://tikbaldai.lt/products/fotelis-amorinito?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=product_amorinito",
+      "heading": "Fotelis Amorinito",
+      "photo": {
+        "bottom": 1531.0546875,
+        "height": 619.9375,
+        "right": 544,
+        "width": 520,
+        "x": 24,
+        "y": 911.1171875
+      },
+      "photoHref": "https://tikbaldai.lt/products/fotelis-amorinito?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=product_amorinito"
+    },
+    {
+      "copy": {
+        "bottom": 2468.0546875,
+        "height": 183,
+        "right": 576,
+        "width": 552,
+        "x": 24,
+        "y": 2285.0546875
+      },
+      "cta": {
+        "bottom": 2468.0546875,
+        "height": 47,
+        "right": 576,
+        "width": 552,
+        "x": 24,
+        "y": 2421.0546875
+      },
+      "ctaHref": "https://tikbaldai.lt/collections/kavos-staliukai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=product_table",
+      "heading": "Kavos staliukas",
+      "photo": {
+        "bottom": 2285.0546875,
+        "height": 520,
+        "right": 544,
+        "width": 520,
+        "x": 24,
+        "y": 1765.0546875
+      },
+      "photoHref": "https://tikbaldai.lt/collections/kavos-staliukai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=product_table"
+    }
+  ],
+  "copyHasDash": false,
+  "cta": [
+    {
+      "bottom": 537.1171875,
+      "height": 54,
+      "href": "https://tikbaldai.lt/?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=return_offer",
+      "right": 480,
+      "text": "Rinktis su pasiūlymu",
+      "width": 360,
+      "x": 120,
+      "y": 483.1171875
+    },
+    {
+      "bottom": 1714.0546875,
+      "height": 47,
+      "href": "https://tikbaldai.lt/products/fotelis-amorinito?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=product_amorinito",
+      "right": 576,
+      "text": "Apžiūrėti fotelį  ↗",
+      "width": 552,
+      "x": 24,
+      "y": 1667.0546875
+    },
+    {
+      "bottom": 2468.0546875,
+      "height": 47,
+      "href": "https://tikbaldai.lt/collections/kavos-staliukai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=product_table",
+      "right": 576,
+      "text": "Atrasti kavos staliukus  ↗",
+      "width": 552,
+      "x": 24,
+      "y": 2421.0546875
+    },
+    {
+      "bottom": 2634.0546875,
+      "height": 54,
+      "href": "https://tikbaldai.lt/?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=all_categories",
+      "right": 384,
+      "text": "Peržiūrėti visą asortimentą",
+      "width": 360,
+      "x": 24,
+      "y": 2580.0546875
+    },
+    {
+      "bottom": 2916.0546875,
+      "height": 48,
+      "href": "{{unsubscribe_url}}",
+      "right": 363.03125,
+      "text": "Atsisakyti naujienlaiškių",
+      "width": 126.0625,
+      "x": 236.96875,
+      "y": 2868.0546875
+    }
+  ],
+  "email": {
+    "bottom": 2932.0546875,
+    "height": 2932.0546875,
+    "right": 600,
+    "width": 600,
+    "x": 0,
+    "y": 0
+  },
+  "headStyles": 0,
+  "headings": [
+    {
+      "bottom": 249.1171875,
+      "height": 92,
+      "right": 576,
+      "text": "Gera Jusvėl matyti.",
+      "width": 552,
+      "x": 24,
+      "y": 157.1171875
+    },
+    {
+      "bottom": 757.1171875,
+      "height": 74,
+      "right": 576,
+      "text": "Vienas baldas.Daug gerų akimirkų.",
+      "width": 552,
+      "x": 24,
+      "y": 683.1171875
+    },
+    {
+      "bottom": 1621.0546875,
+      "height": 34,
+      "right": 576,
+      "text": "Fotelis Amorinito",
+      "width": 552,
+      "x": 24,
+      "y": 1587.0546875
+    },
+    {
+      "bottom": 2375.0546875,
+      "height": 34,
+      "right": 576,
+      "text": "Kavos staliukas",
+      "width": 552,
+      "x": 24,
+      "y": 2341.0546875
+    }
+  ],
+  "height": 2932,
+  "images": [
+    {
+      "alt": "TIK BALDAI",
+      "bottom": 52.1171875,
+      "complete": true,
+      "height": 27.1171875,
+      "naturalHeight": 104,
+      "naturalWidth": 579,
+      "right": 375.5,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
+      "width": 151,
+      "x": 224.5,
+      "y": 25
+    },
+    {
+      "alt": "Žalias Amorinito fotelis su auksinės spalvos kojelėmis",
+      "bottom": 1531.0546875,
+      "complete": true,
+      "height": 619.9375,
+      "naturalHeight": 763,
+      "naturalWidth": 640,
+      "right": 544,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/2f952859b5435b118bdb97af8dd949eb260e9488/assets/winback/chair-7583466301ed.jpg",
+      "width": 520,
+      "x": 24,
+      "y": 911.1171875
+    },
+    {
+      "alt": "Šviesiai rudas skulptūriškas MDF kavos staliukas",
+      "bottom": 2285.0546875,
+      "complete": true,
+      "height": 520,
+      "naturalHeight": 1024,
+      "naturalWidth": 1024,
+      "right": 544,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/2f952859b5435b118bdb97af8dd949eb260e9488/assets/winback/table-bd6e4e87af29.jpg",
+      "width": 520,
+      "x": 24,
+      "y": 1765.0546875
+    }
+  ],
+  "overflow": [],
+  "scrollWidth": 600,
+  "width": 600,
+  "source_sha256": "ed9a9d1fae8b76bc1cfc8262f9c5cbe8daed23ebf86390ba8fe831ba8ead32e3",
+  "html_sha256": "3b38180a33a2a1257fba3f4f9da491dce8f7ba13517f3e1e261183585f92d609",
+  "screenshot_sha256": "8d7570d9a8fe4c23faed03f2fa0bade9ade8118da24fcf381a48af228232885b",
+  "asset_hashes": {
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/2f952859b5435b118bdb97af8dd949eb260e9488/assets/winback/chair-7583466301ed.jpg": "7583466301ed53aaf0022917eceaa9de86224f34f98779561370239c59c99a9b",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/2f952859b5435b118bdb97af8dd949eb260e9488/assets/winback/table-bd6e4e87af29.jpg": "bd6e4e87af29e87c27a6a22a549521311a398e14a7d0ffb98369117658a666a0"
+  },
+  "saved_utc": "2026-10-10T15:20:14.048195+00:00"
+}
