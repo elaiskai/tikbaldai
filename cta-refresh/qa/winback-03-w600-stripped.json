@@ -1,0 +1,134 @@
+{
+  "footerPresent": true,
+  "height": 2534,
+  "images": [
+    {
+      "alt": "TIK BALDAI",
+      "complete": true,
+      "height": 27.1171875,
+      "naturalHeight": 104,
+      "naturalWidth": 579,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
+      "width": 151
+    },
+    {
+      "alt": "Kaip derinti oranžinę sofą. TIK BALDAI oranžinė sofa ir baltas apvalus kavos staliukas spalvų koliaže",
+      "complete": true,
+      "height": 749.7265625,
+      "naturalHeight": 1402,
+      "naturalWidth": 1122,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/51f67ffd7644901f8f51a167351a409a17fdd43a/assets/winback/hero-moodboard-v3-5815568b9a96.jpg",
+      "width": 600
+    }
+  ],
+  "links": [
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 43.1171875,
+      "href": "https://tikbaldai.lt/?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=logo",
+      "text": "",
+      "width": 151
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "photo-link",
+      "height": 749.7265625,
+      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=hero_styling",
+      "text": "",
+      "width": 600
+    },
+    {
+      "bg": "rgb(56, 36, 63)",
+      "class": "cta",
+      "height": 54,
+      "href": "https://tikbaldai.lt/collections/sofos-lovos?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=category_sofas",
+      "text": "Žiūrėti sofas lovas",
+      "width": 360
+    },
+    {
+      "bg": "rgb(56, 36, 63)",
+      "class": "cta",
+      "height": 54,
+      "href": "https://tikbaldai.lt/collections/foteliai-kedes?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=category_armchairs",
+      "text": "Žiūrėti fotelius",
+      "width": 360
+    },
+    {
+      "bg": "rgb(56, 36, 63)",
+      "class": "cta",
+      "height": 54,
+      "href": "https://tikbaldai.lt/collections/kavos-staliukai?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=category_tables",
+      "text": "Žiūrėti kavos staliukus",
+      "width": 360
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "cta",
+      "height": 48,
+      "href": "mailto:info@tikbaldai.lt",
+      "text": "Kilo klausimas apie prekę? Parašykite.",
+      "width": 239.671875
+    },
+    {
+      "bg": "rgb(244, 240, 232)",
+      "class": "cta",
+      "height": 54,
+      "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=return_offer",
+      "text": "Rinktis baldus su kodu",
+      "width": 360
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "cta",
+      "height": 48,
+      "href": "http://127.0.0.1:8773/winback/%7B%7Bunsubscribe_url%7D%7D",
+      "text": "Atsisakyti naujienlaiškių",
+      "width": 126.0625
+    }
+  ],
+  "overflow": [],
+  "pixelRatio": 2,
+  "scrollWidth": 600,
+  "shellWidth": 600,
+  "url": "http://127.0.0.1:8773/winback/email-03-stripped.html",
+  "width": 600,
+  "harness": {
+    "frame": {
+      "bottom": 1638.5,
+      "height": 2534,
+      "left": 26,
+      "right": 626,
+      "top": -895.5,
+      "width": 600,
+      "x": 26,
+      "y": -895.5
+    },
+    "pixelRatio": 2,
+    "width": 690
+  },
+  "afterCapture": {
+    "height": 2534,
+    "width": 600
+  },
+  "source_sha256": "8774082da50503f4bfef9b6369d46121d1e861577295584844db915a57a6216c",
+  "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+  "screenshot_sha256": "a0c5f6941f46ddbc3e4b511a3b8dc21febebc3d55f9ae930ee1784fb4795cbbe",
+  "asset_hashes": {
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/51f67ffd7644901f8f51a167351a409a17fdd43a/assets/winback/hero-moodboard-v3-5815568b9a96.jpg": "5815568b9a968d164ece7909c495392ae77ec09993a21761943bd6a04ade335b"
+  },
+  "saved_utc": "2026-10-10T17:24:37.056548+00:00",
+  "review_crop": {
+    "file": "qa-crops/winback-03-w600-stripped.jpg",
+    "source_screenshot_sha256": "a0c5f6941f46ddbc3e4b511a3b8dc21febebc3d55f9ae930ee1784fb4795cbbe",
+    "sha256": "657ac8391e815accff6e7dc9886befc3c9bafe32a7137c77870782e527e66d0a",
+    "box": [
+      26,
+      50,
+      626,
+      2584
+    ],
+    "note": "Fixed CSS iframe. Browser full page capture; crop removes only QA harness. Frame stays at requested CSS width before and after capture."
+  }
+}

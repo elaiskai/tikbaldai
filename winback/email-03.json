@@ -1,8 +1,8 @@
 {
-  "version": 2,
+  "version": 4,
   "date": "2026-10-10",
-  "subject": "Gražu. O ar tiks Jūsų namams?",
-  "preheader": "Pasitarkime dėl matmenų, apdailos ir kasdienio patogumo. Pradėkime nuo dominančio baldo.",
+  "subject": "Ko dabar trūksta Jūsų svetainei?",
+  "preheader": "Peržiūrėkite sofas, fotelius ir kavos staliukus. Kitam užsakymui panaudokite kodą assugrizau.",
   "day_from_last_order": 194,
   "audience": "Existing furniture customers, general fallback design. Generator-only buyers excluded.",
   "send_rule": "Eligible nonbuyers; email3 requires recent click or known site visit.",
@@ -13,14 +13,13 @@
     "unit": null,
     "status": "Amount awaiting user clarification; show code only."
   },
-  "html_sha256": "25932637739f630e4f894353fb6358b4f65130beb5137b3bd6d8bf0abe72f82b",
-  "stripped_sha256": "2d2941e45a0546c33e953199266f901987c3604e2658433021b55b693c4266e3",
+  "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+  "stripped_sha256": "8774082da50503f4bfef9b6369d46121d1e861577295584844db915a57a6216c",
   "platform_delivery_verified": false,
   "status": "reviewed_design_draft",
   "image_urls": [
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-storage-v2-99d6122ea5d7.jpg",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/51f67ffd7644901f8f51a167351a409a17fdd43a/assets/winback/hero-moodboard-v3-5815568b9a96.jpg",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png"
   ],
-  "browser_qa_pass": true,
-  "image_treatment": "AI campaign compositions made with authentic catalog product references; see visual-refresh-v2 provenance."
+  "browser_qa_pass": true
 }

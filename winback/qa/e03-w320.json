@@ -1,78 +1,6 @@
 {
-  "captured_utc": "2026-10-10T16:56:04.614Z",
-  "cards": [],
-  "copyHasDash": false,
-  "cta": [
-    {
-      "height": 54,
-      "href": "mailto:info@tikbaldai.lt?subject=Pagalba%20renkantis%20bald%C4%85",
-      "text": "Pasitarti dėl baldo",
-      "width": 272,
-      "x": 24,
-      "y": 1620.1171875
-    },
-    {
-      "height": 44,
-      "href": "mailto:info@tikbaldai.lt",
-      "text": "info@tikbaldai.lt",
-      "width": 99.0390625,
-      "x": 24,
-      "y": 1674.1171875
-    },
-    {
-      "height": 48,
-      "href": "http://127.0.0.1:8772/winback/%7B%7Bunsubscribe_url%7D%7D",
-      "text": "Atsisakyti naujienlaiškių",
-      "width": 126.0625,
-      "x": 96.96875,
-      "y": 2040.1171875
-    }
-  ],
-  "email": {
-    "height": 2104.1171875,
-    "width": 320,
-    "x": 0,
-    "y": 0
-  },
-  "headStyles": 1,
-  "headings": [
-    {
-      "height": 138,
-      "text": "Gražu.\nO ar tiks\nJūsų namams?",
-      "width": 272,
-      "x": 24,
-      "y": 155.1171875
-    },
-    {
-      "height": 31,
-      "text": "Ar užteks vietos?",
-      "width": 218,
-      "x": 78,
-      "y": 756.1171875
-    },
-    {
-      "height": 62,
-      "text": "Ar tiks prie to, ką turite?",
-      "width": 218,
-      "x": 78,
-      "y": 940.1171875
-    },
-    {
-      "height": 62,
-      "text": "Ar bus patogu kasdien?",
-      "width": 218,
-      "x": 78,
-      "y": 1180.1171875
-    },
-    {
-      "height": 74,
-      "text": "Atsiųskite nuorodą.\nPradėkime nuo jos.",
-      "width": 272,
-      "x": 24,
-      "y": 1426.1171875
-    }
-  ],
-  "height": 2104,
+  "footerPresent": true,
+  "height": 2361,
   "images": [
     {
       "alt": "TIK BALDAI",
@@ -81,31 +9,145 @@
       "naturalHeight": 104,
       "naturalWidth": 579,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
-      "width": 151,
-      "x": 84.5,
-      "y": 25
+      "width": 151
     },
     {
-      "alt": "Alyvuogių spalvos komoda šviesiame interjere",
+      "alt": "Kaip derinti oranžinę sofą. TIK BALDAI oranžinė sofa ir baltas apvalus kavos staliukas spalvų koliaže",
       "complete": true,
-      "height": 272,
-      "naturalHeight": 1254,
-      "naturalWidth": 1254,
-      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-storage-v2-99d6122ea5d7.jpg",
-      "width": 272,
-      "x": 24,
-      "y": 433.1171875
+      "height": 399.8515625,
+      "naturalHeight": 1402,
+      "naturalWidth": 1122,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/51f67ffd7644901f8f51a167351a409a17fdd43a/assets/winback/hero-moodboard-v3-5815568b9a96.jpg",
+      "width": 320
+    }
+  ],
+  "links": [
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 43.1171875,
+      "href": "https://tikbaldai.lt/?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=logo",
+      "text": "",
+      "width": 151
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "photo-link",
+      "height": 399.8515625,
+      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=hero_styling",
+      "text": "",
+      "width": 320
+    },
+    {
+      "bg": "rgb(56, 36, 63)",
+      "class": "cta",
+      "height": 54,
+      "href": "https://tikbaldai.lt/collections/sofos-lovos?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=category_sofas",
+      "text": "Žiūrėti sofas lovas",
+      "width": 272
+    },
+    {
+      "bg": "rgb(56, 36, 63)",
+      "class": "cta",
+      "height": 54,
+      "href": "https://tikbaldai.lt/collections/foteliai-kedes?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=category_armchairs",
+      "text": "Žiūrėti fotelius",
+      "width": 272
+    },
+    {
+      "bg": "rgb(56, 36, 63)",
+      "class": "cta",
+      "height": 54,
+      "href": "https://tikbaldai.lt/collections/kavos-staliukai?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=category_tables",
+      "text": "Žiūrėti kavos staliukus",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "cta",
+      "height": 48,
+      "href": "mailto:info@tikbaldai.lt",
+      "text": "Kilo klausimas apie prekę? Parašykite.",
+      "width": 239.671875
+    },
+    {
+      "bg": "rgb(244, 240, 232)",
+      "class": "cta",
+      "height": 54,
+      "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=return_offer",
+      "text": "Rinktis baldus su kodu",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "cta",
+      "height": 48,
+      "href": "http://127.0.0.1:8773/winback/%7B%7Bunsubscribe_url%7D%7D",
+      "text": "Atsisakyti naujienlaiškių",
+      "width": 126.0625
     }
   ],
   "overflow": [],
+  "pixelRatio": 2,
   "scrollWidth": 320,
+  "shellWidth": 320,
+  "url": "http://127.0.0.1:8773/winback/email-03.html",
   "width": 320,
-  "source_sha256": "25932637739f630e4f894353fb6358b4f65130beb5137b3bd6d8bf0abe72f82b",
-  "html_sha256": "25932637739f630e4f894353fb6358b4f65130beb5137b3bd6d8bf0abe72f82b",
-  "screenshot_sha256": "1554acb1c51aca5da0315b558885c11f7bbc19ecc113e0678b5c5883bd7de85e",
+  "harness": {
+    "frame": {
+      "bottom": 1552,
+      "height": 2361,
+      "left": 26,
+      "right": 346,
+      "top": -809,
+      "width": 320,
+      "x": 26,
+      "y": -809
+    },
+    "pixelRatio": 2,
+    "width": 690
+  },
+  "afterCapture": {
+    "height": 2361,
+    "width": 320
+  },
+  "source_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+  "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+  "screenshot_sha256": "d010f74ffb9ba5a8ee41cbc1ad7123fb3507a1e154e49e8e70fc468962d7d271",
   "asset_hashes": {
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-storage-v2-99d6122ea5d7.jpg": "99d6122ea5d715ca7cdd68cd2531e2b90a1fc77cee03bb68e1f9d98f699e285e"
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/51f67ffd7644901f8f51a167351a409a17fdd43a/assets/winback/hero-moodboard-v3-5815568b9a96.jpg": "5815568b9a968d164ece7909c495392ae77ec09993a21761943bd6a04ade335b"
   },
-  "saved_utc": "2026-10-10T16:56:05.762424+00:00"
+  "saved_utc": "2026-10-10T17:24:07.916714+00:00",
+  "review_crop": {
+    "file": "qa-crops/winback-03-w320.jpg",
+    "source_screenshot_sha256": "a745a3ce7c10d8e3d1679c603e12f2317d094c589c5ce9cf9e9e1f0c6d2dd1bb",
+    "sha256": "d010f74ffb9ba5a8ee41cbc1ad7123fb3507a1e154e49e8e70fc468962d7d271",
+    "box": [
+      26,
+      50,
+      346,
+      2411
+    ],
+    "note": "Fixed CSS iframe. Browser full page capture; crop removes only QA harness. Frame stays at requested CSS width before and after capture."
+  },
+  "raw_screenshot": "../../cta-refresh/qa/winback-03-w320.jpg",
+  "raw_screenshot_sha256": "a745a3ce7c10d8e3d1679c603e12f2317d094c589c5ce9cf9e9e1f0c6d2dd1bb",
+  "visual_review": {
+    "name": "winback-03-w320",
+    "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+    "screenshot_sha256": "a745a3ce7c10d8e3d1679c603e12f2317d094c589c5ce9cf9e9e1f0c6d2dd1bb",
+    "review_crop_sha256": "d010f74ffb9ba5a8ee41cbc1ad7123fb3507a1e154e49e8e70fc468962d7d271",
+    "status": "PASS",
+    "checks": {
+      "full_footer_visible": true,
+      "readable_copy": true,
+      "category_names_intact": true,
+      "natural_image_proportions": true,
+      "ordered_category_ctas": true,
+      "no_empty_columns": true,
+      "spacing_aligned": true,
+      "cta_at_least_44px": true
+    }
+  }
 }

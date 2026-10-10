@@ -1,0 +1,152 @@
+{
+  "reviewer": "root",
+  "status": "PASS",
+  "reviewed_files": [
+    "qa-crops/winback-03-normal-contact.jpg",
+    "qa-crops/winback-03-stripped-contact.jpg"
+  ],
+  "views": [
+    {
+      "name": "winback-03-w320-stripped",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "de0f4a82d2b49e836e36f23edc2071dbb29b5d47b58dee20d0cef226fea13b1c",
+      "review_crop_sha256": "d010f74ffb9ba5a8ee41cbc1ad7123fb3507a1e154e49e8e70fc468962d7d271",
+      "status": "PASS",
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
+    },
+    {
+      "name": "winback-03-w320",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "a745a3ce7c10d8e3d1679c603e12f2317d094c589c5ce9cf9e9e1f0c6d2dd1bb",
+      "review_crop_sha256": "d010f74ffb9ba5a8ee41cbc1ad7123fb3507a1e154e49e8e70fc468962d7d271",
+      "status": "PASS",
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
+    },
+    {
+      "name": "winback-03-w390-stripped",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "75eb61354ec58c3d4c4fb4f4d9e0d882fa94d4c645a0fd01dc1063c1a449fa19",
+      "review_crop_sha256": "621d5f8cb305e95c24d46fd1df3a0f6a3f15978fcfc56b52835b75fae9a3cfe1",
+      "status": "PASS",
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
+    },
+    {
+      "name": "winback-03-w390",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "b72c6fd1fe4f665315221fea10de5777e5c008d954f3141595a040d4d814664b",
+      "review_crop_sha256": "c9fae928609a5921e57f66b2dc8a9a8bb6c939a072fb07d29087ebd447c3e817",
+      "status": "PASS",
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
+    },
+    {
+      "name": "winback-03-w430-stripped",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "3e146b8f23c9d31ac53dbad95fb4f5fcd3e92d3453bc9c59cdd7c92ba3df40fc",
+      "review_crop_sha256": "2e319ae6263a2d63869e7f2964d604f950f8acc5481e3e39c9c54345f49200f8",
+      "status": "PASS",
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
+    },
+    {
+      "name": "winback-03-w430",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "df7988d8b0a78ccda7aecb5418b23c1a9a79e2dae6cf556ec69d663492257b86",
+      "review_crop_sha256": "2e319ae6263a2d63869e7f2964d604f950f8acc5481e3e39c9c54345f49200f8",
+      "status": "PASS",
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
+    },
+    {
+      "name": "winback-03-w600-stripped",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "a0c5f6941f46ddbc3e4b511a3b8dc21febebc3d55f9ae930ee1784fb4795cbbe",
+      "review_crop_sha256": "657ac8391e815accff6e7dc9886befc3c9bafe32a7137c77870782e527e66d0a",
+      "status": "PASS",
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
+    },
+    {
+      "name": "winback-03-w600",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "9ec35d441e77db2a96aac1376f8a944cbde14883ce4350ce1e745bbfc66baf4f",
+      "review_crop_sha256": "37d1801233b2a634688decf378e4e348984602cdae8dff84c2667848cb933fb2",
+      "status": "PASS",
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
+    }
+  ],
+  "notes": [
+    "All eight current renders include the full unsubscribe/footer area.",
+    "Category CTAs are distinct, unbroken, high contrast and point to the relevant shopping destinations.",
+    "AI styling props in hero remain decorative.",
+    "Browser rendering only, not verified platform delivery."
+  ]
+}

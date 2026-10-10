@@ -1,142 +1,143 @@
 {
-  "email": "winback-03",
-  "html_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/winback/email-03.html",
-  "html_sha256": "25932637739f630e4f894353fb6358b4f65130beb5137b3bd6d8bf0abe72f82b",
-  "reviewed_utc": "2026-10-10T16:57:38.274480+00:00",
   "status": "PASS",
-  "viewed_filenames": [
-    "winback-03-w320.jpg",
-    "winback-03-w320-stripped.jpg",
-    "winback-03-w390.jpg",
-    "winback-03-w390-stripped.jpg",
-    "winback-03-w430.jpg",
-    "winback-03-w430-stripped.jpg",
-    "winback-03-w600.jpg",
-    "winback-03-w600-stripped.jpg"
-  ],
-  "screenshots": [
+  "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+  "views": [
     {
-      "file": "winback-03-w320.jpg",
-      "sha256": "1554acb1c51aca5da0315b558885c11f7bbc19ecc113e0678b5c5883bd7de85e",
-      "viewport_width_px": 320,
-      "dimensions_px": [
-        320,
-        2104
-      ],
-      "head_styles_removed": false,
+      "name": "winback-03-w320",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "a745a3ce7c10d8e3d1679c603e12f2317d094c589c5ce9cf9e9e1f0c6d2dd1bb",
+      "review_crop_sha256": "d010f74ffb9ba5a8ee41cbc1ad7123fb3507a1e154e49e8e70fc468962d7d271",
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
     },
     {
-      "file": "winback-03-w320-stripped.jpg",
-      "sha256": "a527ae78f6d41b1d954d3a484fe53c3dc6b17c76451ee9d6f1118e1b6de2b5bb",
-      "viewport_width_px": 320,
-      "dimensions_px": [
-        320,
-        2116
-      ],
-      "head_styles_removed": true,
+      "name": "winback-03-w320-stripped",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "de0f4a82d2b49e836e36f23edc2071dbb29b5d47b58dee20d0cef226fea13b1c",
+      "review_crop_sha256": "d010f74ffb9ba5a8ee41cbc1ad7123fb3507a1e154e49e8e70fc468962d7d271",
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
     },
     {
-      "file": "winback-03-w390.jpg",
-      "sha256": "626b113b7d1690c6306d6ff495d2a4dbdf1e2a4175bcf53f3a9c66363dd56cd2",
-      "viewport_width_px": 390,
-      "dimensions_px": [
-        390,
-        2011
-      ],
-      "head_styles_removed": false,
+      "name": "winback-03-w390",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "b72c6fd1fe4f665315221fea10de5777e5c008d954f3141595a040d4d814664b",
+      "review_crop_sha256": "c9fae928609a5921e57f66b2dc8a9a8bb6c939a072fb07d29087ebd447c3e817",
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
     },
     {
-      "file": "winback-03-w390-stripped.jpg",
-      "sha256": "1f700a757f7d485cec77ec42a79c025f0a5834c0495a90516e488a4ab8cb4bda",
-      "viewport_width_px": 390,
-      "dimensions_px": [
-        390,
-        2023
-      ],
-      "head_styles_removed": true,
+      "name": "winback-03-w390-stripped",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "75eb61354ec58c3d4c4fb4f4d9e0d882fa94d4c645a0fd01dc1063c1a449fa19",
+      "review_crop_sha256": "621d5f8cb305e95c24d46fd1df3a0f6a3f15978fcfc56b52835b75fae9a3cfe1",
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
     },
     {
-      "file": "winback-03-w430.jpg",
-      "sha256": "a05d7a99fa484d883711760da2c95e6b8b37cfce8f9aac88197d8600d35b9503",
-      "viewport_width_px": 430,
-      "dimensions_px": [
-        430,
-        1975
-      ],
-      "head_styles_removed": false,
+      "name": "winback-03-w430",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "df7988d8b0a78ccda7aecb5418b23c1a9a79e2dae6cf556ec69d663492257b86",
+      "review_crop_sha256": "2e319ae6263a2d63869e7f2964d604f950f8acc5481e3e39c9c54345f49200f8",
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
     },
     {
-      "file": "winback-03-w430-stripped.jpg",
-      "sha256": "7c2dfd4bec575bac1489019f88d8dd002568b206eacfc32823038e3a08949cbf",
-      "viewport_width_px": 430,
-      "dimensions_px": [
-        430,
-        2012
-      ],
-      "head_styles_removed": true,
+      "name": "winback-03-w430-stripped",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "3e146b8f23c9d31ac53dbad95fb4f5fcd3e92d3453bc9c59cdd7c92ba3df40fc",
+      "review_crop_sha256": "2e319ae6263a2d63869e7f2964d604f950f8acc5481e3e39c9c54345f49200f8",
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
     },
     {
-      "file": "winback-03-w600.jpg",
-      "sha256": "7d790f5195ad5747ec7316912795c1618c8f158158ea9cd04898d8783189902f",
-      "viewport_width_px": 600,
-      "dimensions_px": [
-        600,
-        2144
-      ],
-      "head_styles_removed": false,
+      "name": "winback-03-w600",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "9ec35d441e77db2a96aac1376f8a944cbde14883ce4350ce1e745bbfc66baf4f",
+      "review_crop_sha256": "37d1801233b2a634688decf378e4e348984602cdae8dff84c2667848cb933fb2",
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
     },
     {
-      "file": "winback-03-w600-stripped.jpg",
-      "sha256": "a1afafcfde5b395f4931fd9f379aab47fa7ff2a6c753278b67356257a91fdd94",
-      "viewport_width_px": 600,
-      "dimensions_px": [
-        600,
-        2075
-      ],
-      "head_styles_removed": true,
+      "name": "winback-03-w600-stripped",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "screenshot_sha256": "a0c5f6941f46ddbc3e4b511a3b8dc21febebc3d55f9ae930ee1784fb4795cbbe",
+      "review_crop_sha256": "657ac8391e815accff6e7dc9886befc3c9bafe32a7137c77870782e527e66d0a",
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "checks": {
+        "full_footer_visible": true,
+        "readable_copy": true,
+        "category_names_intact": true,
+        "natural_image_proportions": true,
+        "ordered_category_ctas": true,
+        "no_empty_columns": true,
+        "spacing_aligned": true,
+        "cta_at_least_44px": true
+      }
     }
   ],
-  "findings": [
-    "All eight complete screenshots inspected at native resolution. Lithuanian text, question headings and coupon code remain readable without clipped or split words.",
-    "The cabinet image preserves natural square proportions and the full furniture subject.",
-    "The numbered advice rows retain a modest number gutter and a readable text column at every viewport. Text order remains correct after head styles are removed.",
-    "Consultation copy, main button, contact link and return code retain clear grouping with balanced spacing. No oversized empty columns or overlapping content appears.",
-    "The main consultation button is fully visible. Existing browser metrics report a 54 pixel button and a 44 pixel contact link target."
-  ],
-  "issues": [],
-  "limitation": "Browser screenshot visual QA only. No Gmail, Omnisend or other actual email client delivery has been verified. Interaction and coupon functionality are outside this visual review.",
-  "viewed_files": [
-    "qa/e03-w320.jpg",
-    "qa/e03-w320-stripped.jpg",
-    "qa/e03-w390.jpg",
-    "qa/e03-w390-stripped.jpg",
-    "qa/e03-w430.jpg",
-    "qa/e03-w430-stripped.jpg",
-    "qa/e03-w600.jpg",
-    "qa/e03-w600-stripped.jpg"
-  ]
+  "platform_delivery_verified": false
 }

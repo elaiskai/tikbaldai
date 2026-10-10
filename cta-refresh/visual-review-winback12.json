@@ -1,0 +1,626 @@
+{
+  "reviewed_utc": "2026-10-10T17:27:59.487351+00:00",
+  "status": "PASS",
+  "scope": "Visual review of all 16 fresh winback 01 and 02 screenshots, normal and head styles stripped, at 320, 390, 430 and 600 CSS px. All four contact sheets and all 16 individual crops viewed at original resolution.",
+  "viewed_contact_sheets": [
+    "qa-crops/winback-01-normal-contact.jpg",
+    "qa-crops/winback-01-stripped-contact.jpg",
+    "qa-crops/winback-02-normal-contact.jpg",
+    "qa-crops/winback-02-stripped-contact.jpg"
+  ],
+  "emails": [
+    {
+      "email": "winback-01",
+      "html_file": "/Users/lucka/Downloads/dropship/research/tikbaldai/winback/email-01.html",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+      "status": "PASS",
+      "issues": [],
+      "views": [
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w320.jpg",
+          "screenshot_sha256": "36ffbb506a8ae4fdcfd94d487efc9ec64ed1b6d5c0aed49262deb1a6e8b7e334",
+          "source_screenshot_sha256": "196fb2c3040af364ca303b2e28016a60fdcf67f1587fb77abb15285cd9df2d07",
+          "css_viewport_width": 320,
+          "bitmap_dimensions": [
+            320,
+            2718
+          ],
+          "head_styles_stripped": false,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-01-w320",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+        },
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w320-stripped.jpg",
+          "screenshot_sha256": "36ffbb506a8ae4fdcfd94d487efc9ec64ed1b6d5c0aed49262deb1a6e8b7e334",
+          "source_screenshot_sha256": "9b13e26fddbf18f23414628f22ed3be8270b8f8691d82fdb2027f2a0318c1aec",
+          "css_viewport_width": 320,
+          "bitmap_dimensions": [
+            320,
+            2718
+          ],
+          "head_styles_stripped": true,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-01-w320-stripped",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+        },
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w390.jpg",
+          "screenshot_sha256": "b9365dff3f8913dca08986834dd772fbca7720b86d76368293078ac548b6f41b",
+          "source_screenshot_sha256": "be843ee991432a5d1966e08e5a0949bd0f1cb07137925776b7b068c6906be3e3",
+          "css_viewport_width": 390,
+          "bitmap_dimensions": [
+            390,
+            2822
+          ],
+          "head_styles_stripped": false,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-01-w390",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+        },
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w390-stripped.jpg",
+          "screenshot_sha256": "b9365dff3f8913dca08986834dd772fbca7720b86d76368293078ac548b6f41b",
+          "source_screenshot_sha256": "45488b554ae343e61528a940bb3462d79257d1758d6bb0f5663b7971db8dac5f",
+          "css_viewport_width": 390,
+          "bitmap_dimensions": [
+            390,
+            2822
+          ],
+          "head_styles_stripped": true,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-01-w390-stripped",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+        },
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w430.jpg",
+          "screenshot_sha256": "492a660de45bcfcc314ab4d41f89f77d227c5a0f58450c032a4322fbb0ec114c",
+          "source_screenshot_sha256": "13082de579c12249a19a0c18d4942a0c3f4523f943871f6eac35aa57bf204cf8",
+          "css_viewport_width": 430,
+          "bitmap_dimensions": [
+            430,
+            2916
+          ],
+          "head_styles_stripped": false,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-01-w430",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+        },
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w430-stripped.jpg",
+          "screenshot_sha256": "492a660de45bcfcc314ab4d41f89f77d227c5a0f58450c032a4322fbb0ec114c",
+          "source_screenshot_sha256": "ff896d5f36031072ed6ab5537cb1d16adccaab9b586a896de0af265916db63fe",
+          "css_viewport_width": 430,
+          "bitmap_dimensions": [
+            430,
+            2916
+          ],
+          "head_styles_stripped": true,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-01-w430-stripped",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+        },
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w600.jpg",
+          "screenshot_sha256": "ca3d979e2d5c13046812d52cd1faa7f1047acdd66463a8fd889827ed05462a4a",
+          "source_screenshot_sha256": "38b6f777a20caa05c3e0e58dc1f7643cc34a0e01cfe9598b5c5abcfe7ba6e765",
+          "css_viewport_width": 600,
+          "bitmap_dimensions": [
+            600,
+            1921
+          ],
+          "head_styles_stripped": false,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-01-w600",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+        },
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w600-stripped.jpg",
+          "screenshot_sha256": "42b3f834f13a97fc71bf4f9f3b33a5f3d4e1d63ff0d672197baa19a952eda52c",
+          "source_screenshot_sha256": "9c0e9b6133cd3e344fb89632429fb5629c97571ec5b6bad5ba251f351490ce00",
+          "css_viewport_width": 600,
+          "bitmap_dimensions": [
+            600,
+            3229
+          ],
+          "head_styles_stripped": true,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-01-w600-stripped",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+        }
+      ],
+      "findings": [
+        "Lithuanian glyphs and copy remain readable and intact, with natural word wraps and no clipping or overlap.",
+        "Complete footer including address, permission explanation and unsubscribe is visible in every view.",
+        "Photos retain natural proportions and remain associated with their category copy and CTA after stacking.",
+        "Buttons are clear and unclipped. Recorded category and primary CTA heights meet the 44 CSS px requirement.",
+        "600 px normal view uses balanced image and text columns; stripped and mobile views stack cleanly without empty columns.",
+        "Living room, storage and dining category images match their headings and buttons. Generous section separation is consistent; no associated elements are split apart."
+      ]
+    },
+    {
+      "email": "winback-02",
+      "html_file": "/Users/lucka/Downloads/dropship/research/tikbaldai/winback/email-02.html",
+      "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+      "status": "PASS",
+      "issues": [],
+      "views": [
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w320.jpg",
+          "screenshot_sha256": "42b6d0cdfe28cbd2d981b597754b24a3e1e26fa5155780efec0367ed4766945f",
+          "source_screenshot_sha256": "2e4247a0ec620909075536c542db4afa75b5853c5a9bc4517c05202b9e680da4",
+          "css_viewport_width": 320,
+          "bitmap_dimensions": [
+            320,
+            2711
+          ],
+          "head_styles_stripped": false,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-02-w320",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+        },
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w320-stripped.jpg",
+          "screenshot_sha256": "42b6d0cdfe28cbd2d981b597754b24a3e1e26fa5155780efec0367ed4766945f",
+          "source_screenshot_sha256": "f42d990d08df1251c6b96f1854c40b354e1f24f98f7771086d690c3f5e855b9b",
+          "css_viewport_width": 320,
+          "bitmap_dimensions": [
+            320,
+            2711
+          ],
+          "head_styles_stripped": true,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-02-w320-stripped",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+        },
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w390.jpg",
+          "screenshot_sha256": "58c307f95e2fa43fa76834ea69024d890db0e3f36542896373be9ef13587b3e5",
+          "source_screenshot_sha256": "5d6b846e022dbbf038e8871561e1f12da621719ba5742942d6c2772b92e717b5",
+          "css_viewport_width": 390,
+          "bitmap_dimensions": [
+            390,
+            2877
+          ],
+          "head_styles_stripped": false,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-02-w390",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+        },
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w390-stripped.jpg",
+          "screenshot_sha256": "3b4bbcf48bc2058608836f22ad387f02a502be9f159c97331a9a2ec88fc53004",
+          "source_screenshot_sha256": "e8335d435888e32a35f1a1c54cadf24016043906dc24fe1e96ee383686e1bfb0",
+          "css_viewport_width": 390,
+          "bitmap_dimensions": [
+            390,
+            2877
+          ],
+          "head_styles_stripped": true,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-02-w390-stripped",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+        },
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w430.jpg",
+          "screenshot_sha256": "f2c0759e8c77eab7ae2e0ba7122ecf10eb769b00bcb76648a705c2f54a05b158",
+          "source_screenshot_sha256": "5bc153203e4c54d9b2a6d066815584b94d072bf6a2123278ad3efd201635c855",
+          "css_viewport_width": 430,
+          "bitmap_dimensions": [
+            430,
+            2980
+          ],
+          "head_styles_stripped": false,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-02-w430",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+        },
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w430-stripped.jpg",
+          "screenshot_sha256": "f2c0759e8c77eab7ae2e0ba7122ecf10eb769b00bcb76648a705c2f54a05b158",
+          "source_screenshot_sha256": "95fe20f42ad9c7f38fef06e2a023d832dd6a3a4a5f9add47371ce14033c646f1",
+          "css_viewport_width": 430,
+          "bitmap_dimensions": [
+            430,
+            2980
+          ],
+          "head_styles_stripped": true,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-02-w430-stripped",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+        },
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w600.jpg",
+          "screenshot_sha256": "cd8dc33ef5d32f4705c24162792a48f73199c5eac901305e29baaf857b7836fc",
+          "source_screenshot_sha256": "a3bd363f53b510e84c15ca7f96e5d172e3428ab2dc5e15789bc15e00b6c91d09",
+          "css_viewport_width": 600,
+          "bitmap_dimensions": [
+            600,
+            2530
+          ],
+          "head_styles_stripped": false,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-02-w600",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+        },
+        {
+          "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w600-stripped.jpg",
+          "screenshot_sha256": "2a979d6f16e8939a98ad0c40d7e0435bdba32d46c57cb1bcc6ac2912d1c5a149",
+          "source_screenshot_sha256": "24908738ec386e6eb537f98cba6bfe339071fc1278a282dcaa463fb9306ee44f",
+          "css_viewport_width": 600,
+          "bitmap_dimensions": [
+            600,
+            3368
+          ],
+          "head_styles_stripped": true,
+          "viewed_at_original_resolution": true,
+          "status": "PASS",
+          "footer_complete": true,
+          "minimum_cta_height_css_px": 48,
+          "issues": [],
+          "name": "winback-02-w600-stripped",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+        }
+      ],
+      "findings": [
+        "Lithuanian glyphs and copy remain readable and intact, with natural word wraps and no clipping or overlap.",
+        "Complete footer including address, permission explanation and unsubscribe is visible in every view.",
+        "Photos retain natural proportions and remain associated with their category copy and CTA after stacking.",
+        "Buttons are clear and unclipped. Recorded category and primary CTA heights meet the 44 CSS px requirement.",
+        "600 px normal view uses balanced image and text columns; stripped and mobile views stack cleanly without empty columns.",
+        "The deliberate sofa on serving tray hero is fully visible. Sofa proportions, coupon block, dining and storage cards remain clear at every width."
+      ]
+    }
+  ],
+  "limitation": "Browser rendering review only. This does not verify actual Gmail or Omnisend delivery, link navigation, coupon redemption or platform unsubscribe replacement.",
+  "views": [
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w320.jpg",
+      "screenshot_sha256": "36ffbb506a8ae4fdcfd94d487efc9ec64ed1b6d5c0aed49262deb1a6e8b7e334",
+      "source_screenshot_sha256": "196fb2c3040af364ca303b2e28016a60fdcf67f1587fb77abb15285cd9df2d07",
+      "css_viewport_width": 320,
+      "bitmap_dimensions": [
+        320,
+        2718
+      ],
+      "head_styles_stripped": false,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w320",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+    },
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w320-stripped.jpg",
+      "screenshot_sha256": "36ffbb506a8ae4fdcfd94d487efc9ec64ed1b6d5c0aed49262deb1a6e8b7e334",
+      "source_screenshot_sha256": "9b13e26fddbf18f23414628f22ed3be8270b8f8691d82fdb2027f2a0318c1aec",
+      "css_viewport_width": 320,
+      "bitmap_dimensions": [
+        320,
+        2718
+      ],
+      "head_styles_stripped": true,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w320-stripped",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+    },
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w390.jpg",
+      "screenshot_sha256": "b9365dff3f8913dca08986834dd772fbca7720b86d76368293078ac548b6f41b",
+      "source_screenshot_sha256": "be843ee991432a5d1966e08e5a0949bd0f1cb07137925776b7b068c6906be3e3",
+      "css_viewport_width": 390,
+      "bitmap_dimensions": [
+        390,
+        2822
+      ],
+      "head_styles_stripped": false,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w390",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+    },
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w390-stripped.jpg",
+      "screenshot_sha256": "b9365dff3f8913dca08986834dd772fbca7720b86d76368293078ac548b6f41b",
+      "source_screenshot_sha256": "45488b554ae343e61528a940bb3462d79257d1758d6bb0f5663b7971db8dac5f",
+      "css_viewport_width": 390,
+      "bitmap_dimensions": [
+        390,
+        2822
+      ],
+      "head_styles_stripped": true,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w390-stripped",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+    },
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w430.jpg",
+      "screenshot_sha256": "492a660de45bcfcc314ab4d41f89f77d227c5a0f58450c032a4322fbb0ec114c",
+      "source_screenshot_sha256": "13082de579c12249a19a0c18d4942a0c3f4523f943871f6eac35aa57bf204cf8",
+      "css_viewport_width": 430,
+      "bitmap_dimensions": [
+        430,
+        2916
+      ],
+      "head_styles_stripped": false,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w430",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+    },
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w430-stripped.jpg",
+      "screenshot_sha256": "492a660de45bcfcc314ab4d41f89f77d227c5a0f58450c032a4322fbb0ec114c",
+      "source_screenshot_sha256": "ff896d5f36031072ed6ab5537cb1d16adccaab9b586a896de0af265916db63fe",
+      "css_viewport_width": 430,
+      "bitmap_dimensions": [
+        430,
+        2916
+      ],
+      "head_styles_stripped": true,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w430-stripped",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+    },
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w600.jpg",
+      "screenshot_sha256": "ca3d979e2d5c13046812d52cd1faa7f1047acdd66463a8fd889827ed05462a4a",
+      "source_screenshot_sha256": "38b6f777a20caa05c3e0e58dc1f7643cc34a0e01cfe9598b5c5abcfe7ba6e765",
+      "css_viewport_width": 600,
+      "bitmap_dimensions": [
+        600,
+        1921
+      ],
+      "head_styles_stripped": false,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w600",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+    },
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w600-stripped.jpg",
+      "screenshot_sha256": "42b3f834f13a97fc71bf4f9f3b33a5f3d4e1d63ff0d672197baa19a952eda52c",
+      "source_screenshot_sha256": "9c0e9b6133cd3e344fb89632429fb5629c97571ec5b6bad5ba251f351490ce00",
+      "css_viewport_width": 600,
+      "bitmap_dimensions": [
+        600,
+        3229
+      ],
+      "head_styles_stripped": true,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w600-stripped",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+    },
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w320.jpg",
+      "screenshot_sha256": "42b6d0cdfe28cbd2d981b597754b24a3e1e26fa5155780efec0367ed4766945f",
+      "source_screenshot_sha256": "2e4247a0ec620909075536c542db4afa75b5853c5a9bc4517c05202b9e680da4",
+      "css_viewport_width": 320,
+      "bitmap_dimensions": [
+        320,
+        2711
+      ],
+      "head_styles_stripped": false,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-02-w320",
+      "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+    },
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w320-stripped.jpg",
+      "screenshot_sha256": "42b6d0cdfe28cbd2d981b597754b24a3e1e26fa5155780efec0367ed4766945f",
+      "source_screenshot_sha256": "f42d990d08df1251c6b96f1854c40b354e1f24f98f7771086d690c3f5e855b9b",
+      "css_viewport_width": 320,
+      "bitmap_dimensions": [
+        320,
+        2711
+      ],
+      "head_styles_stripped": true,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-02-w320-stripped",
+      "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+    },
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w390.jpg",
+      "screenshot_sha256": "58c307f95e2fa43fa76834ea69024d890db0e3f36542896373be9ef13587b3e5",
+      "source_screenshot_sha256": "5d6b846e022dbbf038e8871561e1f12da621719ba5742942d6c2772b92e717b5",
+      "css_viewport_width": 390,
+      "bitmap_dimensions": [
+        390,
+        2877
+      ],
+      "head_styles_stripped": false,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-02-w390",
+      "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+    },
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w390-stripped.jpg",
+      "screenshot_sha256": "3b4bbcf48bc2058608836f22ad387f02a502be9f159c97331a9a2ec88fc53004",
+      "source_screenshot_sha256": "e8335d435888e32a35f1a1c54cadf24016043906dc24fe1e96ee383686e1bfb0",
+      "css_viewport_width": 390,
+      "bitmap_dimensions": [
+        390,
+        2877
+      ],
+      "head_styles_stripped": true,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-02-w390-stripped",
+      "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+    },
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w430.jpg",
+      "screenshot_sha256": "f2c0759e8c77eab7ae2e0ba7122ecf10eb769b00bcb76648a705c2f54a05b158",
+      "source_screenshot_sha256": "5bc153203e4c54d9b2a6d066815584b94d072bf6a2123278ad3efd201635c855",
+      "css_viewport_width": 430,
+      "bitmap_dimensions": [
+        430,
+        2980
+      ],
+      "head_styles_stripped": false,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-02-w430",
+      "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+    },
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w430-stripped.jpg",
+      "screenshot_sha256": "f2c0759e8c77eab7ae2e0ba7122ecf10eb769b00bcb76648a705c2f54a05b158",
+      "source_screenshot_sha256": "95fe20f42ad9c7f38fef06e2a023d832dd6a3a4a5f9add47371ce14033c646f1",
+      "css_viewport_width": 430,
+      "bitmap_dimensions": [
+        430,
+        2980
+      ],
+      "head_styles_stripped": true,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-02-w430-stripped",
+      "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+    },
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w600.jpg",
+      "screenshot_sha256": "cd8dc33ef5d32f4705c24162792a48f73199c5eac901305e29baaf857b7836fc",
+      "source_screenshot_sha256": "a3bd363f53b510e84c15ca7f96e5d172e3428ab2dc5e15789bc15e00b6c91d09",
+      "css_viewport_width": 600,
+      "bitmap_dimensions": [
+        600,
+        2530
+      ],
+      "head_styles_stripped": false,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-02-w600",
+      "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+    },
+    {
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w600-stripped.jpg",
+      "screenshot_sha256": "2a979d6f16e8939a98ad0c40d7e0435bdba32d46c57cb1bcc6ac2912d1c5a149",
+      "source_screenshot_sha256": "24908738ec386e6eb537f98cba6bfe339071fc1278a282dcaa463fb9306ee44f",
+      "css_viewport_width": 600,
+      "bitmap_dimensions": [
+        600,
+        3368
+      ],
+      "head_styles_stripped": true,
+      "viewed_at_original_resolution": true,
+      "status": "PASS",
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-02-w600-stripped",
+      "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
+    }
+  ]
+}

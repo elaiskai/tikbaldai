@@ -1,97 +1,238 @@
 {
-  "campaign": "welcome-01",
   "status": "PASS",
-  "review_scope": "Visual browser screenshot review of the eight current captures only",
-  "reviewed_utc": "2026-10-10T16:56:36.012521+00:00",
-  "html_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/email.html",
-  "html_sha256": "3b32b39dc35d562a2ecbeba7b2f5040fc91d71d69baf6e45eb5e682225f63f82",
-  "viewed_filenames": [
-    "welcome-01-w600.jpg",
-    "welcome-01-w430.jpg",
-    "welcome-01-w390.jpg",
-    "welcome-01-w320.jpg",
-    "welcome-01-w600-stripped.jpg",
-    "welcome-01-w430-stripped.jpg",
-    "welcome-01-w390-stripped.jpg",
-    "welcome-01-w320-stripped.jpg"
-  ],
+  "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
   "views": [
     {
-      "filename": "welcome-01-w600.jpg",
-      "viewport_width": 600,
+      "name": "welcome-01-w320",
+      "status": "PASS",
+      "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+      "width_css_px": 320,
       "head_styles_removed": false,
-      "screenshot_sha256": "9d3ee71f2f7c94f45e847dd922dea70697bc340c73968d92583524ecd0633100"
+      "rendered_source_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-01-w320.jpg",
+      "source_screenshot_sha256": "89406d4b2e5e3bb19316dab88d6e4ba7fecbac6df3d409406612aa23553b0f8d",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-w320.jpg",
+      "review_crop_sha256": "1dafb8d74f1e51dea27bed3c1050106b18037f6492cfaa2a365dd25848030eab",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-normal-contact.jpg",
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-w320.jpg"
+      ],
+      "findings": [
+        "Coherent single column categories, each full photo immediately associated with its heading and shopping link.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Primary shopping CTA is one line and 56 px high; named category links are intact and remain with their photos."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 44,
+        "shell_width_css_px": 320
+      },
+      "issues": []
     },
     {
-      "filename": "welcome-01-w430.jpg",
-      "viewport_width": 430,
+      "name": "welcome-01-w320-stripped",
+      "status": "PASS",
+      "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+      "width_css_px": 320,
+      "head_styles_removed": true,
+      "rendered_source_sha256": "c416a04071ae3a070767035b14ea2f1b4400569a2bbf4a8cea8ba27a0a5f7354",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-01-w320-stripped.jpg",
+      "source_screenshot_sha256": "f04ab4d1d43175fc10326105ae1554df30199c6e137d198a3ca86a9d88fd712e",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-w320-stripped.jpg",
+      "review_crop_sha256": "14907c8fda05c9c96d2bc1d402355a9954760123832471e6d74dfe399156b494",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-stripped-contact.jpg"
+      ],
+      "findings": [
+        "Coherent single column categories, each full photo immediately associated with its heading and shopping link.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Primary shopping CTA is one line and 56 px high; named category links are intact and remain with their photos.",
+        "Removed head styles and font links retain readable fallback typography and a coherent layout."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 44,
+        "shell_width_css_px": 320
+      },
+      "issues": []
+    },
+    {
+      "name": "welcome-01-w390",
+      "status": "PASS",
+      "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+      "width_css_px": 390,
       "head_styles_removed": false,
-      "screenshot_sha256": "1428e79e92aca27eb227a8f2ec3fe348272ae9bb5ad4d61b6cbdd92ae76f9714"
+      "rendered_source_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-01-w390.jpg",
+      "source_screenshot_sha256": "371992058a69da45c9b6c08cd9af43e2dd1e4545ab127e0159fcd22b97ffc91f",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-w390.jpg",
+      "review_crop_sha256": "440134116064be59d70b6623bc04eb404892adae5be372ae0724f71b6229c4b6",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-normal-contact.jpg"
+      ],
+      "findings": [
+        "Coherent single column categories, each full photo immediately associated with its heading and shopping link.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Primary shopping CTA is one line and 56 px high; named category links are intact and remain with their photos."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 44,
+        "shell_width_css_px": 390
+      },
+      "issues": []
     },
     {
-      "filename": "welcome-01-w390.jpg",
-      "viewport_width": 390,
+      "name": "welcome-01-w390-stripped",
+      "status": "PASS",
+      "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+      "width_css_px": 390,
+      "head_styles_removed": true,
+      "rendered_source_sha256": "c416a04071ae3a070767035b14ea2f1b4400569a2bbf4a8cea8ba27a0a5f7354",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-01-w390-stripped.jpg",
+      "source_screenshot_sha256": "06dd296114f6883551203260cd8a6748c64d42b7622b62f4ab78c8f04a62cd65",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-w390-stripped.jpg",
+      "review_crop_sha256": "440134116064be59d70b6623bc04eb404892adae5be372ae0724f71b6229c4b6",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-stripped-contact.jpg"
+      ],
+      "findings": [
+        "Coherent single column categories, each full photo immediately associated with its heading and shopping link.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Primary shopping CTA is one line and 56 px high; named category links are intact and remain with their photos.",
+        "Removed head styles and font links retain readable fallback typography and a coherent layout."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 44,
+        "shell_width_css_px": 390
+      },
+      "issues": []
+    },
+    {
+      "name": "welcome-01-w430",
+      "status": "PASS",
+      "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+      "width_css_px": 430,
       "head_styles_removed": false,
-      "screenshot_sha256": "1c92c55d376e51268431926422b6cf646bb40b634c2dd54177af5dfaf579861c"
+      "rendered_source_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-01-w430.jpg",
+      "source_screenshot_sha256": "315176aa79de2c577a878290bec65188e73fafaf51d7c8691ecf7d76dd56e49d",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-w430.jpg",
+      "review_crop_sha256": "93c84edc6dae9a4c0da79f61d9738507c517f8873c0883f1185e506a06472ffe",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-normal-contact.jpg"
+      ],
+      "findings": [
+        "Coherent single column categories, each full photo immediately associated with its heading and shopping link.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Primary shopping CTA is one line and 56 px high; named category links are intact and remain with their photos."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 44,
+        "shell_width_css_px": 430
+      },
+      "issues": []
     },
     {
-      "filename": "welcome-01-w320.jpg",
-      "viewport_width": 320,
+      "name": "welcome-01-w430-stripped",
+      "status": "PASS",
+      "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+      "width_css_px": 430,
+      "head_styles_removed": true,
+      "rendered_source_sha256": "c416a04071ae3a070767035b14ea2f1b4400569a2bbf4a8cea8ba27a0a5f7354",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-01-w430-stripped.jpg",
+      "source_screenshot_sha256": "d4be8d4a51d1022572bad652a7d1523b8c0aed10834a39181ccf5247099a0451",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-w430-stripped.jpg",
+      "review_crop_sha256": "26a3463fe8ef1be34278156c7cc2e5a5c9f85b62378ac4835f41419d928d6877",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-stripped-contact.jpg"
+      ],
+      "findings": [
+        "Coherent single column categories, each full photo immediately associated with its heading and shopping link.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Primary shopping CTA is one line and 56 px high; named category links are intact and remain with their photos.",
+        "Removed head styles and font links retain readable fallback typography and a coherent layout."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 44,
+        "shell_width_css_px": 430
+      },
+      "issues": []
+    },
+    {
+      "name": "welcome-01-w600",
+      "status": "PASS",
+      "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+      "width_css_px": 600,
       "head_styles_removed": false,
-      "screenshot_sha256": "69738bd7324287e95db4bcdbb55de0bd7c22fa41d7472620836078b7a463b26a"
+      "rendered_source_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-01-w600.jpg",
+      "source_screenshot_sha256": "a62d6fa9b7d4c44eefbac9674b2f06625ae580fa2080eae82ae4cb77b26d0f2e",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-w600.jpg",
+      "review_crop_sha256": "13f3d4b0b4556e92df7a99143b2df965241f8ba960cc2591439f5f8892e41cf8",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-normal-contact.jpg",
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-w600.jpg"
+      ],
+      "findings": [
+        "Balanced two column category grid with aligned photos, headings and shopping links.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Primary shopping CTA is one line and 56 px high; named category links are intact and remain with their photos."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 44,
+        "shell_width_css_px": 600
+      },
+      "issues": []
     },
     {
-      "filename": "welcome-01-w600-stripped.jpg",
-      "viewport_width": 600,
+      "name": "welcome-01-w600-stripped",
+      "status": "PASS",
+      "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+      "width_css_px": 600,
       "head_styles_removed": true,
-      "screenshot_sha256": "83622d35235d40648f776079813d1e79690a409b675624e12633c34ef4c34e32"
-    },
-    {
-      "filename": "welcome-01-w430-stripped.jpg",
-      "viewport_width": 430,
-      "head_styles_removed": true,
-      "screenshot_sha256": "1428e79e92aca27eb227a8f2ec3fe348272ae9bb5ad4d61b6cbdd92ae76f9714"
-    },
-    {
-      "filename": "welcome-01-w390-stripped.jpg",
-      "viewport_width": 390,
-      "head_styles_removed": true,
-      "screenshot_sha256": "1c92c55d376e51268431926422b6cf646bb40b634c2dd54177af5dfaf579861c"
-    },
-    {
-      "filename": "welcome-01-w320-stripped.jpg",
-      "viewport_width": 320,
-      "head_styles_removed": true,
-      "screenshot_sha256": "124f7c6a0a0fdf18da50bd38f457026e3bf06799e12c8afc306f2e38b41733d6"
+      "rendered_source_sha256": "c416a04071ae3a070767035b14ea2f1b4400569a2bbf4a8cea8ba27a0a5f7354",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-01-w600-stripped.jpg",
+      "source_screenshot_sha256": "9b015623a1650e42b586e552aa03d69407b29e2558ff88d67f07a1ef92811a37",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-w600-stripped.jpg",
+      "review_crop_sha256": "60e64d37a51483cd949e0480ea578c7e8b3c723acce6c1aa629018f88d16a577",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-stripped-contact.jpg",
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-w600-stripped.jpg"
+      ],
+      "findings": [
+        "Coherent single column categories, each full photo immediately associated with its heading and shopping link.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Primary shopping CTA is one line and 56 px high; named category links are intact and remain with their photos.",
+        "Removed head styles and font links retain readable fallback typography and a coherent layout."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 44,
+        "shell_width_css_px": 600
+      },
+      "issues": []
     }
   ],
-  "findings": [
-    "All eight complete screenshots inspected from header through footer. Text is readable, category names remain intact, and wrapping is natural at 320, 390 and 430 px.",
-    "The 600 px styled desktop layout has balanced columns and consistent spacing. Stripped styles use a coherent single column fallback with no excessive empty columns.",
-    "Furniture photographs retain natural square proportions without stretching, clipped furniture or disrupted ordering. Each category image remains associated with its own heading and CTA after stacking.",
-    "Primary buttons remain clear, contained and visibly padded. Category link targets are aligned under their associated content.",
-    "Recorded CTA target heights are at least 44 px in all views; the main offer button is 56 px high.",
-    "Current HTML SHA256 matches every capture record; actual JPG hashes match recorded screenshot hashes. All images are marked loaded and all category photo and CTA URLs match in the capture metrics.",
-    "No horizontal overflow, broken names, overlapping text, missing photos, detached CTAs or layout defects observed."
-  ],
-  "issues": [],
-  "browser_only_limitation": "These are browser renders, including removal of head styles and font links. They do not verify Gmail, Omnisend, Outlook or any live delivered email. This review did not perform a platform send, import or click test.",
-  "metrics_summary": {
-    "view_count": 8,
-    "minimum_cta_height_px": 44,
-    "overflow_count": 0,
-    "all_images_loaded": true,
-    "all_category_photo_cta_urls_match": true,
-    "all_copy_dash_checks_clear": true
-  },
-  "viewed_files": [
-    "responsive-previews/w320.jpg",
-    "responsive-previews/w320-stripped.jpg",
-    "responsive-previews/w390.jpg",
-    "responsive-previews/w390-stripped.jpg",
-    "responsive-previews/w430.jpg",
-    "responsive-previews/w430-stripped.jpg",
-    "responsive-previews/w600.jpg",
-    "responsive-previews/w600-stripped.jpg"
-  ]
+  "platform_delivery_verified": false
 }

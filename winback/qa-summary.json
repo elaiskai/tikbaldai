@@ -1,538 +1,219 @@
 {
-  "checked_utc": "2026-10-10T16:57:57.387071+00:00",
-  "widths": [
-    320,
-    390,
-    430,
-    600
-  ],
-  "head_styles_removed_variant": true,
+  "date": "2026-10-10",
+  "scope": "Shopping CTA and category update across all six emails",
+  "browser_qa_pass": true,
   "platform_delivery_verified": false,
+  "method": "Fresh current HTML in fixed CSS width iframe; 600 desktop and 320/390/430 mobile, normal and head styles/font links removed. Captures preserve full footer. Crops only remove QA harness.",
   "emails": {
     "01": {
-      "html_sha256": "6386fdf701348fa1de4d647c4b4ece195be4e61bdc1e81a38bb0eab23081950a",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
       "browser_qa_pass": true,
       "views": [
         {
-          "file": "qa/e01-w320.jpg",
-          "sha256": "83941add3b679d0fa953387596cf2c369431b64352bf062bf94d86a7ee4bf4d7",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-01-w320",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "196fb2c3040af364ca303b2e28016a60fdcf67f1587fb77abb15285cd9df2d07",
+          "crop_sha256": "36ffbb506a8ae4fdcfd94d487efc9ec64ed1b6d5c0aed49262deb1a6e8b7e334",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e01-w320-stripped.jpg",
-          "sha256": "83941add3b679d0fa953387596cf2c369431b64352bf062bf94d86a7ee4bf4d7",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-01-w320-stripped",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "9b13e26fddbf18f23414628f22ed3be8270b8f8691d82fdb2027f2a0318c1aec",
+          "crop_sha256": "36ffbb506a8ae4fdcfd94d487efc9ec64ed1b6d5c0aed49262deb1a6e8b7e334",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e01-w390.jpg",
-          "sha256": "ece2bc27fc39ef5d83b794a83c50d072737e95dceac5bf1a7d5db77bebce90bf",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-01-w390",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "be843ee991432a5d1966e08e5a0949bd0f1cb07137925776b7b068c6906be3e3",
+          "crop_sha256": "b9365dff3f8913dca08986834dd772fbca7720b86d76368293078ac548b6f41b",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e01-w390-stripped.jpg",
-          "sha256": "ece2bc27fc39ef5d83b794a83c50d072737e95dceac5bf1a7d5db77bebce90bf",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-01-w390-stripped",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "45488b554ae343e61528a940bb3462d79257d1758d6bb0f5663b7971db8dac5f",
+          "crop_sha256": "b9365dff3f8913dca08986834dd772fbca7720b86d76368293078ac548b6f41b",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e01-w430.jpg",
-          "sha256": "aeeb1df7bd6f831b066380c52eed7cf3995b01518ad173676db51bdc5856b72d",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-01-w430",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "13082de579c12249a19a0c18d4942a0c3f4523f943871f6eac35aa57bf204cf8",
+          "crop_sha256": "492a660de45bcfcc314ab4d41f89f77d227c5a0f58450c032a4322fbb0ec114c",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e01-w430-stripped.jpg",
-          "sha256": "aeeb1df7bd6f831b066380c52eed7cf3995b01518ad173676db51bdc5856b72d",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-01-w430-stripped",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "ff896d5f36031072ed6ab5537cb1d16adccaab9b586a896de0af265916db63fe",
+          "crop_sha256": "492a660de45bcfcc314ab4d41f89f77d227c5a0f58450c032a4322fbb0ec114c",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e01-w600.jpg",
-          "sha256": "85f25f10b12009cc9b73a94e7a4b32221d539410190a0e0f53432041bbf59478",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-01-w600",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "38b6f777a20caa05c3e0e58dc1f7643cc34a0e01cfe9598b5c5abcfe7ba6e765",
+          "crop_sha256": "ca3d979e2d5c13046812d52cd1faa7f1047acdd66463a8fd889827ed05462a4a",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e01-w600-stripped.jpg",
-          "sha256": "da74b5c603c484c08fe0bb4ceb2ff164c4a3a2dbd0a69ea99fba888c31b22329",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-01-w600-stripped",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "9c0e9b6133cd3e344fb89632429fb5629c97571ec5b6bad5ba251f351490ce00",
+          "crop_sha256": "42b3f834f13a97fc71bf4f9f3b33a5f3d4e1d63ff0d672197baa19a952eda52c",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         }
-      ],
-      "visual_review": "qa/visual-01.json"
+      ]
     },
     "02": {
-      "html_sha256": "6ed02cce413db17d0f44fb00be4dd4ba6a2112286f640bac133a266029aa461e",
+      "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
       "browser_qa_pass": true,
       "views": [
         {
-          "file": "qa/e02-w320.jpg",
-          "sha256": "9bc8f3a9a3dee28c28e9ac783228cb53d74591af8aeec4d392bf1f433867fee3",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-02-w320",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "2e4247a0ec620909075536c542db4afa75b5853c5a9bc4517c05202b9e680da4",
+          "crop_sha256": "42b6d0cdfe28cbd2d981b597754b24a3e1e26fa5155780efec0367ed4766945f",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e02-w320-stripped.jpg",
-          "sha256": "9bc8f3a9a3dee28c28e9ac783228cb53d74591af8aeec4d392bf1f433867fee3",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-02-w320-stripped",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "f42d990d08df1251c6b96f1854c40b354e1f24f98f7771086d690c3f5e855b9b",
+          "crop_sha256": "42b6d0cdfe28cbd2d981b597754b24a3e1e26fa5155780efec0367ed4766945f",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e02-w390.jpg",
-          "sha256": "d81fe03385fb2b96ef2d97a775c8277900a3d5329de5d23efd9b89f0dec84e1c",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-02-w390",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "5d6b846e022dbbf038e8871561e1f12da621719ba5742942d6c2772b92e717b5",
+          "crop_sha256": "58c307f95e2fa43fa76834ea69024d890db0e3f36542896373be9ef13587b3e5",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e02-w390-stripped.jpg",
-          "sha256": "d81fe03385fb2b96ef2d97a775c8277900a3d5329de5d23efd9b89f0dec84e1c",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-02-w390-stripped",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "e8335d435888e32a35f1a1c54cadf24016043906dc24fe1e96ee383686e1bfb0",
+          "crop_sha256": "3b4bbcf48bc2058608836f22ad387f02a502be9f159c97331a9a2ec88fc53004",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e02-w430.jpg",
-          "sha256": "1949e601a819d59fa13eb76445a258c0e9f99f7a05cecb4eeb761af6d88af744",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-02-w430",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "5bc153203e4c54d9b2a6d066815584b94d072bf6a2123278ad3efd201635c855",
+          "crop_sha256": "f2c0759e8c77eab7ae2e0ba7122ecf10eb769b00bcb76648a705c2f54a05b158",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e02-w430-stripped.jpg",
-          "sha256": "1949e601a819d59fa13eb76445a258c0e9f99f7a05cecb4eeb761af6d88af744",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-02-w430-stripped",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "95fe20f42ad9c7f38fef06e2a023d832dd6a3a4a5f9add47371ce14033c646f1",
+          "crop_sha256": "f2c0759e8c77eab7ae2e0ba7122ecf10eb769b00bcb76648a705c2f54a05b158",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e02-w600.jpg",
-          "sha256": "7c3f4bcf500bf13f405b79139c9a61e0b49c1bfb62459c1ea23c55edae70344b",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-02-w600",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "a3bd363f53b510e84c15ca7f96e5d172e3428ab2dc5e15789bc15e00b6c91d09",
+          "crop_sha256": "cd8dc33ef5d32f4705c24162792a48f73199c5eac901305e29baaf857b7836fc",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e02-w600-stripped.jpg",
-          "sha256": "9fa36372692ee0baef7335674e76135b3cd8cf46cd8c899363b642ff0dd7eae4",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-02-w600-stripped",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "24908738ec386e6eb537f98cba6bfe339071fc1278a282dcaa463fb9306ee44f",
+          "crop_sha256": "2a979d6f16e8939a98ad0c40d7e0435bdba32d46c57cb1bcc6ac2912d1c5a149",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         }
-      ],
-      "visual_review": "qa/visual-02.json"
+      ]
     },
     "03": {
-      "html_sha256": "25932637739f630e4f894353fb6358b4f65130beb5137b3bd6d8bf0abe72f82b",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
       "browser_qa_pass": true,
       "views": [
         {
-          "file": "qa/e03-w320.jpg",
-          "sha256": "1554acb1c51aca5da0315b558885c11f7bbc19ecc113e0678b5c5883bd7de85e",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-03-w320",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "a745a3ce7c10d8e3d1679c603e12f2317d094c589c5ce9cf9e9e1f0c6d2dd1bb",
+          "crop_sha256": "d010f74ffb9ba5a8ee41cbc1ad7123fb3507a1e154e49e8e70fc468962d7d271",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e03-w320-stripped.jpg",
-          "sha256": "a527ae78f6d41b1d954d3a484fe53c3dc6b17c76451ee9d6f1118e1b6de2b5bb",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-03-w320-stripped",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "de0f4a82d2b49e836e36f23edc2071dbb29b5d47b58dee20d0cef226fea13b1c",
+          "crop_sha256": "d010f74ffb9ba5a8ee41cbc1ad7123fb3507a1e154e49e8e70fc468962d7d271",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e03-w390.jpg",
-          "sha256": "626b113b7d1690c6306d6ff495d2a4dbdf1e2a4175bcf53f3a9c66363dd56cd2",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-03-w390",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "b72c6fd1fe4f665315221fea10de5777e5c008d954f3141595a040d4d814664b",
+          "crop_sha256": "c9fae928609a5921e57f66b2dc8a9a8bb6c939a072fb07d29087ebd447c3e817",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e03-w390-stripped.jpg",
-          "sha256": "1f700a757f7d485cec77ec42a79c025f0a5834c0495a90516e488a4ab8cb4bda",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-03-w390-stripped",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "75eb61354ec58c3d4c4fb4f4d9e0d882fa94d4c645a0fd01dc1063c1a449fa19",
+          "crop_sha256": "621d5f8cb305e95c24d46fd1df3a0f6a3f15978fcfc56b52835b75fae9a3cfe1",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e03-w430.jpg",
-          "sha256": "a05d7a99fa484d883711760da2c95e6b8b37cfce8f9aac88197d8600d35b9503",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-03-w430",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "df7988d8b0a78ccda7aecb5418b23c1a9a79e2dae6cf556ec69d663492257b86",
+          "crop_sha256": "2e319ae6263a2d63869e7f2964d604f950f8acc5481e3e39c9c54345f49200f8",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e03-w430-stripped.jpg",
-          "sha256": "7c2dfd4bec575bac1489019f88d8dd002568b206eacfc32823038e3a08949cbf",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-03-w430-stripped",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "3e146b8f23c9d31ac53dbad95fb4f5fcd3e92d3453bc9c59cdd7c92ba3df40fc",
+          "crop_sha256": "2e319ae6263a2d63869e7f2964d604f950f8acc5481e3e39c9c54345f49200f8",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e03-w600.jpg",
-          "sha256": "7d790f5195ad5747ec7316912795c1618c8f158158ea9cd04898d8783189902f",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-03-w600",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "9ec35d441e77db2a96aac1376f8a944cbde14883ce4350ce1e745bbfc66baf4f",
+          "crop_sha256": "37d1801233b2a634688decf378e4e348984602cdae8dff84c2667848cb933fb2",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         },
         {
-          "file": "qa/e03-w600-stripped.jpg",
-          "sha256": "a1afafcfde5b395f4931fd9f379aab47fa7ff2a6c753278b67356257a91fdd94",
-          "checks": {
-            "current_html": true,
-            "current_source": true,
-            "current_assets": true,
-            "screenshot_hash": true,
-            "screenshot_size": true,
-            "viewport": true,
-            "email_width": true,
-            "no_overflow": true,
-            "images_loaded": true,
-            "photo_proportions": true,
-            "cta_44px": true,
-            "head_styles": true,
-            "no_dashes": true,
-            "photo_cta_association": true,
-            "readable_card_width": true
-          }
+          "name": "winback-03-w600-stripped",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "a0c5f6941f46ddbc3e4b511a3b8dc21febebc3d55f9ae930ee1784fb4795cbbe",
+          "crop_sha256": "657ac8391e815accff6e7dc9886befc3c9bafe32a7137c77870782e527e66d0a",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
         }
-      ],
-      "visual_review": "qa/visual-03.json"
+      ]
     }
   }
 }

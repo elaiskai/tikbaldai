@@ -1,224 +1,6 @@
 {
-  "captured_utc": "2026-10-10T16:55:14.566Z",
-  "cards": [
-    {
-      "copy": {
-        "height": 407,
-        "width": 288,
-        "x": 16,
-        "y": 1358.96875
-      },
-      "cta": {
-        "height": 44,
-        "width": 272,
-        "x": 24,
-        "y": 1695.96875
-      },
-      "ctaHref": "https://tikbaldai.lt/collections/miegamojo-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_bedroom",
-      "heading": "Miegamasis",
-      "photo": {
-        "height": 272,
-        "width": 272,
-        "x": 24,
-        "y": 1358.96875
-      },
-      "photoHref": "https://tikbaldai.lt/collections/miegamojo-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_bedroom"
-    },
-    {
-      "copy": {
-        "height": 407,
-        "width": 288,
-        "x": 16,
-        "y": 1765.96875
-      },
-      "cta": {
-        "height": 44,
-        "width": 272,
-        "x": 24,
-        "y": 2102.96875
-      },
-      "ctaHref": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_living",
-      "heading": "Svetainė",
-      "photo": {
-        "height": 272,
-        "width": 272,
-        "x": 24,
-        "y": 1765.96875
-      },
-      "photoHref": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_living"
-    },
-    {
-      "copy": {
-        "height": 407,
-        "width": 288,
-        "x": 16,
-        "y": 2172.96875
-      },
-      "cta": {
-        "height": 44,
-        "width": 272,
-        "x": 24,
-        "y": 2509.96875
-      },
-      "ctaHref": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_dining",
-      "heading": "Valgomasis",
-      "photo": {
-        "height": 272,
-        "width": 272,
-        "x": 24,
-        "y": 2172.96875
-      },
-      "photoHref": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_dining"
-    },
-    {
-      "copy": {
-        "height": 407,
-        "width": 288,
-        "x": 16,
-        "y": 2579.96875
-      },
-      "cta": {
-        "height": 44,
-        "width": 272,
-        "x": 24,
-        "y": 2916.96875
-      },
-      "ctaHref": "https://tikbaldai.lt/collections/lauko-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_outdoor",
-      "heading": "Lauko erdvei",
-      "photo": {
-        "height": 272,
-        "width": 272,
-        "x": 24,
-        "y": 2579.96875
-      },
-      "photoHref": "https://tikbaldai.lt/collections/lauko-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_outdoor"
-    }
-  ],
-  "copyHasDash": false,
-  "cta": [
-    {
-      "height": 56,
-      "href": "https://tikbaldai.lt/?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=welcome_offer",
-      "text": "Panaudoti 10 € nuolaidą",
-      "width": 272,
-      "x": 24,
-      "y": 1062.96875
-    },
-    {
-      "height": 44,
-      "href": "https://tikbaldai.lt/collections/miegamojo-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_bedroom",
-      "text": "Atrasti kategoriją",
-      "width": 272,
-      "x": 24,
-      "y": 1695.96875
-    },
-    {
-      "height": 44,
-      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_living",
-      "text": "Atrasti kategoriją",
-      "width": 272,
-      "x": 24,
-      "y": 2102.96875
-    },
-    {
-      "height": 44,
-      "href": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_dining",
-      "text": "Atrasti kategoriją",
-      "width": 272,
-      "x": 24,
-      "y": 2509.96875
-    },
-    {
-      "height": 44,
-      "href": "https://tikbaldai.lt/collections/lauko-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_outdoor",
-      "text": "Atrasti kategoriją",
-      "width": 272,
-      "x": 24,
-      "y": 2916.96875
-    },
-    {
-      "height": 46,
-      "href": "mailto:info@tikbaldai.lt",
-      "text": "Pasitarti dėl pasirinkimo",
-      "width": 147.8359375,
-      "x": 24,
-      "y": 3263.96875
-    },
-    {
-      "height": 46,
-      "href": "http://127.0.0.1:8772/welcome-01/%7B%7Bunsubscribe_url%7D%7D",
-      "text": "Atsisakyti naujienlaiškių",
-      "width": 115.5546875,
-      "x": 102.21875,
-      "y": 3430.96875
-    }
-  ],
-  "email": {
-    "height": 3501.96875,
-    "width": 320,
-    "x": 0,
-    "y": 0
-  },
-  "headStyles": 1,
-  "headings": [
-    {
-      "height": 399.8515625,
-      "text": "",
-      "width": 320,
-      "x": 0,
-      "y": 84.1171875
-    },
-    {
-      "height": 36,
-      "text": "Susipažinkime.",
-      "width": 272,
-      "x": 24,
-      "y": 525.96875
-    },
-    {
-      "height": 80,
-      "text": "Kurią erdvę kuriate?",
-      "width": 272,
-      "x": 24,
-      "y": 1253.96875
-    },
-    {
-      "height": 25,
-      "text": "Miegamasis",
-      "width": 272,
-      "x": 24,
-      "y": 1645.96875
-    },
-    {
-      "height": 25,
-      "text": "Svetainė",
-      "width": 272,
-      "x": 24,
-      "y": 2052.96875
-    },
-    {
-      "height": 25,
-      "text": "Valgomasis",
-      "width": 272,
-      "x": 24,
-      "y": 2459.96875
-    },
-    {
-      "height": 25,
-      "text": "Lauko erdvei",
-      "width": 272,
-      "x": 24,
-      "y": 2866.96875
-    },
-    {
-      "height": 38,
-      "text": "Renkatės ne vieni.",
-      "width": 272,
-      "x": 24,
-      "y": 2993.96875
-    }
-  ],
-  "height": 3502,
+  "footerPresent": true,
+  "height": 3528,
   "images": [
     {
       "alt": "TIK BALDAI",
@@ -227,9 +9,7 @@
       "naturalHeight": 104,
       "naturalWidth": 579,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
-      "width": 151,
-      "x": 84.5,
-      "y": 31
+      "width": 151
     },
     {
       "alt": "ČIA GERA GRĮŽTI. Poilsis ant oranžinės TIK BALDAI sofos",
@@ -238,9 +18,7 @@
       "naturalHeight": 1402,
       "naturalWidth": 1122,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/62aa63c4d91279e7184ff4417dd4c3fa3a83a30f/assets/welcome-01/hero-studio-v3-381c3602090d.jpg",
-      "width": 320,
-      "x": 0,
-      "y": 84.1171875
+      "width": 320
     },
     {
       "alt": "",
@@ -249,9 +27,7 @@
       "naturalHeight": 120,
       "naturalWidth": 1200,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/hero-transition-v4-63ff1ba699a7.png",
-      "width": 320,
-      "x": 0,
-      "y": 482.96875
+      "width": 320
     },
     {
       "alt": "",
@@ -260,9 +36,7 @@
       "naturalHeight": 180,
       "naturalWidth": 1200,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-in-v4-6524af04d59c.png",
-      "width": 320,
-      "x": 0,
-      "y": 715.96875
+      "width": 320
     },
     {
       "alt": "",
@@ -271,9 +45,7 @@
       "naturalHeight": 180,
       "naturalWidth": 1200,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-out-v4-581df07fa226.png",
-      "width": 320,
-      "x": 0,
-      "y": 1163.96875
+      "width": 320
     },
     {
       "alt": "Valencia lova šviesiame miegamajame",
@@ -282,9 +54,7 @@
       "naturalHeight": 1254,
       "naturalWidth": 1254,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-bedroom-v2-26a8bd310b18.jpg",
-      "width": 272,
-      "x": 24,
-      "y": 1358.96875
+      "width": 272
     },
     {
       "alt": "Universe sofa šviesioje svetainėje",
@@ -293,9 +63,7 @@
       "naturalHeight": 1254,
       "naturalWidth": 1254,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-living-v2-bd31a97387e9.jpg",
-      "width": 272,
-      "x": 24,
-      "y": 1765.96875
+      "width": 272
     },
     {
       "alt": "Valgomojo stalas su keturiomis kėdėmis",
@@ -304,9 +72,7 @@
       "naturalHeight": 1254,
       "naturalWidth": 1254,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-dining-v2-4cbf7f9e4e1d.jpg",
-      "width": 272,
-      "x": 24,
-      "y": 2172.96875
+      "width": 272
     },
     {
       "alt": "Lauko baldų komplektas su šviesiomis pagalvėmis terasoje",
@@ -315,17 +81,142 @@
       "naturalHeight": 1254,
       "naturalWidth": 1254,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-outdoor-v2-c200bacbe99d.jpg",
-      "width": 272,
-      "x": 24,
-      "y": 2579.96875
+      "width": 272
+    }
+  ],
+  "links": [
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 45.1171875,
+      "href": "https://tikbaldai.lt/?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=logo",
+      "text": "",
+      "width": 151
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 399.8515625,
+      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=hero",
+      "text": "",
+      "width": 320
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 56,
+      "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=welcome_offer",
+      "text": "Išsirinkti baldus su 10 € nuolaida",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 272,
+      "href": "https://tikbaldai.lt/collections/miegamojo-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_bedroom",
+      "text": "",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 44,
+      "href": "https://tikbaldai.lt/collections/miegamojo-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_bedroom",
+      "text": "Žiūrėti lovas ir čiužinius",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 272,
+      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_living",
+      "text": "",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 44,
+      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_living",
+      "text": "Žiūrėti sofas ir fotelius",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 272,
+      "href": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_dining",
+      "text": "",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 44,
+      "href": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_dining",
+      "text": "Žiūrėti valgomojo komplektus",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 272,
+      "href": "https://tikbaldai.lt/collections/lauko-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_outdoor",
+      "text": "",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 44,
+      "href": "https://tikbaldai.lt/collections/lauko-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_outdoor",
+      "text": "Žiūrėti lauko baldų komplektus",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 46,
+      "href": "mailto:info@tikbaldai.lt",
+      "text": "Pasitarti dėl pasirinkimo",
+      "width": 147.8359375
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 46,
+      "href": "http://127.0.0.1:8773/welcome-01/%7B%7Bunsubscribe_url%7D%7D",
+      "text": "Atsisakyti naujienlaiškių",
+      "width": 115.5546875
     }
   ],
   "overflow": [],
+  "pixelRatio": 2,
   "scrollWidth": 320,
+  "shellWidth": 320,
+  "url": "http://127.0.0.1:8773/welcome-01/email.html",
   "width": 320,
-  "source_sha256": "3b32b39dc35d562a2ecbeba7b2f5040fc91d71d69baf6e45eb5e682225f63f82",
-  "html_sha256": "3b32b39dc35d562a2ecbeba7b2f5040fc91d71d69baf6e45eb5e682225f63f82",
-  "screenshot_sha256": "69738bd7324287e95db4bcdbb55de0bd7c22fa41d7472620836078b7a463b26a",
+  "harness": {
+    "frame": {
+      "bottom": 2135.5,
+      "height": 3528,
+      "left": 26,
+      "right": 346,
+      "top": -1392.5,
+      "width": 320,
+      "x": 26,
+      "y": -1392.5
+    },
+    "pixelRatio": 2,
+    "width": 690
+  },
+  "afterCapture": {
+    "height": 3528,
+    "width": 320
+  },
+  "source_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+  "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+  "screenshot_sha256": "1dafb8d74f1e51dea27bed3c1050106b18037f6492cfaa2a365dd25848030eab",
   "asset_hashes": {
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/62aa63c4d91279e7184ff4417dd4c3fa3a83a30f/assets/welcome-01/hero-studio-v3-381c3602090d.jpg": "381c3602090d294d6c0b28203343a15db5f1c75b48a8e58360834a7cc00a25c2",
@@ -337,5 +228,48 @@
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-dining-v2-4cbf7f9e4e1d.jpg": "4cbf7f9e4e1df84594c2786440ef9b74fd8fd0a56979b29c31bb64c581bb4fec",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-outdoor-v2-c200bacbe99d.jpg": "c200bacbe99d558c030fc42fdd7ae7837272bcd0e5dfd5ce4fac874c6bdbe6ea"
   },
-  "saved_utc": "2026-10-10T16:55:15.832730+00:00"
+  "saved_utc": "2026-10-10T17:24:55.811285+00:00",
+  "review_crop": {
+    "file": "qa-crops/welcome-01-w320.jpg",
+    "source_screenshot_sha256": "89406d4b2e5e3bb19316dab88d6e4ba7fecbac6df3d409406612aa23553b0f8d",
+    "sha256": "1dafb8d74f1e51dea27bed3c1050106b18037f6492cfaa2a365dd25848030eab",
+    "box": [
+      26,
+      50,
+      346,
+      3578
+    ],
+    "note": "Fixed CSS iframe. Browser full page capture; crop removes only QA harness. Frame stays at requested CSS width before and after capture."
+  },
+  "raw_screenshot": "../../cta-refresh/qa/welcome-01-w320.jpg",
+  "raw_screenshot_sha256": "89406d4b2e5e3bb19316dab88d6e4ba7fecbac6df3d409406612aa23553b0f8d",
+  "visual_review": {
+    "name": "welcome-01-w320",
+    "status": "PASS",
+    "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+    "width_css_px": 320,
+    "head_styles_removed": false,
+    "rendered_source_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+    "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-01-w320.jpg",
+    "source_screenshot_sha256": "89406d4b2e5e3bb19316dab88d6e4ba7fecbac6df3d409406612aa23553b0f8d",
+    "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-w320.jpg",
+    "review_crop_sha256": "1dafb8d74f1e51dea27bed3c1050106b18037f6492cfaa2a365dd25848030eab",
+    "viewed_via": [
+      "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-normal-contact.jpg",
+      "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-01-w320.jpg"
+    ],
+    "findings": [
+      "Coherent single column categories, each full photo immediately associated with its heading and shopping link.",
+      "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+      "Primary shopping CTA is one line and 56 px high; named category links are intact and remain with their photos."
+    ],
+    "metrics": {
+      "footer_present": true,
+      "overflow_count": 0,
+      "all_images_loaded": true,
+      "minimum_text_link_height_px": 44,
+      "shell_width_css_px": 320
+    },
+    "issues": []
+  }
 }

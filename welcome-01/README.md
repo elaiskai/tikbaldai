@@ -1,11 +1,11 @@
-# TIK BALDAI welcome 01, versija 8
+# TIK BALDAI welcome 01, versija 9
 
-Atnaujintos kategorijų kompozicijos pagal tikrus katalogo produktų vaizdus. Šiltas akmens fonas, natūrali šviesa ir vienodos nuotraukų proporcijos. Hero ir laiško tekstas išlaikyti.
+Tema: Sveiki atvykę. Išsirinkite baldus su 10 € nuolaida
 
-Tema: Sveiki atvykę. Jūsų namams dovanojame 10 €
+Preheaderis: Rinkitės lovas, sofas ir kitus baldus. Pirmam užsakymui naudokite kodą SVEIKI10.
 
-Preheaderis: Susipažinkime. Atraskite baldus savo namams su kodu SVEIKI10.
+Pagrindiniai mygtukai kviečia peržiūrėti konkrečias baldų kategorijas ir išsirinkti prekes. Konsultacija yra papildoma pagalba. Hero ir kategorijų nuotraukos šioje redakcijoje nekeistos.
 
-Patikrintas dabartinis HTML 600 px kompiuterio ir 320, 390, 430 px mobiliais pločiais, su papildomais stiliais ir be jų. Visos aštuonios naujos peržiūros vizualiai patikrintos. Įrodymai susieti su HTML ir vaizdų SHA256. Tai naršyklės patikra, platformos testinio siuntimo dar reikia.
+Dabartinis HTML vizualiai patikrintas 600, 320, 390, 430 px CSS pločiais, su head stiliais ir be jų. Aštuonios naujos peržiūros susietos su HTML SHA256. Tai naršyklės patikra, ne Gmail ar Omnisend testinis siuntimas.
 
-Vaizdai yra AI kampanijos kompozicijos, sukurtos pagal katalogo produktų referencijas. Jos nėra nepakitusios gamintojo nuotraukos. SVEIKI10 kodo ir jo sąlygų patvirtinimas, platformos atsisakymo žymuo ir tikras testinis siuntimas reikalingi prieš aktyvuojant automatizaciją.
+SVEIKI10 yra darbinis vartotojo numatyto 10 € pasiūlymo kodas. Veikimas ir sąlygos parduotuvėje netestuoti. Prieš siuntimą reikia platformos atsisakymo žymens ir testinio siuntimo. Automatizacija neaktyvuota.

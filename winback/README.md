@@ -1,12 +1,12 @@
 # TIK BALDAI winback laiškai
 
-Trys atskiri HTML dizaino maketai esamiems baldų pirkėjams. Versija 2, 2026 m. spalio 10 d.
+Trys atskiri HTML dizaino maketai esamiems baldų pirkėjams. CTA redakcija, 2026 m. spalio 10 d.
 
 | Laiškas | Paskirtis | Siūlomas laikas |
 |---|---|---|
 | [1](email-01.html) | Sugrįžti su nauju poreikiu namams, pasirinkti kategoriją | 180 dieną nuo paskutinio užsakymo |
 | [2](email-02.html) | Sugrįžimo pasiūlymas ir kategorijų atranka | 187 dieną, jei nepirko |
-| [3](email-03.html) | Pasitarti dėl dominančio baldo ir užbaigti pasirinkimą | 194 dieną, jei nepirko ir paspaudė laiške ar patikimai užfiksuotas apsilankymas |
+| [3](email-03.html) | Apžiūrėti sofas lovas, fotelius ir kavos staliukus, pirkti su sugrįžimo kodu | 194 dieną, jei nepirko ir paspaudė laiške ar patikimai užfiksuotas apsilankymas |
 
 ## Turinys
 
@@ -25,3 +25,5 @@ Kiekvienam dabartiniam HTML išsaugomos aštuonios peržiūros: 600 px desktop i
 Vaizdai naudoja viešus HTTPS adresus, susietus su konkrečiu Git commit. Šaltinių atitikmenys yra `assets.json`. Prieš realų siuntimą reikia patvirtinti pasiūlymą, pakeisti `{{unsubscribe_url}}` platformos atsisakymo žymeniu, sujungti siuntimo bei segmentavimo taisykles ir atlikti testinį platformos siuntimą. Automatizacija neaktyvuota ir jokie laiškai neišsiųsti.
 
 `email-*.json` saugo temas ir preheaderius, `email-*-copy.txt` tekstus. `build.py` atkuria HTML. Pakeitus jį, dabartinė QA nebegalioja.
+
+Winback 3 hero yra AI koliažas su tikbaldai.lt oranžine sofa ir baltu apvaliu kavos staliuku. Lempa, žvakė, vaza, knygos ir vaisiai yra dekoratyviniai rekvizitai, ne patvirtintos katalogo prekės. Kilmė: hero-v3/provenance.json.

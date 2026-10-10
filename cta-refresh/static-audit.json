@@ -1,0 +1,459 @@
+{
+  "audited_utc": "2026-10-10T17:24:11.049757+00:00",
+  "status": "PASS_STATIC_WITH_DOCUMENTATION_NOTE",
+  "scope": "Static audit of the six current HTML files, their metadata, existing official category verification and prior brand evidence. No browser, fresh web fetch, email edit or visual inspection performed in this task.",
+  "emails": [
+    {
+      "email": "welcome-01",
+      "html_path": "research/tikbaldai/welcome-01/email.html",
+      "metadata_path": "research/tikbaldai/welcome-01/metadata.json",
+      "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+      "status": "PASS",
+      "checks": {
+        "metadata_hash_matches": true,
+        "dash_free_customer_text": true,
+        "subject_present_in_html": true,
+        "preheader_present_in_html": true,
+        "outlook_ctas_match": true,
+        "unsubscribe_placeholder_present": true,
+        "primary_buying_destination_is_collection": true,
+        "category_labels_compatible": true,
+        "no_unsubstantiated_urgency_or_benefit_found": true,
+        "role_consistent_with_current_metadata": true
+      },
+      "dash_findings": {},
+      "buying_ctas": [
+        {
+          "text": "Išsirinkti baldus su 10 € nuolaida",
+          "url": "https://tikbaldai.lt/collections/populiariausi?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=welcome_offer",
+          "official_collection_title": "POPULIARIAUSI",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Žiūrėti lovas ir čiužinius",
+          "url": "https://tikbaldai.lt/collections/miegamojo-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_bedroom",
+          "official_collection_title": null,
+          "proof": "welcome-01/category-sources-v2.json, official URL checked 2026-10-08",
+          "scope_match": "Compatible; living and bedroom destinations include more furniture types than the selected examples."
+        },
+        {
+          "text": "Žiūrėti sofas ir fotelius",
+          "url": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_living",
+          "official_collection_title": "Svetainė",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible; living and bedroom destinations include more furniture types than the selected examples."
+        },
+        {
+          "text": "Žiūrėti valgomojo komplektus",
+          "url": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_dining",
+          "official_collection_title": "Virtuvės ir valgomojo baldų komplektai",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Žiūrėti lauko baldų komplektus",
+          "url": "https://tikbaldai.lt/collections/lauko-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=category_outdoor",
+          "official_collection_title": null,
+          "proof": "welcome-01/category-sources-v2.json, official URL checked 2026-10-08",
+          "scope_match": "Compatible"
+        }
+      ],
+      "outlook_ctas": [
+        {
+          "text": "Išsirinkti baldus su 10 € nuolaida",
+          "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=welcome&utm_medium=email&utm_campaign=welcome_01&utm_content=welcome_offer",
+          "matches_html_cta": true
+        }
+      ],
+      "intended_role": "Brand introduction, first purchase offer and broad furniture category selection.",
+      "content_issues": []
+    },
+    {
+      "email": "welcome-02",
+      "html_path": "research/tikbaldai/welcome-02/email.html",
+      "metadata_path": "research/tikbaldai/welcome-02/metadata.json",
+      "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
+      "status": "PASS",
+      "checks": {
+        "metadata_hash_matches": true,
+        "dash_free_customer_text": true,
+        "subject_present_in_html": true,
+        "preheader_present_in_html": true,
+        "outlook_ctas_match": true,
+        "unsubscribe_placeholder_present": true,
+        "primary_buying_destination_is_collection": true,
+        "category_labels_compatible": true,
+        "no_unsubstantiated_urgency_or_benefit_found": true,
+        "role_consistent_with_current_metadata": true
+      },
+      "dash_findings": {},
+      "buying_ctas": [
+        {
+          "text": "Žiūrėti populiariausius baldus",
+          "url": "https://tikbaldai.lt/collections/populiariausi?utm_source=welcome&utm_medium=email&utm_campaign=welcome_02&utm_content=browse",
+          "official_collection_title": "POPULIARIAUSI",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Žiūrėti lovos ir čiužinio komplektus  ↗",
+          "url": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_02&utm_content=category_lova-ciuzinys-pasiulymai",
+          "official_collection_title": "Lova + čiužinys pasiūlymai",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Žiūrėti sofas ir fotelius  ↗",
+          "url": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_02&utm_content=category_svetaines-baldai",
+          "official_collection_title": "Svetainė",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible; living and bedroom destinations include more furniture types than the selected examples."
+        },
+        {
+          "text": "Žiūrėti valgomojo komplektus  ↗",
+          "url": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_02&utm_content=category_virtuves-ir-valgomojo-baldu-komplektai",
+          "official_collection_title": "Virtuvės ir valgomojo baldų komplektai",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Žiūrėti spintas ir komodas  ↗",
+          "url": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=welcome&utm_medium=email&utm_campaign=welcome_02&utm_content=category_spintos-komodos",
+          "official_collection_title": "Spintos / Komodos",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Rinktis baldus namams",
+          "url": "https://tikbaldai.lt/collections/populiariausi?utm_source=welcome&utm_medium=email&utm_campaign=welcome_02&utm_content=browse_after_benefits",
+          "official_collection_title": "POPULIARIAUSI",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        }
+      ],
+      "outlook_ctas": [
+        {
+          "text": "Žiūrėti populiariausius baldus",
+          "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=welcome&utm_medium=email&utm_campaign=welcome_02&utm_content=browse",
+          "matches_html_cta": true
+        },
+        {
+          "text": "Rinktis baldus namams",
+          "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=welcome&utm_medium=email&utm_campaign=welcome_02&utm_content=browse_after_benefits",
+          "matches_html_cta": true
+        }
+      ],
+      "intended_role": "Category browsing and factual payment options, with shopping as primary action.",
+      "content_issues": []
+    },
+    {
+      "email": "welcome-03",
+      "html_path": "research/tikbaldai/welcome-03/email.html",
+      "metadata_path": "research/tikbaldai/welcome-03/metadata.json",
+      "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+      "status": "PASS",
+      "checks": {
+        "metadata_hash_matches": true,
+        "dash_free_customer_text": true,
+        "subject_present_in_html": true,
+        "preheader_present_in_html": true,
+        "outlook_ctas_match": true,
+        "unsubscribe_placeholder_present": true,
+        "primary_buying_destination_is_collection": true,
+        "category_labels_compatible": true,
+        "no_unsubstantiated_urgency_or_benefit_found": true,
+        "role_consistent_with_current_metadata": true
+      },
+      "dash_findings": {},
+      "buying_ctas": [
+        {
+          "text": "Žiūrėti lovos ir čiužinio komplektus",
+          "url": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=category_lova-ciuzinys-pasiulymai",
+          "official_collection_title": "Lova + čiužinys pasiūlymai",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Žiūrėti svetainės baldus",
+          "url": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=category_svetaines-baldai",
+          "official_collection_title": "Svetainė",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible; living and bedroom destinations include more furniture types than the selected examples."
+        },
+        {
+          "text": "Žiūrėti spintas ir komodas",
+          "url": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=category_spintos-komodos",
+          "official_collection_title": "Spintos / Komodos",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Rinktis baldus su 10 € nuolaida",
+          "url": "https://tikbaldai.lt/collections/populiariausi?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=welcome_gift",
+          "official_collection_title": "POPULIARIAUSI",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        }
+      ],
+      "outlook_ctas": [
+        {
+          "text": "Žiūrėti lovos ir čiužinio komplektus",
+          "href": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=category_lova-ciuzinys-pasiulymai",
+          "matches_html_cta": true
+        },
+        {
+          "text": "Žiūrėti svetainės baldus",
+          "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=category_svetaines-baldai",
+          "matches_html_cta": true
+        },
+        {
+          "text": "Žiūrėti spintas ir komodas",
+          "href": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=category_spintos-komodos",
+          "matches_html_cta": true
+        },
+        {
+          "text": "Rinktis baldus su 10 € nuolaida",
+          "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=welcome_gift",
+          "matches_html_cta": true
+        }
+      ],
+      "intended_role": "First purchase category selection and welcome code, with concise practical buying checks.",
+      "content_issues": []
+    },
+    {
+      "email": "winback-01",
+      "html_path": "research/tikbaldai/winback/email-01.html",
+      "metadata_path": "research/tikbaldai/winback/email-01.json",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+      "status": "PASS",
+      "checks": {
+        "metadata_hash_matches": true,
+        "dash_free_customer_text": true,
+        "subject_present_in_html": true,
+        "preheader_present_in_html": true,
+        "outlook_ctas_match": true,
+        "unsubscribe_placeholder_present": true,
+        "primary_buying_destination_is_collection": true,
+        "category_labels_compatible": true,
+        "no_unsubstantiated_urgency_or_benefit_found": true,
+        "role_consistent_with_current_metadata": true
+      },
+      "dash_findings": {},
+      "buying_ctas": [
+        {
+          "text": "Žiūrėti svetainės baldus",
+          "url": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_living",
+          "official_collection_title": "Svetainė",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible; living and bedroom destinations include more furniture types than the selected examples."
+        },
+        {
+          "text": "Žiūrėti spintas ir komodas",
+          "url": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_storage",
+          "official_collection_title": "Spintos / Komodos",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Žiūrėti valgomojo komplektus",
+          "url": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_dining",
+          "official_collection_title": "Virtuvės ir valgomojo baldų komplektai",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Žiūrėti populiariausius",
+          "url": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=browse_popular",
+          "official_collection_title": "POPULIARIAUSI",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        }
+      ],
+      "outlook_ctas": [
+        {
+          "text": "Žiūrėti populiariausius",
+          "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=browse_popular",
+          "matches_html_cta": true
+        }
+      ],
+      "intended_role": "Existing customer reactivation through new furniture needs, without discount.",
+      "content_issues": []
+    },
+    {
+      "email": "winback-02",
+      "html_path": "research/tikbaldai/winback/email-02.html",
+      "metadata_path": "research/tikbaldai/winback/email-02.json",
+      "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+      "status": "PASS",
+      "checks": {
+        "metadata_hash_matches": true,
+        "dash_free_customer_text": true,
+        "subject_present_in_html": true,
+        "preheader_present_in_html": true,
+        "outlook_ctas_match": true,
+        "unsubscribe_placeholder_present": true,
+        "primary_buying_destination_is_collection": true,
+        "category_labels_compatible": true,
+        "no_unsubstantiated_urgency_or_benefit_found": true,
+        "role_consistent_with_current_metadata": true
+      },
+      "dash_findings": {},
+      "buying_ctas": [
+        {
+          "text": "Rinktis baldus su kodu",
+          "url": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=return_offer",
+          "official_collection_title": "POPULIARIAUSI",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Žiūrėti valgomojo komplektus",
+          "url": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_dining",
+          "official_collection_title": "Virtuvės ir valgomojo baldų komplektai",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Žiūrėti spintas ir komodas",
+          "url": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_storage",
+          "official_collection_title": "Spintos / Komodos",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Žiūrėti populiariausius",
+          "url": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=browse_popular",
+          "official_collection_title": "POPULIARIAUSI",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        }
+      ],
+      "outlook_ctas": [
+        {
+          "text": "Rinktis baldus su kodu",
+          "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=return_offer",
+          "matches_html_cta": true
+        },
+        {
+          "text": "Žiūrėti populiariausius",
+          "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=browse_popular",
+          "matches_html_cta": true
+        }
+      ],
+      "intended_role": "Returning customer code and complementary category browsing, no invented amount or expiry.",
+      "content_issues": []
+    },
+    {
+      "email": "winback-03",
+      "html_path": "research/tikbaldai/winback/email-03.html",
+      "metadata_path": "research/tikbaldai/winback/email-03.json",
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "status": "PASS",
+      "checks": {
+        "metadata_hash_matches": true,
+        "dash_free_customer_text": true,
+        "subject_present_in_html": true,
+        "preheader_present_in_html": true,
+        "outlook_ctas_match": true,
+        "unsubscribe_placeholder_present": true,
+        "primary_buying_destination_is_collection": true,
+        "category_labels_compatible": true,
+        "no_unsubstantiated_urgency_or_benefit_found": true,
+        "role_consistent_with_current_metadata": true
+      },
+      "dash_findings": {},
+      "buying_ctas": [
+        {
+          "text": "Žiūrėti sofas lovas",
+          "url": "https://tikbaldai.lt/collections/sofos-lovos?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=category_sofas",
+          "official_collection_title": "Sofos lovos",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Žiūrėti fotelius",
+          "url": "https://tikbaldai.lt/collections/foteliai-kedes?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=category_armchairs",
+          "official_collection_title": "Foteliai / Reklaineriai",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Žiūrėti kavos staliukus",
+          "url": "https://tikbaldai.lt/collections/kavos-staliukai?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=category_tables",
+          "official_collection_title": "Kavos staliukai",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        },
+        {
+          "text": "Rinktis baldus su kodu",
+          "url": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=return_offer",
+          "official_collection_title": "POPULIARIAUSI",
+          "proof": "cta-refresh/category-links.json live check on 2026-10-10",
+          "scope_match": "Compatible"
+        }
+      ],
+      "outlook_ctas": [
+        {
+          "text": "Žiūrėti sofas lovas",
+          "href": "https://tikbaldai.lt/collections/sofos-lovos?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=category_sofas",
+          "matches_html_cta": true
+        },
+        {
+          "text": "Žiūrėti fotelius",
+          "href": "https://tikbaldai.lt/collections/foteliai-kedes?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=category_armchairs",
+          "matches_html_cta": true
+        },
+        {
+          "text": "Žiūrėti kavos staliukus",
+          "href": "https://tikbaldai.lt/collections/kavos-staliukai?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=category_tables",
+          "matches_html_cta": true
+        },
+        {
+          "text": "Rinktis baldus su kodu",
+          "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=return_offer",
+          "matches_html_cta": true
+        }
+      ],
+      "intended_role": "Engaged existing customers choosing living room furniture, return code and secondary help.",
+      "content_issues": []
+    }
+  ],
+  "truthfulness_review": {
+    "payment_methods": "Welcome 01 and 02 payment on delivery and instalment wording is supported by the client questionnaire and official-site evidence in welcome-02/sources.json and BRAND-DNA.md section 6. No zero-interest or approval guarantee stated.",
+    "help_and_selection": "Selection assistance follows the client questionnaire. Dimension, function and material prompts are generic buying advice, not specific performance promises.",
+    "welcome_offer": "10 EUR SVEIKI10 is the previously user-requested assumed welcome offer. Current metadata correctly flags configuration as unverified.",
+    "return_offer": "assugrizau is an existing returning-customer code in project evidence. Current copy omits its unresolved amount and does not invent expiry, exclusivity or minimum spend.",
+    "claims_not_present": [
+      "Universal free delivery",
+      "Universal Lithuanian manufacture",
+      "Medical benefits",
+      "Guaranteed stock",
+      "Invented scarcity or expiry",
+      "Unverified fixed return discount amount"
+    ]
+  },
+  "documentation_issues": [
+    {
+      "severity": "documentation",
+      "file": "research/tikbaldai/welcome-03/sources.json",
+      "field": "copy_claims",
+      "issue": "The current source record still carries the previous HTML hash and consultation-first primary CTA and role. Its old primary_cta is Pasitarti dėl pasirinkimo; current metadata identifies Rinktis baldus su 10 € nuolaida.",
+      "recorded_html_sha256": "7abc138c4d90e65f2eee2c7eac2b9a32e0c908c54efae02a124a9214f42ea51a",
+      "current_html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+      "action": "Update or explicitly archive the version-specific copy_claims record so it does not present the former email role and hash as current."
+    }
+  ],
+  "existing_activation_prerequisites": [
+    "Configure and test the 10 EUR SVEIKI10 first-order offer before sending.",
+    "Confirm and test assugrizau eligibility, amount and configuration before sending.",
+    "Replace the unsubscribe template with the sending platform token and test it.",
+    "Apply welcome purchase suppression and winback eligible-customer rules; winback 03 engagement gating is recorded in metadata but not configured here."
+  ],
+  "limitations": [
+    "Rasterized image text requires the separately planned fresh visual review.",
+    "Static content approval does not certify responsive rendering or actual email client delivery.",
+    "Only eight collection metadata destinations have the fresh proof record; welcome 01 bedroom and outdoor URLs retain prior official checks dated 2026-10-08."
+  ],
+  "follow_up_resolution": "welcome-03/sources.json current role, CTA and HTML hash updated; prior copy claims retained under prior_copy_claims_v5."
+}

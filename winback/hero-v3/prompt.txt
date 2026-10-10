@@ -1,0 +1,26 @@
+Use case: ads-marketing.
+Create one premium portrait 4:5 email hero collage for Lithuanian furniture retailer TIK BALDAI, about 1200 by 1500 pixels.
+Input 1 is the user's composition reference. Match its precise visual hierarchy, object placement, scale, white paper ground, art-directed cutout treatment and restrained black typography as closely as possible, while replacing its furniture with the authentic products in inputs 2 and 3.
+Input 2 is the ONLY sofa identity reference: the actual orange TIK BALDAI two-seat corduroy sofa. Preserve its orange red fabric color, fine vertical corduroy ribs, one continuous bench seat, two separate large back cushions, wide softly square arms, box upholstered base, and short black feet. Remove the source room and the white decorative cushion. Do not copy the brown rounded Mimi sofa in input 1.
+Input 3 is the ONLY coffee table identity reference: a single white circular tray/drum top with a thin projecting rim, four brown splayed wooden legs and visible cross braces. Preserve this exact product construction and natural width to height proportions. It is NOT a pedestal or an oval table. Do not copy the Avery table in input 1.
+
+Composition on a very subtly textured near-white #FAFAF8 background:
+At x10%, y8% a tight left-aligned compact black sans-serif headline, three lines.
+At x49%, y8%, a straight edged portrait rectangle occupying 41% of canvas width and 49% of canvas height. Inside it, a new original macro photograph of glossy burnt orange apricot halves in syrup, rich amber highlights, close packed fruit. No border, no rounded corners.
+At x31%, y22% a small isolated translucent amber glass table lamp, with ribbed shade and a simple bottle-shaped base, unbranded generic styling prop, like the reference's placement.
+The authentic orange sofa is the largest foreground cutout. Position x8% to x69%, center y55%, front view slightly looking down, spanning roughly 61% of canvas width, overlapping the bottom left edge of the apricot photograph. Entire sofa visible, natural geometry, soft understated contact shadow, no room around it.
+At x18%, y70% a small amber glass candle with blank glass and no printed marks, no logos, generic styling prop.
+At the lower right, x49% to x90%, y73% to y91%, position the authentic white round table from input3, sized naturally in relation to the sofa. Preserve its round white top and all four brown wood legs. A tiny matte ivory vase with a few dry stems and two slim neutral books sit on it as tasteful styling props. Keep the table fully within the image, not cropped.
+Maintain the same generous margins, compact object overlaps and clean editorial catalog collage feeling as input1. Do not turn this into a furnished room or an isometric scene.
+
+Text (verbatim, black neutral neo-grotesk sans serif, sharp and legible):
+Upper-left headline exactly:
+"KAIP DERINTI
+ORANŽINĘ
+SOFĄ."
+Small black label left of sofa at x10%, y38%:
+"ORANŽINĖ SOFA"
+Small black label above table around x45%, y68%:
+"KAVOS STALIUKAS"
+
+Constraints: Exact Lithuanian spelling: KAIP DERINTI, ORANŽINĘ, SOFĄ., ORANŽINĖ SOFA, KAVOS STALIUKAS. Accents Ž Ę Ą Ė must be correct. No hyphens, no dashes. Typography black, aligned like the reference. Sofa and table must be recognizable exact input products; do not recolor or redesign them. Do not add the original reference brand, product names, prices, AED, logo, watermarks, candle lettering or extra copy. There are exactly one sofa and one coffee table. Lamp, candle, vase and books are generic styling props, not labeled retail products. No extra furniture. Natural soft studio lighting, no artificial CGI sheen. Preserve the sophisticated reference composition as closely as the real product geometry allows.

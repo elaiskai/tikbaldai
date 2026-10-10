@@ -1,0 +1,429 @@
+{
+  "date": "2026-10-10",
+  "scope": "Shopping CTA and category update across all six emails",
+  "browser_qa_pass": true,
+  "platform_delivery_verified": false,
+  "method": "Fresh current HTML in fixed CSS width iframe; 600 desktop and 320/390/430 mobile, normal and head styles/font links removed. Captures preserve full footer. Crops only remove QA harness.",
+  "emails": {
+    "welcome-01": {
+      "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+      "browser_qa_pass": true,
+      "views": [
+        {
+          "name": "welcome-01-w320",
+          "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+          "screenshot_sha256": "89406d4b2e5e3bb19316dab88d6e4ba7fecbac6df3d409406612aa23553b0f8d",
+          "crop_sha256": "1dafb8d74f1e51dea27bed3c1050106b18037f6492cfaa2a365dd25848030eab",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-01-w320-stripped",
+          "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+          "screenshot_sha256": "f04ab4d1d43175fc10326105ae1554df30199c6e137d198a3ca86a9d88fd712e",
+          "crop_sha256": "14907c8fda05c9c96d2bc1d402355a9954760123832471e6d74dfe399156b494",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-01-w390",
+          "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+          "screenshot_sha256": "371992058a69da45c9b6c08cd9af43e2dd1e4545ab127e0159fcd22b97ffc91f",
+          "crop_sha256": "440134116064be59d70b6623bc04eb404892adae5be372ae0724f71b6229c4b6",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-01-w390-stripped",
+          "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+          "screenshot_sha256": "06dd296114f6883551203260cd8a6748c64d42b7622b62f4ab78c8f04a62cd65",
+          "crop_sha256": "440134116064be59d70b6623bc04eb404892adae5be372ae0724f71b6229c4b6",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-01-w430",
+          "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+          "screenshot_sha256": "315176aa79de2c577a878290bec65188e73fafaf51d7c8691ecf7d76dd56e49d",
+          "crop_sha256": "93c84edc6dae9a4c0da79f61d9738507c517f8873c0883f1185e506a06472ffe",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-01-w430-stripped",
+          "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+          "screenshot_sha256": "d4be8d4a51d1022572bad652a7d1523b8c0aed10834a39181ccf5247099a0451",
+          "crop_sha256": "26a3463fe8ef1be34278156c7cc2e5a5c9f85b62378ac4835f41419d928d6877",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-01-w600",
+          "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+          "screenshot_sha256": "a62d6fa9b7d4c44eefbac9674b2f06625ae580fa2080eae82ae4cb77b26d0f2e",
+          "crop_sha256": "13f3d4b0b4556e92df7a99143b2df965241f8ba960cc2591439f5f8892e41cf8",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-01-w600-stripped",
+          "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+          "screenshot_sha256": "9b015623a1650e42b586e552aa03d69407b29e2558ff88d67f07a1ef92811a37",
+          "crop_sha256": "60e64d37a51483cd949e0480ea578c7e8b3c723acce6c1aa629018f88d16a577",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        }
+      ]
+    },
+    "welcome-02": {
+      "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
+      "browser_qa_pass": true,
+      "views": [
+        {
+          "name": "welcome-02-w320",
+          "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
+          "screenshot_sha256": "6a4823a56a724af7451591f86f494ed74bc4a560afe1d580cd6356e1aa219ec1",
+          "crop_sha256": "8934103d7226c33fada3a7111cc2b40c69f4c348feb2a02462f0afdc495a5994",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-02-w320-stripped",
+          "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
+          "screenshot_sha256": "64cc7be0b4251b712183d78422aa50656a07d0cce130cedebd3f9b1cc09d20a7",
+          "crop_sha256": "dd493e82092f57d68f2a56923bb8861985a318ce25ec07199831163439a6e0cd",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-02-w390",
+          "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
+          "screenshot_sha256": "14ea9b83c895cf7a3edbb7d5650475b7853473d07d984acb625b9382cc4d238e",
+          "crop_sha256": "cde41fbb0ff36d17c576311d0aae9d231cdb502ff7543b2a3e2d65fe547273b5",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-02-w390-stripped",
+          "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
+          "screenshot_sha256": "ec51dacb7d06f6215c1861caf2272bee93a9c3ee0c210c12369a33377a07f08e",
+          "crop_sha256": "f8831ef0f2f04b6c91b411acb0d02ee73532795024cd9486044dc43d4ad91239",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-02-w430",
+          "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
+          "screenshot_sha256": "cdbae0dbea843ec6ad33caa1392877fd1fa10dabc2e77406a0b1ab4cc7d098f3",
+          "crop_sha256": "880985790c995d9822a8e522a637badddb458946a9e09cf20eff814d0837aeff",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-02-w430-stripped",
+          "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
+          "screenshot_sha256": "5fbf64c0087730f7852dad8a536ed072dd5bbd65c62b543d0023324cb1ac0c92",
+          "crop_sha256": "81efb371917a991f9e97ad65d3685b48c761d42377200330be5e96ef926c0385",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-02-w600",
+          "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
+          "screenshot_sha256": "ecefd537cac2a6ccb1ad4759930d087501d5a675a09448ad58ff7696c857f0ad",
+          "crop_sha256": "2c905d1a09da6c74283b821689cbe1b74e6351a64ef7d76c1852e40221097754",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-02-w600-stripped",
+          "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
+          "screenshot_sha256": "29499f7ba6da3d67d0194705a0c1a492bc31640a5d7db12d5f18a07bdbfbc572",
+          "crop_sha256": "a5e80eb3cd780d6bedb3091d47f9a4f2affd20ceefa2bf722cdfd24f857f3b8f",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        }
+      ]
+    },
+    "welcome-03": {
+      "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+      "browser_qa_pass": true,
+      "views": [
+        {
+          "name": "welcome-03-w320",
+          "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+          "screenshot_sha256": "8cf09fbe2146bfe25cb3959d4386da8cf705520226aa5e5cdd4f072652c3f24c",
+          "crop_sha256": "80d2e5a0bc6e9b08011219d44fcf32f574dca6fbbd92107bac2240e99fcaecc8",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-03-w320-stripped",
+          "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+          "screenshot_sha256": "62bb683a56918713e6b7a774015a89fc2d217409c55f1740ad56e731e707f3e4",
+          "crop_sha256": "5220606cf9394906f4d879b54a4b26251f57bf23eb254cf10a4850a45053302c",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-03-w390",
+          "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+          "screenshot_sha256": "6bf324853ee32228a30e974174c4b2545bb2851ba8602147499389adb539cf65",
+          "crop_sha256": "04ccbc5827fe3c3621d1f8f0f9459da7186f5f62e48eb451236988c109d85511",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-03-w390-stripped",
+          "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+          "screenshot_sha256": "9c41a671681ee5a0f35ce25580d92a8144632659cfedc1e4059edeae10560893",
+          "crop_sha256": "04ccbc5827fe3c3621d1f8f0f9459da7186f5f62e48eb451236988c109d85511",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-03-w430",
+          "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+          "screenshot_sha256": "4eab370cf59d07b3c1605713ad5c3f49111a1b0b38800396eece20c00fe9bbd2",
+          "crop_sha256": "8998214855818bb73e2ea40cd06bd084a1a52378b3bc933de4d9c45e03b522b7",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-03-w430-stripped",
+          "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+          "screenshot_sha256": "ee24bd5ef08f6401a8d570f1cd40c28977edd1bdfdaaca888c3de397ef2b5485",
+          "crop_sha256": "8998214855818bb73e2ea40cd06bd084a1a52378b3bc933de4d9c45e03b522b7",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-03-w600",
+          "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+          "screenshot_sha256": "edc5b7efe03652ac88eeef0a981ffca08f18ec9cb501770f29db129f3afb674a",
+          "crop_sha256": "844e937a3518370b699954fefde6ffbc790c61bbeb4037d6943bd9dbd4c88c18",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "welcome-03-w600-stripped",
+          "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+          "screenshot_sha256": "55541b2083cc23f27101d19f0c6b666c09ed7cd39ccd3aef76d97d4c541ab451",
+          "crop_sha256": "ef672d34815923ee8fdbf91a941ff536df937e117f85a8773584bdbb278d5629",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        }
+      ]
+    },
+    "winback-01": {
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+      "browser_qa_pass": true,
+      "views": [
+        {
+          "name": "winback-01-w320",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "196fb2c3040af364ca303b2e28016a60fdcf67f1587fb77abb15285cd9df2d07",
+          "crop_sha256": "36ffbb506a8ae4fdcfd94d487efc9ec64ed1b6d5c0aed49262deb1a6e8b7e334",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-01-w320-stripped",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "9b13e26fddbf18f23414628f22ed3be8270b8f8691d82fdb2027f2a0318c1aec",
+          "crop_sha256": "36ffbb506a8ae4fdcfd94d487efc9ec64ed1b6d5c0aed49262deb1a6e8b7e334",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-01-w390",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "be843ee991432a5d1966e08e5a0949bd0f1cb07137925776b7b068c6906be3e3",
+          "crop_sha256": "b9365dff3f8913dca08986834dd772fbca7720b86d76368293078ac548b6f41b",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-01-w390-stripped",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "45488b554ae343e61528a940bb3462d79257d1758d6bb0f5663b7971db8dac5f",
+          "crop_sha256": "b9365dff3f8913dca08986834dd772fbca7720b86d76368293078ac548b6f41b",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-01-w430",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "13082de579c12249a19a0c18d4942a0c3f4523f943871f6eac35aa57bf204cf8",
+          "crop_sha256": "492a660de45bcfcc314ab4d41f89f77d227c5a0f58450c032a4322fbb0ec114c",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-01-w430-stripped",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "ff896d5f36031072ed6ab5537cb1d16adccaab9b586a896de0af265916db63fe",
+          "crop_sha256": "492a660de45bcfcc314ab4d41f89f77d227c5a0f58450c032a4322fbb0ec114c",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-01-w600",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "38b6f777a20caa05c3e0e58dc1f7643cc34a0e01cfe9598b5c5abcfe7ba6e765",
+          "crop_sha256": "ca3d979e2d5c13046812d52cd1faa7f1047acdd66463a8fd889827ed05462a4a",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-01-w600-stripped",
+          "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+          "screenshot_sha256": "9c0e9b6133cd3e344fb89632429fb5629c97571ec5b6bad5ba251f351490ce00",
+          "crop_sha256": "42b3f834f13a97fc71bf4f9f3b33a5f3d4e1d63ff0d672197baa19a952eda52c",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        }
+      ]
+    },
+    "winback-02": {
+      "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+      "browser_qa_pass": true,
+      "views": [
+        {
+          "name": "winback-02-w320",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "2e4247a0ec620909075536c542db4afa75b5853c5a9bc4517c05202b9e680da4",
+          "crop_sha256": "42b6d0cdfe28cbd2d981b597754b24a3e1e26fa5155780efec0367ed4766945f",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-02-w320-stripped",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "f42d990d08df1251c6b96f1854c40b354e1f24f98f7771086d690c3f5e855b9b",
+          "crop_sha256": "42b6d0cdfe28cbd2d981b597754b24a3e1e26fa5155780efec0367ed4766945f",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-02-w390",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "5d6b846e022dbbf038e8871561e1f12da621719ba5742942d6c2772b92e717b5",
+          "crop_sha256": "58c307f95e2fa43fa76834ea69024d890db0e3f36542896373be9ef13587b3e5",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-02-w390-stripped",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "e8335d435888e32a35f1a1c54cadf24016043906dc24fe1e96ee383686e1bfb0",
+          "crop_sha256": "3b4bbcf48bc2058608836f22ad387f02a502be9f159c97331a9a2ec88fc53004",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-02-w430",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "5bc153203e4c54d9b2a6d066815584b94d072bf6a2123278ad3efd201635c855",
+          "crop_sha256": "f2c0759e8c77eab7ae2e0ba7122ecf10eb769b00bcb76648a705c2f54a05b158",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-02-w430-stripped",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "95fe20f42ad9c7f38fef06e2a023d832dd6a3a4a5f9add47371ce14033c646f1",
+          "crop_sha256": "f2c0759e8c77eab7ae2e0ba7122ecf10eb769b00bcb76648a705c2f54a05b158",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-02-w600",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "a3bd363f53b510e84c15ca7f96e5d172e3428ab2dc5e15789bc15e00b6c91d09",
+          "crop_sha256": "cd8dc33ef5d32f4705c24162792a48f73199c5eac901305e29baaf857b7836fc",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-02-w600-stripped",
+          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+          "screenshot_sha256": "24908738ec386e6eb537f98cba6bfe339071fc1278a282dcaa463fb9306ee44f",
+          "crop_sha256": "2a979d6f16e8939a98ad0c40d7e0435bdba32d46c57cb1bcc6ac2912d1c5a149",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        }
+      ]
+    },
+    "winback-03": {
+      "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+      "browser_qa_pass": true,
+      "views": [
+        {
+          "name": "winback-03-w320",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "a745a3ce7c10d8e3d1679c603e12f2317d094c589c5ce9cf9e9e1f0c6d2dd1bb",
+          "crop_sha256": "d010f74ffb9ba5a8ee41cbc1ad7123fb3507a1e154e49e8e70fc468962d7d271",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-03-w320-stripped",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "de0f4a82d2b49e836e36f23edc2071dbb29b5d47b58dee20d0cef226fea13b1c",
+          "crop_sha256": "d010f74ffb9ba5a8ee41cbc1ad7123fb3507a1e154e49e8e70fc468962d7d271",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-03-w390",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "b72c6fd1fe4f665315221fea10de5777e5c008d954f3141595a040d4d814664b",
+          "crop_sha256": "c9fae928609a5921e57f66b2dc8a9a8bb6c939a072fb07d29087ebd447c3e817",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-03-w390-stripped",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "75eb61354ec58c3d4c4fb4f4d9e0d882fa94d4c645a0fd01dc1063c1a449fa19",
+          "crop_sha256": "621d5f8cb305e95c24d46fd1df3a0f6a3f15978fcfc56b52835b75fae9a3cfe1",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-03-w430",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "df7988d8b0a78ccda7aecb5418b23c1a9a79e2dae6cf556ec69d663492257b86",
+          "crop_sha256": "2e319ae6263a2d63869e7f2964d604f950f8acc5481e3e39c9c54345f49200f8",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-03-w430-stripped",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "3e146b8f23c9d31ac53dbad95fb4f5fcd3e92d3453bc9c59cdd7c92ba3df40fc",
+          "crop_sha256": "2e319ae6263a2d63869e7f2964d604f950f8acc5481e3e39c9c54345f49200f8",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-03-w600",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "9ec35d441e77db2a96aac1376f8a944cbde14883ce4350ce1e745bbfc66baf4f",
+          "crop_sha256": "37d1801233b2a634688decf378e4e348984602cdae8dff84c2667848cb933fb2",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        },
+        {
+          "name": "winback-03-w600-stripped",
+          "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+          "screenshot_sha256": "a0c5f6941f46ddbc3e4b511a3b8dc21febebc3d55f9ae930ee1784fb4795cbbe",
+          "crop_sha256": "657ac8391e815accff6e7dc9886befc3c9bafe32a7137c77870782e527e66d0a",
+          "browser_qa_pass": true,
+          "visual_qa_pass": true
+        }
+      ]
+    }
+  }
+}

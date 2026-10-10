@@ -1,0 +1,134 @@
+{
+  "footerPresent": true,
+  "height": 2266,
+  "images": [
+    {
+      "alt": "TIK BALDAI",
+      "complete": true,
+      "height": 27.1171875,
+      "naturalHeight": 104,
+      "naturalWidth": 579,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
+      "width": 151
+    },
+    {
+      "alt": "Jūsų namų istorija. Ruda sofa ir juodo stiklo kavos staliukas jaukiame interjere",
+      "complete": true,
+      "height": 749.7265625,
+      "naturalHeight": 1402,
+      "naturalWidth": 1122,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-03/hero-editorial-v2-d3049a574e63.jpg",
+      "width": 600
+    }
+  ],
+  "links": [
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 45.1171875,
+      "href": "https://tikbaldai.lt/?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=logo",
+      "text": "",
+      "width": 151
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 749.7265625,
+      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=hero",
+      "text": "",
+      "width": 600
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 48,
+      "href": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=category_lova-ciuzinys-pasiulymai",
+      "text": "Žiūrėti lovos ir čiužinio komplektus",
+      "width": 524
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 48,
+      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=category_svetaines-baldai",
+      "text": "Žiūrėti svetainės baldus",
+      "width": 524
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 48,
+      "href": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=category_spintos-komodos",
+      "text": "Žiūrėti spintas ir komodas",
+      "width": 524
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 56,
+      "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=welcome_gift",
+      "text": "Rinktis baldus su 10 € nuolaida",
+      "width": 370
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 46,
+      "href": "mailto:info@tikbaldai.lt",
+      "text": "Klausimų apie pasirinktą baldą? Parašykite mums.",
+      "width": 290.46875
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 46,
+      "href": "http://127.0.0.1:8773/welcome-03/%7B%7Bunsubscribe_url%7D%7D",
+      "text": "Atsisakyti naujienlaiškių",
+      "width": 115.5546875
+    }
+  ],
+  "overflow": [],
+  "pixelRatio": 2,
+  "scrollWidth": 600,
+  "shellWidth": 600,
+  "url": "http://127.0.0.1:8773/welcome-03/email.html",
+  "width": 600,
+  "harness": {
+    "frame": {
+      "bottom": 1504.5,
+      "height": 2266,
+      "left": 26,
+      "right": 626,
+      "top": -761.5,
+      "width": 600,
+      "x": 26,
+      "y": -761.5
+    },
+    "pixelRatio": 2,
+    "width": 690
+  },
+  "afterCapture": {
+    "height": 2266,
+    "width": 600
+  },
+  "source_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+  "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+  "screenshot_sha256": "edc5b7efe03652ac88eeef0a981ffca08f18ec9cb501770f29db129f3afb674a",
+  "asset_hashes": {
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-03/hero-editorial-v2-d3049a574e63.jpg": "d3049a574e6399b393d89d126adac22bd79fd1bfbed61cae4a160bd2facde03b"
+  },
+  "saved_utc": "2026-10-10T17:25:24.805928+00:00",
+  "review_crop": {
+    "file": "qa-crops/welcome-03-w600.jpg",
+    "source_screenshot_sha256": "edc5b7efe03652ac88eeef0a981ffca08f18ec9cb501770f29db129f3afb674a",
+    "sha256": "844e937a3518370b699954fefde6ffbc790c61bbeb4037d6943bd9dbd4c88c18",
+    "box": [
+      26,
+      50,
+      626,
+      2316
+    ],
+    "note": "Fixed CSS iframe. Browser full page capture; crop removes only QA harness. Frame stays at requested CSS width before and after capture."
+  }
+}

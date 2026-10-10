@@ -13,9 +13,9 @@ Vieši welcome ir winback HTML maketai, vaizdai ir dabartinių versijų patikros
 
 ## Naujausia versija
 
-Winback 2 perdarytas pagal pateiktą reference: šviesus fonas, Universe sofa ant sidabrinio padėklo, gyva serifinė antraštė ir sugrįžimo kodo blokas. Kategorijų vaizdai welcome 1, welcome 2 ir winback serijoje pakeisti į vientisas šilto akmens aplinkos kompozicijas.
+Visuose šešiuose laiškuose sustiprinti prekių pasirinkimo ir pirkimo kvietimai. Mygtukai aiškiai įvardija kategorijas ir veda tiesiai į prekių sąrašus. Konsultacija yra papildoma nuoroda. Winback 3 siūlo sofas lovas, fotelius ir kavos staliukus bei primena sugrįžimo kodą.
 
-Hero ir atnaujinti kategorijų vaizdai sukurti su AI, naudojant tikrus katalogo produktų vaizdus kaip referencijas. Jie nėra nepakitusios gamintojo nuotraukos. [Vaizdų kilmė ir detalės](visual-refresh-v2/README.md).
+Winback 3 hero yra naujas redakcinis koliažas su tikbaldai.lt oranžinės sofos ir balto apvalaus kavos staliuko referencijomis. Kiti elementai yra dekoratyvinis rekvizitas. [Hero kilmė](winback/hero-v3/provenance.json). Kitų laiškų vaizdai šioje redakcijoje išlaikyti. Kampanijos kompozicijos kurtos su AI pagal katalogo referencijas, jos nėra nepakitusios gamintojo nuotraukos.
 
 ## Vieši vaizdai
 
@@ -23,7 +23,7 @@ HTML naudoja absoliučius HTTPS adresus raw.githubusercontent.com domene, susiet
 
 ## Patikra
 
-Visi penki šioje redakcijoje keisti laiškai tikrinti 600 px kompiuterio ir 320, 390, 430 px mobiliais pločiais, įprastai ir pašalinus head stilius bei fontų nuorodas. Kiekvienam išsaugotos ir vizualiai peržiūrėtos aštuonios naujos peržiūros. HTML, vaizdų bei screenshot hash susieti su ataskaitomis. Welcome 3 šioje redakcijoje nekeistas, išlaikyta jo ankstesnė patikra.
+Visi šeši dabartiniai HTML tikrinti 600 px kompiuterio ir 320, 390, 430 px mobiliais CSS pločiais, įprastai ir pašalinus head stilius bei fontų nuorodas. Išsaugotos ir vizualiai peržiūrėtos 48 naujos peržiūros. Fiksuoto pločio iframe užtikrina tikslų laiško CSS plotį; iš pilnų naršyklės nuotraukų iškirptas tik peržiūros rėmelis. HTML ir nuotraukų hash susieti [dabartinėje QA ataskaitoje](cta-refresh/qa-summary.json). Ankstesnis visual-refresh-v2 katalogas yra istorinė vaizdų atnaujinimo patikra.
 
 [Welcome versijų indeksas](publication.json), [Winback patikra](winback/qa-summary.json). Interaktyvios [welcome](responsive-preview.html) ir [winback](winback-preview.html) peržiūros veikia atsisiuntus repo ir paleidus vietinį HTTP serverį. GitHub rodo HTML šaltinį, o JPG nuorodos leidžia iš karto apžiūrėti laiškus.
 

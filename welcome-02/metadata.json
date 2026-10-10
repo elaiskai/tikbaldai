@@ -1,12 +1,13 @@
 {
-  "version": 6,
+  "version": 7,
   "updated_date": "2026-10-10",
   "subject": "Jaukumas turi daug formų",
-  "preheader": "Atraskite baldus poilsiui, laikui kartu ir kasdienei namų tvarkai.",
+  "preheader": "Rinkitės lovos ir čiužinio komplektus, sofas, valgomojo baldus bei komodas.",
   "delay_days": 2,
   "delay_origin": "Confirmed subscription",
-  "role": "Platus asortimentas pagal namų poreikį ir pagalba renkantis",
-  "primary_url": "https://tikbaldai.lt/",
+  "role": "Baldų pasirinkimas per konkrečias kategorijas ir populiarių baldų kolekciją",
+  "primary_url": "https://tikbaldai.lt/collections/populiariausi",
+  "primary_cta": "Žiūrėti populiariausius baldus",
   "hero_headline": "JAUKUMAS TURI DAUG FORMŲ.",
   "hero_sizes_px": {
     "fallback": 36,
@@ -35,13 +36,14 @@
       "mso": "VML roundrect, 370px by 56px, full shape hyperlink"
     },
     "head_stripped": "24px inline padding and full width stacked categories",
-    "qa_status": "PASS: four required widths, normal and stripped styles, eight fresh visually reviewed browser renders."
+    "qa_status": "PASS: eight fresh visually inspected fixed CSS width browser renders",
+    "qa_html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c"
   },
   "category_urls": {
-    "Lovos ir čiužinio komplektai": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai",
-    "Svetainės baldai": "https://tikbaldai.lt/collections/svetaines-baldai",
-    "Valgomojo komplektai": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai",
-    "Spintos ir komodos": "https://tikbaldai.lt/collections/spintos-komodos"
+    "Žiūrėti lovos ir čiužinio komplektus": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai",
+    "Žiūrėti sofas ir fotelius": "https://tikbaldai.lt/collections/svetaines-baldai",
+    "Žiūrėti valgomojo komplektus": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai",
+    "Žiūrėti spintas ir komodas": "https://tikbaldai.lt/collections/spintos-komodos"
   },
   "fonts": [
     "Arial Bold",
@@ -49,7 +51,7 @@
     "Georgia"
   ],
   "font_links": false,
-  "html_sha256": "bdfea48807c8d9caf87815227987dab84bdfab13aa5b982c332d6c0240caa134",
+  "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
   "unsubscribe_placeholder": "{{unsubscribe_url}}",
   "trigger": "New confirmed marketing subscriber without prior purchase",
   "stop_conditions": [
@@ -59,6 +61,5 @@
   ],
   "status": "reviewed_design_draft",
   "browser_qa_pass": true,
-  "platform_delivery_verified": false,
-  "image_treatment": "AI campaign compositions made with authentic catalog product references; see visual-refresh-v2 provenance."
+  "platform_delivery_verified": false
 }

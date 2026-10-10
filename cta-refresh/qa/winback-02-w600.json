@@ -1,0 +1,162 @@
+{
+  "footerPresent": true,
+  "height": 2530,
+  "images": [
+    {
+      "alt": "TIK BALDAI",
+      "complete": true,
+      "height": 27.1171875,
+      "naturalHeight": 104,
+      "naturalWidth": 579,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
+      "width": 151
+    },
+    {
+      "alt": "Universe sofa ant sidabrinio padėklo, kūrybinė TIK BALDAI kompozicija",
+      "complete": true,
+      "height": 749.7265625,
+      "naturalHeight": 1402,
+      "naturalWidth": 1122,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/winback-02-hero-v2-45c079757a49.jpg",
+      "width": 600
+    },
+    {
+      "alt": "Valgomojo stalas su keturiomis šviesiomis kėdėmis šiltame interjere",
+      "complete": true,
+      "height": 249.59375,
+      "naturalHeight": 1254,
+      "naturalWidth": 1254,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-dining-v2-4cbf7f9e4e1d.jpg",
+      "width": 249.59375
+    },
+    {
+      "alt": "Alyvuogių spalvos komoda šviesiame interjere",
+      "complete": true,
+      "height": 249.59375,
+      "naturalHeight": 1254,
+      "naturalWidth": 1254,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-storage-v2-99d6122ea5d7.jpg",
+      "width": 249.59375
+    }
+  ],
+  "links": [
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 43.1171875,
+      "href": "https://tikbaldai.lt/?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=logo",
+      "text": "",
+      "width": 151
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "photo-link",
+      "height": 749.7265625,
+      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=hero_tray",
+      "text": "",
+      "width": 600
+    },
+    {
+      "bg": "rgb(56, 36, 63)",
+      "class": "cta",
+      "height": 54,
+      "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=return_offer",
+      "text": "Rinktis baldus su kodu",
+      "width": 360
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "photo-link",
+      "height": 249.59375,
+      "href": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_dining",
+      "text": "",
+      "width": 249.59375
+    },
+    {
+      "bg": "rgb(56, 36, 63)",
+      "class": "cta",
+      "height": 49,
+      "href": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_dining",
+      "text": "Žiūrėti valgomojo komplektus",
+      "width": 244.3984375
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "photo-link",
+      "height": 249.59375,
+      "href": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_storage",
+      "text": "",
+      "width": 249.59375
+    },
+    {
+      "bg": "rgb(56, 36, 63)",
+      "class": "cta",
+      "height": 49,
+      "href": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_storage",
+      "text": "Žiūrėti spintas ir komodas",
+      "width": 244.3984375
+    },
+    {
+      "bg": "rgb(56, 36, 63)",
+      "class": "cta",
+      "height": 54,
+      "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=browse_popular",
+      "text": "Žiūrėti populiariausius",
+      "width": 360
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "cta",
+      "height": 48,
+      "href": "http://127.0.0.1:8773/winback/%7B%7Bunsubscribe_url%7D%7D",
+      "text": "Atsisakyti naujienlaiškių",
+      "width": 126.0625
+    }
+  ],
+  "overflow": [],
+  "pixelRatio": 2,
+  "scrollWidth": 600,
+  "shellWidth": 600,
+  "url": "http://127.0.0.1:8773/winback/email-02.html",
+  "width": 600,
+  "harness": {
+    "frame": {
+      "bottom": 1636.5,
+      "height": 2530,
+      "left": 26,
+      "right": 626,
+      "top": -893.5,
+      "width": 600,
+      "x": 26,
+      "y": -893.5
+    },
+    "pixelRatio": 2,
+    "width": 690
+  },
+  "afterCapture": {
+    "height": 2530,
+    "width": 600
+  },
+  "source_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+  "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+  "screenshot_sha256": "a3bd363f53b510e84c15ca7f96e5d172e3428ab2dc5e15789bc15e00b6c91d09",
+  "asset_hashes": {
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/winback-02-hero-v2-45c079757a49.jpg": "45c079757a49c04f2227ec9e3e7841274b4caed868250e9e9fe938d0648b99cd",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-dining-v2-4cbf7f9e4e1d.jpg": "4cbf7f9e4e1df84594c2786440ef9b74fd8fd0a56979b29c31bb64c581bb4fec",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-storage-v2-99d6122ea5d7.jpg": "99d6122ea5d715ca7cdd68cd2531e2b90a1fc77cee03bb68e1f9d98f699e285e"
+  },
+  "saved_utc": "2026-10-10T17:26:08.145119+00:00",
+  "review_crop": {
+    "file": "qa-crops/winback-02-w600.jpg",
+    "source_screenshot_sha256": "a3bd363f53b510e84c15ca7f96e5d172e3428ab2dc5e15789bc15e00b6c91d09",
+    "sha256": "cd8dc33ef5d32f4705c24162792a48f73199c5eac901305e29baaf857b7836fc",
+    "box": [
+      26,
+      50,
+      626,
+      2580
+    ],
+    "note": "Fixed CSS iframe. Browser full page capture; crop removes only QA harness. Frame stays at requested CSS width before and after capture."
+  }
+}

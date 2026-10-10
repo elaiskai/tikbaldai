@@ -1,17 +1,21 @@
 {
-  "version": 8,
+  "version": 9,
+  "updated_date": "2026-10-10",
+  "role": "Pirmas apsipirkimas su 10 € dovana ir konkrečių baldų kategorijų pasirinkimu",
+  "primary_url": "https://tikbaldai.lt/collections/populiariausi",
+  "primary_cta": "Išsirinkti baldus su 10 € nuolaida",
   "hero_headline": "ČIA GERA GRĮŽTI.",
   "hero_text_mode": "rasterized_editorial_headline",
   "hero_font": "Bold grotesk rendered in campaign image",
   "hero_image": "hero-studio-v3.jpg",
   "hero_product_url": "https://tikbaldai.lt/products/dviviete-sofa-raudonai-oranzine-180x77x82-cm-velvetas-audinys",
-  "subject": "Sveiki atvykę. Jūsų namams dovanojame 10 €",
-  "preheader": "Susipažinkime. Atraskite baldus savo namams su kodu SVEIKI10.",
+  "subject": "Sveiki atvykę. Išsirinkite baldus su 10 € nuolaida",
+  "preheader": "Rinkitės lovas, sofas ir kitus baldus. Pirmam užsakymui naudokite kodą SVEIKI10.",
   "offer_eur": 10,
   "draft_coupon": "SVEIKI10",
   "coupon_config_verified": false,
   "unsubscribe_placeholder": "{{unsubscribe_url}}",
-  "html_sha256": "3b32b39dc35d562a2ecbeba7b2f5040fc91d71d69baf6e45eb5e682225f63f82",
+  "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
   "fonts": [
     "Georgia",
     "Arial"
@@ -36,10 +40,10 @@
     "mso_category_image_width_px": 254,
     "button_height_px": 56,
     "mso_button": "conditional VML roundrect, full-surface href",
-    "qa_status": "PASS: four required widths, normal and stripped styles, eight fresh visually reviewed browser renders."
+    "qa_status": "PASS: eight fresh visually inspected fixed CSS width browser renders",
+    "qa_html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f"
   },
   "status": "reviewed_design_draft",
   "browser_qa_pass": true,
-  "platform_delivery_verified": false,
-  "image_treatment": "AI campaign compositions made with authentic catalog product references; see visual-refresh-v2 provenance."
+  "platform_delivery_verified": false
 }

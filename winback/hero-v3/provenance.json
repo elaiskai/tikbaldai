@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-10",
+  "mode": "built-in image_gen",
+  "prompt": "prompt.txt",
+  "source": "source.png",
+  "email_asset": "../assets/hero-moodboard-v3.jpg",
+  "public_asset": {
+    "path": "assets/winback/hero-moodboard-v3-5815568b9a96.jpg",
+    "sha256": "5815568b9a968d164ece7909c495392ae77ec09993a21761943bd6a04ade335b",
+    "local": "assets/hero-moodboard-v3.jpg",
+    "commit": "51f67ffd7644901f8f51a167351a409a17fdd43a",
+    "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/51f67ffd7644901f8f51a167351a409a17fdd43a/assets/winback/hero-moodboard-v3-5815568b9a96.jpg"
+  },
+  "hero_sha256": "5815568b9a968d164ece7909c495392ae77ec09993a21761943bd6a04ade335b",
+  "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
+  "catalog_products": [
+    {
+      "name": "Oranžinė dvivietė sofa",
+      "url": "https://tikbaldai.lt/products/dviviete-sofa-raudonai-oranzine-180x77x82-cm-velvetas-audinys",
+      "reference": "../../welcome-01/assets/reference-sofa-orange-180-original.jpg",
+      "invariants": "Orange corduroy, one bench seat, two back cushions, wide square arms, low black feet."
+    },
+    {
+      "name": "Baltas apvalus kavos staliukas",
+      "url": "https://tikbaldai.lt/products/kavos-staliukas-baltos-sp-60x45cm-perdirbtos-med-masyvas",
+      "reference": "../assets/white-round-coffee-table-original.jpg",
+      "invariants": "White circular tray top, four splayed brown wooden legs and cross braces."
+    }
+  ],
+  "art_direction": "User reference: white textured editorial collage, apricot photo rectangle at upper right, sofa overlapping center, table lower right, amber decor. Reference furniture, brand, names and prices not copied.",
+  "decorative_props": "Lamp, candle, vase, books and apricots are generated styling props, not verified catalog products.",
+  "text_verbatim": [
+    "KAIP DERINTI\nORANŽINĘ\nSOFĄ.",
+    "ORANŽINĖ SOFA",
+    "KAVOS STALIUKAS"
+  ],
+  "visual_asset_review": "PASS: exact Lithuanian glyphs checked; sofa and table recognizable; no prices, branded props or dashes; all main objects uncropped.",
+  "email_qa_status": "PASS: eight current exact HTML browser renders, full footer visually reviewed at four required CSS widths; platform sending unverified.",
+  "platform_delivery_verified": false,
+  "html_published": true
+}

@@ -1,13 +1,19 @@
 {
-  "version": 5,
+  "version": 6,
   "updated_date": "2026-10-10",
-  "subject": "Prieš užsakydami pasitikrinkite tris dalykus",
-  "preheader": "Ar tilps, kaip naudosite ir kaip prižiūrėsite. Padėsime atsakyti į likusius klausimus.",
+  "subject": "Išsirinkite baldą. Pirmam užsakymui 10 € nuolaida",
+  "preheader": "Peržiūrėkite lovas, sofas ir komodas. Pirmam užsakymui pritaikykite kodą SVEIKI10.",
   "delay_days": 5,
   "delay_origin": "Confirmed subscription",
-  "role": "Pagalba apsisprendžiant prieš pirkimą: matmenys ir įnešimas, naudojimas, priežiūra, konsultacija ir antrinis dovanos priminimas",
-  "primary_url": "mailto:info@tikbaldai.lt",
+  "role": "Pasirinkimas per tris baldų kategorijas ir pirmo užsakymo dovanos panaudojimas, su trumpais pirkimo patarimais",
+  "primary_url": "https://tikbaldai.lt/collections/populiariausi",
+  "primary_cta": "Rinktis baldus su 10 € nuolaida",
   "hero_headline": "Jūsų namų istorija.",
+  "category_urls": {
+    "Žiūrėti lovos ir čiužinio komplektus": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai",
+    "Žiūrėti svetainės baldus": "https://tikbaldai.lt/collections/svetaines-baldai",
+    "Žiūrėti spintas ir komodas": "https://tikbaldai.lt/collections/spintos-komodos"
+  },
   "hero_text_mode": "Rasterized editorial headline with exact Lithuanian text and meaningful alt; remaining copy live HTML",
   "draft_coupon": "SVEIKI10",
   "coupon_config_verified": false,
@@ -17,15 +23,17 @@
     "desktop_breakpoint_px": 600,
     "outlook_vml_button": true,
     "coupon_layout": "stacked_compact",
-    "qa_status": "passed browser geometry checks and required visual review; platform delivery unverified",
-    "qa_html_sha256": "7abc138c4d90e65f2eee2c7eac2b9a32e0c908c54efae02a124a9214f42ea51a"
+    "category_buttons": "stacked full width, 48 px minimum height",
+    "primary_button": "fluid up to 370 px, 56 px minimum height",
+    "qa_status": "PASS: eight fresh visually inspected fixed CSS width browser renders",
+    "qa_html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55"
   },
   "fonts": [
     "Arial",
     "Georgia"
   ],
   "font_links": false,
-  "html_sha256": "7abc138c4d90e65f2eee2c7eac2b9a32e0c908c54efae02a124a9214f42ea51a",
+  "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
   "unsubscribe_placeholder": "{{unsubscribe_url}}",
   "trigger": "New confirmed marketing subscriber without prior purchase",
   "stop_conditions": [
@@ -33,5 +41,7 @@
     "Unsubscribe",
     "Suppression"
   ],
-  "status": "local_design_draft"
+  "status": "reviewed_design_draft",
+  "browser_qa_pass": true,
+  "platform_delivery_verified": false
 }

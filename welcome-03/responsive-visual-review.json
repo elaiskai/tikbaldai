@@ -1,147 +1,237 @@
 {
-  "html_sha256": "7abc138c4d90e65f2eee2c7eac2b9a32e0c908c54efae02a124a9214f42ea51a",
-  "reviewed_date": "2026-10-10",
-  "review_type": "Independent visual review of fresh browser screenshots and exact-HTML-hash metrics",
   "status": "PASS",
-  "platform_delivery_verified": false,
-  "reviewed_views": [
+  "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+  "views": [
     {
-      "view": "w320",
-      "viewport_width_px": 320,
-      "head_styles_removed": false,
-      "screenshot": "responsive-previews/w320.jpg",
-      "metrics": "responsive-previews/w320.json",
-      "html_hash_verified": true,
+      "name": "welcome-03-w320",
       "status": "PASS",
-      "minimum_cta_height_px": 46
+      "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+      "width_css_px": 320,
+      "head_styles_removed": false,
+      "rendered_source_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-03-w320.jpg",
+      "source_screenshot_sha256": "8cf09fbe2146bfe25cb3959d4386da8cf705520226aa5e5cdd4f072652c3f24c",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-w320.jpg",
+      "review_crop_sha256": "80d2e5a0bc6e9b08011219d44fcf32f574dca6fbbd92107bac2240e99fcaecc8",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-normal-contact.jpg",
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-w320.jpg"
+      ],
+      "findings": [
+        "Single column shopping choices, gift panel, tips and footer retain their order and alignment.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Gift CTA wraps to two complete centered lines and expands to 78 px without crowding; category buttons remain 48 px high."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 46,
+        "shell_width_css_px": 320
+      },
+      "issues": []
     },
     {
-      "view": "w320-stripped",
-      "viewport_width_px": 320,
+      "name": "welcome-03-w320-stripped",
+      "status": "PASS",
+      "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+      "width_css_px": 320,
       "head_styles_removed": true,
-      "screenshot": "responsive-previews/w320-stripped.jpg",
-      "metrics": "responsive-previews/w320-stripped.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
+      "rendered_source_sha256": "7787212ced29841877e3ecf7eb1d4906fd28e4dc0deabcbf15931999ad7a50f9",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-03-w320-stripped.jpg",
+      "source_screenshot_sha256": "62bb683a56918713e6b7a774015a89fc2d217409c55f1740ad56e731e707f3e4",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-w320-stripped.jpg",
+      "review_crop_sha256": "5220606cf9394906f4d879b54a4b26251f57bf23eb254cf10a4850a45053302c",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-stripped-contact.jpg"
+      ],
+      "findings": [
+        "Single column shopping choices, gift panel, tips and footer retain their order and alignment.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Gift CTA wraps to two complete centered lines and expands to 78 px without crowding; category buttons remain 48 px high.",
+        "Removed head styles and font links retain readable fallback typography and a coherent layout."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 46,
+        "shell_width_css_px": 320
+      },
+      "issues": []
     },
     {
-      "view": "w390",
-      "viewport_width_px": 390,
+      "name": "welcome-03-w390",
+      "status": "PASS",
+      "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+      "width_css_px": 390,
       "head_styles_removed": false,
-      "screenshot": "responsive-previews/w390.jpg",
-      "metrics": "responsive-previews/w390.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
+      "rendered_source_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-03-w390.jpg",
+      "source_screenshot_sha256": "6bf324853ee32228a30e974174c4b2545bb2851ba8602147499389adb539cf65",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-w390.jpg",
+      "review_crop_sha256": "04ccbc5827fe3c3621d1f8f0f9459da7186f5f62e48eb451236988c109d85511",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-normal-contact.jpg"
+      ],
+      "findings": [
+        "Single column shopping choices, gift panel, tips and footer retain their order and alignment.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Gift CTA is one line and 56 px high; all three category buttons fit on one line at 48 px high."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 46,
+        "shell_width_css_px": 390
+      },
+      "issues": []
     },
     {
-      "view": "w390-stripped",
-      "viewport_width_px": 390,
+      "name": "welcome-03-w390-stripped",
+      "status": "PASS",
+      "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+      "width_css_px": 390,
       "head_styles_removed": true,
-      "screenshot": "responsive-previews/w390-stripped.jpg",
-      "metrics": "responsive-previews/w390-stripped.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
+      "rendered_source_sha256": "7787212ced29841877e3ecf7eb1d4906fd28e4dc0deabcbf15931999ad7a50f9",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-03-w390-stripped.jpg",
+      "source_screenshot_sha256": "9c41a671681ee5a0f35ce25580d92a8144632659cfedc1e4059edeae10560893",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-w390-stripped.jpg",
+      "review_crop_sha256": "04ccbc5827fe3c3621d1f8f0f9459da7186f5f62e48eb451236988c109d85511",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-stripped-contact.jpg"
+      ],
+      "findings": [
+        "Single column shopping choices, gift panel, tips and footer retain their order and alignment.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Gift CTA is one line and 56 px high; all three category buttons fit on one line at 48 px high.",
+        "Removed head styles and font links retain readable fallback typography and a coherent layout."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 46,
+        "shell_width_css_px": 390
+      },
+      "issues": []
     },
     {
-      "view": "w430",
-      "viewport_width_px": 430,
+      "name": "welcome-03-w430",
+      "status": "PASS",
+      "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+      "width_css_px": 430,
       "head_styles_removed": false,
-      "screenshot": "responsive-previews/w430.jpg",
-      "metrics": "responsive-previews/w430.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
+      "rendered_source_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-03-w430.jpg",
+      "source_screenshot_sha256": "4eab370cf59d07b3c1605713ad5c3f49111a1b0b38800396eece20c00fe9bbd2",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-w430.jpg",
+      "review_crop_sha256": "8998214855818bb73e2ea40cd06bd084a1a52378b3bc933de4d9c45e03b522b7",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-normal-contact.jpg"
+      ],
+      "findings": [
+        "Single column shopping choices, gift panel, tips and footer retain their order and alignment.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Gift CTA is one line and 56 px high; all three category buttons fit on one line at 48 px high."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 46,
+        "shell_width_css_px": 430
+      },
+      "issues": []
     },
     {
-      "view": "w430-stripped",
-      "viewport_width_px": 430,
+      "name": "welcome-03-w430-stripped",
+      "status": "PASS",
+      "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+      "width_css_px": 430,
       "head_styles_removed": true,
-      "screenshot": "responsive-previews/w430-stripped.jpg",
-      "metrics": "responsive-previews/w430-stripped.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
+      "rendered_source_sha256": "7787212ced29841877e3ecf7eb1d4906fd28e4dc0deabcbf15931999ad7a50f9",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-03-w430-stripped.jpg",
+      "source_screenshot_sha256": "ee24bd5ef08f6401a8d570f1cd40c28977edd1bdfdaaca888c3de397ef2b5485",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-w430-stripped.jpg",
+      "review_crop_sha256": "8998214855818bb73e2ea40cd06bd084a1a52378b3bc933de4d9c45e03b522b7",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-stripped-contact.jpg"
+      ],
+      "findings": [
+        "Single column shopping choices, gift panel, tips and footer retain their order and alignment.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Gift CTA is one line and 56 px high; all three category buttons fit on one line at 48 px high.",
+        "Removed head styles and font links retain readable fallback typography and a coherent layout."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 46,
+        "shell_width_css_px": 430
+      },
+      "issues": []
     },
     {
-      "view": "w720",
-      "viewport_width_px": 720,
+      "name": "welcome-03-w600",
+      "status": "PASS",
+      "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+      "width_css_px": 600,
       "head_styles_removed": false,
-      "screenshot": "responsive-previews/w720.jpg",
-      "metrics": "responsive-previews/w720.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
+      "rendered_source_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-03-w600.jpg",
+      "source_screenshot_sha256": "edc5b7efe03652ac88eeef0a981ffca08f18ec9cb501770f29db129f3afb674a",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-w600.jpg",
+      "review_crop_sha256": "844e937a3518370b699954fefde6ffbc790c61bbeb4037d6943bd9dbd4c88c18",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-normal-contact.jpg",
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-w600.jpg"
+      ],
+      "findings": [
+        "Single column shopping choices, gift panel, tips and footer retain their order and alignment.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Gift CTA is one line and 56 px high; all three category buttons fit on one line at 48 px high."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 46,
+        "shell_width_css_px": 600
+      },
+      "issues": []
     },
     {
-      "view": "w720-stripped",
-      "viewport_width_px": 720,
+      "name": "welcome-03-w600-stripped",
+      "status": "PASS",
+      "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+      "width_css_px": 600,
       "head_styles_removed": true,
-      "screenshot": "responsive-previews/w720-stripped.jpg",
-      "metrics": "responsive-previews/w720-stripped.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
-    },
-    {
-      "view": "w599",
-      "viewport_width_px": 599,
-      "head_styles_removed": false,
-      "screenshot": "responsive-previews/w599.jpg",
-      "metrics": "responsive-previews/w599.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
-    },
-    {
-      "view": "w600",
-      "viewport_width_px": 600,
-      "head_styles_removed": false,
-      "screenshot": "responsive-previews/w600.jpg",
-      "metrics": "responsive-previews/w600.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
-    },
-    {
-      "view": "w768",
-      "viewport_width_px": 768,
-      "head_styles_removed": false,
-      "screenshot": "responsive-previews/w768.jpg",
-      "metrics": "responsive-previews/w768.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
-    },
-    {
-      "view": "w1440",
-      "viewport_width_px": 1440,
-      "head_styles_removed": false,
-      "screenshot": "responsive-previews/w1440.jpg",
-      "metrics": "responsive-previews/w1440.json",
-      "html_hash_verified": true,
-      "status": "PASS",
-      "minimum_cta_height_px": 46
+      "rendered_source_sha256": "7787212ced29841877e3ecf7eb1d4906fd28e4dc0deabcbf15931999ad7a50f9",
+      "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-03-w600-stripped.jpg",
+      "source_screenshot_sha256": "55541b2083cc23f27101d19f0c6b666c09ed7cd39ccd3aef76d97d4c541ab451",
+      "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-w600-stripped.jpg",
+      "review_crop_sha256": "ef672d34815923ee8fdbf91a941ff536df937e117f85a8773584bdbb278d5629",
+      "viewed_via": [
+        "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-stripped-contact.jpg"
+      ],
+      "findings": [
+        "Single column shopping choices, gift panel, tips and footer retain their order and alignment.",
+        "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+        "Gift CTA is one line and 56 px high; all three category buttons fit on one line at 48 px high.",
+        "Removed head styles and font links retain readable fallback typography and a coherent layout."
+      ],
+      "metrics": {
+        "footer_present": true,
+        "overflow_count": 0,
+        "all_images_loaded": true,
+        "minimum_text_link_height_px": 46,
+        "shell_width_css_px": 600
+      },
+      "issues": []
     }
   ],
-  "reviewed_view_count": 12,
-  "notes": {
-    "readability": "Decision-help introduction, numbered tips, shop addresses and coupon copy are readable at all reviewed widths including 320px with head styles removed.",
-    "lithuanian_glyphs": "Lithuanian letters and accents remain clear in the image headline and live body text. No text is clipped.",
-    "content_order": "Logo, hero, decision-help introduction, three practical checks, main consultation CTA, shop consultation section, secondary coupon and footer remain in order.",
-    "tip_columns": "Numbers and copy remain aligned. The narrow numeric column does not squeeze tip text into awkward word-by-word wrapping.",
-    "images": "The existing hero and logo display with natural proportions at all reviewed widths. No missing image placeholder or distortion was observed.",
-    "cta": "Main consultation CTA remains visually dominant, with intact label and adequate clickable geometry in the associated metrics. Every recorded text CTA is at least 44px high.",
-    "coupon": "The compact bottom coupon remains secondary to consultation. SVEIKI10 is unbroken, and the 10 € first-order offer remains readable.",
-    "breakpoints": "599px and 600px have stable content alignment. Wider layouts retain a centered 600px email.",
-    "spacing": "No unintended blank columns, overlaps, detached headings or excessive gaps were observed."
-  },
-  "findings": [],
-  "limitations": [
-    "Browser screenshots and geometry were reviewed; actual Gmail, Omnisend and Outlook delivery is unverified.",
-    "MSO/VML rendering and real email-client click behavior were not exercised by this visual review.",
-    "Coupon setup, unsubscribe integration and physical-shop display availability were not verified by this visual review."
-  ]
+  "platform_delivery_verified": false
 }

@@ -1,195 +1,165 @@
 {
-  "altHasDash": false,
-  "categories": [],
-  "contentSections": {
-    "gift": {
-      "bottom": 2248.96875,
-      "height": 263,
-      "right": 296,
-      "width": 272,
-      "x": 24,
-      "y": 1985.96875
-    },
-    "guide": {
-      "bottom": 1653.96875,
-      "height": 885,
-      "right": 320,
-      "width": 320,
-      "x": 0,
-      "y": 768.96875
-    },
-    "intro": {
-      "bottom": 768.96875,
-      "height": 290,
-      "right": 320,
-      "width": 320,
-      "x": 0,
-      "y": 478.96875
-    },
-    "stores": {
-      "bottom": 1985.96875,
-      "height": 332,
-      "right": 320,
-      "width": 320,
-      "x": 0,
-      "y": 1653.96875
-    }
-  },
-  "copyHasDash": false,
-  "cta": [
-    {
-      "bottom": 1615.96875,
-      "height": 56,
-      "href": "mailto:info@tikbaldai.lt",
-      "right": 296,
-      "text": "Pasitarti dėl pasirinkimo",
-      "width": 272,
-      "x": 24,
-      "y": 1559.96875
-    },
-    {
-      "bottom": 1959.96875,
-      "height": 50,
-      "href": "https://tikbaldai.lt/pages/kontaktai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=contact",
-      "right": 174.9453125,
-      "text": "Susisiekti su komanda",
-      "width": 150.9453125,
-      "x": 24,
-      "y": 1909.96875
-    },
-    {
-      "bottom": 2235.96875,
-      "height": 50,
-      "href": "https://tikbaldai.lt/?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=welcome_gift",
-      "right": 234.8515625,
-      "text": "Atrasti baldus savo namams",
-      "width": 189.8515625,
-      "x": 45,
-      "y": 2185.96875
-    },
-    {
-      "bottom": 2437.96875,
-      "height": 46,
-      "href": "{{unsubscribe_url}}",
-      "right": 217.7734375,
-      "text": "Atsisakyti naujienlaiškių",
-      "width": 115.5546875,
-      "x": 102.21875,
-      "y": 2391.96875
-    }
-  ],
-  "emailRect": {
-    "bottom": 2459.96875,
-    "height": 2459.96875,
-    "right": 320,
-    "width": 320,
-    "x": 0,
-    "y": 0
-  },
-  "emailWidth": 320,
-  "headStyleCount": 1,
-  "height": 2460,
-  "hero": {
-    "bottom": 478.96875,
-    "fontSize": "28px",
-    "fontWeight": "400",
-    "height": 399.8515625,
-    "lineHeight": "36px",
-    "right": 320,
-    "width": 320,
-    "x": 0,
-    "y": 79.1171875
-  },
+  "footerPresent": true,
+  "height": 2208,
   "images": [
     {
-      "bottom": 56.1171875,
+      "alt": "TIK BALDAI",
       "complete": true,
       "height": 27.1171875,
       "naturalHeight": 104,
       "naturalWidth": 579,
-      "right": 235.5,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
-      "width": 151,
-      "x": 84.5,
-      "y": 29
+      "width": 151
     },
     {
-      "bottom": 478.96875,
+      "alt": "Jūsų namų istorija. Ruda sofa ir juodo stiklo kavos staliukas jaukiame interjere",
       "complete": true,
       "height": 399.8515625,
       "naturalHeight": 1402,
       "naturalWidth": 1122,
-      "right": 320,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-03/hero-editorial-v2-d3049a574e63.jpg",
-      "width": 320,
-      "x": 0,
-      "y": 79.1171875
+      "width": 320
     }
   ],
-  "offer": {
-    "amount": {
-      "bottom": 2063.96875,
-      "height": 27.5,
-      "right": 91.2421875,
-      "width": 46.2421875,
-      "x": 45,
-      "y": 2036.46875
+  "links": [
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 45.1171875,
+      "href": "https://tikbaldai.lt/?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=logo",
+      "text": "",
+      "width": 151
     },
-    "amountFontSize": "24px",
-    "code": {
-      "bottom": 2153.96875,
-      "height": 44,
-      "right": 166.828125,
-      "width": 121.828125,
-      "x": 45,
-      "y": 2109.96875
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 399.8515625,
+      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=hero",
+      "text": "",
+      "width": 320
     },
-    "codeFontSize": "20px"
-  },
-  "overflowElements": [],
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 48,
+      "href": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=category_lova-ciuzinys-pasiulymai",
+      "text": "Žiūrėti lovos ir čiužinio komplektus",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 48,
+      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=category_svetaines-baldai",
+      "text": "Žiūrėti svetainės baldus",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 48,
+      "href": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=category_spintos-komodos",
+      "text": "Žiūrėti spintas ir komodas",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 78,
+      "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=welcome_gift",
+      "text": "Rinktis baldus su 10 € nuolaida",
+      "width": 230
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 68,
+      "href": "mailto:info@tikbaldai.lt",
+      "text": "Klausimų apie pasirinktą baldą? Parašykite mums.",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 46,
+      "href": "http://127.0.0.1:8773/welcome-03/%7B%7Bunsubscribe_url%7D%7D",
+      "text": "Atsisakyti naujienlaiškių",
+      "width": 115.5546875
+    }
+  ],
+  "overflow": [],
+  "pixelRatio": 2,
   "scrollWidth": 320,
-  "selectionTips": [
-    {
-      "copy": {
-        "bottom": 1055.96875,
-        "height": 193,
-        "right": 296,
-        "width": 230,
-        "x": 66,
-        "y": 862.96875
-      },
-      "fontSize": "15px"
-    },
-    {
-      "copy": {
-        "bottom": 1272.96875,
-        "height": 217,
-        "right": 296,
-        "width": 230,
-        "x": 66,
-        "y": 1055.96875
-      },
-      "fontSize": "15px"
-    },
-    {
-      "copy": {
-        "bottom": 1465.96875,
-        "height": 193,
-        "right": 296,
-        "width": 230,
-        "x": 66,
-        "y": 1272.96875
-      },
-      "fontSize": "15px"
-    }
-  ],
-  "url": "http://127.0.0.1:8770/welcome-03/email.html",
+  "shellWidth": 320,
+  "url": "http://127.0.0.1:8773/welcome-03/email.html",
   "width": 320,
-  "captured_utc": "2026-10-10T13:13:13.605Z",
-  "rendered_source_sha256": "7abc138c4d90e65f2eee2c7eac2b9a32e0c908c54efae02a124a9214f42ea51a",
-  "html_sha256": "7abc138c4d90e65f2eee2c7eac2b9a32e0c908c54efae02a124a9214f42ea51a",
+  "harness": {
+    "frame": {
+      "bottom": 1475.5,
+      "height": 2208,
+      "left": 26,
+      "right": 346,
+      "top": -732.5,
+      "width": 320,
+      "x": 26,
+      "y": -732.5
+    },
+    "pixelRatio": 2,
+    "width": 690
+  },
+  "afterCapture": {
+    "height": 2208,
+    "width": 320
+  },
+  "source_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+  "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+  "screenshot_sha256": "80d2e5a0bc6e9b08011219d44fcf32f574dca6fbbd92107bac2240e99fcaecc8",
   "asset_hashes": {
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-03/hero-editorial-v2-d3049a574e63.jpg": "d3049a574e6399b393d89d126adac22bd79fd1bfbed61cae4a160bd2facde03b"
+  },
+  "saved_utc": "2026-10-10T17:25:23.130798+00:00",
+  "review_crop": {
+    "file": "qa-crops/welcome-03-w320.jpg",
+    "source_screenshot_sha256": "8cf09fbe2146bfe25cb3959d4386da8cf705520226aa5e5cdd4f072652c3f24c",
+    "sha256": "80d2e5a0bc6e9b08011219d44fcf32f574dca6fbbd92107bac2240e99fcaecc8",
+    "box": [
+      26,
+      50,
+      346,
+      2258
+    ],
+    "note": "Fixed CSS iframe. Browser full page capture; crop removes only QA harness. Frame stays at requested CSS width before and after capture."
+  },
+  "raw_screenshot": "../../cta-refresh/qa/welcome-03-w320.jpg",
+  "raw_screenshot_sha256": "8cf09fbe2146bfe25cb3959d4386da8cf705520226aa5e5cdd4f072652c3f24c",
+  "visual_review": {
+    "name": "welcome-03-w320",
+    "status": "PASS",
+    "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+    "width_css_px": 320,
+    "head_styles_removed": false,
+    "rendered_source_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+    "source_screenshot": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa/welcome-03-w320.jpg",
+    "source_screenshot_sha256": "8cf09fbe2146bfe25cb3959d4386da8cf705520226aa5e5cdd4f072652c3f24c",
+    "review_crop": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-w320.jpg",
+    "review_crop_sha256": "80d2e5a0bc6e9b08011219d44fcf32f574dca6fbbd92107bac2240e99fcaecc8",
+    "viewed_via": [
+      "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-normal-contact.jpg",
+      "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/welcome-03-w320.jpg"
+    ],
+    "findings": [
+      "Single column shopping choices, gift panel, tips and footer retain their order and alignment.",
+      "Full footer visible; readable copy, natural photo proportions and consistent spacing. No visible clipping or overflow.",
+      "Gift CTA wraps to two complete centered lines and expands to 78 px without crowding; category buttons remain 48 px high."
+    ],
+    "metrics": {
+      "footer_present": true,
+      "overflow_count": 0,
+      "all_images_loaded": true,
+      "minimum_text_link_height_px": 46,
+      "shell_width_css_px": 320
+    },
+    "issues": []
   }
 }

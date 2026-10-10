@@ -1,142 +1,151 @@
 {
-  "email": "winback-01",
-  "html_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/winback/email-01.html",
-  "html_sha256": "6386fdf701348fa1de4d647c4b4ece195be4e61bdc1e81a38bb0eab23081950a",
-  "reviewed_utc": "2026-10-10T16:57:38.269132+00:00",
   "status": "PASS",
-  "viewed_filenames": [
-    "winback-01-w320.jpg",
-    "winback-01-w320-stripped.jpg",
-    "winback-01-w390.jpg",
-    "winback-01-w390-stripped.jpg",
-    "winback-01-w430.jpg",
-    "winback-01-w430-stripped.jpg",
-    "winback-01-w600.jpg",
-    "winback-01-w600-stripped.jpg"
-  ],
-  "screenshots": [
+  "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+  "views": [
     {
-      "file": "winback-01-w320.jpg",
-      "sha256": "83941add3b679d0fa953387596cf2c369431b64352bf062bf94d86a7ee4bf4d7",
-      "viewport_width_px": 320,
-      "dimensions_px": [
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w320.jpg",
+      "screenshot_sha256": "36ffbb506a8ae4fdcfd94d487efc9ec64ed1b6d5c0aed49262deb1a6e8b7e334",
+      "source_screenshot_sha256": "196fb2c3040af364ca303b2e28016a60fdcf67f1587fb77abb15285cd9df2d07",
+      "css_viewport_width": 320,
+      "bitmap_dimensions": [
         320,
-        2652
+        2718
       ],
-      "head_styles_removed": false,
+      "head_styles_stripped": false,
+      "viewed_at_original_resolution": true,
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w320",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
     },
     {
-      "file": "winback-01-w320-stripped.jpg",
-      "sha256": "83941add3b679d0fa953387596cf2c369431b64352bf062bf94d86a7ee4bf4d7",
-      "viewport_width_px": 320,
-      "dimensions_px": [
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w320-stripped.jpg",
+      "screenshot_sha256": "36ffbb506a8ae4fdcfd94d487efc9ec64ed1b6d5c0aed49262deb1a6e8b7e334",
+      "source_screenshot_sha256": "9b13e26fddbf18f23414628f22ed3be8270b8f8691d82fdb2027f2a0318c1aec",
+      "css_viewport_width": 320,
+      "bitmap_dimensions": [
         320,
-        2652
+        2718
       ],
-      "head_styles_removed": true,
+      "head_styles_stripped": true,
+      "viewed_at_original_resolution": true,
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w320-stripped",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
     },
     {
-      "file": "winback-01-w390.jpg",
-      "sha256": "ece2bc27fc39ef5d83b794a83c50d072737e95dceac5bf1a7d5db77bebce90bf",
-      "viewport_width_px": 390,
-      "dimensions_px": [
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w390.jpg",
+      "screenshot_sha256": "b9365dff3f8913dca08986834dd772fbca7720b86d76368293078ac548b6f41b",
+      "source_screenshot_sha256": "be843ee991432a5d1966e08e5a0949bd0f1cb07137925776b7b068c6906be3e3",
+      "css_viewport_width": 390,
+      "bitmap_dimensions": [
         390,
-        2790
+        2822
       ],
-      "head_styles_removed": false,
+      "head_styles_stripped": false,
+      "viewed_at_original_resolution": true,
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w390",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
     },
     {
-      "file": "winback-01-w390-stripped.jpg",
-      "sha256": "ece2bc27fc39ef5d83b794a83c50d072737e95dceac5bf1a7d5db77bebce90bf",
-      "viewport_width_px": 390,
-      "dimensions_px": [
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w390-stripped.jpg",
+      "screenshot_sha256": "b9365dff3f8913dca08986834dd772fbca7720b86d76368293078ac548b6f41b",
+      "source_screenshot_sha256": "45488b554ae343e61528a940bb3462d79257d1758d6bb0f5663b7971db8dac5f",
+      "css_viewport_width": 390,
+      "bitmap_dimensions": [
         390,
-        2790
+        2822
       ],
-      "head_styles_removed": true,
+      "head_styles_stripped": true,
+      "viewed_at_original_resolution": true,
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w390-stripped",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
     },
     {
-      "file": "winback-01-w430.jpg",
-      "sha256": "aeeb1df7bd6f831b066380c52eed7cf3995b01518ad173676db51bdc5856b72d",
-      "viewport_width_px": 430,
-      "dimensions_px": [
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w430.jpg",
+      "screenshot_sha256": "492a660de45bcfcc314ab4d41f89f77d227c5a0f58450c032a4322fbb0ec114c",
+      "source_screenshot_sha256": "13082de579c12249a19a0c18d4942a0c3f4523f943871f6eac35aa57bf204cf8",
+      "css_viewport_width": 430,
+      "bitmap_dimensions": [
         430,
-        2884
+        2916
       ],
-      "head_styles_removed": false,
+      "head_styles_stripped": false,
+      "viewed_at_original_resolution": true,
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w430",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
     },
     {
-      "file": "winback-01-w430-stripped.jpg",
-      "sha256": "aeeb1df7bd6f831b066380c52eed7cf3995b01518ad173676db51bdc5856b72d",
-      "viewport_width_px": 430,
-      "dimensions_px": [
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w430-stripped.jpg",
+      "screenshot_sha256": "492a660de45bcfcc314ab4d41f89f77d227c5a0f58450c032a4322fbb0ec114c",
+      "source_screenshot_sha256": "ff896d5f36031072ed6ab5537cb1d16adccaab9b586a896de0af265916db63fe",
+      "css_viewport_width": 430,
+      "bitmap_dimensions": [
         430,
-        2884
+        2916
       ],
-      "head_styles_removed": true,
+      "head_styles_stripped": true,
+      "viewed_at_original_resolution": true,
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w430-stripped",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
     },
     {
-      "file": "winback-01-w600.jpg",
-      "sha256": "85f25f10b12009cc9b73a94e7a4b32221d539410190a0e0f53432041bbf59478",
-      "viewport_width_px": 600,
-      "dimensions_px": [
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w600.jpg",
+      "screenshot_sha256": "ca3d979e2d5c13046812d52cd1faa7f1047acdd66463a8fd889827ed05462a4a",
+      "source_screenshot_sha256": "38b6f777a20caa05c3e0e58dc1f7643cc34a0e01cfe9598b5c5abcfe7ba6e765",
+      "css_viewport_width": 600,
+      "bitmap_dimensions": [
         600,
-        1895
+        1921
       ],
-      "head_styles_removed": false,
+      "head_styles_stripped": false,
+      "viewed_at_original_resolution": true,
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w600",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
     },
     {
-      "file": "winback-01-w600-stripped.jpg",
-      "sha256": "da74b5c603c484c08fe0bb4ceb2ff164c4a3a2dbd0a69ea99fba888c31b22329",
-      "viewport_width_px": 600,
-      "dimensions_px": [
+      "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w600-stripped.jpg",
+      "screenshot_sha256": "42b3f834f13a97fc71bf4f9f3b33a5f3d4e1d63ff0d672197baa19a952eda52c",
+      "source_screenshot_sha256": "9c0e9b6133cd3e344fb89632429fb5629c97571ec5b6bad5ba251f351490ce00",
+      "css_viewport_width": 600,
+      "bitmap_dimensions": [
         600,
-        3197
+        3229
       ],
-      "head_styles_removed": true,
+      "head_styles_stripped": true,
+      "viewed_at_original_resolution": true,
       "status": "PASS",
-      "inspection": "Direct view_image at original pixel resolution",
-      "issues": []
+      "footer_complete": true,
+      "minimum_cta_height_css_px": 48,
+      "issues": [],
+      "name": "winback-01-w600-stripped",
+      "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
     }
   ],
-  "findings": [
-    "All eight complete screenshots inspected at native resolution. Lithuanian text and diacritics remain readable; heading wraps naturally at 320 pixels.",
-    "Three category photographs keep their square proportions and show the furniture intact, without stretching or clipping.",
-    "At 600 pixels with head styles, each photo sits beside its matching heading, paragraph and category CTA. Mobile and stripped desktop preserve each photo, copy and CTA as a complete stacked unit.",
-    "Margins, separators and vertical spacing remain aligned. No oversized empty columns, overlap or detached CTA appears.",
-    "Category links are clear and the final light CTA button is fully visible. Existing browser metrics report 47 pixel category link targets and a 54 pixel main button."
-  ],
-  "issues": [],
-  "limitation": "Browser screenshot visual QA only. No Gmail, Omnisend or other actual email client delivery has been verified. Interaction and coupon functionality are outside this visual review.",
-  "viewed_files": [
-    "qa/e01-w320.jpg",
-    "qa/e01-w320-stripped.jpg",
-    "qa/e01-w390.jpg",
-    "qa/e01-w390-stripped.jpg",
-    "qa/e01-w430.jpg",
-    "qa/e01-w430-stripped.jpg",
-    "qa/e01-w600.jpg",
-    "qa/e01-w600-stripped.jpg"
-  ]
+  "platform_delivery_verified": false
 }

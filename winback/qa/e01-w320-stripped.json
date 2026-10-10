@@ -1,164 +1,6 @@
 {
-  "captured_utc": "2026-10-10T16:55:53.931Z",
-  "cards": [
-    {
-      "copy": {
-        "height": 208,
-        "width": 272,
-        "x": 24,
-        "y": 835.1171875
-      },
-      "cta": {
-        "height": 47,
-        "width": 272,
-        "x": 24,
-        "y": 996.1171875
-      },
-      "ctaHref": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_living",
-      "heading": "Vieta sau.",
-      "photo": {
-        "height": 272,
-        "width": 272,
-        "x": 24,
-        "y": 563.1171875
-      },
-      "photoHref": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_living"
-    },
-    {
-      "copy": {
-        "height": 208,
-        "width": 272,
-        "x": 24,
-        "y": 1366.1171875
-      },
-      "cta": {
-        "height": 47,
-        "width": 272,
-        "x": 24,
-        "y": 1527.1171875
-      },
-      "ctaHref": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_storage",
-      "heading": "Vieta daiktams.",
-      "photo": {
-        "height": 272,
-        "width": 272,
-        "x": 24,
-        "y": 1094.1171875
-      },
-      "photoHref": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_storage"
-    },
-    {
-      "copy": {
-        "height": 208,
-        "width": 272,
-        "x": 24,
-        "y": 1897.1171875
-      },
-      "cta": {
-        "height": 47,
-        "width": 272,
-        "x": 24,
-        "y": 2058.1171875
-      },
-      "ctaHref": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_dining",
-      "heading": "Vieta susitikti.",
-      "photo": {
-        "height": 272,
-        "width": 272,
-        "x": 24,
-        "y": 1625.1171875
-      },
-      "photoHref": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_dining"
-    }
-  ],
-  "copyHasDash": false,
-  "cta": [
-    {
-      "height": 47,
-      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_living",
-      "text": "Atrasti svetainės baldus  ↗",
-      "width": 272,
-      "x": 24,
-      "y": 996.1171875
-    },
-    {
-      "height": 47,
-      "href": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_storage",
-      "text": "Rinktis spintas ir komodas  ↗",
-      "width": 272,
-      "x": 24,
-      "y": 1527.1171875
-    },
-    {
-      "height": 47,
-      "href": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_dining",
-      "text": "Atrasti valgomojo komplektus  ↗",
-      "width": 272,
-      "x": 24,
-      "y": 2058.1171875
-    },
-    {
-      "height": 54,
-      "href": "https://tikbaldai.lt/?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=browse_all",
-      "text": "Rinktis baldus namams",
-      "width": 272,
-      "x": 24,
-      "y": 2344.1171875
-    },
-    {
-      "height": 48,
-      "href": "http://127.0.0.1:8772/winback/%7B%7Bunsubscribe_url%7D%7D",
-      "text": "Atsisakyti naujienlaiškių",
-      "width": 126.0625,
-      "x": 96.96875,
-      "y": 2588.1171875
-    }
-  ],
-  "email": {
-    "height": 2652.1171875,
-    "width": 320,
-    "x": 0,
-    "y": 0
-  },
-  "headStyles": 0,
-  "headings": [
-    {
-      "height": 138,
-      "text": "Namai keičiasi.\nKartu su Jumis.",
-      "width": 272,
-      "x": 24,
-      "y": 151.1171875
-    },
-    {
-      "height": 34,
-      "text": "Vieta sau.",
-      "width": 272,
-      "x": 24,
-      "y": 891.1171875
-    },
-    {
-      "height": 34,
-      "text": "Vieta daiktams.",
-      "width": 272,
-      "x": 24,
-      "y": 1422.1171875
-    },
-    {
-      "height": 34,
-      "text": "Vieta susitikti.",
-      "width": 272,
-      "x": 24,
-      "y": 1953.1171875
-    },
-    {
-      "height": 74,
-      "text": "Nuo vieno gero\npasirinkimo.",
-      "width": 272,
-      "x": 24,
-      "y": 2176.1171875
-    }
-  ],
-  "height": 2652,
+  "footerPresent": true,
+  "height": 2718,
   "images": [
     {
       "alt": "TIK BALDAI",
@@ -167,9 +9,7 @@
       "naturalHeight": 104,
       "naturalWidth": 579,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
-      "width": 151,
-      "x": 84.5,
-      "y": 25
+      "width": 151
     },
     {
       "alt": "Šviesi Universe sofa svetainės interjere",
@@ -178,9 +18,7 @@
       "naturalHeight": 1254,
       "naturalWidth": 1254,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-living-v2-bd31a97387e9.jpg",
-      "width": 272,
-      "x": 24,
-      "y": 563.1171875
+      "width": 272
     },
     {
       "alt": "Alyvuogių spalvos komoda namų interjere",
@@ -189,9 +27,7 @@
       "naturalHeight": 1254,
       "naturalWidth": 1254,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-storage-v2-99d6122ea5d7.jpg",
-      "width": 272,
-      "x": 24,
-      "y": 1094.1171875
+      "width": 272
     },
     {
       "alt": "Valgomojo stalas su keturiomis šviesiomis kėdėmis",
@@ -200,22 +36,147 @@
       "naturalHeight": 1254,
       "naturalWidth": 1254,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-dining-v2-4cbf7f9e4e1d.jpg",
-      "width": 272,
-      "x": 24,
-      "y": 1625.1171875
+      "width": 272
+    }
+  ],
+  "links": [
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "",
+      "height": 43.1171875,
+      "href": "https://tikbaldai.lt/?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=logo",
+      "text": "",
+      "width": 151
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "photo-link",
+      "height": 272,
+      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_living",
+      "text": "",
+      "width": 272
+    },
+    {
+      "bg": "rgb(56, 36, 63)",
+      "class": "cta",
+      "height": 49,
+      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_living",
+      "text": "Žiūrėti svetainės baldus",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "photo-link",
+      "height": 272,
+      "href": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_storage",
+      "text": "",
+      "width": 272
+    },
+    {
+      "bg": "rgb(56, 36, 63)",
+      "class": "cta",
+      "height": 49,
+      "href": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_storage",
+      "text": "Žiūrėti spintas ir komodas",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "photo-link",
+      "height": 272,
+      "href": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_dining",
+      "text": "",
+      "width": 272
+    },
+    {
+      "bg": "rgb(56, 36, 63)",
+      "class": "cta",
+      "height": 49,
+      "href": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=category_dining",
+      "text": "Žiūrėti valgomojo komplektus",
+      "width": 272
+    },
+    {
+      "bg": "rgb(244, 240, 232)",
+      "class": "cta",
+      "height": 54,
+      "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_01&utm_content=browse_popular",
+      "text": "Žiūrėti populiariausius",
+      "width": 272
+    },
+    {
+      "bg": "rgba(0, 0, 0, 0)",
+      "class": "cta",
+      "height": 48,
+      "href": "http://127.0.0.1:8773/winback/%7B%7Bunsubscribe_url%7D%7D",
+      "text": "Atsisakyti naujienlaiškių",
+      "width": 126.0625
     }
   ],
   "overflow": [],
+  "pixelRatio": 2,
   "scrollWidth": 320,
+  "shellWidth": 320,
+  "url": "http://127.0.0.1:8773/winback/email-01-stripped.html",
   "width": 320,
-  "source_sha256": "4bea9702bd4b6c3610b0f0aa231c5a0cec17ca19b8bf2ce572bde2f89028588f",
-  "html_sha256": "6386fdf701348fa1de4d647c4b4ece195be4e61bdc1e81a38bb0eab23081950a",
-  "screenshot_sha256": "83941add3b679d0fa953387596cf2c369431b64352bf062bf94d86a7ee4bf4d7",
+  "harness": {
+    "frame": {
+      "bottom": 1730.5,
+      "height": 2718,
+      "left": 26,
+      "right": 346,
+      "top": -987.5,
+      "width": 320,
+      "x": 26,
+      "y": -987.5
+    },
+    "pixelRatio": 2,
+    "width": 690
+  },
+  "afterCapture": {
+    "height": 2718,
+    "width": 320
+  },
+  "source_sha256": "1eb1e7797d35cd1cf0ec578680ace555fa8060acaea2458fa1f17cf2583198f1",
+  "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157",
+  "screenshot_sha256": "36ffbb506a8ae4fdcfd94d487efc9ec64ed1b6d5c0aed49262deb1a6e8b7e334",
   "asset_hashes": {
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-living-v2-bd31a97387e9.jpg": "bd31a97387e97941054430735a56d49ec29436cc88ef1c03267692ff11fee2c9",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-storage-v2-99d6122ea5d7.jpg": "99d6122ea5d715ca7cdd68cd2531e2b90a1fc77cee03bb68e1f9d98f699e285e",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-dining-v2-4cbf7f9e4e1d.jpg": "4cbf7f9e4e1df84594c2786440ef9b74fd8fd0a56979b29c31bb64c581bb4fec"
   },
-  "saved_utc": "2026-10-10T16:55:55.164716+00:00"
+  "saved_utc": "2026-10-10T17:26:03.456194+00:00",
+  "review_crop": {
+    "file": "qa-crops/winback-01-w320-stripped.jpg",
+    "source_screenshot_sha256": "9b13e26fddbf18f23414628f22ed3be8270b8f8691d82fdb2027f2a0318c1aec",
+    "sha256": "36ffbb506a8ae4fdcfd94d487efc9ec64ed1b6d5c0aed49262deb1a6e8b7e334",
+    "box": [
+      26,
+      50,
+      346,
+      2768
+    ],
+    "note": "Fixed CSS iframe. Browser full page capture; crop removes only QA harness. Frame stays at requested CSS width before and after capture."
+  },
+  "raw_screenshot": "../../cta-refresh/qa/winback-01-w320-stripped.jpg",
+  "raw_screenshot_sha256": "9b13e26fddbf18f23414628f22ed3be8270b8f8691d82fdb2027f2a0318c1aec",
+  "visual_review": {
+    "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-01-w320-stripped.jpg",
+    "screenshot_sha256": "36ffbb506a8ae4fdcfd94d487efc9ec64ed1b6d5c0aed49262deb1a6e8b7e334",
+    "source_screenshot_sha256": "9b13e26fddbf18f23414628f22ed3be8270b8f8691d82fdb2027f2a0318c1aec",
+    "css_viewport_width": 320,
+    "bitmap_dimensions": [
+      320,
+      2718
+    ],
+    "head_styles_stripped": true,
+    "viewed_at_original_resolution": true,
+    "status": "PASS",
+    "footer_complete": true,
+    "minimum_cta_height_css_px": 48,
+    "issues": [],
+    "name": "winback-01-w320-stripped",
+    "html_sha256": "f5368e4f1393c12445a93703396437bbb520fa8b4ca8fec61cf89a3e56069157"
+  }
 }

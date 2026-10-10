@@ -1,0 +1,89 @@
+{
+  "checked_utc": "2026-10-10T17:18:03.202268+00:00",
+  "source": "Live official public collection JSON endpoints",
+  "collections": [
+    {
+      "handle": "svetaines-baldai",
+      "url": "https://tikbaldai.lt/collections/svetaines-baldai",
+      "proof_url": "https://tikbaldai.lt/collections/svetaines-baldai.json",
+      "http_status": 200,
+      "title": "Svetainė",
+      "products_count": 292,
+      "status": "PASS",
+      "suggested_cta": "RINKTIS SVETAINĖS BALDUS"
+    },
+    {
+      "handle": "kavos-staliukai",
+      "url": "https://tikbaldai.lt/collections/kavos-staliukai",
+      "proof_url": "https://tikbaldai.lt/collections/kavos-staliukai.json",
+      "http_status": 200,
+      "title": "Kavos staliukai",
+      "products_count": 70,
+      "status": "PASS",
+      "suggested_cta": "RINKTIS KAVOS STALIUKĄ"
+    },
+    {
+      "handle": "populiariausi",
+      "url": "https://tikbaldai.lt/collections/populiariausi",
+      "proof_url": "https://tikbaldai.lt/collections/populiariausi.json",
+      "http_status": 200,
+      "title": "POPULIARIAUSI",
+      "products_count": 347,
+      "status": "PASS",
+      "suggested_cta": "ŽIŪRĖTI POPULIARIAUSIUS"
+    },
+    {
+      "handle": "lova-ciuzinys-pasiulymai",
+      "url": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai",
+      "proof_url": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai.json",
+      "http_status": 200,
+      "title": "Lova + čiužinys pasiūlymai",
+      "products_count": 331,
+      "status": "PASS",
+      "suggested_cta": "RINKTIS LOVĄ IR ČIUŽINĮ"
+    },
+    {
+      "handle": "spintos-komodos",
+      "url": "https://tikbaldai.lt/collections/spintos-komodos",
+      "proof_url": "https://tikbaldai.lt/collections/spintos-komodos.json",
+      "http_status": 200,
+      "title": "Spintos / Komodos",
+      "products_count": 134,
+      "status": "PASS",
+      "suggested_cta": "RINKTIS SPINTAS IR KOMODAS"
+    },
+    {
+      "handle": "virtuves-ir-valgomojo-baldu-komplektai",
+      "url": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai",
+      "proof_url": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai.json",
+      "http_status": 200,
+      "title": "Virtuvės ir valgomojo baldų komplektai",
+      "products_count": 83,
+      "status": "PASS",
+      "suggested_cta": "RINKTIS VALGOMOJO KOMPLEKTĄ"
+    },
+    {
+      "handle": "sofos-lovos",
+      "url": "https://tikbaldai.lt/collections/sofos-lovos",
+      "proof_url": "https://tikbaldai.lt/collections/sofos-lovos.json",
+      "http_status": 200,
+      "title": "Sofos lovos",
+      "products_count": 49,
+      "status": "PASS",
+      "suggested_cta": "RINKTIS SOFĄ"
+    },
+    {
+      "handle": "foteliai-kedes",
+      "url": "https://tikbaldai.lt/collections/foteliai-kedes",
+      "proof_url": "https://tikbaldai.lt/collections/foteliai-kedes.json",
+      "http_status": 200,
+      "title": "Foteliai / Reklaineriai",
+      "products_count": 236,
+      "status": "PASS",
+      "suggested_cta": "RINKTIS FOTELĮ"
+    }
+  ],
+  "scope_note": "Links and collection metadata only. No checkout or stock verification. No email edits.",
+  "sofa_destination_note": "Verified narrower sofa destination is /collections/sofos-lovos. Verified armchair destination is /collections/foteliai-kedes. No separate combined Sofos ir foteliai collection was identified in the existing official navigation. Use the broader /collections/svetaines-baldai for a combined living room offer, with a category label matching that broader scope.",
+  "navigation_evidence": "Existing official navigation extract in research/tikbaldai/sources/links.json: Sofos lovos and Foteliai / Reklaineriai. Both destinations freshly verified above."
+}
