@@ -1,19 +1,17 @@
 {
-  "version": 5,
+  "version": 6,
   "hero_headline": "ČIA GERA GRĮŽTI.",
-  "hero_font": "Arial Bold",
-  "hero_sizes_px": {
-    "fallback": 48,
-    "mobile_from_360": 60,
-    "desktop_from_600": 84
-  },
+  "hero_text_mode": "rasterized_editorial_headline",
+  "hero_font": "Bold grotesk rendered in campaign image",
+  "hero_image": "hero-studio-v3.jpg",
+  "hero_product_url": "https://tikbaldai.lt/products/dviviete-sofa-raudonai-oranzine-180x77x82-cm-velvetas-audinys",
   "subject": "Sveiki atvykę. Jūsų namams dovanojame 10 €",
   "preheader": "Susipažinkime. Atraskite baldus savo namams su kodu SVEIKI10.",
   "offer_eur": 10,
   "draft_coupon": "SVEIKI10",
   "coupon_config_verified": false,
   "unsubscribe_placeholder": "{{unsubscribe_url}}",
-  "html_sha256": "f03d0699fd46ddb8c62457a2a54fdd694355b9c776d7e64b2173d650ab9feecc",
+  "html_sha256": "240cc7b4f984843ab170f4daa42a14a2431eb752f33e89f3ccd62ba8bba93214",
   "fonts": [
     "Georgia",
     "Arial"
@@ -39,6 +37,6 @@
     "button_height_px": 56,
     "mso_button": "conditional VML roundrect, full-surface href",
     "qa_status": "passed browser geometry checks and required visual review; platform delivery unverified",
-    "qa_html_sha256": "f03d0699fd46ddb8c62457a2a54fdd694355b9c776d7e64b2173d650ab9feecc"
+    "qa_html_sha256": "240cc7b4f984843ab170f4daa42a14a2431eb752f33e89f3ccd62ba8bba93214"
   }
 }

@@ -10,11 +10,11 @@ Vieši trijų laiškų HTML maketai, jų vaizdai ir dabartinės versijos patikro
 
 ## Vaizdai laiškuose
 
-Visų laiškų `img src` yra absoliutūs vieši HTTPS adresai `raw.githubusercontent.com` domene. Nuorodos susietos su konkrečiu Git commit, o failų pavadinimai turi turinio hash. GitHub prisijungimo joms nereikia. [14 vaizdų patikra](public-assets-check.json) patvirtina HTTP 200, vaizdo tipą ir tikslius failų hash.
+Visų laiškų `img src` yra absoliutūs vieši HTTPS adresai `raw.githubusercontent.com` domene. Nuorodos susietos su konkrečiu Git commit, o failų pavadinimai turi turinio hash. GitHub prisijungimo joms nereikia. [Vaizdų patikra](public-assets-check.json) patvirtina HTTP 200, vaizdo tipą ir tikslius failų hash.
 
 Į siuntimo platformą kopijuojant HTML reikia išlaikyti pilnus vaizdų adresus. GitHub failo peržiūros adresas su `/blob/` nėra vaizdo adresas. Kuriant būsimą kampanijos versiją, pridėti naujus vaizdus ir naudoti naujas nuorodas, išsaugant ankstesnę istoriją.
 
-Hero vaizdai yra generuotos interjero kompozicijos, parengtos naudojant katalogo produktų referencijas. Kategorijų nuotraukos yra pardavėjo vaizdai.
+Hero vaizdai yra generuotos studijos ir interjero kompozicijos, parengtos naudojant katalogo produktų referencijas. Kategorijų nuotraukos yra pardavėjo vaizdai.
 
 ## Patikra
 

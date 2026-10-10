@@ -1,26 +1,36 @@
 {
-  "prepared_utc": "2026-10-10T13:19:33.389714+00:00",
+  "prepared_utc": "2026-10-10T14:00:48.094088+00:00",
   "asset_commit": "ddd56ae34c9f1b9a504d955bce9d32633b1c5116",
   "asset_base_url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/",
   "platform_delivery_verified": false,
   "emails": {
     "01": {
-      "html_sha256": "f03d0699fd46ddb8c62457a2a54fdd694355b9c776d7e64b2173d650ab9feecc",
+      "html_sha256": "240cc7b4f984843ab170f4daa42a14a2431eb752f33e89f3ccd62ba8bba93214",
       "browser_qa_pass": true,
       "rendered_view_count": 30,
-      "visual_review_count": 12
+      "visual_review_count": 12,
+      "asset_commits": [
+        "62aa63c4d91279e7184ff4417dd4c3fa3a83a30f",
+        "ddd56ae34c9f1b9a504d955bce9d32633b1c5116"
+      ]
     },
     "02": {
       "html_sha256": "4551d2c6caff0a23981950ac7d49bb3b21321fe862a2e9ed79237cfb060cd627",
       "browser_qa_pass": true,
       "rendered_view_count": 30,
-      "visual_review_count": 12
+      "visual_review_count": 12,
+      "asset_commits": [
+        "ddd56ae34c9f1b9a504d955bce9d32633b1c5116"
+      ]
     },
     "03": {
       "html_sha256": "7abc138c4d90e65f2eee2c7eac2b9a32e0c908c54efae02a124a9214f42ea51a",
       "browser_qa_pass": true,
       "rendered_view_count": 30,
-      "visual_review_count": 12
+      "visual_review_count": 12,
+      "asset_commits": [
+        "ddd56ae34c9f1b9a504d955bce9d32633b1c5116"
+      ]
     }
   }
 }

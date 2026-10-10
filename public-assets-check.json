@@ -1,5 +1,5 @@
 {
-  "checked_utc": "2026-10-10T13:12:14.973668+00:00",
+  "checked_utc": "2026-10-10T13:57:51.006921+00:00",
   "anonymous_requests": true,
   "all_passed": true,
   "assets": [
@@ -65,6 +65,14 @@
       "content_type": "image/jpeg",
       "bytes": 87710,
       "sha256": "ccb67a95c0eb64044c8694d8ed94e9c076bfea6ace4806c3180648fea7dab97a",
+      "passed": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/62aa63c4d91279e7184ff4417dd4c3fa3a83a30f/assets/welcome-01/hero-studio-v3-381c3602090d.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 121386,
+      "sha256": "381c3602090d294d6c0b28203343a15db5f1c75b48a8e58360834a7cc00a25c2",
       "passed": true
     },
     {
