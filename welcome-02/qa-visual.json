@@ -1,0 +1,159 @@
+{
+  "html_sha256": "4551d2c6caff0a23981950ac7d49bb3b21321fe862a2e9ed79237cfb060cd627",
+  "reviewed_date": "2026-10-10",
+  "review_type": "Independent visual review of fresh browser screenshots and exact-HTML-hash metrics",
+  "status": "PASS",
+  "reviewed_views": [
+    {
+      "view": "w320",
+      "viewport_width_px": 320,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w320.jpg",
+      "metrics": "responsive-previews/w320.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w320-stripped",
+      "viewport_width_px": 320,
+      "head_styles_removed": true,
+      "screenshot": "responsive-previews/w320-stripped.jpg",
+      "metrics": "responsive-previews/w320-stripped.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w390",
+      "viewport_width_px": 390,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w390.jpg",
+      "metrics": "responsive-previews/w390.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w390-stripped",
+      "viewport_width_px": 390,
+      "head_styles_removed": true,
+      "screenshot": "responsive-previews/w390-stripped.jpg",
+      "metrics": "responsive-previews/w390-stripped.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w430",
+      "viewport_width_px": 430,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w430.jpg",
+      "metrics": "responsive-previews/w430.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w430-stripped",
+      "viewport_width_px": 430,
+      "head_styles_removed": true,
+      "screenshot": "responsive-previews/w430-stripped.jpg",
+      "metrics": "responsive-previews/w430-stripped.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w720",
+      "viewport_width_px": 720,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w720.jpg",
+      "metrics": "responsive-previews/w720.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w720-stripped",
+      "viewport_width_px": 720,
+      "head_styles_removed": true,
+      "screenshot": "responsive-previews/w720-stripped.jpg",
+      "metrics": "responsive-previews/w720-stripped.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w599",
+      "viewport_width_px": 599,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w599.jpg",
+      "metrics": "responsive-previews/w599.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w600",
+      "viewport_width_px": 600,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w600.jpg",
+      "metrics": "responsive-previews/w600.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w768",
+      "viewport_width_px": 768,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w768.jpg",
+      "metrics": "responsive-previews/w768.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w1440",
+      "viewport_width_px": 1440,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w1440.jpg",
+      "metrics": "responsive-previews/w1440.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    }
+  ],
+  "checks": {
+    "readability": "Paragraphs, headings and category captions are readable at every reviewed width; complete Lithuanian words and accents remain intact.",
+    "image_proportions": "Hero and all four catalog photographs retain their natural proportions without stretching or unintended crops.",
+    "category_order": "Bedroom, living room, dining and storage remain in the intended sequence. Each photograph stays directly above its own heading and CTA in stacked views, and beside them in desktop rows.",
+    "stacking": "Normal views below 600px and every reviewed stripped view use one full content column. The 600px breakpoint introduces 45% photo and 55% copy rows without cramped text.",
+    "desktop_columns": "Desktop text columns have sufficient width and balanced vertical alignment; no accidental empty columns or detached CTA elements.",
+    "headline": "The three intended headline lines are intact in normal and fallback typography.",
+    "cta": "Filled CTAs are 56px high with intact readable labels. Category and unsubscribe links have 46px minimum clickable geometry. Each category photo and link retain the same destination.",
+    "spacing": "The portrait, landscape and square catalog photographs create different row heights while preserving consistent section padding and separators.",
+    "desktop_tablet": "The 600px email remains centered at 720px, 768px and 1440px viewports.",
+    "public_images": "All six public GitHub-hosted images are present in every reviewed screenshot and confirmed complete in corresponding metrics. The 320px normal preview was inspected after its successful recapture.",
+    "no_dashes": "All reviewed metrics report no dash punctuation in customer-facing visible copy or image alt text."
+  },
+  "findings": [],
+  "limitations": [
+    "Browser screenshots and accompanying geometry only; this is not verified Gmail, Omnisend or Outlook delivery.",
+    "MSO/VML rendering and actual click behavior in email clients were not exercised by this visual review.",
+    "External destination availability and unsubscribe integration were not tested by this visual review."
+  ],
+  "platform_delivery_verified": false,
+  "reviewed_view_count": 12,
+  "version": 5,
+  "asset_hashes": {
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/hero-assortment-v2-676ca84253dd.jpg": "676ca84253dd1687c601648bc675c55eb86c2b7cad1490b41ad0b1d83f8db186",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-bedroom-a08d6e7ccb36.jpg": "a08d6e7ccb361f30495b09dc073301585a2b024834f88f7147672ee1185a0520",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-living-390ff315e9df.jpg": "390ff315e9df1f1eb0c203f761af40c74a6bbbafaa1424681242369ab93ba19e",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-dining-f67416c27e81.jpg": "f67416c27e81760d60b4d987adb1913ed302c046a045fd2e9b75bc801d233480",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-storage-852944f3af0f.jpg": "852944f3af0f5074c3aa0e87a708e9c9d12963c56dc98096a9f0228a74575fdd"
+  },
+  "automated_view_count": 30
+}

@@ -1,0 +1,249 @@
+{
+  "status": "passed_browser_visual_review",
+  "result": "PASS",
+  "html_sha256": "f03d0699fd46ddb8c62457a2a54fdd694355b9c776d7e64b2173d650ab9feecc",
+  "reviewed_date": "2026-10-10",
+  "platform_delivery_verified": false,
+  "review_method": "Independent direct inspection of all 12 named fresh full-page JPGs using view_image at original resolution, plus their current hash-linked DOM metrics. The corrected w320 normal capture was inspected again after all 8 remote images loaded.",
+  "reviewed_views": [
+    {
+      "file": "responsive-previews/w320.jpg",
+      "viewport_width_px": 320,
+      "mode": "normal",
+      "image_dimensions_px": [
+        320,
+        3383
+      ],
+      "screenshot_sha256": "8d3eec7c706f2d5abba21a97873e5555532241b9f88412343cb7596d1c2ce97a",
+      "metrics_file": "responsive-previews/w320.json",
+      "captured_utc": "2026-10-10T13:17:06.184Z",
+      "result": "pass",
+      "category_columns": 1,
+      "all_images_loaded": true,
+      "min_cta_height_px": 44,
+      "photo_cta_destinations_match": true,
+      "horizontal_overflow": false
+    },
+    {
+      "file": "responsive-previews/w320-stripped.jpg",
+      "viewport_width_px": 320,
+      "mode": "stripped",
+      "image_dimensions_px": [
+        320,
+        3383
+      ],
+      "screenshot_sha256": "729d8f4831b86f8a7764ed2c55018f9b99e267b92ed1206e852ffa51f037d19e",
+      "metrics_file": "responsive-previews/w320-stripped.json",
+      "captured_utc": "2026-10-10T13:14:48.012Z",
+      "result": "pass",
+      "category_columns": 1,
+      "all_images_loaded": true,
+      "min_cta_height_px": 44,
+      "photo_cta_destinations_match": true,
+      "horizontal_overflow": false
+    },
+    {
+      "file": "responsive-previews/w390.jpg",
+      "viewport_width_px": 390,
+      "mode": "normal",
+      "image_dimensions_px": [
+        390,
+        3638
+      ],
+      "screenshot_sha256": "d57f1aa1e3e2158109869996e25ff8e6e395c286a9e17d73661468022bdad898",
+      "metrics_file": "responsive-previews/w390.json",
+      "captured_utc": "2026-10-10T13:14:28.623Z",
+      "result": "pass",
+      "category_columns": 1,
+      "all_images_loaded": true,
+      "min_cta_height_px": 44,
+      "photo_cta_destinations_match": true,
+      "horizontal_overflow": false
+    },
+    {
+      "file": "responsive-previews/w390-stripped.jpg",
+      "viewport_width_px": 390,
+      "mode": "stripped",
+      "image_dimensions_px": [
+        390,
+        3614
+      ],
+      "screenshot_sha256": "c82c547b0545292e4bb0e6de1cdb15e7497cfc99270a2246d8dca1e6407c15be",
+      "metrics_file": "responsive-previews/w390-stripped.json",
+      "captured_utc": "2026-10-10T13:14:52.802Z",
+      "result": "pass",
+      "category_columns": 1,
+      "all_images_loaded": true,
+      "min_cta_height_px": 44,
+      "photo_cta_destinations_match": true,
+      "horizontal_overflow": false
+    },
+    {
+      "file": "responsive-previews/w430.jpg",
+      "viewport_width_px": 430,
+      "mode": "normal",
+      "image_dimensions_px": [
+        430,
+        3831
+      ],
+      "screenshot_sha256": "97a7499d5a1a1d55d4f5b5ee2ff5378bd2ae672ae0d3f6479cacb50d8ab90c7b",
+      "metrics_file": "responsive-previews/w430.json",
+      "captured_utc": "2026-10-10T13:14:31.736Z",
+      "result": "pass",
+      "category_columns": 1,
+      "all_images_loaded": true,
+      "min_cta_height_px": 44,
+      "photo_cta_destinations_match": true,
+      "horizontal_overflow": false
+    },
+    {
+      "file": "responsive-previews/w430-stripped.jpg",
+      "viewport_width_px": 430,
+      "mode": "stripped",
+      "image_dimensions_px": [
+        430,
+        3807
+      ],
+      "screenshot_sha256": "53114e29fa638348392164f5ce9aadde190757212d102741b681f9458b4fca9d",
+      "metrics_file": "responsive-previews/w430-stripped.json",
+      "captured_utc": "2026-10-10T13:14:56.044Z",
+      "result": "pass",
+      "category_columns": 1,
+      "all_images_loaded": true,
+      "min_cta_height_px": 44,
+      "photo_cta_destinations_match": true,
+      "horizontal_overflow": false
+    },
+    {
+      "file": "responsive-previews/w720.jpg",
+      "viewport_width_px": 720,
+      "mode": "normal",
+      "image_dimensions_px": [
+        720,
+        2678
+      ],
+      "screenshot_sha256": "6f55b264b1bb97738ef02e3ccb7ffecc20bf09f9320051955c2045743f78bf2d",
+      "metrics_file": "responsive-previews/w720.json",
+      "captured_utc": "2026-10-10T13:14:39.933Z",
+      "result": "pass",
+      "category_columns": 2,
+      "all_images_loaded": true,
+      "min_cta_height_px": 44,
+      "photo_cta_destinations_match": true,
+      "horizontal_overflow": false
+    },
+    {
+      "file": "responsive-previews/w720-stripped.jpg",
+      "viewport_width_px": 720,
+      "mode": "stripped",
+      "image_dimensions_px": [
+        720,
+        4557
+      ],
+      "screenshot_sha256": "21d4d5ab1b6f41e9e0833dae82bc34ac899aaabb8c213328781e64f6f6319966",
+      "metrics_file": "responsive-previews/w720-stripped.json",
+      "captured_utc": "2026-10-10T13:15:04.265Z",
+      "result": "pass",
+      "category_columns": 1,
+      "all_images_loaded": true,
+      "min_cta_height_px": 44,
+      "photo_cta_destinations_match": true,
+      "horizontal_overflow": false
+    },
+    {
+      "file": "responsive-previews/w599.jpg",
+      "viewport_width_px": 599,
+      "mode": "normal",
+      "image_dimensions_px": [
+        599,
+        4599
+      ],
+      "screenshot_sha256": "027796aaeb94b505a4e7c6eaeef9c2391ece1bb8b7fcd3b36dda4a4d4d2fa802",
+      "metrics_file": "responsive-previews/w599.json",
+      "captured_utc": "2026-10-10T13:14:36.656Z",
+      "result": "pass",
+      "category_columns": 1,
+      "all_images_loaded": true,
+      "min_cta_height_px": 44,
+      "photo_cta_destinations_match": true,
+      "horizontal_overflow": false
+    },
+    {
+      "file": "responsive-previews/w600.jpg",
+      "viewport_width_px": 600,
+      "mode": "normal",
+      "image_dimensions_px": [
+        600,
+        2678
+      ],
+      "screenshot_sha256": "b55ff52babf06958d986689e65af5ea233aba3f316c315afb5e270d32c12bd19",
+      "metrics_file": "responsive-previews/w600.json",
+      "captured_utc": "2026-10-10T13:14:38.316Z",
+      "result": "pass",
+      "category_columns": 2,
+      "all_images_loaded": true,
+      "min_cta_height_px": 44,
+      "photo_cta_destinations_match": true,
+      "horizontal_overflow": false
+    },
+    {
+      "file": "responsive-previews/w768.jpg",
+      "viewport_width_px": 768,
+      "mode": "normal",
+      "image_dimensions_px": [
+        768,
+        2678
+      ],
+      "screenshot_sha256": "0ed5bdd3cf9bb1a5f7f108e6520a9436251ff1b2c8587ce636585353cbe0d6a1",
+      "metrics_file": "responsive-previews/w768.json",
+      "captured_utc": "2026-10-10T13:14:41.585Z",
+      "result": "pass",
+      "category_columns": 2,
+      "all_images_loaded": true,
+      "min_cta_height_px": 44,
+      "photo_cta_destinations_match": true,
+      "horizontal_overflow": false
+    },
+    {
+      "file": "responsive-previews/w1440.jpg",
+      "viewport_width_px": 1440,
+      "mode": "normal",
+      "image_dimensions_px": [
+        1440,
+        2678
+      ],
+      "screenshot_sha256": "21b7ad24077af4f7f2b6c088f1e400f4f3252a1bb0ea2884e1aeafccb92ff92f",
+      "metrics_file": "responsive-previews/w1440.json",
+      "captured_utc": "2026-10-10T13:14:46.445Z",
+      "result": "pass",
+      "category_columns": 2,
+      "all_images_loaded": true,
+      "min_cta_height_px": 44,
+      "photo_cta_destinations_match": true,
+      "horizontal_overflow": false
+    }
+  ],
+  "findings": [
+    "Hero headline, body copy and Lithuanian diacritics are intact and readable in all reviewed views; the stripped fallback remains readable.",
+    "The complete 10 EUR offer, SVEIKI10 code and 56 px filled primary CTA fit at 320 px without clipping.",
+    "All four categories have complete names and captions, with their own photo immediately followed by their own CTA. DOM metrics confirm matching photo and CTA destinations.",
+    "Category cards remain one column below 600 px and in head-style-stripped layouts. At 600 px and wider normal layouts switch cleanly to two columns with aligned content and no empty side columns.",
+    "Natural photo proportions and consistent spacing remain intact in narrow, intermediate, tablet and wide views; the normal desktop email stays centered at 600 px.",
+    "Current metrics for all reviewed views record all 8 public HTTPS images loaded, no horizontal overflow and CTA heights of at least 44 px.",
+    "No clipped text, broken names, detached CTAs, distorted photos or excessive empty columns found in the final 12 reviewed images."
+  ],
+  "resolved_capture_issues": [
+    {
+      "view": "w320 normal",
+      "issue": "Initial screenshot was captured before remote image layout completed and was truncated at 2028 px.",
+      "resolution": "Parent recaptured after load completion; final 320 by 3383 image and fresh metrics show all 8 images and the full footer. Independently re-inspected and passed."
+    }
+  ],
+  "issues": [],
+  "limitations": [
+    "Direct visual review covers the 12 listed screenshots, not the other 18 generated widths/modes.",
+    "Browser QA is not a Gmail, Outlook or Omnisend delivered email test. Conditional Outlook VML was not exercised by these screenshots.",
+    "Clickable anchor dimensions and photo/CTA destinations were checked in captured DOM metrics; actual recipient mail-client interaction remains unverified.",
+    "Draft SVEIKI10 coupon configuration and redemption were not tested."
+  ]
+}

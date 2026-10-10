@@ -1,0 +1,37 @@
+{
+  "version": 5,
+  "updated_date": "2026-10-10",
+  "subject": "Prieš užsakydami pasitikrinkite tris dalykus",
+  "preheader": "Ar tilps, kaip naudosite ir kaip prižiūrėsite. Padėsime atsakyti į likusius klausimus.",
+  "delay_days": 5,
+  "delay_origin": "Confirmed subscription",
+  "role": "Pagalba apsisprendžiant prieš pirkimą: matmenys ir įnešimas, naudojimas, priežiūra, konsultacija ir antrinis dovanos priminimas",
+  "primary_url": "mailto:info@tikbaldai.lt",
+  "hero_headline": "Jūsų namų istorija.",
+  "hero_text_mode": "Rasterized editorial headline with exact Lithuanian text and meaningful alt; remaining copy live HTML",
+  "draft_coupon": "SVEIKI10",
+  "coupon_config_verified": false,
+  "responsive": {
+    "mobile_padding_px": 24,
+    "desktop_padding_px": 38,
+    "desktop_breakpoint_px": 600,
+    "outlook_vml_button": true,
+    "coupon_layout": "stacked_compact",
+    "qa_status": "passed browser geometry checks and required visual review; platform delivery unverified",
+    "qa_html_sha256": "7abc138c4d90e65f2eee2c7eac2b9a32e0c908c54efae02a124a9214f42ea51a"
+  },
+  "fonts": [
+    "Arial",
+    "Georgia"
+  ],
+  "font_links": false,
+  "html_sha256": "7abc138c4d90e65f2eee2c7eac2b9a32e0c908c54efae02a124a9214f42ea51a",
+  "unsubscribe_placeholder": "{{unsubscribe_url}}",
+  "trigger": "New confirmed marketing subscriber without prior purchase",
+  "stop_conditions": [
+    "Purchase",
+    "Unsubscribe",
+    "Suppression"
+  ],
+  "status": "local_design_draft"
+}

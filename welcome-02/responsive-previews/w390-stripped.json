@@ -1,0 +1,348 @@
+{
+  "altHasDash": false,
+  "categories": [
+    {
+      "card": {
+        "bottom": 1616.2578125,
+        "height": 640.8203125,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 975.4375
+      },
+      "cta": {
+        "bottom": 1592.2578125,
+        "height": 46,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 1546.2578125
+      },
+      "heading": {
+        "bottom": 1546.2578125,
+        "height": 34,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 1512.2578125
+      },
+      "headingWidth": 342,
+      "imageAboveCta": true,
+      "name": "Ramiam poilsiui",
+      "photo": {
+        "bottom": 1469.2578125,
+        "height": 468.8203125,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 1000.4375
+      },
+      "photoWidth": 342,
+      "sameDestination": true
+    },
+    {
+      "card": {
+        "bottom": 1983.1953125,
+        "height": 366.9375,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 1616.2578125
+      },
+      "cta": {
+        "bottom": 1959.1953125,
+        "height": 46,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 1913.1953125
+      },
+      "heading": {
+        "bottom": 1913.1953125,
+        "height": 34,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 1879.1953125
+      },
+      "headingWidth": 342,
+      "imageAboveCta": true,
+      "name": "Jaukiems vakarams",
+      "photo": {
+        "bottom": 1836.1953125,
+        "height": 194.9375,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 1641.2578125
+      },
+      "photoWidth": 342,
+      "sameDestination": true
+    },
+    {
+      "card": {
+        "bottom": 2497.1953125,
+        "height": 514,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 1983.1953125
+      },
+      "cta": {
+        "bottom": 2473.1953125,
+        "height": 46,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 2427.1953125
+      },
+      "heading": {
+        "bottom": 2427.1953125,
+        "height": 34,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 2393.1953125
+      },
+      "headingWidth": 342,
+      "imageAboveCta": true,
+      "name": "Laikui prie stalo",
+      "photo": {
+        "bottom": 2350.1953125,
+        "height": 342,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 2008.1953125
+      },
+      "photoWidth": 342,
+      "sameDestination": true
+    },
+    {
+      "card": {
+        "bottom": 3011.1953125,
+        "height": 514,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 2497.1953125
+      },
+      "cta": {
+        "bottom": 2987.1953125,
+        "height": 46,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 2941.1953125
+      },
+      "heading": {
+        "bottom": 2941.1953125,
+        "height": 34,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 2907.1953125
+      },
+      "headingWidth": 342,
+      "imageAboveCta": true,
+      "name": "Daugiau vietos daiktams",
+      "photo": {
+        "bottom": 2864.1953125,
+        "height": 342,
+        "right": 366,
+        "width": 342,
+        "x": 24,
+        "y": 2522.1953125
+      },
+      "photoWidth": 342,
+      "sameDestination": true
+    }
+  ],
+  "contentSections": null,
+  "copyHasDash": false,
+  "cta": [
+    {
+      "bottom": 889.4375,
+      "height": 56,
+      "href": "https://tikbaldai.lt/?utm_source=welcome&utm_medium=email&utm_campaign=welcome_02&utm_content=browse",
+      "right": 366,
+      "text": "Rinktis baldus namams",
+      "width": 342,
+      "x": 24,
+      "y": 833.4375
+    },
+    {
+      "bottom": 1592.2578125,
+      "height": 46,
+      "href": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_02&utm_content=category_lova-ciuzinys-pasiulymai",
+      "right": 366,
+      "text": "Lovos ir čiužinio komplektai  ↗",
+      "width": 342,
+      "x": 24,
+      "y": 1546.2578125
+    },
+    {
+      "bottom": 1959.1953125,
+      "height": 46,
+      "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_02&utm_content=category_svetaines-baldai",
+      "right": 366,
+      "text": "Svetainės baldai  ↗",
+      "width": 342,
+      "x": 24,
+      "y": 1913.1953125
+    },
+    {
+      "bottom": 2473.1953125,
+      "height": 46,
+      "href": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_02&utm_content=category_virtuves-ir-valgomojo-baldu-komplektai",
+      "right": 366,
+      "text": "Valgomojo komplektai  ↗",
+      "width": 342,
+      "x": 24,
+      "y": 2427.1953125
+    },
+    {
+      "bottom": 2987.1953125,
+      "height": 46,
+      "href": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=welcome&utm_medium=email&utm_campaign=welcome_02&utm_content=category_spintos-komodos",
+      "right": 366,
+      "text": "Spintos ir komodos  ↗",
+      "width": 342,
+      "x": 24,
+      "y": 2941.1953125
+    },
+    {
+      "bottom": 3479.1953125,
+      "height": 56,
+      "href": "mailto:info@tikbaldai.lt",
+      "right": 366,
+      "text": "Pasitarti dėl pasirinkimo",
+      "width": 342,
+      "x": 24,
+      "y": 3423.1953125
+    },
+    {
+      "bottom": 3659.1953125,
+      "height": 46,
+      "href": "{{unsubscribe_url}}",
+      "right": 252.7734375,
+      "text": "Atsisakyti naujienlaiškių",
+      "width": 115.5546875,
+      "x": 137.21875,
+      "y": 3613.1953125
+    }
+  ],
+  "emailRect": {
+    "bottom": 3681.1953125,
+    "height": 3681.1953125,
+    "right": 390,
+    "width": 390,
+    "x": 0,
+    "y": 0
+  },
+  "emailWidth": 390,
+  "headStyleCount": 0,
+  "height": 3681,
+  "hero": {
+    "bottom": 685.4375,
+    "fontSize": "36px",
+    "fontWeight": "700",
+    "height": 114,
+    "lineHeight": "38px",
+    "right": 366,
+    "width": 342,
+    "x": 24,
+    "y": 571.4375
+  },
+  "images": [
+    {
+      "bottom": 56.1171875,
+      "complete": true,
+      "height": 27.1171875,
+      "naturalHeight": 104,
+      "naturalWidth": 579,
+      "right": 270.5,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
+      "width": 151,
+      "x": 119.5,
+      "y": 29
+    },
+    {
+      "bottom": 564.4375,
+      "complete": true,
+      "height": 487.3203125,
+      "naturalHeight": 1402,
+      "naturalWidth": 1122,
+      "right": 390,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/hero-assortment-v2-676ca84253dd.jpg",
+      "width": 390,
+      "x": 0,
+      "y": 77.1171875
+    },
+    {
+      "bottom": 1469.2578125,
+      "complete": true,
+      "height": 468.8203125,
+      "naturalHeight": 987,
+      "naturalWidth": 720,
+      "right": 366,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-bedroom-a08d6e7ccb36.jpg",
+      "width": 342,
+      "x": 24,
+      "y": 1000.4375
+    },
+    {
+      "bottom": 1836.1953125,
+      "complete": true,
+      "height": 194.9375,
+      "naturalHeight": 513,
+      "naturalWidth": 900,
+      "right": 366,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-living-390ff315e9df.jpg",
+      "width": 342,
+      "x": 24,
+      "y": 1641.2578125
+    },
+    {
+      "bottom": 2350.1953125,
+      "complete": true,
+      "height": 342,
+      "naturalHeight": 900,
+      "naturalWidth": 900,
+      "right": 366,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-dining-f67416c27e81.jpg",
+      "width": 342,
+      "x": 24,
+      "y": 2008.1953125
+    },
+    {
+      "bottom": 2864.1953125,
+      "complete": true,
+      "height": 342,
+      "naturalHeight": 900,
+      "naturalWidth": 900,
+      "right": 366,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-storage-852944f3af0f.jpg",
+      "width": 342,
+      "x": 24,
+      "y": 2522.1953125
+    }
+  ],
+  "offer": null,
+  "overflowElements": [],
+  "scrollWidth": 390,
+  "selectionTips": [],
+  "url": "http://127.0.0.1:8770/welcome-02/qa-stripped.html",
+  "width": 390,
+  "captured_utc": "2026-10-10T13:16:02.039Z",
+  "rendered_source_sha256": "4faf2366905f3ad6cbab6e3607d8718666ae8f239405a416eb7a204cce558a24",
+  "html_sha256": "4551d2c6caff0a23981950ac7d49bb3b21321fe862a2e9ed79237cfb060cd627",
+  "asset_hashes": {
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/hero-assortment-v2-676ca84253dd.jpg": "676ca84253dd1687c601648bc675c55eb86c2b7cad1490b41ad0b1d83f8db186",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-bedroom-a08d6e7ccb36.jpg": "a08d6e7ccb361f30495b09dc073301585a2b024834f88f7147672ee1185a0520",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-living-390ff315e9df.jpg": "390ff315e9df1f1eb0c203f761af40c74a6bbbafaa1424681242369ab93ba19e",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-dining-f67416c27e81.jpg": "f67416c27e81760d60b4d987adb1913ed302c046a045fd2e9b75bc801d233480",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-02/category-storage-852944f3af0f.jpg": "852944f3af0f5074c3aa0e87a708e9c9d12963c56dc98096a9f0228a74575fdd"
+  }
+}

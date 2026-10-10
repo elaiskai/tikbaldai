@@ -1,0 +1,62 @@
+{
+  "version": 5,
+  "updated_date": "2026-10-10",
+  "subject": "Jaukumas turi daug formų",
+  "preheader": "Atraskite baldus poilsiui, laikui kartu ir kasdienei namų tvarkai.",
+  "delay_days": 2,
+  "delay_origin": "Confirmed subscription",
+  "role": "Platus asortimentas pagal namų poreikį ir pagalba renkantis",
+  "primary_url": "https://tikbaldai.lt/",
+  "hero_headline": "JAUKUMAS TURI DAUG FORMŲ.",
+  "hero_sizes_px": {
+    "fallback": 36,
+    "mobile_from_360": 46,
+    "desktop_from_600": 66
+  },
+  "responsive": {
+    "inner_padding_px": {
+      "inline_default": 24,
+      "desktop_from_600": 38,
+      "mso": 38
+    },
+    "category_layout": {
+      "inline_default": "stacked",
+      "desktop_from_600": "45% photo / 55% copy",
+      "mso_ghost_widths_px": [
+        236,
+        288
+      ]
+    },
+    "category_image_width_attribute_px": 236,
+    "image_css": "width:100%; max-width:524px; height:auto",
+    "text_size_adjust_percent": 100,
+    "filled_buttons": {
+      "non_mso": "fluid up to 370px, 56px minimum height",
+      "mso": "VML roundrect, 370px by 56px, full shape hyperlink"
+    },
+    "head_stripped": "24px inline padding and full width stacked categories",
+    "qa_status": "passed browser geometry checks and required visual review; platform delivery unverified",
+    "qa_html_sha256": "4551d2c6caff0a23981950ac7d49bb3b21321fe862a2e9ed79237cfb060cd627"
+  },
+  "category_urls": {
+    "Lovos ir čiužinio komplektai": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai",
+    "Svetainės baldai": "https://tikbaldai.lt/collections/svetaines-baldai",
+    "Valgomojo komplektai": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai",
+    "Spintos ir komodos": "https://tikbaldai.lt/collections/spintos-komodos"
+  },
+  "fonts": [
+    "Arial Bold",
+    "Arial",
+    "Georgia"
+  ],
+  "font_links": false,
+  "html_sha256": "4551d2c6caff0a23981950ac7d49bb3b21321fe862a2e9ed79237cfb060cd627",
+  "unsubscribe_placeholder": "{{unsubscribe_url}}",
+  "trigger": "New confirmed marketing subscriber without prior purchase",
+  "stop_conditions": [
+    "Purchase",
+    "Unsubscribe",
+    "Suppression"
+  ],
+  "status": "local_design_draft"
+}

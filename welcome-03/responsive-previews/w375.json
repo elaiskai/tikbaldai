@@ -1,0 +1,195 @@
+{
+  "altHasDash": false,
+  "categories": [],
+  "contentSections": {
+    "gift": {
+      "bottom": 2161.6953125,
+      "height": 263,
+      "right": 351,
+      "width": 327,
+      "x": 24,
+      "y": 1898.6953125
+    },
+    "guide": {
+      "bottom": 1566.6953125,
+      "height": 765,
+      "right": 375,
+      "width": 375,
+      "x": 0,
+      "y": 801.6953125
+    },
+    "intro": {
+      "bottom": 801.6953125,
+      "height": 254,
+      "right": 375,
+      "width": 375,
+      "x": 0,
+      "y": 547.6953125
+    },
+    "stores": {
+      "bottom": 1898.6953125,
+      "height": 332,
+      "right": 375,
+      "width": 375,
+      "x": 0,
+      "y": 1566.6953125
+    }
+  },
+  "copyHasDash": false,
+  "cta": [
+    {
+      "bottom": 1528.6953125,
+      "height": 56,
+      "href": "mailto:info@tikbaldai.lt",
+      "right": 351,
+      "text": "Pasitarti dėl pasirinkimo",
+      "width": 327,
+      "x": 24,
+      "y": 1472.6953125
+    },
+    {
+      "bottom": 1872.6953125,
+      "height": 50,
+      "href": "https://tikbaldai.lt/pages/kontaktai?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=contact",
+      "right": 174.9453125,
+      "text": "Susisiekti su komanda",
+      "width": 150.9453125,
+      "x": 24,
+      "y": 1822.6953125
+    },
+    {
+      "bottom": 2148.6953125,
+      "height": 50,
+      "href": "https://tikbaldai.lt/?utm_source=welcome&utm_medium=email&utm_campaign=welcome_03&utm_content=welcome_gift",
+      "right": 234.8515625,
+      "text": "Atrasti baldus savo namams",
+      "width": 189.8515625,
+      "x": 45,
+      "y": 2098.6953125
+    },
+    {
+      "bottom": 2332.6953125,
+      "height": 46,
+      "href": "{{unsubscribe_url}}",
+      "right": 245.2734375,
+      "text": "Atsisakyti naujienlaiškių",
+      "width": 115.5546875,
+      "x": 129.71875,
+      "y": 2286.6953125
+    }
+  ],
+  "emailRect": {
+    "bottom": 2354.6953125,
+    "height": 2354.6953125,
+    "right": 375,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "emailWidth": 375,
+  "headStyleCount": 1,
+  "height": 2354,
+  "hero": {
+    "bottom": 547.6953125,
+    "fontSize": "28px",
+    "fontWeight": "400",
+    "height": 468.578125,
+    "lineHeight": "36px",
+    "right": 375,
+    "width": 375,
+    "x": 0,
+    "y": 79.1171875
+  },
+  "images": [
+    {
+      "bottom": 56.1171875,
+      "complete": true,
+      "height": 27.1171875,
+      "naturalHeight": 104,
+      "naturalWidth": 579,
+      "right": 263,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
+      "width": 151,
+      "x": 112,
+      "y": 29
+    },
+    {
+      "bottom": 547.6953125,
+      "complete": true,
+      "height": 468.578125,
+      "naturalHeight": 1402,
+      "naturalWidth": 1122,
+      "right": 375,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-03/hero-editorial-v2-d3049a574e63.jpg",
+      "width": 375,
+      "x": 0,
+      "y": 79.1171875
+    }
+  ],
+  "offer": {
+    "amount": {
+      "bottom": 1976.6953125,
+      "height": 27.5,
+      "right": 91.2421875,
+      "width": 46.2421875,
+      "x": 45,
+      "y": 1949.1953125
+    },
+    "amountFontSize": "24px",
+    "code": {
+      "bottom": 2066.6953125,
+      "height": 44,
+      "right": 166.828125,
+      "width": 121.828125,
+      "x": 45,
+      "y": 2022.6953125
+    },
+    "codeFontSize": "20px"
+  },
+  "overflowElements": [],
+  "scrollWidth": 375,
+  "selectionTips": [
+    {
+      "copy": {
+        "bottom": 1064.6953125,
+        "height": 169,
+        "right": 351,
+        "width": 285,
+        "x": 66,
+        "y": 895.6953125
+      },
+      "fontSize": "15px"
+    },
+    {
+      "copy": {
+        "bottom": 1233.6953125,
+        "height": 169,
+        "right": 351,
+        "width": 285,
+        "x": 66,
+        "y": 1064.6953125
+      },
+      "fontSize": "15px"
+    },
+    {
+      "copy": {
+        "bottom": 1402.6953125,
+        "height": 169,
+        "right": 351,
+        "width": 285,
+        "x": 66,
+        "y": 1233.6953125
+      },
+      "fontSize": "15px"
+    }
+  ],
+  "url": "http://127.0.0.1:8770/welcome-03/email.html",
+  "width": 375,
+  "captured_utc": "2026-10-10T13:13:25.993Z",
+  "rendered_source_sha256": "7abc138c4d90e65f2eee2c7eac2b9a32e0c908c54efae02a124a9214f42ea51a",
+  "html_sha256": "7abc138c4d90e65f2eee2c7eac2b9a32e0c908c54efae02a124a9214f42ea51a",
+  "asset_hashes": {
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-03/hero-editorial-v2-d3049a574e63.jpg": "d3049a574e6399b393d89d126adac22bd79fd1bfbed61cae4a160bd2facde03b"
+  }
+}

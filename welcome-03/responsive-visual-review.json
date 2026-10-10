@@ -1,0 +1,147 @@
+{
+  "html_sha256": "7abc138c4d90e65f2eee2c7eac2b9a32e0c908c54efae02a124a9214f42ea51a",
+  "reviewed_date": "2026-10-10",
+  "review_type": "Independent visual review of fresh browser screenshots and exact-HTML-hash metrics",
+  "status": "PASS",
+  "platform_delivery_verified": false,
+  "reviewed_views": [
+    {
+      "view": "w320",
+      "viewport_width_px": 320,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w320.jpg",
+      "metrics": "responsive-previews/w320.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w320-stripped",
+      "viewport_width_px": 320,
+      "head_styles_removed": true,
+      "screenshot": "responsive-previews/w320-stripped.jpg",
+      "metrics": "responsive-previews/w320-stripped.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w390",
+      "viewport_width_px": 390,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w390.jpg",
+      "metrics": "responsive-previews/w390.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w390-stripped",
+      "viewport_width_px": 390,
+      "head_styles_removed": true,
+      "screenshot": "responsive-previews/w390-stripped.jpg",
+      "metrics": "responsive-previews/w390-stripped.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w430",
+      "viewport_width_px": 430,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w430.jpg",
+      "metrics": "responsive-previews/w430.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w430-stripped",
+      "viewport_width_px": 430,
+      "head_styles_removed": true,
+      "screenshot": "responsive-previews/w430-stripped.jpg",
+      "metrics": "responsive-previews/w430-stripped.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w720",
+      "viewport_width_px": 720,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w720.jpg",
+      "metrics": "responsive-previews/w720.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w720-stripped",
+      "viewport_width_px": 720,
+      "head_styles_removed": true,
+      "screenshot": "responsive-previews/w720-stripped.jpg",
+      "metrics": "responsive-previews/w720-stripped.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w599",
+      "viewport_width_px": 599,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w599.jpg",
+      "metrics": "responsive-previews/w599.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w600",
+      "viewport_width_px": 600,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w600.jpg",
+      "metrics": "responsive-previews/w600.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w768",
+      "viewport_width_px": 768,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w768.jpg",
+      "metrics": "responsive-previews/w768.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    },
+    {
+      "view": "w1440",
+      "viewport_width_px": 1440,
+      "head_styles_removed": false,
+      "screenshot": "responsive-previews/w1440.jpg",
+      "metrics": "responsive-previews/w1440.json",
+      "html_hash_verified": true,
+      "status": "PASS",
+      "minimum_cta_height_px": 46
+    }
+  ],
+  "reviewed_view_count": 12,
+  "notes": {
+    "readability": "Decision-help introduction, numbered tips, shop addresses and coupon copy are readable at all reviewed widths including 320px with head styles removed.",
+    "lithuanian_glyphs": "Lithuanian letters and accents remain clear in the image headline and live body text. No text is clipped.",
+    "content_order": "Logo, hero, decision-help introduction, three practical checks, main consultation CTA, shop consultation section, secondary coupon and footer remain in order.",
+    "tip_columns": "Numbers and copy remain aligned. The narrow numeric column does not squeeze tip text into awkward word-by-word wrapping.",
+    "images": "The existing hero and logo display with natural proportions at all reviewed widths. No missing image placeholder or distortion was observed.",
+    "cta": "Main consultation CTA remains visually dominant, with intact label and adequate clickable geometry in the associated metrics. Every recorded text CTA is at least 44px high.",
+    "coupon": "The compact bottom coupon remains secondary to consultation. SVEIKI10 is unbroken, and the 10 € first-order offer remains readable.",
+    "breakpoints": "599px and 600px have stable content alignment. Wider layouts retain a centered 600px email.",
+    "spacing": "No unintended blank columns, overlaps, detached headings or excessive gaps were observed."
+  },
+  "findings": [],
+  "limitations": [
+    "Browser screenshots and geometry were reviewed; actual Gmail, Omnisend and Outlook delivery is unverified.",
+    "MSO/VML rendering and real email-client click behavior were not exercised by this visual review.",
+    "Coupon setup, unsubscribe integration and physical-shop display availability were not verified by this visual review."
+  ]
+}
