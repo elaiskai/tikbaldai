@@ -1,0 +1,1 @@
+Built-in imagegen reframing edit: remove approximately half of the blank ivory space above the sofa, retaining the sofa on silver tray composition, full width and bottom, no text. Source: winback-02-hero-v2.jpg. Output: winback-02-hero-v3.jpg. Result is AI reframing rather than a pixel-exact crop.

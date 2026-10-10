@@ -1,0 +1,144 @@
+{
+  "status": "PASS",
+  "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+  "views": [
+    {
+      "name": "winback-02-w320-stripped",
+      "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+      "status": "PASS",
+      "screenshot_sha256": "1fe0c030eb49cfcae2008ebd21616490ff1c4c1c4ae24f834dd2218285e1989a",
+      "crop_sha256": "45201ff23bc38cba88162ab583204f43b86140be1a5f6fd2502bdc3d34523ca1",
+      "checks": {
+        "full_footer": true,
+        "readable_copy": true,
+        "intact_names": true,
+        "natural_photos": true,
+        "associated_cta": true,
+        "clear_44px_cta": true,
+        "aligned_spacing": true,
+        "reduced_hero_gap": true
+      }
+    },
+    {
+      "name": "winback-02-w320",
+      "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+      "status": "PASS",
+      "screenshot_sha256": "9011ebdb0b084d51c7e5987658eeb28d1e13536fd99a1b65d2f0d7527bc6c043",
+      "crop_sha256": "45201ff23bc38cba88162ab583204f43b86140be1a5f6fd2502bdc3d34523ca1",
+      "checks": {
+        "full_footer": true,
+        "readable_copy": true,
+        "intact_names": true,
+        "natural_photos": true,
+        "associated_cta": true,
+        "clear_44px_cta": true,
+        "aligned_spacing": true,
+        "reduced_hero_gap": true
+      }
+    },
+    {
+      "name": "winback-02-w390-stripped",
+      "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+      "status": "PASS",
+      "screenshot_sha256": "97e297477516ead6177c7f745780447f79d632b19f5ddd0a58ac0a8b7ffb8097",
+      "crop_sha256": "e4285ac733887be6ecf5fab65cb7df66edd89119033866e0de225ba71e0014cb",
+      "checks": {
+        "full_footer": true,
+        "readable_copy": true,
+        "intact_names": true,
+        "natural_photos": true,
+        "associated_cta": true,
+        "clear_44px_cta": true,
+        "aligned_spacing": true,
+        "reduced_hero_gap": true
+      }
+    },
+    {
+      "name": "winback-02-w390",
+      "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+      "status": "PASS",
+      "screenshot_sha256": "3679905af4b66ea93a9a9d308c8834899ede31dd87edfecaf1a3ebb65e225f9d",
+      "crop_sha256": "567179ee5a15edfefd5b36d753d60ffd350e978dfbc244c4c38a39abbd6349bf",
+      "checks": {
+        "full_footer": true,
+        "readable_copy": true,
+        "intact_names": true,
+        "natural_photos": true,
+        "associated_cta": true,
+        "clear_44px_cta": true,
+        "aligned_spacing": true,
+        "reduced_hero_gap": true
+      }
+    },
+    {
+      "name": "winback-02-w430-stripped",
+      "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+      "status": "PASS",
+      "screenshot_sha256": "5c9248fd48a2e0ef130bec8e2f51012435ff21609659a2e565ed3acf40f67c69",
+      "crop_sha256": "2eceb495a2bf89bb7e18350c075e7b3c5cb758e7bf65cdcc374fa3c7a1332804",
+      "checks": {
+        "full_footer": true,
+        "readable_copy": true,
+        "intact_names": true,
+        "natural_photos": true,
+        "associated_cta": true,
+        "clear_44px_cta": true,
+        "aligned_spacing": true,
+        "reduced_hero_gap": true
+      }
+    },
+    {
+      "name": "winback-02-w430",
+      "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+      "status": "PASS",
+      "screenshot_sha256": "697ba94241efce081f5f62d0b0177f18d590e9114f86428b5bd6dba90d1fc9ab",
+      "crop_sha256": "2eceb495a2bf89bb7e18350c075e7b3c5cb758e7bf65cdcc374fa3c7a1332804",
+      "checks": {
+        "full_footer": true,
+        "readable_copy": true,
+        "intact_names": true,
+        "natural_photos": true,
+        "associated_cta": true,
+        "clear_44px_cta": true,
+        "aligned_spacing": true,
+        "reduced_hero_gap": true
+      }
+    },
+    {
+      "name": "winback-02-w600-stripped",
+      "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+      "status": "PASS",
+      "screenshot_sha256": "2c3d7d217b2dd367f312111dfad75d435631b23a78f2bf4ec53ce74a6e23faa8",
+      "crop_sha256": "70d82baa862ce6621abb23a8970713dc7c93292fa749e6aff5a77cdb4974d03b",
+      "checks": {
+        "full_footer": true,
+        "readable_copy": true,
+        "intact_names": true,
+        "natural_photos": true,
+        "associated_cta": true,
+        "clear_44px_cta": true,
+        "aligned_spacing": true,
+        "reduced_hero_gap": true
+      }
+    },
+    {
+      "name": "winback-02-w600",
+      "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+      "status": "PASS",
+      "screenshot_sha256": "f893116cae09905e5fcc050c3fe3d7a5cbb3982737c727c36842888741e8c532",
+      "crop_sha256": "52f91beada03a4a9d1eb17140db57e19f03dc5a52cdb870f758c819110f89b84",
+      "checks": {
+        "full_footer": true,
+        "readable_copy": true,
+        "intact_names": true,
+        "natural_photos": true,
+        "associated_cta": true,
+        "clear_44px_cta": true,
+        "aligned_spacing": true,
+        "reduced_hero_gap": true
+      }
+    }
+  ],
+  "visual_review": "Eight complete current renders reviewed in normal and stripped contact sheets. Title-to-sofa gap approximately halved. No cropped footer, misplaced category CTA, stretched photo, or text overflow.",
+  "platform_delivery_verified": false
+}

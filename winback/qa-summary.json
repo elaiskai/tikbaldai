@@ -76,74 +76,147 @@
       ]
     },
     "02": {
-      "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
+      "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
       "browser_qa_pass": true,
       "views": [
         {
-          "name": "winback-02-w320",
-          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
-          "screenshot_sha256": "2e4247a0ec620909075536c542db4afa75b5853c5a9bc4517c05202b9e680da4",
-          "crop_sha256": "42b6d0cdfe28cbd2d981b597754b24a3e1e26fa5155780efec0367ed4766945f",
-          "browser_qa_pass": true,
-          "visual_qa_pass": true
-        },
-        {
           "name": "winback-02-w320-stripped",
-          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
-          "screenshot_sha256": "f42d990d08df1251c6b96f1854c40b354e1f24f98f7771086d690c3f5e855b9b",
-          "crop_sha256": "42b6d0cdfe28cbd2d981b597754b24a3e1e26fa5155780efec0367ed4766945f",
-          "browser_qa_pass": true,
-          "visual_qa_pass": true
+          "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+          "status": "PASS",
+          "screenshot_sha256": "1fe0c030eb49cfcae2008ebd21616490ff1c4c1c4ae24f834dd2218285e1989a",
+          "crop_sha256": "45201ff23bc38cba88162ab583204f43b86140be1a5f6fd2502bdc3d34523ca1",
+          "checks": {
+            "full_footer": true,
+            "readable_copy": true,
+            "intact_names": true,
+            "natural_photos": true,
+            "associated_cta": true,
+            "clear_44px_cta": true,
+            "aligned_spacing": true,
+            "reduced_hero_gap": true
+          }
         },
         {
-          "name": "winback-02-w390",
-          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
-          "screenshot_sha256": "5d6b846e022dbbf038e8871561e1f12da621719ba5742942d6c2772b92e717b5",
-          "crop_sha256": "58c307f95e2fa43fa76834ea69024d890db0e3f36542896373be9ef13587b3e5",
-          "browser_qa_pass": true,
-          "visual_qa_pass": true
+          "name": "winback-02-w320",
+          "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+          "status": "PASS",
+          "screenshot_sha256": "9011ebdb0b084d51c7e5987658eeb28d1e13536fd99a1b65d2f0d7527bc6c043",
+          "crop_sha256": "45201ff23bc38cba88162ab583204f43b86140be1a5f6fd2502bdc3d34523ca1",
+          "checks": {
+            "full_footer": true,
+            "readable_copy": true,
+            "intact_names": true,
+            "natural_photos": true,
+            "associated_cta": true,
+            "clear_44px_cta": true,
+            "aligned_spacing": true,
+            "reduced_hero_gap": true
+          }
         },
         {
           "name": "winback-02-w390-stripped",
-          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
-          "screenshot_sha256": "e8335d435888e32a35f1a1c54cadf24016043906dc24fe1e96ee383686e1bfb0",
-          "crop_sha256": "3b4bbcf48bc2058608836f22ad387f02a502be9f159c97331a9a2ec88fc53004",
-          "browser_qa_pass": true,
-          "visual_qa_pass": true
+          "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+          "status": "PASS",
+          "screenshot_sha256": "97e297477516ead6177c7f745780447f79d632b19f5ddd0a58ac0a8b7ffb8097",
+          "crop_sha256": "e4285ac733887be6ecf5fab65cb7df66edd89119033866e0de225ba71e0014cb",
+          "checks": {
+            "full_footer": true,
+            "readable_copy": true,
+            "intact_names": true,
+            "natural_photos": true,
+            "associated_cta": true,
+            "clear_44px_cta": true,
+            "aligned_spacing": true,
+            "reduced_hero_gap": true
+          }
         },
         {
-          "name": "winback-02-w430",
-          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
-          "screenshot_sha256": "5bc153203e4c54d9b2a6d066815584b94d072bf6a2123278ad3efd201635c855",
-          "crop_sha256": "f2c0759e8c77eab7ae2e0ba7122ecf10eb769b00bcb76648a705c2f54a05b158",
-          "browser_qa_pass": true,
-          "visual_qa_pass": true
+          "name": "winback-02-w390",
+          "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+          "status": "PASS",
+          "screenshot_sha256": "3679905af4b66ea93a9a9d308c8834899ede31dd87edfecaf1a3ebb65e225f9d",
+          "crop_sha256": "567179ee5a15edfefd5b36d753d60ffd350e978dfbc244c4c38a39abbd6349bf",
+          "checks": {
+            "full_footer": true,
+            "readable_copy": true,
+            "intact_names": true,
+            "natural_photos": true,
+            "associated_cta": true,
+            "clear_44px_cta": true,
+            "aligned_spacing": true,
+            "reduced_hero_gap": true
+          }
         },
         {
           "name": "winback-02-w430-stripped",
-          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
-          "screenshot_sha256": "95fe20f42ad9c7f38fef06e2a023d832dd6a3a4a5f9add47371ce14033c646f1",
-          "crop_sha256": "f2c0759e8c77eab7ae2e0ba7122ecf10eb769b00bcb76648a705c2f54a05b158",
-          "browser_qa_pass": true,
-          "visual_qa_pass": true
+          "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+          "status": "PASS",
+          "screenshot_sha256": "5c9248fd48a2e0ef130bec8e2f51012435ff21609659a2e565ed3acf40f67c69",
+          "crop_sha256": "2eceb495a2bf89bb7e18350c075e7b3c5cb758e7bf65cdcc374fa3c7a1332804",
+          "checks": {
+            "full_footer": true,
+            "readable_copy": true,
+            "intact_names": true,
+            "natural_photos": true,
+            "associated_cta": true,
+            "clear_44px_cta": true,
+            "aligned_spacing": true,
+            "reduced_hero_gap": true
+          }
         },
         {
-          "name": "winback-02-w600",
-          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
-          "screenshot_sha256": "a3bd363f53b510e84c15ca7f96e5d172e3428ab2dc5e15789bc15e00b6c91d09",
-          "crop_sha256": "cd8dc33ef5d32f4705c24162792a48f73199c5eac901305e29baaf857b7836fc",
-          "browser_qa_pass": true,
-          "visual_qa_pass": true
+          "name": "winback-02-w430",
+          "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+          "status": "PASS",
+          "screenshot_sha256": "697ba94241efce081f5f62d0b0177f18d590e9114f86428b5bd6dba90d1fc9ab",
+          "crop_sha256": "2eceb495a2bf89bb7e18350c075e7b3c5cb758e7bf65cdcc374fa3c7a1332804",
+          "checks": {
+            "full_footer": true,
+            "readable_copy": true,
+            "intact_names": true,
+            "natural_photos": true,
+            "associated_cta": true,
+            "clear_44px_cta": true,
+            "aligned_spacing": true,
+            "reduced_hero_gap": true
+          }
         },
         {
           "name": "winback-02-w600-stripped",
-          "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
-          "screenshot_sha256": "24908738ec386e6eb537f98cba6bfe339071fc1278a282dcaa463fb9306ee44f",
-          "crop_sha256": "2a979d6f16e8939a98ad0c40d7e0435bdba32d46c57cb1bcc6ac2912d1c5a149",
-          "browser_qa_pass": true,
-          "visual_qa_pass": true
+          "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+          "status": "PASS",
+          "screenshot_sha256": "2c3d7d217b2dd367f312111dfad75d435631b23a78f2bf4ec53ce74a6e23faa8",
+          "crop_sha256": "70d82baa862ce6621abb23a8970713dc7c93292fa749e6aff5a77cdb4974d03b",
+          "checks": {
+            "full_footer": true,
+            "readable_copy": true,
+            "intact_names": true,
+            "natural_photos": true,
+            "associated_cta": true,
+            "clear_44px_cta": true,
+            "aligned_spacing": true,
+            "reduced_hero_gap": true
+          }
+        },
+        {
+          "name": "winback-02-w600",
+          "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+          "status": "PASS",
+          "screenshot_sha256": "f893116cae09905e5fcc050c3fe3d7a5cbb3982737c727c36842888741e8c532",
+          "crop_sha256": "52f91beada03a4a9d1eb17140db57e19f03dc5a52cdb870f758c819110f89b84",
+          "checks": {
+            "full_footer": true,
+            "readable_copy": true,
+            "intact_names": true,
+            "natural_photos": true,
+            "associated_cta": true,
+            "clear_44px_cta": true,
+            "aligned_spacing": true,
+            "reduced_hero_gap": true
+          }
         }
-      ]
+      ],
+      "qa_revision": "winback-spacing/qa-summary.json"
     },
     "03": {
       "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",

@@ -1,27 +1,24 @@
 {
   "footerPresent": true,
-  "height": 3368,
+  "height": 3284,
   "images": [
     {
-      "alt": "TIK BALDAI",
       "complete": true,
-      "height": 27.1171875,
+      "height": 27,
       "naturalHeight": 104,
       "naturalWidth": 579,
       "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
       "width": 151
     },
     {
-      "alt": "Universe sofa ant sidabrinio padėklo, kūrybinė TIK BALDAI kompozicija",
       "complete": true,
-      "height": 749.7265625,
-      "naturalHeight": 1402,
-      "naturalWidth": 1122,
-      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/winback-02-hero-v2-45c079757a49.jpg",
+      "height": 665,
+      "naturalHeight": 1321,
+      "naturalWidth": 1191,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/9137226ce97179ebfa469fe60fc080f0f8f95af5/assets/winback/hero-tray-v3-745cdf4c603a.jpg",
       "width": 600
     },
     {
-      "alt": "Valgomojo stalas su keturiomis šviesiomis kėdėmis šiltame interjere",
       "complete": true,
       "height": 520,
       "naturalHeight": 1254,
@@ -30,7 +27,6 @@
       "width": 520
     },
     {
-      "alt": "Alyvuogių spalvos komoda šviesiame interjere",
       "complete": true,
       "height": 520,
       "naturalHeight": 1254,
@@ -41,142 +37,95 @@
   ],
   "links": [
     {
-      "bg": "rgba(0, 0, 0, 0)",
-      "class": "",
       "height": 43.1171875,
       "href": "https://tikbaldai.lt/?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=logo",
-      "text": "",
-      "width": 151
+      "text": ""
     },
     {
-      "bg": "rgba(0, 0, 0, 0)",
-      "class": "photo-link",
-      "height": 749.7265625,
+      "height": 665.484375,
       "href": "https://tikbaldai.lt/collections/svetaines-baldai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=hero_tray",
-      "text": "",
-      "width": 600
+      "text": ""
     },
     {
-      "bg": "rgb(56, 36, 63)",
-      "class": "cta",
       "height": 54,
       "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=return_offer",
-      "text": "Rinktis baldus su kodu",
-      "width": 360
+      "text": "Rinktis baldus su kodu"
     },
     {
-      "bg": "rgba(0, 0, 0, 0)",
-      "class": "photo-link",
       "height": 520,
       "href": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_dining",
-      "text": "",
-      "width": 552
+      "text": ""
     },
     {
-      "bg": "rgb(56, 36, 63)",
-      "class": "cta",
       "height": 49,
       "href": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_dining",
-      "text": "Žiūrėti valgomojo komplektus",
-      "width": 552
+      "text": "Žiūrėti valgomojo komplektus"
     },
     {
-      "bg": "rgba(0, 0, 0, 0)",
-      "class": "photo-link",
       "height": 520,
       "href": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_storage",
-      "text": "",
-      "width": 552
+      "text": ""
     },
     {
-      "bg": "rgb(56, 36, 63)",
-      "class": "cta",
       "height": 49,
       "href": "https://tikbaldai.lt/collections/spintos-komodos?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=category_storage",
-      "text": "Žiūrėti spintas ir komodas",
-      "width": 552
+      "text": "Žiūrėti spintas ir komodas"
     },
     {
-      "bg": "rgb(56, 36, 63)",
-      "class": "cta",
       "height": 54,
       "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_02&utm_content=browse_popular",
-      "text": "Žiūrėti populiariausius",
-      "width": 360
+      "text": "Žiūrėti populiariausius"
     },
     {
-      "bg": "rgba(0, 0, 0, 0)",
-      "class": "cta",
       "height": 48,
-      "href": "http://127.0.0.1:8773/winback/%7B%7Bunsubscribe_url%7D%7D",
-      "text": "Atsisakyti naujienlaiškių",
-      "width": 126.0625
+      "href": "http://127.0.0.1:8774/winback/%7B%7Bunsubscribe_url%7D%7D",
+      "text": "Atsisakyti naujienlaiškių"
     }
   ],
   "overflow": [],
-  "pixelRatio": 2,
   "scrollWidth": 600,
-  "shellWidth": 600,
-  "url": "http://127.0.0.1:8773/winback/email-02-stripped.html",
+  "url": "http://127.0.0.1:8774/winback/email-02-stripped.html",
   "width": 600,
   "harness": {
     "frame": {
-      "bottom": 2055.5,
-      "height": 3368,
+      "bottom": 2013.5,
+      "height": 3284,
       "left": 26,
       "right": 626,
-      "top": -1312.5,
+      "top": -1270.5,
       "width": 600,
       "x": 26,
-      "y": -1312.5
+      "y": -1270.5
     },
-    "pixelRatio": 2,
     "width": 690
   },
   "afterCapture": {
-    "height": 3368,
+    "height": 3284,
     "width": 600
   },
-  "source_sha256": "6a0be8b29c1555e03e8b97cd07b9c8d13ca7de039eb19267c32d33be213d4f94",
-  "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440",
-  "screenshot_sha256": "2a979d6f16e8939a98ad0c40d7e0435bdba32d46c57cb1bcc6ac2912d1c5a149",
+  "source_sha256": "eb74a4a780312d6b0b1fe17e423e3c9a98914b5b913b6a7e1149bb17aa1ff021",
+  "html_sha256": "9133cdf9954f30d021e3ea92eafb1d780bfd738e10ab807b0d861afcce9a4ab4",
+  "screenshot_sha256": "70d82baa862ce6621abb23a8970713dc7c93292fa749e6aff5a77cdb4974d03b",
   "asset_hashes": {
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/winback-02-hero-v2-45c079757a49.jpg": "45c079757a49c04f2227ec9e3e7841274b4caed868250e9e9fe938d0648b99cd",
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/9137226ce97179ebfa469fe60fc080f0f8f95af5/assets/winback/hero-tray-v3-745cdf4c603a.jpg": "745cdf4c603a840fbad7073d4b9cb6e96c8e346ffee4e3648746965a773194a8",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-dining-v2-4cbf7f9e4e1d.jpg": "4cbf7f9e4e1df84594c2786440ef9b74fd8fd0a56979b29c31bb64c581bb4fec",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-storage-v2-99d6122ea5d7.jpg": "99d6122ea5d715ca7cdd68cd2531e2b90a1fc77cee03bb68e1f9d98f699e285e"
   },
-  "saved_utc": "2026-10-10T17:26:16.440392+00:00",
+  "saved_utc": "2026-10-10T17:35:50.623249+00:00",
   "review_crop": {
     "file": "qa-crops/winback-02-w600-stripped.jpg",
-    "source_screenshot_sha256": "24908738ec386e6eb537f98cba6bfe339071fc1278a282dcaa463fb9306ee44f",
-    "sha256": "2a979d6f16e8939a98ad0c40d7e0435bdba32d46c57cb1bcc6ac2912d1c5a149",
+    "source_screenshot_sha256": "2c3d7d217b2dd367f312111dfad75d435631b23a78f2bf4ec53ce74a6e23faa8",
+    "sha256": "70d82baa862ce6621abb23a8970713dc7c93292fa749e6aff5a77cdb4974d03b",
     "box": [
       26,
       50,
       626,
-      3418
+      3334
     ],
     "note": "Fixed CSS iframe. Browser full page capture; crop removes only QA harness. Frame stays at requested CSS width before and after capture."
   },
-  "raw_screenshot": "../../cta-refresh/qa/winback-02-w600-stripped.jpg",
-  "raw_screenshot_sha256": "24908738ec386e6eb537f98cba6bfe339071fc1278a282dcaa463fb9306ee44f",
-  "visual_review": {
-    "file": "/Users/lucka/Downloads/dropship/research/tikbaldai/cta-refresh/qa-crops/winback-02-w600-stripped.jpg",
-    "screenshot_sha256": "2a979d6f16e8939a98ad0c40d7e0435bdba32d46c57cb1bcc6ac2912d1c5a149",
-    "source_screenshot_sha256": "24908738ec386e6eb537f98cba6bfe339071fc1278a282dcaa463fb9306ee44f",
-    "css_viewport_width": 600,
-    "bitmap_dimensions": [
-      600,
-      3368
-    ],
-    "head_styles_stripped": true,
-    "viewed_at_original_resolution": true,
-    "status": "PASS",
-    "footer_complete": true,
-    "minimum_cta_height_css_px": 48,
-    "issues": [],
-    "name": "winback-02-w600-stripped",
-    "html_sha256": "894bac08b3cc3750792bbc61b5f8a1aedc7e486e318d1f2b9d222b3bb6c91440"
-  }
+  "raw_screenshot_sha256": "2c3d7d217b2dd367f312111dfad75d435631b23a78f2bf4ec53ce74a6e23faa8",
+  "raw_screenshot": "../../winback-spacing/qa/winback-02-w600-stripped.jpg",
+  "visual_review_status": "PASS"
 }

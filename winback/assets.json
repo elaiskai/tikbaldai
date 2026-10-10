@@ -23,10 +23,12 @@
     "provenance": "AI campaign composition using official catalog product references"
   },
   "tray": {
-    "local": "assets/winback-02-hero-v2.jpg",
-    "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/winback-02-hero-v2-45c079757a49.jpg",
-    "sha256": "45c079757a49c04f2227ec9e3e7841274b4caed868250e9e9fe938d0648b99cd",
-    "provenance": "AI campaign composition using official catalog product references"
+    "path": "assets/winback/hero-tray-v3-745cdf4c603a.jpg",
+    "sha256": "745cdf4c603a840fbad7073d4b9cb6e96c8e346ffee4e3648746965a773194a8",
+    "local": "assets/winback-02-hero-v3.jpg",
+    "commit": "9137226ce97179ebfa469fe60fc080f0f8f95af5",
+    "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/9137226ce97179ebfa469fe60fc080f0f8f95af5/assets/winback/hero-tray-v3-745cdf4c603a.jpg",
+    "provenance": "Built-in imagegen reframing edit of approved Universe sofa tray hero; shorter blank top. AI artwork, not a pixel-exact crop."
   },
   "moodboard": {
     "path": "assets/winback/hero-moodboard-v3-5815568b9a96.jpg",

@@ -13,6 +13,8 @@ Vieši welcome ir winback HTML maketai, vaizdai ir dabartinių versijų patikros
 
 ## Naujausia versija
 
+Winback 2 tarpas tarp antraštės ir sofos sumažintas maždaug perpus, sutrumpinus hero tuščią viršų. Nauji aštuoni šio laiško vaizdai ir tikslus HTML hash: [tarpo patikra](winback-spacing/qa-summary.json). Ankstesnė CTA redakcijos patikra Winback 2 atveju yra istorinė.
+
 Visuose šešiuose laiškuose sustiprinti prekių pasirinkimo ir pirkimo kvietimai. Mygtukai aiškiai įvardija kategorijas ir veda tiesiai į prekių sąrašus. Konsultacija yra papildoma nuoroda. Winback 3 siūlo sofas lovas, fotelius ir kavos staliukus bei primena sugrįžimo kodą.
 
 Winback 3 hero yra naujas redakcinis koliažas su tikbaldai.lt oranžinės sofos ir balto apvalaus kavos staliuko referencijomis. Kiti elementai yra dekoratyvinis rekvizitas. [Hero kilmė](winback/hero-v3/provenance.json). Kitų laiškų vaizdai šioje redakcijoje išlaikyti. Kampanijos kompozicijos kurtos su AI pagal katalogo referencijas, jos nėra nepakitusios gamintojo nuotraukos.
