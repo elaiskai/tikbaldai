@@ -1,0 +1,22 @@
+{
+  "hour": 26,
+  "subject": "Ar ši prekė tiktų Jums?",
+  "preheader": "Trys dalykai, kuriuos verta pasitikrinti prieš renkantis.",
+  "heading": "Patinka.<br>O ar tinka?",
+  "intro": "Išvaizda patraukia dėmesį. Detalės padeda apsispręsti. Dar kartą apžiūrėkite prekę ir įvertinkite, kaip ji tiktų Jūsų namams bei kasdienybei.",
+  "eyebrow": "NUO IDĖJOS IKI PASIRINKIMO",
+  "bg": "#38243F",
+  "color": "#F4F0E8",
+  "flow": "product_abandonment",
+  "status": "design_assembly_draft",
+  "platform_delivery_verified": false,
+  "dynamic_products_connected": false,
+  "primary_cta": "Apžiūrėti prekę",
+  "cta_destination": "Native Abandoned Products product URL",
+  "preview_sha256": "ec2297ee2a47b07c75767956fb9de81e6b071d640f0c747fe82c419a80dde0c3",
+  "fragment_sha256": {
+    "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
+    "01-before-product.html": "9b59d757ad2bc228cbecd9e6b6f81d61c622aba3f88d3c8256857123a9d8ed11",
+    "02-after-product.html": "5a5c7d32e4beeb7c28f3e9815d8fb704fc156c6aeca02d62851ef2c4d025b29e"
+  }
+}

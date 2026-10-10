@@ -1,0 +1,68 @@
+{
+  "footerPresent": true,
+  "height": 1539,
+  "images": [
+    {
+      "complete": true,
+      "height": 27,
+      "naturalHeight": 104,
+      "naturalWidth": 579,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
+      "width": 151
+    }
+  ],
+  "links": [
+    {
+      "height": 41.1171875,
+      "href": "https://tikbaldai.lt/",
+      "text": ""
+    },
+    {
+      "height": 54,
+      "href": "#native-product",
+      "text": "Apžiūrėti prekę"
+    },
+    {
+      "height": 48,
+      "href": "mailto:info@tikbaldai.lt",
+      "text": "Paklauskite apie prekę"
+    },
+    {
+      "height": 48,
+      "href": "[[unsubscribe_link]]",
+      "text": "Atsisakyti naujienlaiškių"
+    }
+  ],
+  "overflow": [],
+  "scrollWidth": 390,
+  "width": 390,
+  "harness": {
+    "frame": {
+      "bottom": 1141,
+      "height": 1539,
+      "left": 26,
+      "right": 416,
+      "top": -398,
+      "width": 390,
+      "x": 26,
+      "y": -398
+    },
+    "width": 690
+  },
+  "afterCapture": {
+    "height": 1539,
+    "width": 390
+  },
+  "source_sha256": "e29e145b39d5c9f1b38748eb02d57cf49ea895fb57ceb1ce749373303f8eef2c",
+  "html_sha256": "ec2297ee2a47b07c75767956fb9de81e6b071d640f0c747fe82c419a80dde0c3",
+  "screenshot_sha256": "f371c8bac1a73a7e784bcca360cecb25a7c88d70403fa0678f650fabb44b74ae",
+  "asset_hashes": {
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1"
+  },
+  "fragment_hashes": {
+    "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
+    "01-before-product.html": "9b59d757ad2bc228cbecd9e6b6f81d61c622aba3f88d3c8256857123a9d8ed11",
+    "02-after-product.html": "5a5c7d32e4beeb7c28f3e9815d8fb704fc156c6aeca02d62851ef2c4d025b29e"
+  },
+  "saved_utc": "2026-10-10T19:41:08.492040+00:00"
+}

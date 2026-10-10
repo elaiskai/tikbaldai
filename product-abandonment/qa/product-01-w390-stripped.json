@@ -1,0 +1,68 @@
+{
+  "footerPresent": true,
+  "height": 935,
+  "images": [
+    {
+      "complete": true,
+      "height": 27,
+      "naturalHeight": 104,
+      "naturalWidth": 579,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
+      "width": 151
+    }
+  ],
+  "links": [
+    {
+      "height": 41.1171875,
+      "href": "https://tikbaldai.lt/",
+      "text": ""
+    },
+    {
+      "height": 54,
+      "href": "#native-product",
+      "text": "Apžiūrėti prekę"
+    },
+    {
+      "height": 48,
+      "href": "mailto:info@tikbaldai.lt",
+      "text": "Paklauskite mūsų"
+    },
+    {
+      "height": 48,
+      "href": "[[unsubscribe_link]]",
+      "text": "Atsisakyti naujienlaiškių"
+    }
+  ],
+  "overflow": [],
+  "scrollWidth": 390,
+  "width": 390,
+  "harness": {
+    "frame": {
+      "bottom": 839,
+      "height": 935,
+      "left": 26,
+      "right": 416,
+      "top": -96,
+      "width": 390,
+      "x": 26,
+      "y": -96
+    },
+    "width": 690
+  },
+  "afterCapture": {
+    "height": 935,
+    "width": 390
+  },
+  "source_sha256": "f9b638b778fd2f3dd0c1bd81e18aef594e2667ad4f67393fce029056c9a3f549",
+  "html_sha256": "c7bf8ead08ec3a7ebfe5b03897659d1c38c67ad276130aa772a2b33d720dfdc2",
+  "screenshot_sha256": "280e1b7cc16a7854716233594ba40cfcfa07634bd10d45bdb86274eba514af9a",
+  "asset_hashes": {
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1"
+  },
+  "fragment_hashes": {
+    "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
+    "01-before-product.html": "6f118eababf64074784f091fdd67f95cf57ed90c6903b4ec48c5bd9c448cb402",
+    "02-after-product.html": "e659b434405fcd3ec8521da53dbfa24986a2850fe03901bd38176cb273ea2b80"
+  },
+  "saved_utc": "2026-10-10T19:41:04.420388+00:00"
+}

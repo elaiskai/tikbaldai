@@ -46,3 +46,7 @@ Parengti trys abandoned cart ir du abandoned checkout dizaino maketai su atskira
 | cart-03 | [600 px](recovery/qa/cart-03-w600-crop.jpg) | [390 px](recovery/qa/cart-03-w390-crop.jpg) | [Omnisend](recovery/cart-03/omnisend) |
 | checkout-01 | [600 px](recovery/qa/checkout-01-w600-crop.jpg) | [390 px](recovery/qa/checkout-01-w390-crop.jpg) | [Omnisend](recovery/checkout-01/omnisend) |
 | checkout-02 | [600 px](recovery/qa/checkout-02-w600-crop.jpg) | [390 px](recovery/qa/checkout-02-w390-crop.jpg) | [Omnisend](recovery/checkout-02/omnisend) |
+
+## Peržiūrėta prekė
+
+Du Product Abandonment laiškai: trumpas priminimas ir pagalba įvertinti tinkamumą. [Planas ir Omnisend surinkimas](product-abandonment/README.md), [peržiūra](product-abandonment-preview.html), [16 dabartinių peržiūrų QA](product-abandonment/qa-summary.json). Native produktai dar neprijungti, maketų placeholderių nesiųsti.
