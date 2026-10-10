@@ -1,0 +1,24 @@
+{
+  "flow": "cart",
+  "step": 2,
+  "hour": 24,
+  "subject": "Prieš užsakant verta žinoti",
+  "preheader": "Pristatymas, atsiskaitymas ir pirkėjo patirtis. Daugiau aiškumo Jūsų pasirinkimui.",
+  "heading": "Geras pasirinkimas.<br>Daugiau aiškumo.",
+  "intro": "Jūsų pasirinktos prekės žemiau. O jei dar svarstote, surinkome svarbiausią informaciją, kuri padės apsispręsti.",
+  "eyebrow": "RAMIAU APIE PIRKIMĄ",
+  "bg": "#F4F0E8",
+  "color": "#202221",
+  "version": 1,
+  "preview_sha256": "ad2d2799ebac3c5dbf6df8caad0b54cadba30f833357e5b52350ee0aa814163c",
+  "fragment_sha256": {
+    "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
+    "01-before-products.html": "40a5c1ea68df6f420599755a28db560cb68aa5c6a61ed2796717ba037ed0a5d0",
+    "02-after-products.html": "7e211a10f387259ba81c4044b5ec6a8c615fcac147626e2ba9a96de6d450df20"
+  },
+  "status": "design_assembly_draft",
+  "platform_delivery_verified": false,
+  "dynamic_products_connected": false,
+  "primary_cta": "Grįžti į krepšelį",
+  "recovery_url": "[[event.raw.abandoned_checkout_url]]"
+}

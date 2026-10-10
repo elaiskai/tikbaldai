@@ -1,0 +1,35 @@
+{
+  "checked_on": "2026-10-10",
+  "review": {
+    "quote": "Tiek bendravimas, tiek pristatymas ir baldų kokybė aukštam lygyj.",
+    "author": "Mantas",
+    "date": "2025-08-19",
+    "url": "https://rekvizitai.vz.lt/imone/rancoris/atsiliepimai/1/",
+    "scope": "Selected individual excerpt about retailer service and furniture. Not a universal claim."
+  },
+  "shipping": {
+    "url": "https://tikbaldai.lt/policies/shipping-policy",
+    "conflict": "Policy fees20/45EUR and production3to4weeks differ from client free-delivery positioning and categoryFAQ. No universal fee or delivery-duration promise used."
+  },
+  "payment": {
+    "url": "https://tikbaldai.lt/pages/apie-mus",
+    "basis": "Official payment-on-delivery banner plus client questionnaire on installments. Eligibility checked at checkout."
+  },
+  "native_dynamic": {
+    "products": "https://support.omnisend.com/en/articles/6092208-add-configure-abandoned-products-item",
+    "recovery": "https://support.omnisend.com/en/articles/6659889-abandoned-cart-and-abandoned-checkout-automations",
+    "fragments": "https://support.omnisend.com/en/articles/1061866-add-configure-custom-html-item"
+  },
+  "timing_assumption_hours": {
+    "cart": [
+      1,
+      24,
+      48
+    ],
+    "checkout": [
+      1,
+      24
+    ]
+  },
+  "platform_configured": false
+}

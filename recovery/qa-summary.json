@@ -1,0 +1,299 @@
+{
+  "status": "browser_assembly_qa_pass",
+  "platform_delivery_verified": false,
+  "dynamic_products_connected": false,
+  "scope": "Static HTML fragments and clearly labelled native-block assembly placeholder only. Actual Omnisend product rows, variants and recovery links require account test.",
+  "visual_review": "All 40 current captures visually inspected. Text readable, natural wrapping, single-column order, aligned spacing and primary recovery CTA 54px. No product photos or names are hardcoded; native product photo proportions and product CTA association await platform integration.",
+  "emails": {
+    "cart-01": {
+      "html_sha256": "feb4c50a41507c75bd26f99896f929793a62291b0a48b621193773b4c1c9ae42",
+      "fragment_hashes": {
+        "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
+        "01-before-products.html": "14624084de7fd5d23b07178d41016b777ddef59c5659e267b480cf4bb4157c84",
+        "02-after-products.html": "b7389373f8f0b5eedf797b3def92360512e4f8f669148063159ef01c81eb95fc"
+      },
+      "views": {
+        "cart-01-w320": {
+          "metrics": "qa/cart-01-w320.json",
+          "image": "qa/cart-01-w320-crop.jpg",
+          "source_sha256": "feb4c50a41507c75bd26f99896f929793a62291b0a48b621193773b4c1c9ae42",
+          "visual_review": "pass"
+        },
+        "cart-01-w390": {
+          "metrics": "qa/cart-01-w390.json",
+          "image": "qa/cart-01-w390-crop.jpg",
+          "source_sha256": "feb4c50a41507c75bd26f99896f929793a62291b0a48b621193773b4c1c9ae42",
+          "visual_review": "pass"
+        },
+        "cart-01-w430": {
+          "metrics": "qa/cart-01-w430.json",
+          "image": "qa/cart-01-w430-crop.jpg",
+          "source_sha256": "feb4c50a41507c75bd26f99896f929793a62291b0a48b621193773b4c1c9ae42",
+          "visual_review": "pass"
+        },
+        "cart-01-w600": {
+          "metrics": "qa/cart-01-w600.json",
+          "image": "qa/cart-01-w600-crop.jpg",
+          "source_sha256": "feb4c50a41507c75bd26f99896f929793a62291b0a48b621193773b4c1c9ae42",
+          "visual_review": "pass"
+        },
+        "cart-01-w320-stripped": {
+          "metrics": "qa/cart-01-w320-stripped.json",
+          "image": "qa/cart-01-w320-stripped-crop.jpg",
+          "source_sha256": "9eaa5f92a1d9655dedbe8f16836d5265fa37b59841d6b5c2ff97885fe4ba4529",
+          "visual_review": "pass"
+        },
+        "cart-01-w390-stripped": {
+          "metrics": "qa/cart-01-w390-stripped.json",
+          "image": "qa/cart-01-w390-stripped-crop.jpg",
+          "source_sha256": "9eaa5f92a1d9655dedbe8f16836d5265fa37b59841d6b5c2ff97885fe4ba4529",
+          "visual_review": "pass"
+        },
+        "cart-01-w430-stripped": {
+          "metrics": "qa/cart-01-w430-stripped.json",
+          "image": "qa/cart-01-w430-stripped-crop.jpg",
+          "source_sha256": "9eaa5f92a1d9655dedbe8f16836d5265fa37b59841d6b5c2ff97885fe4ba4529",
+          "visual_review": "pass"
+        },
+        "cart-01-w600-stripped": {
+          "metrics": "qa/cart-01-w600-stripped.json",
+          "image": "qa/cart-01-w600-stripped-crop.jpg",
+          "source_sha256": "9eaa5f92a1d9655dedbe8f16836d5265fa37b59841d6b5c2ff97885fe4ba4529",
+          "visual_review": "pass"
+        }
+      }
+    },
+    "cart-02": {
+      "html_sha256": "ad2d2799ebac3c5dbf6df8caad0b54cadba30f833357e5b52350ee0aa814163c",
+      "fragment_hashes": {
+        "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
+        "01-before-products.html": "40a5c1ea68df6f420599755a28db560cb68aa5c6a61ed2796717ba037ed0a5d0",
+        "02-after-products.html": "7e211a10f387259ba81c4044b5ec6a8c615fcac147626e2ba9a96de6d450df20"
+      },
+      "views": {
+        "cart-02-w320": {
+          "metrics": "qa/cart-02-w320.json",
+          "image": "qa/cart-02-w320-crop.jpg",
+          "source_sha256": "ad2d2799ebac3c5dbf6df8caad0b54cadba30f833357e5b52350ee0aa814163c",
+          "visual_review": "pass"
+        },
+        "cart-02-w390": {
+          "metrics": "qa/cart-02-w390.json",
+          "image": "qa/cart-02-w390-crop.jpg",
+          "source_sha256": "ad2d2799ebac3c5dbf6df8caad0b54cadba30f833357e5b52350ee0aa814163c",
+          "visual_review": "pass"
+        },
+        "cart-02-w430": {
+          "metrics": "qa/cart-02-w430.json",
+          "image": "qa/cart-02-w430-crop.jpg",
+          "source_sha256": "ad2d2799ebac3c5dbf6df8caad0b54cadba30f833357e5b52350ee0aa814163c",
+          "visual_review": "pass"
+        },
+        "cart-02-w600": {
+          "metrics": "qa/cart-02-w600.json",
+          "image": "qa/cart-02-w600-crop.jpg",
+          "source_sha256": "ad2d2799ebac3c5dbf6df8caad0b54cadba30f833357e5b52350ee0aa814163c",
+          "visual_review": "pass"
+        },
+        "cart-02-w320-stripped": {
+          "metrics": "qa/cart-02-w320-stripped.json",
+          "image": "qa/cart-02-w320-stripped-crop.jpg",
+          "source_sha256": "16b9952c8c30880d41a1e25dd9e8f3874999716312a7b97dc45e96823771c656",
+          "visual_review": "pass"
+        },
+        "cart-02-w390-stripped": {
+          "metrics": "qa/cart-02-w390-stripped.json",
+          "image": "qa/cart-02-w390-stripped-crop.jpg",
+          "source_sha256": "16b9952c8c30880d41a1e25dd9e8f3874999716312a7b97dc45e96823771c656",
+          "visual_review": "pass"
+        },
+        "cart-02-w430-stripped": {
+          "metrics": "qa/cart-02-w430-stripped.json",
+          "image": "qa/cart-02-w430-stripped-crop.jpg",
+          "source_sha256": "16b9952c8c30880d41a1e25dd9e8f3874999716312a7b97dc45e96823771c656",
+          "visual_review": "pass"
+        },
+        "cart-02-w600-stripped": {
+          "metrics": "qa/cart-02-w600-stripped.json",
+          "image": "qa/cart-02-w600-stripped-crop.jpg",
+          "source_sha256": "16b9952c8c30880d41a1e25dd9e8f3874999716312a7b97dc45e96823771c656",
+          "visual_review": "pass"
+        }
+      }
+    },
+    "cart-03": {
+      "html_sha256": "1c1dfa3c5c68c091da07dd087d18eabdc62012ee93502051fc9dc70ea3f43d7c",
+      "fragment_hashes": {
+        "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
+        "01-before-products.html": "19f7e86f4f5fca0563eb4c92a1def7771adc85fb73c674ac14f285445ea0ed0b",
+        "02-after-products.html": "837ab72e8fc00c1b06d2bb1952a1b4dd0cbf75b6e3d4c2b6a6b80be8177dd61b"
+      },
+      "views": {
+        "cart-03-w320": {
+          "metrics": "qa/cart-03-w320.json",
+          "image": "qa/cart-03-w320-crop.jpg",
+          "source_sha256": "1c1dfa3c5c68c091da07dd087d18eabdc62012ee93502051fc9dc70ea3f43d7c",
+          "visual_review": "pass"
+        },
+        "cart-03-w390": {
+          "metrics": "qa/cart-03-w390.json",
+          "image": "qa/cart-03-w390-crop.jpg",
+          "source_sha256": "1c1dfa3c5c68c091da07dd087d18eabdc62012ee93502051fc9dc70ea3f43d7c",
+          "visual_review": "pass"
+        },
+        "cart-03-w430": {
+          "metrics": "qa/cart-03-w430.json",
+          "image": "qa/cart-03-w430-crop.jpg",
+          "source_sha256": "1c1dfa3c5c68c091da07dd087d18eabdc62012ee93502051fc9dc70ea3f43d7c",
+          "visual_review": "pass"
+        },
+        "cart-03-w600": {
+          "metrics": "qa/cart-03-w600.json",
+          "image": "qa/cart-03-w600-crop.jpg",
+          "source_sha256": "1c1dfa3c5c68c091da07dd087d18eabdc62012ee93502051fc9dc70ea3f43d7c",
+          "visual_review": "pass"
+        },
+        "cart-03-w320-stripped": {
+          "metrics": "qa/cart-03-w320-stripped.json",
+          "image": "qa/cart-03-w320-stripped-crop.jpg",
+          "source_sha256": "561ac111ab04505bf45a94f799ced2355ed7b806d96ef3adc482d0df34509a0f",
+          "visual_review": "pass"
+        },
+        "cart-03-w390-stripped": {
+          "metrics": "qa/cart-03-w390-stripped.json",
+          "image": "qa/cart-03-w390-stripped-crop.jpg",
+          "source_sha256": "561ac111ab04505bf45a94f799ced2355ed7b806d96ef3adc482d0df34509a0f",
+          "visual_review": "pass"
+        },
+        "cart-03-w430-stripped": {
+          "metrics": "qa/cart-03-w430-stripped.json",
+          "image": "qa/cart-03-w430-stripped-crop.jpg",
+          "source_sha256": "561ac111ab04505bf45a94f799ced2355ed7b806d96ef3adc482d0df34509a0f",
+          "visual_review": "pass"
+        },
+        "cart-03-w600-stripped": {
+          "metrics": "qa/cart-03-w600-stripped.json",
+          "image": "qa/cart-03-w600-stripped-crop.jpg",
+          "source_sha256": "561ac111ab04505bf45a94f799ced2355ed7b806d96ef3adc482d0df34509a0f",
+          "visual_review": "pass"
+        }
+      }
+    },
+    "checkout-01": {
+      "html_sha256": "5196b0a3db2d0d3608d9633f2eb9b106b35b21d7e07f900bc2d0109feb3c72d5",
+      "fragment_hashes": {
+        "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
+        "01-before-products.html": "8f651ec75932ac5c152960febb5cfcb4b04923401ca982b146d0490f8edd4f66",
+        "02-after-products.html": "13be9fcd0ccf547fe98b1aac6c2869809d74379551943ab11961de17aac56af9"
+      },
+      "views": {
+        "checkout-01-w320": {
+          "metrics": "qa/checkout-01-w320.json",
+          "image": "qa/checkout-01-w320-crop.jpg",
+          "source_sha256": "5196b0a3db2d0d3608d9633f2eb9b106b35b21d7e07f900bc2d0109feb3c72d5",
+          "visual_review": "pass"
+        },
+        "checkout-01-w390": {
+          "metrics": "qa/checkout-01-w390.json",
+          "image": "qa/checkout-01-w390-crop.jpg",
+          "source_sha256": "5196b0a3db2d0d3608d9633f2eb9b106b35b21d7e07f900bc2d0109feb3c72d5",
+          "visual_review": "pass"
+        },
+        "checkout-01-w430": {
+          "metrics": "qa/checkout-01-w430.json",
+          "image": "qa/checkout-01-w430-crop.jpg",
+          "source_sha256": "5196b0a3db2d0d3608d9633f2eb9b106b35b21d7e07f900bc2d0109feb3c72d5",
+          "visual_review": "pass"
+        },
+        "checkout-01-w600": {
+          "metrics": "qa/checkout-01-w600.json",
+          "image": "qa/checkout-01-w600-crop.jpg",
+          "source_sha256": "5196b0a3db2d0d3608d9633f2eb9b106b35b21d7e07f900bc2d0109feb3c72d5",
+          "visual_review": "pass"
+        },
+        "checkout-01-w320-stripped": {
+          "metrics": "qa/checkout-01-w320-stripped.json",
+          "image": "qa/checkout-01-w320-stripped-crop.jpg",
+          "source_sha256": "27a9d09f194115b3e552814be7f7127e9f9095cd9c0ec5be30bd72e284442e10",
+          "visual_review": "pass"
+        },
+        "checkout-01-w390-stripped": {
+          "metrics": "qa/checkout-01-w390-stripped.json",
+          "image": "qa/checkout-01-w390-stripped-crop.jpg",
+          "source_sha256": "27a9d09f194115b3e552814be7f7127e9f9095cd9c0ec5be30bd72e284442e10",
+          "visual_review": "pass"
+        },
+        "checkout-01-w430-stripped": {
+          "metrics": "qa/checkout-01-w430-stripped.json",
+          "image": "qa/checkout-01-w430-stripped-crop.jpg",
+          "source_sha256": "27a9d09f194115b3e552814be7f7127e9f9095cd9c0ec5be30bd72e284442e10",
+          "visual_review": "pass"
+        },
+        "checkout-01-w600-stripped": {
+          "metrics": "qa/checkout-01-w600-stripped.json",
+          "image": "qa/checkout-01-w600-stripped-crop.jpg",
+          "source_sha256": "27a9d09f194115b3e552814be7f7127e9f9095cd9c0ec5be30bd72e284442e10",
+          "visual_review": "pass"
+        }
+      }
+    },
+    "checkout-02": {
+      "html_sha256": "18ddf344c936227c0e945f751e8ce4aa16423593ef728bb5a7370fff044a4690",
+      "fragment_hashes": {
+        "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
+        "01-before-products.html": "5270465b31fb5aa50f32747319bbaf909bdb6f298173befab4de3dd5642a79b1",
+        "02-after-products.html": "66ace1faca3d6faa66681bc907d0237b871f9cb7a82c2bde467faaf4697b4b44"
+      },
+      "views": {
+        "checkout-02-w320": {
+          "metrics": "qa/checkout-02-w320.json",
+          "image": "qa/checkout-02-w320-crop.jpg",
+          "source_sha256": "18ddf344c936227c0e945f751e8ce4aa16423593ef728bb5a7370fff044a4690",
+          "visual_review": "pass"
+        },
+        "checkout-02-w390": {
+          "metrics": "qa/checkout-02-w390.json",
+          "image": "qa/checkout-02-w390-crop.jpg",
+          "source_sha256": "18ddf344c936227c0e945f751e8ce4aa16423593ef728bb5a7370fff044a4690",
+          "visual_review": "pass"
+        },
+        "checkout-02-w430": {
+          "metrics": "qa/checkout-02-w430.json",
+          "image": "qa/checkout-02-w430-crop.jpg",
+          "source_sha256": "18ddf344c936227c0e945f751e8ce4aa16423593ef728bb5a7370fff044a4690",
+          "visual_review": "pass"
+        },
+        "checkout-02-w600": {
+          "metrics": "qa/checkout-02-w600.json",
+          "image": "qa/checkout-02-w600-crop.jpg",
+          "source_sha256": "18ddf344c936227c0e945f751e8ce4aa16423593ef728bb5a7370fff044a4690",
+          "visual_review": "pass"
+        },
+        "checkout-02-w320-stripped": {
+          "metrics": "qa/checkout-02-w320-stripped.json",
+          "image": "qa/checkout-02-w320-stripped-crop.jpg",
+          "source_sha256": "a3c7a81f9299eb4f7c7e84bed9d0b9e867bf56a31a29f6edce2fb0e8a1497323",
+          "visual_review": "pass"
+        },
+        "checkout-02-w390-stripped": {
+          "metrics": "qa/checkout-02-w390-stripped.json",
+          "image": "qa/checkout-02-w390-stripped-crop.jpg",
+          "source_sha256": "a3c7a81f9299eb4f7c7e84bed9d0b9e867bf56a31a29f6edce2fb0e8a1497323",
+          "visual_review": "pass"
+        },
+        "checkout-02-w430-stripped": {
+          "metrics": "qa/checkout-02-w430-stripped.json",
+          "image": "qa/checkout-02-w430-stripped-crop.jpg",
+          "source_sha256": "a3c7a81f9299eb4f7c7e84bed9d0b9e867bf56a31a29f6edce2fb0e8a1497323",
+          "visual_review": "pass"
+        },
+        "checkout-02-w600-stripped": {
+          "metrics": "qa/checkout-02-w600-stripped.json",
+          "image": "qa/checkout-02-w600-stripped-crop.jpg",
+          "source_sha256": "a3c7a81f9299eb4f7c7e84bed9d0b9e867bf56a31a29f6edce2fb0e8a1497323",
+          "visual_review": "pass"
+        }
+      }
+    }
+  }
+}

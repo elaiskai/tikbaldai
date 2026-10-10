@@ -1,0 +1,24 @@
+{
+  "flow": "cart",
+  "step": 3,
+  "hour": 48,
+  "subject": "Kas dar padėtų apsispręsti?",
+  "preheader": "Matmenys, pristatymas ir atsiskaitymas. Atsakymai prieš grįžtant į krepšelį.",
+  "heading": "Dar vienas<br>klausimas?",
+  "intro": "Kartais iki sprendimo trūksta vienos detalės. Peržiūrėkite savo pasirinkimą ir atsakymus į dažniausius klausimus.",
+  "eyebrow": "PASIRINKITE UŽTIKRINČIAU",
+  "bg": "#FAFAF8",
+  "color": "#202221",
+  "version": 1,
+  "preview_sha256": "1c1dfa3c5c68c091da07dd087d18eabdc62012ee93502051fc9dc70ea3f43d7c",
+  "fragment_sha256": {
+    "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
+    "01-before-products.html": "19f7e86f4f5fca0563eb4c92a1def7771adc85fb73c674ac14f285445ea0ed0b",
+    "02-after-products.html": "837ab72e8fc00c1b06d2bb1952a1b4dd0cbf75b6e3d4c2b6a6b80be8177dd61b"
+  },
+  "status": "design_assembly_draft",
+  "platform_delivery_verified": false,
+  "dynamic_products_connected": false,
+  "primary_cta": "Grįžti į krepšelį",
+  "recovery_url": "[[event.raw.abandoned_checkout_url]]"
+}

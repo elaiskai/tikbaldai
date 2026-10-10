@@ -1,0 +1,24 @@
+{
+  "flow": "checkout",
+  "step": 1,
+  "hour": 1,
+  "subject": "Užbaikite pradėtą užsakymą",
+  "preheader": "Grįžkite į atsiskaitymą ir užbaikite likusius žingsnius.",
+  "heading": "Užbaikite savo<br>užsakymą.",
+  "intro": "Pradėjote atsiskaitymą, tačiau užsakymas liko neužbaigtas. Grįžkite dabar, patikrinkite pasirinktas prekes ir pateikite užsakymą.",
+  "eyebrow": "ATSISKAITYMAS NEUŽBAIGTAS",
+  "bg": "#38243F",
+  "color": "#F4F0E8",
+  "version": 1,
+  "preview_sha256": "5196b0a3db2d0d3608d9633f2eb9b106b35b21d7e07f900bc2d0109feb3c72d5",
+  "fragment_sha256": {
+    "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
+    "01-before-products.html": "8f651ec75932ac5c152960febb5cfcb4b04923401ca982b146d0490f8edd4f66",
+    "02-after-products.html": "13be9fcd0ccf547fe98b1aac6c2869809d74379551943ab11961de17aac56af9"
+  },
+  "status": "design_assembly_draft",
+  "platform_delivery_verified": false,
+  "dynamic_products_connected": false,
+  "primary_cta": "Užbaigti užsakymą",
+  "recovery_url": "[[event.raw.abandoned_checkout_url]]"
+}

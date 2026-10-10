@@ -34,3 +34,15 @@ Visi šeši dabartiniai HTML tikrinti 600 px kompiuterio ir 320, 390, 430 px mob
 Tai peržiūrėti dizaino maketai. SVEIKI10 yra darbinis kodas. assugrizau yra kliento pateiktas kodas, skaitinė nuolaida neįrašyta, kol nepatikslinta, ar ji procentais, ar eurais. Kodų veikimas ir sąlygos parduotuvėje netestuoti. {{unsubscribe_url}} reikia pakeisti platformos atsisakymo žymeniu. Naršyklės QA nėra patvirtintas Gmail, Outlook ar Omnisend pristatymas. Prieš paleidimą reikalingas platformos testinis siuntimas. Automatizacijos neaktyvuotos, laiškai neišsiųsti.
 
 [Winback siuntimo logika ir failai](winback/README.md).
+
+## Krepšelio ir checkout serijos
+
+Parengti trys abandoned cart ir du abandoned checkout dizaino maketai su atskirais Omnisend Custom HTML fragmentais. [Planas ir surinkimas](recovery/README.md), [interaktyvi peržiūra](recovery-preview.html), [40 dabartinių naršyklės peržiūrų patikra](recovery/qa-summary.json). Tai surinkimo juodraščiai: native dinaminės prekės dar neprijungtos, automatizacijos neaktyvuotos. Pilkos produktų vietos nėra siuntimui.
+
+| Laiškas | Kompiuteris | Telefonas | Fragmentai |
+|---|---|---|---|
+| cart-01 | [600 px](recovery/qa/cart-01-w600-crop.jpg) | [390 px](recovery/qa/cart-01-w390-crop.jpg) | [Omnisend](recovery/cart-01/omnisend) |
+| cart-02 | [600 px](recovery/qa/cart-02-w600-crop.jpg) | [390 px](recovery/qa/cart-02-w390-crop.jpg) | [Omnisend](recovery/cart-02/omnisend) |
+| cart-03 | [600 px](recovery/qa/cart-03-w600-crop.jpg) | [390 px](recovery/qa/cart-03-w390-crop.jpg) | [Omnisend](recovery/cart-03/omnisend) |
+| checkout-01 | [600 px](recovery/qa/checkout-01-w600-crop.jpg) | [390 px](recovery/qa/checkout-01-w390-crop.jpg) | [Omnisend](recovery/checkout-01/omnisend) |
+| checkout-02 | [600 px](recovery/qa/checkout-02-w600-crop.jpg) | [390 px](recovery/qa/checkout-02-w390-crop.jpg) | [Omnisend](recovery/checkout-02/omnisend) |

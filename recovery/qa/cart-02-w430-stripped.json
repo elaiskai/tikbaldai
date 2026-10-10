@@ -1,0 +1,74 @@
+{
+  "footerPresent": true,
+  "height": 2022,
+  "images": [
+    {
+      "complete": true,
+      "height": 27,
+      "naturalHeight": 104,
+      "naturalWidth": 579,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
+      "width": 151
+    }
+  ],
+  "links": [
+    {
+      "height": 41.1171875,
+      "href": "https://tikbaldai.lt/",
+      "text": ""
+    },
+    {
+      "height": 54,
+      "href": "[[event.raw.abandoned_checkout_url]]",
+      "text": "Grįžti į krepšelį"
+    },
+    {
+      "height": 44,
+      "href": "https://rekvizitai.vz.lt/imone/rancoris/atsiliepimai/1/",
+      "text": "Atsiliepimo ištrauka iš Rekvizitai.lt"
+    },
+    {
+      "height": 48,
+      "href": "mailto:info@tikbaldai.lt",
+      "text": "Parašykite mums"
+    },
+    {
+      "height": 48,
+      "href": "[[unsubscribe_link]]",
+      "text": "Atsisakyti naujienlaiškių"
+    }
+  ],
+  "overflow": [],
+  "scrollWidth": 430,
+  "url": "http://127.0.0.1:8775/recovery/cart-02/preview-stripped.html",
+  "width": 430,
+  "harness": {
+    "frame": {
+      "bottom": 1382.5,
+      "height": 2022,
+      "left": 26,
+      "right": 456,
+      "top": -639.5,
+      "width": 430,
+      "x": 26,
+      "y": -639.5
+    },
+    "width": 690
+  },
+  "afterCapture": {
+    "height": 2022,
+    "width": 430
+  },
+  "source_sha256": "16b9952c8c30880d41a1e25dd9e8f3874999716312a7b97dc45e96823771c656",
+  "html_sha256": "ad2d2799ebac3c5dbf6df8caad0b54cadba30f833357e5b52350ee0aa814163c",
+  "screenshot_sha256": "7fa66971b9556dbffc638cce9cc19732f51cc68eed3bf1dabd5713ce35f6b8ad",
+  "asset_hashes": {
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1"
+  },
+  "fragment_hashes": {
+    "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
+    "01-before-products.html": "40a5c1ea68df6f420599755a28db560cb68aa5c6a61ed2796717ba037ed0a5d0",
+    "02-after-products.html": "7e211a10f387259ba81c4044b5ec6a8c615fcac147626e2ba9a96de6d450df20"
+  },
+  "saved_utc": "2026-10-10T18:04:53.312232+00:00"
+}

@@ -1,0 +1,69 @@
+{
+  "footerPresent": true,
+  "height": 1276,
+  "images": [
+    {
+      "complete": true,
+      "height": 27,
+      "naturalHeight": 104,
+      "naturalWidth": 579,
+      "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
+      "width": 151
+    }
+  ],
+  "links": [
+    {
+      "height": 41.1171875,
+      "href": "https://tikbaldai.lt/",
+      "text": ""
+    },
+    {
+      "height": 54,
+      "href": "[[event.raw.abandoned_checkout_url]]",
+      "text": "Užbaigti užsakymą"
+    },
+    {
+      "height": 48,
+      "href": "mailto:info@tikbaldai.lt",
+      "text": "Parašykite mums"
+    },
+    {
+      "height": 48,
+      "href": "[[unsubscribe_link]]",
+      "text": "Atsisakyti naujienlaiškių"
+    }
+  ],
+  "overflow": [],
+  "scrollWidth": 430,
+  "url": "http://127.0.0.1:8775/recovery/checkout-02/preview.html",
+  "width": 430,
+  "harness": {
+    "frame": {
+      "bottom": 1009.5,
+      "height": 1276,
+      "left": 26,
+      "right": 456,
+      "top": -266.5,
+      "width": 430,
+      "x": 26,
+      "y": -266.5
+    },
+    "width": 690
+  },
+  "afterCapture": {
+    "height": 1276,
+    "width": 430
+  },
+  "source_sha256": "18ddf344c936227c0e945f751e8ce4aa16423593ef728bb5a7370fff044a4690",
+  "html_sha256": "18ddf344c936227c0e945f751e8ce4aa16423593ef728bb5a7370fff044a4690",
+  "screenshot_sha256": "358cb9106e428ff0901674a680999a0f3a687d877633fa081f7a4736a109bcec",
+  "asset_hashes": {
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1"
+  },
+  "fragment_hashes": {
+    "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
+    "01-before-products.html": "5270465b31fb5aa50f32747319bbaf909bdb6f298173befab4de3dd5642a79b1",
+    "02-after-products.html": "66ace1faca3d6faa66681bc907d0237b871f9cb7a82c2bde467faaf4697b4b44"
+  },
+  "saved_utc": "2026-10-10T18:05:12.817366+00:00"
+}

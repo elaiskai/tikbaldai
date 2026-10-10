@@ -1,0 +1,24 @@
+{
+  "flow": "cart",
+  "step": 1,
+  "hour": 1,
+  "subject": "Jūsų krepšelyje liko prekių",
+  "preheader": "Peržiūrėkite savo pasirinkimą ir tęskite apsipirkimą.",
+  "heading": "Palikote kažką<br>savo namams.",
+  "intro": "Jūsų krepšelyje liko pasirinktų prekių. Grįžkite jų peržiūrėti ir tęskite ten, kur sustojote.",
+  "eyebrow": "JŪSŲ KREPŠELIS",
+  "bg": "#FAFAF8",
+  "color": "#202221",
+  "version": 1,
+  "preview_sha256": "feb4c50a41507c75bd26f99896f929793a62291b0a48b621193773b4c1c9ae42",
+  "fragment_sha256": {
+    "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
+    "01-before-products.html": "14624084de7fd5d23b07178d41016b777ddef59c5659e267b480cf4bb4157c84",
+    "02-after-products.html": "b7389373f8f0b5eedf797b3def92360512e4f8f669148063159ef01c81eb95fc"
+  },
+  "status": "design_assembly_draft",
+  "platform_delivery_verified": false,
+  "dynamic_products_connected": false,
+  "primary_cta": "Grįžti į krepšelį",
+  "recovery_url": "[[event.raw.abandoned_checkout_url]]"
+}
