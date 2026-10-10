@@ -1,0 +1,1646 @@
+{
+  "status": "PASS",
+  "checked_utc": "2026-10-10T14:39:19.609335+00:00",
+  "scope": "Independent local export integrity audit. Fully decoded all 30 JPEGs and compared their dimensions, source hashes, exact referenced image bytes, capture/export timestamps and screenshot hashes to paired metrics and current saved QA reports. No new browser run or email client delivery test.",
+  "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+  "stripped_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+  "widths_px": [
+    320,
+    360,
+    375,
+    390,
+    414,
+    430,
+    480,
+    481,
+    599,
+    600,
+    720,
+    768,
+    820,
+    1024,
+    1440
+  ],
+  "screenshot_count": 30,
+  "asset_count": 9,
+  "checks": {
+    "canonical_html_matches_requested_hash": true,
+    "exactly_30_expected_jpeg_files": true,
+    "exactly_30_expected_metrics_files": true,
+    "all_30_export_pairs_pass": true,
+    "all_9_current_image_assets_pass": true,
+    "qa_report_html_hash_matches": true,
+    "qa_report_stripped_hash_matches": true,
+    "qa_report_asset_hashes_match": true,
+    "qa_report_contains_exact_30_views": true,
+    "visual_review_current_hash": true,
+    "all_12_visual_review_references_match_current_exports": true
+  },
+  "failures": [],
+  "source_files": [
+    {
+      "path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/email.html",
+      "sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "modified_utc": "2026-10-10T14:30:02.127856+00:00"
+    },
+    {
+      "path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/qa-stripped.html",
+      "sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "modified_utc": "2026-10-10T14:30:02.128352+00:00"
+    },
+    {
+      "path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/qa-automated.json",
+      "sha256": "02c46cc5d9372eade4cc1bd41021c6ad49cb6583db71973915d7846a51795344",
+      "modified_utc": "2026-10-10T14:37:13.394300+00:00"
+    },
+    {
+      "path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-visual-review.json",
+      "sha256": "67bb250b0c53a8e1cf9d7421de9e70d02e835d58a0a6aaeab7b45d8dac462d93",
+      "modified_utc": "2026-10-10T14:32:07.396579+00:00"
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
+      "local_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/assets/logo-white.png",
+      "sha256": "2091dfce2fe67ab18c937d7465d8c62dbce72f4d4dfff46c18817744ca4d2fa1",
+      "dimensions_px": [
+        579,
+        104
+      ],
+      "modified_utc": "2026-10-08T16:17:05.933740+00:00",
+      "checks": {
+        "mapping_hash_matches_bytes": true,
+        "hash_in_url_filename": true,
+        "saved_public_verification_matches": true
+      },
+      "pass": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/62aa63c4d91279e7184ff4417dd4c3fa3a83a30f/assets/welcome-01/hero-studio-v3-381c3602090d.jpg",
+      "local_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/assets/hero-studio-v3.jpg",
+      "sha256": "381c3602090d294d6c0b28203343a15db5f1c75b48a8e58360834a7cc00a25c2",
+      "dimensions_px": [
+        1122,
+        1402
+      ],
+      "modified_utc": "2026-10-10T13:55:01.387105+00:00",
+      "checks": {
+        "mapping_hash_matches_bytes": true,
+        "hash_in_url_filename": true,
+        "saved_public_verification_matches": true
+      },
+      "pass": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/hero-transition-v4-63ff1ba699a7.png",
+      "local_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/assets/hero-transition-v4.png",
+      "sha256": "63ff1ba699a73e7b00577596abbbc72eef3ab09a46a1cc2a80be1692ad4bcc8d",
+      "dimensions_px": [
+        1200,
+        120
+      ],
+      "modified_utc": "2026-10-10T14:22:52.512191+00:00",
+      "checks": {
+        "mapping_hash_matches_bytes": true,
+        "hash_in_url_filename": true,
+        "saved_public_verification_matches": true
+      },
+      "pass": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-in-v4-6524af04d59c.png",
+      "local_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/assets/offer-transition-in-v4.png",
+      "sha256": "6524af04d59c19df3b5c26e416a7c0230d02a1a69fe9ef919f541da4a8ad78f0",
+      "dimensions_px": [
+        1200,
+        180
+      ],
+      "modified_utc": "2026-10-10T14:22:52.576560+00:00",
+      "checks": {
+        "mapping_hash_matches_bytes": true,
+        "hash_in_url_filename": true,
+        "saved_public_verification_matches": true
+      },
+      "pass": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-out-v4-581df07fa226.png",
+      "local_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/assets/offer-transition-out-v4.png",
+      "sha256": "581df07fa22655bd85100874cf671df3bdc9a20c741ab0475f481ce67a1306db",
+      "dimensions_px": [
+        1200,
+        180
+      ],
+      "modified_utc": "2026-10-10T14:22:52.640589+00:00",
+      "checks": {
+        "mapping_hash_matches_bytes": true,
+        "hash_in_url_filename": true,
+        "saved_public_verification_matches": true
+      },
+      "pass": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-bedroom-90acd898d882.jpg",
+      "local_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/assets/category-bedroom.jpg",
+      "sha256": "90acd898d882759d8f4ca53873bd2e0169cf2c2ad6668e75f68c060aa2b2a4ba",
+      "dimensions_px": [
+        600,
+        600
+      ],
+      "modified_utc": "2026-10-08T16:48:35.607697+00:00",
+      "checks": {
+        "mapping_hash_matches_bytes": true,
+        "hash_in_url_filename": true,
+        "saved_public_verification_matches": true
+      },
+      "pass": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-living-182beb46bd8d.jpg",
+      "local_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/assets/category-living.jpg",
+      "sha256": "182beb46bd8de188fce8cfadd786a1406370fa44ea2b54e3f2d1295a72bd6d35",
+      "dimensions_px": [
+        452,
+        452
+      ],
+      "modified_utc": "2026-10-08T16:48:35.611987+00:00",
+      "checks": {
+        "mapping_hash_matches_bytes": true,
+        "hash_in_url_filename": true,
+        "saved_public_verification_matches": true
+      },
+      "pass": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-dining-fd28c0a1fead.jpg",
+      "local_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/assets/category-dining.jpg",
+      "sha256": "fd28c0a1feada0161313aad4fa9ea5244db73803122b07f3b8ee6ecafe4ea41d",
+      "dimensions_px": [
+        600,
+        600
+      ],
+      "modified_utc": "2026-10-08T16:48:35.618130+00:00",
+      "checks": {
+        "mapping_hash_matches_bytes": true,
+        "hash_in_url_filename": true,
+        "saved_public_verification_matches": true
+      },
+      "pass": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/welcome-01/category-outdoor-ccb67a95c0eb.jpg",
+      "local_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/assets/category-outdoor.jpg",
+      "sha256": "ccb67a95c0eb64044c8694d8ed94e9c076bfea6ace4806c3180648fea7dab97a",
+      "dimensions_px": [
+        600,
+        600
+      ],
+      "modified_utc": "2026-10-08T16:48:35.624471+00:00",
+      "checks": {
+        "mapping_hash_matches_bytes": true,
+        "hash_in_url_filename": true,
+        "saved_public_verification_matches": true
+      },
+      "pass": true
+    }
+  ],
+  "views": [
+    {
+      "name": "w320",
+      "mode": "normal",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w320.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w320.json",
+      "jpeg_dimensions_px": [
+        320,
+        3502
+      ],
+      "metrics_dimensions_px": [
+        320,
+        3502
+      ],
+      "screenshot_sha256": "46725ead9522104ef87a4664ea15550cf37d2173f726aded2aa59e7e01cd64ce",
+      "metrics_sha256": "d187064d408e39e26dc5b0662cf221b7b17a883f3bae0ed1ebd89f34a9f19537",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "captured_utc": "2026-10-10T14:30:28.515Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:30.029900+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:30.032537+00:00",
+      "capture_to_screenshot_export_seconds": 1.515,
+      "source_modified_utc": "2026-10-10T14:30:02.127856+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w320-stripped",
+      "mode": "head_styles_removed",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w320-stripped.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w320-stripped.json",
+      "jpeg_dimensions_px": [
+        320,
+        3502
+      ],
+      "metrics_dimensions_px": [
+        320,
+        3502
+      ],
+      "screenshot_sha256": "46725ead9522104ef87a4664ea15550cf37d2173f726aded2aa59e7e01cd64ce",
+      "metrics_sha256": "cb572647c5e6062784b8f039a2ba142150dbd31bf29c94961e96359504273a98",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "captured_utc": "2026-10-10T14:30:30.422Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:31.820165+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:31.821095+00:00",
+      "capture_to_screenshot_export_seconds": 1.398,
+      "source_modified_utc": "2026-10-10T14:30:02.128352+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w360",
+      "mode": "normal",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w360.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w360.json",
+      "jpeg_dimensions_px": [
+        360,
+        3621
+      ],
+      "metrics_dimensions_px": [
+        360,
+        3621
+      ],
+      "screenshot_sha256": "078f251d5fb85a9aa7f3011f6f9f618d08c1929be303bb2a250e10df4244eafc",
+      "metrics_sha256": "3f9488188af17330d68f50ab06aba09605c45af1a6788fd9b1c73f48da33afee",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "captured_utc": "2026-10-10T14:36:27.511Z",
+      "screenshot_modified_utc": "2026-10-10T14:36:28.951425+00:00",
+      "metrics_modified_utc": "2026-10-10T14:36:28.951912+00:00",
+      "capture_to_screenshot_export_seconds": 1.44,
+      "source_modified_utc": "2026-10-10T14:30:02.127856+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w360-stripped",
+      "mode": "head_styles_removed",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w360-stripped.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w360-stripped.json",
+      "jpeg_dimensions_px": [
+        360,
+        3621
+      ],
+      "metrics_dimensions_px": [
+        360,
+        3621
+      ],
+      "screenshot_sha256": "078f251d5fb85a9aa7f3011f6f9f618d08c1929be303bb2a250e10df4244eafc",
+      "metrics_sha256": "493d3210816b18d0fd6900ad969e1de367b03906312810ee73338a1d24fb4b39",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "captured_utc": "2026-10-10T14:36:25.665Z",
+      "screenshot_modified_utc": "2026-10-10T14:36:27.224230+00:00",
+      "metrics_modified_utc": "2026-10-10T14:36:27.227048+00:00",
+      "capture_to_screenshot_export_seconds": 1.559,
+      "source_modified_utc": "2026-10-10T14:30:02.128352+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w375",
+      "mode": "normal",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w375.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w375.json",
+      "jpeg_dimensions_px": [
+        375,
+        3705
+      ],
+      "metrics_dimensions_px": [
+        375,
+        3705
+      ],
+      "screenshot_sha256": "9f138136247a31ab579c37f0ec0b510b1318be3af9cc4a74f2471411e7e9acaf",
+      "metrics_sha256": "817ca516e3fb1949ce6aa8d0e2368b3f091c411727a6d5cd049adf27d6cdb3d8",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "captured_utc": "2026-10-10T14:36:29.313Z",
+      "screenshot_modified_utc": "2026-10-10T14:36:30.671290+00:00",
+      "metrics_modified_utc": "2026-10-10T14:36:30.673674+00:00",
+      "capture_to_screenshot_export_seconds": 1.358,
+      "source_modified_utc": "2026-10-10T14:30:02.127856+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w375-stripped",
+      "mode": "head_styles_removed",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w375-stripped.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w375-stripped.json",
+      "jpeg_dimensions_px": [
+        375,
+        3705
+      ],
+      "metrics_dimensions_px": [
+        375,
+        3705
+      ],
+      "screenshot_sha256": "9f138136247a31ab579c37f0ec0b510b1318be3af9cc4a74f2471411e7e9acaf",
+      "metrics_sha256": "5daed1959595dae540b9f372fdf9790e735587f4d1a2fe94830739a7fd0e1554",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "captured_utc": "2026-10-10T14:36:31.124Z",
+      "screenshot_modified_utc": "2026-10-10T14:36:32.452009+00:00",
+      "metrics_modified_utc": "2026-10-10T14:36:32.452633+00:00",
+      "capture_to_screenshot_export_seconds": 1.328,
+      "source_modified_utc": "2026-10-10T14:30:02.128352+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w390",
+      "mode": "normal",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w390.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w390.json",
+      "jpeg_dimensions_px": [
+        390,
+        3790
+      ],
+      "metrics_dimensions_px": [
+        390,
+        3790
+      ],
+      "screenshot_sha256": "1eb4e83d52b034f49b08d4296802dd31c8c01d5102f84ecc6da45c3e90265051",
+      "metrics_sha256": "3aa9353f72b8d7a0d8b6a41c47a10e4e820e06e15df4c414f291d3ee0c15095f",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "captured_utc": "2026-10-10T14:30:32.367Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:33.684761+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:33.685271+00:00",
+      "capture_to_screenshot_export_seconds": 1.318,
+      "source_modified_utc": "2026-10-10T14:30:02.127856+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w390-stripped",
+      "mode": "head_styles_removed",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w390-stripped.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w390-stripped.json",
+      "jpeg_dimensions_px": [
+        390,
+        3790
+      ],
+      "metrics_dimensions_px": [
+        390,
+        3790
+      ],
+      "screenshot_sha256": "1eb4e83d52b034f49b08d4296802dd31c8c01d5102f84ecc6da45c3e90265051",
+      "metrics_sha256": "ecf50e2b3f520040bc57bdcfb082b1e1f094b727d6b0ef3ddb1be8c1ec391da7",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "captured_utc": "2026-10-10T14:30:34.122Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:35.386723+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:35.387558+00:00",
+      "capture_to_screenshot_export_seconds": 1.265,
+      "source_modified_utc": "2026-10-10T14:30:02.128352+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w414",
+      "mode": "normal",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w414.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w414.json",
+      "jpeg_dimensions_px": [
+        414,
+        3926
+      ],
+      "metrics_dimensions_px": [
+        414,
+        3926
+      ],
+      "screenshot_sha256": "eff01ad82079a35fe5f702ba7701b9f71a55ed817d23ad8c8f79807a4fcf790e",
+      "metrics_sha256": "1f8ead5695000b039735ba8a0dbe9e0014565050c9bb688944e0c75d6e927224",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "captured_utc": "2026-10-10T14:36:32.866Z",
+      "screenshot_modified_utc": "2026-10-10T14:36:34.176463+00:00",
+      "metrics_modified_utc": "2026-10-10T14:36:34.179220+00:00",
+      "capture_to_screenshot_export_seconds": 1.31,
+      "source_modified_utc": "2026-10-10T14:30:02.127856+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w414-stripped",
+      "mode": "head_styles_removed",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w414-stripped.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w414-stripped.json",
+      "jpeg_dimensions_px": [
+        414,
+        3926
+      ],
+      "metrics_dimensions_px": [
+        414,
+        3926
+      ],
+      "screenshot_sha256": "eff01ad82079a35fe5f702ba7701b9f71a55ed817d23ad8c8f79807a4fcf790e",
+      "metrics_sha256": "d6085f7651cc44dbacdc008f1da007cf85c719a54ba8f11a4b7f1e9eec30b119",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "captured_utc": "2026-10-10T14:36:34.527Z",
+      "screenshot_modified_utc": "2026-10-10T14:36:35.811456+00:00",
+      "metrics_modified_utc": "2026-10-10T14:36:35.811883+00:00",
+      "capture_to_screenshot_export_seconds": 1.284,
+      "source_modified_utc": "2026-10-10T14:30:02.128352+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w430",
+      "mode": "normal",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w430.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w430.json",
+      "jpeg_dimensions_px": [
+        430,
+        4016
+      ],
+      "metrics_dimensions_px": [
+        430,
+        4016
+      ],
+      "screenshot_sha256": "15b8ded9a4be24d479e17e486b0f0e466690cdc975204172cbf7ac4d8633ce91",
+      "metrics_sha256": "b6cf330b316773bb6af6147f826a000036a73b35a950c7931c9a2b9f2c8fc22f",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "captured_utc": "2026-10-10T14:30:35.928Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:37.301345+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:37.301731+00:00",
+      "capture_to_screenshot_export_seconds": 1.373,
+      "source_modified_utc": "2026-10-10T14:30:02.127856+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w430-stripped",
+      "mode": "head_styles_removed",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w430-stripped.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w430-stripped.json",
+      "jpeg_dimensions_px": [
+        430,
+        4016
+      ],
+      "metrics_dimensions_px": [
+        430,
+        4016
+      ],
+      "screenshot_sha256": "15b8ded9a4be24d479e17e486b0f0e466690cdc975204172cbf7ac4d8633ce91",
+      "metrics_sha256": "b85f6946391341fbc82394fbc66a04eeffa343bd93b808c064cf0cac47acf334",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "captured_utc": "2026-10-10T14:30:37.655Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:38.960441+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:38.961055+00:00",
+      "capture_to_screenshot_export_seconds": 1.305,
+      "source_modified_utc": "2026-10-10T14:30:02.128352+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w480",
+      "mode": "normal",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w480.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w480.json",
+      "jpeg_dimensions_px": [
+        480,
+        4250
+      ],
+      "metrics_dimensions_px": [
+        480,
+        4250
+      ],
+      "screenshot_sha256": "44dc0fd390bd99dea3e4cdb7faae267e50b5f3a11991f01e11a238881ca56b07",
+      "metrics_sha256": "6d632273b0e962e8b241df145c8bd9facf3dbfcbe0d161ddcb512d1f93a3d68a",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "captured_utc": "2026-10-10T14:36:36.275Z",
+      "screenshot_modified_utc": "2026-10-10T14:36:37.641460+00:00",
+      "metrics_modified_utc": "2026-10-10T14:36:37.642701+00:00",
+      "capture_to_screenshot_export_seconds": 1.366,
+      "source_modified_utc": "2026-10-10T14:30:02.127856+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w480-stripped",
+      "mode": "head_styles_removed",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w480-stripped.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w480-stripped.json",
+      "jpeg_dimensions_px": [
+        480,
+        4250
+      ],
+      "metrics_dimensions_px": [
+        480,
+        4250
+      ],
+      "screenshot_sha256": "44dc0fd390bd99dea3e4cdb7faae267e50b5f3a11991f01e11a238881ca56b07",
+      "metrics_sha256": "aa53c66a534d6274cf63d096d9fe2d47b535bbb47b5077213a7fda4a46a91aba",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "captured_utc": "2026-10-10T14:36:38.133Z",
+      "screenshot_modified_utc": "2026-10-10T14:36:39.478939+00:00",
+      "metrics_modified_utc": "2026-10-10T14:36:39.479930+00:00",
+      "capture_to_screenshot_export_seconds": 1.346,
+      "source_modified_utc": "2026-10-10T14:30:02.128352+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w481",
+      "mode": "normal",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w481.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w481.json",
+      "jpeg_dimensions_px": [
+        481,
+        4255
+      ],
+      "metrics_dimensions_px": [
+        481,
+        4255
+      ],
+      "screenshot_sha256": "e3cb48dbdc0d7445dd619102bed316469ed824a1e6cdeb124b404be2a9072224",
+      "metrics_sha256": "d3fe84c131d407264a7afe8b4ff15303c56ba8517f9a2814135e636d33cce69f",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "captured_utc": "2026-10-10T14:36:39.786Z",
+      "screenshot_modified_utc": "2026-10-10T14:36:41.104411+00:00",
+      "metrics_modified_utc": "2026-10-10T14:36:41.105623+00:00",
+      "capture_to_screenshot_export_seconds": 1.318,
+      "source_modified_utc": "2026-10-10T14:30:02.127856+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w481-stripped",
+      "mode": "head_styles_removed",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w481-stripped.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w481-stripped.json",
+      "jpeg_dimensions_px": [
+        481,
+        4255
+      ],
+      "metrics_dimensions_px": [
+        481,
+        4255
+      ],
+      "screenshot_sha256": "e3cb48dbdc0d7445dd619102bed316469ed824a1e6cdeb124b404be2a9072224",
+      "metrics_sha256": "dd0ccde0463c327a420da1a1003ce5e754daee0a3e81287d5c5130b9bda59199",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "captured_utc": "2026-10-10T14:36:41.505Z",
+      "screenshot_modified_utc": "2026-10-10T14:36:42.797287+00:00",
+      "metrics_modified_utc": "2026-10-10T14:36:42.798032+00:00",
+      "capture_to_screenshot_export_seconds": 1.292,
+      "source_modified_utc": "2026-10-10T14:30:02.128352+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w599",
+      "mode": "normal",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w599.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w599.json",
+      "jpeg_dimensions_px": [
+        599,
+        4922
+      ],
+      "metrics_dimensions_px": [
+        599,
+        4922
+      ],
+      "screenshot_sha256": "814ba69a9ccc8612ce26c742cf7d502787724a6484197334822932722fcc3830",
+      "metrics_sha256": "c0b5239949dd2562801aab1dd8097201df9c065a94dd76d33e6c3ec96eaba8e6",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "captured_utc": "2026-10-10T14:30:46.414Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:47.820500+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:47.820945+00:00",
+      "capture_to_screenshot_export_seconds": 1.406,
+      "source_modified_utc": "2026-10-10T14:30:02.127856+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w599-stripped",
+      "mode": "head_styles_removed",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w599-stripped.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w599-stripped.json",
+      "jpeg_dimensions_px": [
+        599,
+        4922
+      ],
+      "metrics_dimensions_px": [
+        599,
+        4922
+      ],
+      "screenshot_sha256": "814ba69a9ccc8612ce26c742cf7d502787724a6484197334822932722fcc3830",
+      "metrics_sha256": "1a6e7980dc93534425e37baac4b64045c817b17bc513a01147b31be5c2b8b3c4",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "captured_utc": "2026-10-10T14:30:48.207Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:49.582440+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:49.584511+00:00",
+      "capture_to_screenshot_export_seconds": 1.375,
+      "source_modified_utc": "2026-10-10T14:30:02.128352+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w600",
+      "mode": "normal",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w600.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w600.json",
+      "jpeg_dimensions_px": [
+        600,
+        2958
+      ],
+      "metrics_dimensions_px": [
+        600,
+        2958
+      ],
+      "screenshot_sha256": "c6b97929e1784d894634b54a4eeffaf5360f0a7dfcc380a1c1cb047ff099be65",
+      "metrics_sha256": "21e21c36b70b0a86b2b9d03dbf5ee5fcc6212c785769955de2d10442d77d0be4",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "captured_utc": "2026-10-10T14:30:39.337Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:40.625981+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:40.626904+00:00",
+      "capture_to_screenshot_export_seconds": 1.289,
+      "source_modified_utc": "2026-10-10T14:30:02.127856+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w600-stripped",
+      "mode": "head_styles_removed",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w600-stripped.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w600-stripped.json",
+      "jpeg_dimensions_px": [
+        600,
+        4905
+      ],
+      "metrics_dimensions_px": [
+        600,
+        4905
+      ],
+      "screenshot_sha256": "442d254fe4b96801468fd3a23ac2456d1f697c86559644be35e49cbc127c7d38",
+      "metrics_sha256": "0300a51e656a7d27578e0fc0b72c2fb9f0b6e0f5b4b80cf188271b2ed4cd146f",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "captured_utc": "2026-10-10T14:30:41.144Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:42.612717+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:42.614664+00:00",
+      "capture_to_screenshot_export_seconds": 1.469,
+      "source_modified_utc": "2026-10-10T14:30:02.128352+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w720",
+      "mode": "normal",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w720.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w720.json",
+      "jpeg_dimensions_px": [
+        720,
+        2958
+      ],
+      "metrics_dimensions_px": [
+        720,
+        2958
+      ],
+      "screenshot_sha256": "e2a306dda0453ac760e79c5546053d2a76a9072dc962ff34194387e7d037042f",
+      "metrics_sha256": "c935988275ad51a00ba18d74851ef60cb4d0949d7002512cdea366f60f253e8e",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "captured_utc": "2026-10-10T14:30:43.036Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:44.335057+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:44.335458+00:00",
+      "capture_to_screenshot_export_seconds": 1.299,
+      "source_modified_utc": "2026-10-10T14:30:02.127856+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w720-stripped",
+      "mode": "head_styles_removed",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w720-stripped.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w720-stripped.json",
+      "jpeg_dimensions_px": [
+        720,
+        4905
+      ],
+      "metrics_dimensions_px": [
+        720,
+        4905
+      ],
+      "screenshot_sha256": "7148d039c2e630742cb2e22d813eb25fbf5fd97f6dea40b0d0b5f3006358e564",
+      "metrics_sha256": "f57e0978b5ca713c309b0650eed147e43b5b1538efc094c872f67502eeda0042",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "captured_utc": "2026-10-10T14:30:44.713Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:46.055590+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:46.056246+00:00",
+      "capture_to_screenshot_export_seconds": 1.343,
+      "source_modified_utc": "2026-10-10T14:30:02.128352+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w768",
+      "mode": "normal",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w768.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w768.json",
+      "jpeg_dimensions_px": [
+        768,
+        2958
+      ],
+      "metrics_dimensions_px": [
+        768,
+        2958
+      ],
+      "screenshot_sha256": "dbfd58241b54b98fef342f168056f6bd3533d44e53688f47c6745f2f48bd47b6",
+      "metrics_sha256": "ee5912bd11bfe8e50036f50a7a7fc45f933544b742633ddbfad53faff141bbc8",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "captured_utc": "2026-10-10T14:30:49.954Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:51.265729+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:51.267393+00:00",
+      "capture_to_screenshot_export_seconds": 1.312,
+      "source_modified_utc": "2026-10-10T14:30:02.127856+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w768-stripped",
+      "mode": "head_styles_removed",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w768-stripped.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w768-stripped.json",
+      "jpeg_dimensions_px": [
+        768,
+        4905
+      ],
+      "metrics_dimensions_px": [
+        768,
+        4905
+      ],
+      "screenshot_sha256": "629fa5b50f82ec147558a8abacc0ba5af6064b6a5df6d57caacb5287a045021e",
+      "metrics_sha256": "6d8be86ec1713f82473598c92bcdcb93bc59f3e4eb4d5db5d878793418b98b8a",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "captured_utc": "2026-10-10T14:30:51.802Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:53.147962+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:53.148962+00:00",
+      "capture_to_screenshot_export_seconds": 1.346,
+      "source_modified_utc": "2026-10-10T14:30:02.128352+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w820",
+      "mode": "normal",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w820.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w820.json",
+      "jpeg_dimensions_px": [
+        820,
+        2958
+      ],
+      "metrics_dimensions_px": [
+        820,
+        2958
+      ],
+      "screenshot_sha256": "5f3f01dadf272bf76552aeb8a99a07b8f44f11fcd67b27d3089adba398f01953",
+      "metrics_sha256": "96e89dfb535704bca2c4da47c3abee8f78e0d4da92a678d75fe3b7e33d3146fb",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "captured_utc": "2026-10-10T14:36:43.173Z",
+      "screenshot_modified_utc": "2026-10-10T14:36:44.411587+00:00",
+      "metrics_modified_utc": "2026-10-10T14:36:44.412005+00:00",
+      "capture_to_screenshot_export_seconds": 1.239,
+      "source_modified_utc": "2026-10-10T14:30:02.127856+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w820-stripped",
+      "mode": "head_styles_removed",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w820-stripped.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w820-stripped.json",
+      "jpeg_dimensions_px": [
+        820,
+        4905
+      ],
+      "metrics_dimensions_px": [
+        820,
+        4905
+      ],
+      "screenshot_sha256": "0a8abd038293b3fa2645853e82aa8995fab45b1aab9a4fd6638d304317a3d343",
+      "metrics_sha256": "dc712ca12455f7720f6d6c02d72b03e766763b360237e5bdf85a01bf2f78c6e8",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "captured_utc": "2026-10-10T14:36:44.764Z",
+      "screenshot_modified_utc": "2026-10-10T14:36:46.079762+00:00",
+      "metrics_modified_utc": "2026-10-10T14:36:46.080955+00:00",
+      "capture_to_screenshot_export_seconds": 1.316,
+      "source_modified_utc": "2026-10-10T14:30:02.128352+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w1024",
+      "mode": "normal",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w1024.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w1024.json",
+      "jpeg_dimensions_px": [
+        1024,
+        2958
+      ],
+      "metrics_dimensions_px": [
+        1024,
+        2958
+      ],
+      "screenshot_sha256": "b901d4585aa1e5413ae163ae65d106b88f24634e4b8f17dc5ca2a4c41423c60e",
+      "metrics_sha256": "bbf81fcf956b00c2ee48415939961ff3c949f0f878837c522c3f8a6597b3957d",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "captured_utc": "2026-10-10T14:36:46.474Z",
+      "screenshot_modified_utc": "2026-10-10T14:36:47.726390+00:00",
+      "metrics_modified_utc": "2026-10-10T14:36:47.726986+00:00",
+      "capture_to_screenshot_export_seconds": 1.252,
+      "source_modified_utc": "2026-10-10T14:30:02.127856+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w1024-stripped",
+      "mode": "head_styles_removed",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w1024-stripped.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w1024-stripped.json",
+      "jpeg_dimensions_px": [
+        1024,
+        4905
+      ],
+      "metrics_dimensions_px": [
+        1024,
+        4905
+      ],
+      "screenshot_sha256": "7a0cdddc0f5cc980bec014f621cbe74b58eccd2484dfaa6492bbc94a3e09a886",
+      "metrics_sha256": "b929f6bddf6bcf360f3e40fe5f50b5bf75965b223faf06f0181ddcb3bc986caa",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "captured_utc": "2026-10-10T14:36:48.061Z",
+      "screenshot_modified_utc": "2026-10-10T14:36:49.403353+00:00",
+      "metrics_modified_utc": "2026-10-10T14:36:49.404848+00:00",
+      "capture_to_screenshot_export_seconds": 1.342,
+      "source_modified_utc": "2026-10-10T14:30:02.128352+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w1440",
+      "mode": "normal",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w1440.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w1440.json",
+      "jpeg_dimensions_px": [
+        1440,
+        2958
+      ],
+      "metrics_dimensions_px": [
+        1440,
+        2958
+      ],
+      "screenshot_sha256": "d837c79050ed2aa35625f2f80c591e44d93dfee93fabe5fce5a598fd075ac95a",
+      "metrics_sha256": "1ccad5adcf89d6981c88aedafa297a7b7fafbe0fe4201f4a2daf4394e14bc35e",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "captured_utc": "2026-10-10T14:30:53.504Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:54.921762+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:54.922301+00:00",
+      "capture_to_screenshot_export_seconds": 1.418,
+      "source_modified_utc": "2026-10-10T14:30:02.127856+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    },
+    {
+      "name": "w1440-stripped",
+      "mode": "head_styles_removed",
+      "screenshot_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w1440-stripped.jpg",
+      "metrics_path": "/Users/lucka/Downloads/dropship/research/tikbaldai/welcome-01/responsive-previews/w1440-stripped.json",
+      "jpeg_dimensions_px": [
+        1440,
+        4905
+      ],
+      "metrics_dimensions_px": [
+        1440,
+        4905
+      ],
+      "screenshot_sha256": "6c925a4d29e3aef49e82992f25321fef7b8e7de164b30945a12a94e6afec886b",
+      "metrics_sha256": "f07293ed389585f6c8e6e5c2e597a9b9c01d3f1589c293d794693810cd5473a8",
+      "html_sha256": "49a9b665ba171a3aa1d6c08e4ea3b8b8867007fffb9da9214affdff67d742012",
+      "rendered_source_sha256": "80ed5e9450ec99ad1dc1199a1e731c529c9b44bca46be29540cb3a88203bb64d",
+      "captured_utc": "2026-10-10T14:30:55.283Z",
+      "screenshot_modified_utc": "2026-10-10T14:30:56.776388+00:00",
+      "metrics_modified_utc": "2026-10-10T14:30:56.777020+00:00",
+      "capture_to_screenshot_export_seconds": 1.493,
+      "source_modified_utc": "2026-10-10T14:30:02.128352+00:00",
+      "checks": {
+        "jpeg_decodes": true,
+        "filename_and_metrics_width_match": true,
+        "jpeg_dimensions_match_metrics": true,
+        "html_hash_current": true,
+        "rendered_source_hash_current": true,
+        "render_url_matches_mode": true,
+        "asset_hashes_current": true,
+        "rendered_image_sources_match_html": true,
+        "rendered_natural_dimensions_match_assets": true,
+        "images_loaded": true,
+        "capture_after_current_source_and_assets": true,
+        "screenshot_export_after_capture": true,
+        "metrics_export_after_capture": true,
+        "screenshot_and_metrics_export_within_60_seconds": true,
+        "screenshot_export_within_120_seconds_of_capture": true,
+        "screenshot_hash_matches_current_qa_report": true,
+        "capture_time_matches_current_qa_report": true,
+        "current_qa_view_passed": true
+      },
+      "pass": true
+    }
+  ],
+  "existing_visual_review_references": [
+    {
+      "file": "responsive-previews/w320.jpg",
+      "checks": {
+        "screenshot_sha_matches": true,
+        "dimensions_match": true,
+        "capture_time_matches": true
+      },
+      "pass": true
+    },
+    {
+      "file": "responsive-previews/w320-stripped.jpg",
+      "checks": {
+        "screenshot_sha_matches": true,
+        "dimensions_match": true,
+        "capture_time_matches": true
+      },
+      "pass": true
+    },
+    {
+      "file": "responsive-previews/w390.jpg",
+      "checks": {
+        "screenshot_sha_matches": true,
+        "dimensions_match": true,
+        "capture_time_matches": true
+      },
+      "pass": true
+    },
+    {
+      "file": "responsive-previews/w390-stripped.jpg",
+      "checks": {
+        "screenshot_sha_matches": true,
+        "dimensions_match": true,
+        "capture_time_matches": true
+      },
+      "pass": true
+    },
+    {
+      "file": "responsive-previews/w430.jpg",
+      "checks": {
+        "screenshot_sha_matches": true,
+        "dimensions_match": true,
+        "capture_time_matches": true
+      },
+      "pass": true
+    },
+    {
+      "file": "responsive-previews/w430-stripped.jpg",
+      "checks": {
+        "screenshot_sha_matches": true,
+        "dimensions_match": true,
+        "capture_time_matches": true
+      },
+      "pass": true
+    },
+    {
+      "file": "responsive-previews/w720.jpg",
+      "checks": {
+        "screenshot_sha_matches": true,
+        "dimensions_match": true,
+        "capture_time_matches": true
+      },
+      "pass": true
+    },
+    {
+      "file": "responsive-previews/w720-stripped.jpg",
+      "checks": {
+        "screenshot_sha_matches": true,
+        "dimensions_match": true,
+        "capture_time_matches": true
+      },
+      "pass": true
+    },
+    {
+      "file": "responsive-previews/w599.jpg",
+      "checks": {
+        "screenshot_sha_matches": true,
+        "dimensions_match": true,
+        "capture_time_matches": true
+      },
+      "pass": true
+    },
+    {
+      "file": "responsive-previews/w600.jpg",
+      "checks": {
+        "screenshot_sha_matches": true,
+        "dimensions_match": true,
+        "capture_time_matches": true
+      },
+      "pass": true
+    },
+    {
+      "file": "responsive-previews/w768.jpg",
+      "checks": {
+        "screenshot_sha_matches": true,
+        "dimensions_match": true,
+        "capture_time_matches": true
+      },
+      "pass": true
+    },
+    {
+      "file": "responsive-previews/w1440.jpg",
+      "checks": {
+        "screenshot_sha_matches": true,
+        "dimensions_match": true,
+        "capture_time_matches": true
+      },
+      "pass": true
+    }
+  ],
+  "platform_delivery_verified": false,
+  "limitations": [
+    "This audit verifies integrity and correspondence of saved evidence. The 12 recorded visual inspections remain the existing visual review; this is not a new visual inspection of all 30 views.",
+    "Public image availability is supported by the saved public-assets-check report; this task independently rehashes retained local bytes and does not repeat network requests.",
+    "No direct browser positive-save acknowledgement transcript was supplied to this audit. Export completeness is verified from fully decoded JPEG dimensions, paired capture metadata, modification times and saved screenshot hashes."
+  ]
+}
