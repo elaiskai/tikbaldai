@@ -1,5 +1,6 @@
 {
-  "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
-  "source": "Current 600 CSS px browser capture",
+  "html_sha256": "76f7c0173055f9b45984206c3bf745beb91cf4a78fb0966ac9052d91a8446ec7",
+  "source": "../email.html",
+  "browser_qa_pass": true,
   "platform_delivery_verified": false
 }

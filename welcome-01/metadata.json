@@ -1,7 +1,7 @@
 {
-  "version": 9,
-  "updated_date": "2026-10-10",
-  "role": "Pirmas apsipirkimas su 10 € dovana ir konkrečių baldų kategorijų pasirinkimu",
+  "version": 10,
+  "updated_date": "2026-10-13",
+  "role": "Welcome su pagrindiniu lovų ir čiužinių komplektų bloku, papildomai fotelis ir generatoriai",
   "primary_url": "https://tikbaldai.lt/collections/populiariausi",
   "primary_cta": "Išsirinkti baldus su 10 € nuolaida",
   "hero_headline": "ČIA GERA GRĮŽTI.",
@@ -10,12 +10,12 @@
   "hero_image": "hero-studio-v3.jpg",
   "hero_product_url": "https://tikbaldai.lt/products/dviviete-sofa-raudonai-oranzine-180x77x82-cm-velvetas-audinys",
   "subject": "Sveiki atvykę. Išsirinkite baldus su 10 € nuolaida",
-  "preheader": "Rinkitės lovas, sofas ir kitus baldus. Pirmam užsakymui naudokite kodą SVEIKI10.",
+  "preheader": "Atraskite Lietuvoje pagamintus lovų ir čiužinių komplektus. Pristatymas nemokamas.",
   "offer_eur": 10,
   "draft_coupon": "SVEIKI10",
   "coupon_config_verified": false,
   "unsubscribe_placeholder": "{{unsubscribe_url}}",
-  "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+  "html_sha256": "76f7c0173055f9b45984206c3bf745beb91cf4a78fb0966ac9052d91a8446ec7",
   "fonts": [
     "Georgia",
     "Arial"
@@ -23,10 +23,9 @@
   "font_links": false,
   "lt_glyphs_checked": "ĄČĘĖĮŠŲŪŽąčęėįšųūž€",
   "category_urls": {
-    "Miegamasis": "https://tikbaldai.lt/collections/miegamojo-baldai",
-    "Svetainė": "https://tikbaldai.lt/collections/svetaines-baldai",
-    "Valgomasis": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai",
-    "Lauko erdvei": "https://tikbaldai.lt/collections/lauko-baldu-komplektai"
+    "Lovų ir čiužinių komplektai": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai",
+    "Fotelis su pakoju": "https://tikbaldai.lt/collections/populiariausi/products/fotelis-vera-su-pakoju",
+    "Elektros generatoriai": "https://tikbaldai.lt/collections/elektros-generatoriai"
   },
   "responsive": {
     "inline_category_columns": 1,
@@ -40,10 +39,10 @@
     "mso_category_image_width_px": 254,
     "button_height_px": 56,
     "mso_button": "conditional VML roundrect, full-surface href",
-    "qa_status": "PASS: eight fresh visually inspected fixed CSS width browser renders",
-    "qa_html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f"
+    "qa_status": "PASS at 320, 390, 430 and 600 px, with and without head styles",
+    "qa_html_sha256": "76f7c0173055f9b45984206c3bf745beb91cf4a78fb0966ac9052d91a8446ec7"
   },
-  "status": "reviewed_design_draft",
+  "status": "browser_qa_pass",
   "browser_qa_pass": true,
   "platform_delivery_verified": false
 }

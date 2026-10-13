@@ -1,11 +1,9 @@
-# TIK BALDAI welcome 01, versija 9
+# TIK BALDAI welcome 01, versija 10
 
-Tema: Sveiki atvykę. Išsirinkite baldus su 10 € nuolaida
+Tikslinis produktų ir privalumų bloko atnaujinimas. Hero ir 10 € pasiūlymo blokas išlaikyti.
 
-Preheaderis: Rinkitės lovas, sofas ir kitus baldus. Pirmam užsakymui naudokite kodą SVEIKI10.
+Pagrindinis pasirinkimas: Lietuvoje pagaminti lovų ir čiužinių komplektai. Papildomai fotelis su pakoju ir elektros generatoriai. Privalumai: vietinė lovų komplektų gamyba, nemokamas pristatymas, mokėjimas gavus prekę. Foteliui ir generatoriams naudojamos katalogo nuotraukos. Lovų kategorijos vizualas iš ankstesnio laiško.
 
-Pagrindiniai mygtukai kviečia peržiūrėti konkrečias baldų kategorijas ir išsirinkti prekes. Konsultacija yra papildoma pagalba. Hero ir kategorijų nuotraukos šioje redakcijoje nekeistos.
+Dabartinis HTML patikrintas 600, 320, 390, 430 px, su head stiliais ir be jų. Šviežios peržiūros ir jų hash yra responsive-previews, išvada responsive-visual-review.json. Tai naršyklės patikra, ne Omnisend ar Gmail testinis siuntimas.
 
-Dabartinis HTML vizualiai patikrintas 600, 320, 390, 430 px CSS pločiais, su head stiliais ir be jų. Aštuonios naujos peržiūros susietos su HTML SHA256. Tai naršyklės patikra, ne Gmail ar Omnisend testinis siuntimas.
-
-SVEIKI10 yra darbinis vartotojo numatyto 10 € pasiūlymo kodas. Veikimas ir sąlygos parduotuvėje netestuoti. Prieš siuntimą reikia platformos atsisakymo žymens ir testinio siuntimo. Automatizacija neaktyvuota.
+SVEIKI10 tebėra darbinis kodas, jo veikimas netikrintas. Automatizacija neaktyvuota.
