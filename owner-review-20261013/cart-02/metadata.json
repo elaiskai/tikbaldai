@@ -1,0 +1,14 @@
+{
+  "subject": "Nemokamas pristatymas. Mokėkite gavę.",
+  "preheader": "Daugiau aiškumo prieš grįžtant į krepšelį.",
+  "time": "Po 24 valandų nuo neveiklumo pradžios",
+  "purpose": "Pasitikėjimas, atsiliepimas ir pristatymas",
+  "kind": "cart",
+  "key": "cart-02",
+  "updated": "2026-10-13",
+  "status": "owner_review_draft",
+  "html_sha256": "d25d5842c47595eae0ffecd4af45b0bfc7b0d5d0c81027f81e4f9f0f634f67e7",
+  "platform_delivery_verified": false,
+  "browser_qa_pass": true,
+  "dynamic_products_connected": false
+}

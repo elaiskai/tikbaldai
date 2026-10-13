@@ -1,0 +1,80 @@
+[
+  {
+    "key": "welcome-01",
+    "page": 2,
+    "html_sha256": "7a4eade14864dcc12e13cc8cb9149ce79e64b64ce9f5eb20d8617ca99b31d978",
+    "image_sha256": "12305e0fcdd34c2645a09772a9df1ba30b386552022cc1826db1f15d9c09a619"
+  },
+  {
+    "key": "welcome-02",
+    "page": 3,
+    "html_sha256": "08f861e9c2a15d5c980fa4a882ef706bc13caaa3a6f7cd88a19a910b582827dc",
+    "image_sha256": "194bfa615d1a3669698dc46409011a1e3248dce03c5693abe3730201eb6c11ef"
+  },
+  {
+    "key": "welcome-03",
+    "page": 4,
+    "html_sha256": "fa2635efba2c02c3ddbc661aa25167930a49ac09ef821d274c5a54ee214c2aec",
+    "image_sha256": "f171b73fbe52149ba71496a515822ce9ab534b2734d7eefe7a011e1e2ea8ddc3"
+  },
+  {
+    "key": "product-01",
+    "page": 5,
+    "html_sha256": "18e1fb3a505844d036c14e88ac75f255236d2167c85268cca97544123387e54c",
+    "image_sha256": "0697910fc5204de48c8d6eeea0456339b978190b00d03fc35e40eec3ba7e8e14"
+  },
+  {
+    "key": "product-02",
+    "page": 6,
+    "html_sha256": "3661ad3ec42f65535080f1b6ef997d964b5b5d8644bc38571af3654b8d899587",
+    "image_sha256": "72a847ec45d0c5354348944f8080501cf4549a3328141f5e5b94e33028e5e62c"
+  },
+  {
+    "key": "cart-01",
+    "page": 7,
+    "html_sha256": "cc6755d4b7e13360dfb975d0d0d560f44633a37220c5f3bd89e287b675f2e39f",
+    "image_sha256": "bda2c86fe1e8a3cce9c26f7225d5f55692bcc77df0af6229c5f2827299fc262e"
+  },
+  {
+    "key": "cart-02",
+    "page": 8,
+    "html_sha256": "d25d5842c47595eae0ffecd4af45b0bfc7b0d5d0c81027f81e4f9f0f634f67e7",
+    "image_sha256": "56d04aa9978671d84ad9691a20378cc2817a406ab2b657511ac3a95eb48987f3"
+  },
+  {
+    "key": "cart-03",
+    "page": 9,
+    "html_sha256": "d7533d7c536ad7c987e96f15ca0fecc401c8cd9909d209b58d13d440568f27ec",
+    "image_sha256": "45e4158c1a6aa4311091326b623ab6d4a23b65dfccd46eda9da0064211f3941c"
+  },
+  {
+    "key": "checkout-01",
+    "page": 10,
+    "html_sha256": "026f1a0fc60c45d0f8e7a0477331d71b8dad7fa6f7d69f27f46767c62c667396",
+    "image_sha256": "b965a3da8789e70faf061064a710982eba63349cfafedd3e09ff088ba0407bca"
+  },
+  {
+    "key": "checkout-02",
+    "page": 11,
+    "html_sha256": "99282a75e8bf0b9b16427921eefee5985dcccb31ea568ceea83afdefb0f05aca",
+    "image_sha256": "99c0b18379d9a1e244a315c827276048e8e2b37208c94fdab6a439faa2b91f0c"
+  },
+  {
+    "key": "winback-01",
+    "page": 12,
+    "html_sha256": "91896f15f8e4c71421fe56ca69383de3ea9451c87da3b8ee8faeb49c7090d897",
+    "image_sha256": "88935d4a2cc1283670a8d331fe911139cd4a2f45a81d4b7f2b9f90270376647a"
+  },
+  {
+    "key": "winback-02",
+    "page": 13,
+    "html_sha256": "e19d107b9925cf3792ac7c7ef27427a3187d7633ee027b6be8f8bc5fb772ff21",
+    "image_sha256": "b57b73c81a2473ca79aacc8c1be6411559b363107cadef6412048630c3ba18d4"
+  },
+  {
+    "key": "winback-03",
+    "page": 14,
+    "html_sha256": "4b9530e29adcd95e94797801b2dc2b481e973d81f24032439c75947414f6807e",
+    "image_sha256": "6a3088f1428d5986a2de8707d12a4fe73616bd63d4b16aaa28a2e34a02c887a7"
+  }
+]

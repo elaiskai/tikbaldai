@@ -1,0 +1,20 @@
+{
+  "subject": "Jūsų sugrįžimui turime nuolaidą",
+  "preheader": "Naudokite kodą assugrizau. Mokėti galėsite gavę prekę.",
+  "time": "97 dieną, jei nepirko",
+  "purpose": "Sugrįžimo pasiūlymas",
+  "kind": "static",
+  "key": "winback-02",
+  "updated": "2026-10-13",
+  "status": "owner_review_draft",
+  "html_sha256": "e19d107b9925cf3792ac7c7ef27427a3187d7633ee027b6be8f8bc5fb772ff21",
+  "platform_delivery_verified": false,
+  "browser_qa_pass": true,
+  "day_from_last_order": 97,
+  "offer": {
+    "code": "assugrizau",
+    "amount": null,
+    "unit": null
+  },
+  "audience": "Bed interest; exclude recent bed buyers and generator-only buyers until relevant branch exists."
+}

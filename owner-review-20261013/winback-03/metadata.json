@@ -1,0 +1,20 @@
+{
+  "subject": "Kuris komplektas taps Jūsų pasirinkimu?",
+  "preheader": "Valencia ir Chicago, nemokamas pristatymas ir sugrįžimo kodas.",
+  "time": "104 dieną, jei nepirko ir parodė susidomėjimą",
+  "purpose": "Komplektų atranka ir sugrįžimo kodo priminimas",
+  "kind": "static",
+  "key": "winback-03",
+  "updated": "2026-10-13",
+  "status": "owner_review_draft",
+  "html_sha256": "4b9530e29adcd95e94797801b2dc2b481e973d81f24032439c75947414f6807e",
+  "platform_delivery_verified": false,
+  "browser_qa_pass": true,
+  "day_from_last_order": 104,
+  "offer": {
+    "code": "assugrizau",
+    "amount": null,
+    "unit": null
+  },
+  "audience": "Bed interest; exclude recent bed buyers and generator-only buyers until relevant branch exists."
+}
