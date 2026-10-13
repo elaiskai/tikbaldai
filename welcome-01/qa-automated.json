@@ -16,48 +16,37 @@
         "footer": true,
         "images": [
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/62aa63c4d91279e7184ff4417dd4c3fa3a83a30f/assets/welcome-01/hero-studio-v3-381c3602090d.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/hero-transition-v4-63ff1ba699a7.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-in-v4-6524af04d59c.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-out-v4-581df07fa226.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-bedroom-v2-26a8bd310b18.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Fotelis_Relax_2.png?v=1763033930"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Elektros_generatorius.jpg?v=1758538060"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/origin.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/delivery.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/payment.png"
+            "ok": true
           }
         ],
         "links": [
@@ -71,7 +60,7 @@
           },
           {
             "height": 56,
-            "text": "Išsirinkti baldus su 10 € nuolaida"
+            "text": "Išsirinkti baldus su 35 € nuolaida"
           },
           {
             "height": 272,
@@ -100,12 +89,9 @@
           {
             "height": 46,
             "text": "Padėsime išsirinkti. Parašykite mums."
-          },
-          {
-            "height": 46,
-            "text": "Atsisakyti naujienlaiškių"
           }
         ],
+        "offerTop": 765.96875,
         "scrollWidth": 320,
         "width": 320
       }
@@ -126,48 +112,37 @@
         "footer": true,
         "images": [
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/62aa63c4d91279e7184ff4417dd4c3fa3a83a30f/assets/welcome-01/hero-studio-v3-381c3602090d.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/hero-transition-v4-63ff1ba699a7.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-in-v4-6524af04d59c.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-out-v4-581df07fa226.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-bedroom-v2-26a8bd310b18.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Fotelis_Relax_2.png?v=1763033930"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Elektros_generatorius.jpg?v=1758538060"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/origin.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/delivery.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/payment.png"
+            "ok": true
           }
         ],
         "links": [
@@ -181,7 +156,7 @@
           },
           {
             "height": 56,
-            "text": "Išsirinkti baldus su 10 € nuolaida"
+            "text": "Išsirinkti baldus su 35 € nuolaida"
           },
           {
             "height": 342,
@@ -210,12 +185,9 @@
           {
             "height": 46,
             "text": "Padėsime išsirinkti. Parašykite mums."
-          },
-          {
-            "height": 46,
-            "text": "Atsisakyti naujienlaiškių"
           }
         ],
+        "offerTop": 844.9375,
         "scrollWidth": 390,
         "width": 390
       }
@@ -236,48 +208,37 @@
         "footer": true,
         "images": [
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/62aa63c4d91279e7184ff4417dd4c3fa3a83a30f/assets/welcome-01/hero-studio-v3-381c3602090d.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/hero-transition-v4-63ff1ba699a7.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-in-v4-6524af04d59c.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-out-v4-581df07fa226.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-bedroom-v2-26a8bd310b18.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Fotelis_Relax_2.png?v=1763033930"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Elektros_generatorius.jpg?v=1758538060"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/origin.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/delivery.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/payment.png"
+            "ok": true
           }
         ],
         "links": [
@@ -291,7 +252,7 @@
           },
           {
             "height": 56,
-            "text": "Išsirinkti baldus su 10 € nuolaida"
+            "text": "Išsirinkti baldus su 35 € nuolaida"
           },
           {
             "height": 382,
@@ -320,12 +281,9 @@
           {
             "height": 46,
             "text": "Padėsime išsirinkti. Parašykite mums."
-          },
-          {
-            "height": 46,
-            "text": "Atsisakyti naujienlaiškių"
           }
         ],
+        "offerTop": 904.921875,
         "scrollWidth": 430,
         "width": 430
       }
@@ -346,48 +304,37 @@
         "footer": true,
         "images": [
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/62aa63c4d91279e7184ff4417dd4c3fa3a83a30f/assets/welcome-01/hero-studio-v3-381c3602090d.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/hero-transition-v4-63ff1ba699a7.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-in-v4-6524af04d59c.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-out-v4-581df07fa226.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-bedroom-v2-26a8bd310b18.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Fotelis_Relax_2.png?v=1763033930"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Elektros_generatorius.jpg?v=1758538060"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/origin.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/delivery.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/payment.png"
+            "ok": true
           }
         ],
         "links": [
@@ -401,7 +348,7 @@
           },
           {
             "height": 56,
-            "text": "Išsirinkti baldus su 10 € nuolaida"
+            "text": "Išsirinkti baldus su 35 € nuolaida"
           },
           {
             "height": 524,
@@ -430,12 +377,9 @@
           {
             "height": 46,
             "text": "Padėsime išsirinkti. Parašykite mums."
-          },
-          {
-            "height": 46,
-            "text": "Atsisakyti naujienlaiškių"
           }
         ],
+        "offerTop": 1133.84375,
         "scrollWidth": 600,
         "width": 600
       }
@@ -456,48 +400,37 @@
         "footer": true,
         "images": [
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/62aa63c4d91279e7184ff4417dd4c3fa3a83a30f/assets/welcome-01/hero-studio-v3-381c3602090d.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/hero-transition-v4-63ff1ba699a7.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-in-v4-6524af04d59c.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-out-v4-581df07fa226.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-bedroom-v2-26a8bd310b18.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Fotelis_Relax_2.png?v=1763033930"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Elektros_generatorius.jpg?v=1758538060"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/origin.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/delivery.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/payment.png"
+            "ok": true
           }
         ],
         "links": [
@@ -511,7 +444,7 @@
           },
           {
             "height": 56,
-            "text": "Išsirinkti baldus su 10 € nuolaida"
+            "text": "Išsirinkti baldus su 35 € nuolaida"
           },
           {
             "height": 272,
@@ -540,12 +473,9 @@
           {
             "height": 46,
             "text": "Padėsime išsirinkti. Parašykite mums."
-          },
-          {
-            "height": 46,
-            "text": "Atsisakyti naujienlaiškių"
           }
         ],
+        "offerTop": 765.96875,
         "scrollWidth": 320,
         "width": 320
       }
@@ -566,48 +496,37 @@
         "footer": true,
         "images": [
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/62aa63c4d91279e7184ff4417dd4c3fa3a83a30f/assets/welcome-01/hero-studio-v3-381c3602090d.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/hero-transition-v4-63ff1ba699a7.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-in-v4-6524af04d59c.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-out-v4-581df07fa226.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-bedroom-v2-26a8bd310b18.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Fotelis_Relax_2.png?v=1763033930"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Elektros_generatorius.jpg?v=1758538060"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/origin.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/delivery.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/payment.png"
+            "ok": true
           }
         ],
         "links": [
@@ -621,7 +540,7 @@
           },
           {
             "height": 56,
-            "text": "Išsirinkti baldus su 10 € nuolaida"
+            "text": "Išsirinkti baldus su 35 € nuolaida"
           },
           {
             "height": 342,
@@ -650,12 +569,9 @@
           {
             "height": 46,
             "text": "Padėsime išsirinkti. Parašykite mums."
-          },
-          {
-            "height": 46,
-            "text": "Atsisakyti naujienlaiškių"
           }
         ],
+        "offerTop": 844.9375,
         "scrollWidth": 390,
         "width": 390
       }
@@ -676,48 +592,37 @@
         "footer": true,
         "images": [
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/62aa63c4d91279e7184ff4417dd4c3fa3a83a30f/assets/welcome-01/hero-studio-v3-381c3602090d.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/hero-transition-v4-63ff1ba699a7.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-in-v4-6524af04d59c.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-out-v4-581df07fa226.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-bedroom-v2-26a8bd310b18.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Fotelis_Relax_2.png?v=1763033930"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Elektros_generatorius.jpg?v=1758538060"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/origin.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/delivery.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/payment.png"
+            "ok": true
           }
         ],
         "links": [
@@ -731,7 +636,7 @@
           },
           {
             "height": 56,
-            "text": "Išsirinkti baldus su 10 € nuolaida"
+            "text": "Išsirinkti baldus su 35 € nuolaida"
           },
           {
             "height": 382,
@@ -760,12 +665,9 @@
           {
             "height": 46,
             "text": "Padėsime išsirinkti. Parašykite mums."
-          },
-          {
-            "height": 46,
-            "text": "Atsisakyti naujienlaiškių"
           }
         ],
+        "offerTop": 904.921875,
         "scrollWidth": 430,
         "width": 430
       }
@@ -786,48 +688,37 @@
         "footer": true,
         "images": [
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/62aa63c4d91279e7184ff4417dd4c3fa3a83a30f/assets/welcome-01/hero-studio-v3-381c3602090d.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/hero-transition-v4-63ff1ba699a7.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-in-v4-6524af04d59c.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/487eefb3aa6b625d4db31dfb89e7e63076cf1da3/assets/welcome-01/offer-transition-out-v4-581df07fa226.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/7c3d482d025223db1511b38b8d7b2b5fcc4281fe/assets/visual-refresh-v2/category-bedroom-v2-26a8bd310b18.jpg"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Fotelis_Relax_2.png?v=1763033930"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://cdn.shopify.com/s/files/1/0279/4455/0478/files/Elektros_generatorius.jpg?v=1758538060"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/origin.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/delivery.png"
+            "ok": true
           },
           {
-            "ok": true,
-            "src": "https://raw.githubusercontent.com/elaiskai/tikbaldai/17d577de82d3ee5152365d2e725649622e297dc7/assets/welcome-01-trust/payment.png"
+            "ok": true
           }
         ],
         "links": [
@@ -841,7 +732,7 @@
           },
           {
             "height": 56,
-            "text": "Išsirinkti baldus su 10 € nuolaida"
+            "text": "Išsirinkti baldus su 35 € nuolaida"
           },
           {
             "height": 552,
@@ -870,18 +761,15 @@
           {
             "height": 46,
             "text": "Padėsime išsirinkti. Parašykite mums."
-          },
-          {
-            "height": 46,
-            "text": "Atsisakyti naujienlaiškių"
           }
         ],
+        "offerTop": 1133.84375,
         "scrollWidth": 600,
         "width": 600
       }
     }
   ],
-  "source_sha256": "76f7c0173055f9b45984206c3bf745beb91cf4a78fb0966ac9052d91a8446ec7",
-  "html_sha256": "76f7c0173055f9b45984206c3bf745beb91cf4a78fb0966ac9052d91a8446ec7",
-  "screenshot_sha256": "44a5f7f1624545f63cbed6f21631a41e853789a4facbb4a5579559048c0038d0"
+  "source_sha256": "c316be45427717e158eca5854cfcb9f33f4813e529054fe475052e0f42b46adf",
+  "html_sha256": "c316be45427717e158eca5854cfcb9f33f4813e529054fe475052e0f42b46adf",
+  "screenshot_sha256": "b7c7036fc11bd2a288b66350926a1d7000b2068de90983e7f66b5d5bc1d1e34d"
 }

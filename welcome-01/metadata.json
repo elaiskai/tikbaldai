@@ -1,21 +1,21 @@
 {
-  "version": 10,
+  "version": 11,
   "updated_date": "2026-10-13",
   "role": "Welcome su pagrindiniu lovų ir čiužinių komplektų bloku, papildomai fotelis ir generatoriai",
   "primary_url": "https://tikbaldai.lt/collections/populiariausi",
-  "primary_cta": "Išsirinkti baldus su 10 € nuolaida",
+  "primary_cta": "Išsirinkti baldus su 35 € nuolaida",
   "hero_headline": "ČIA GERA GRĮŽTI.",
   "hero_text_mode": "rasterized_editorial_headline",
   "hero_font": "Bold grotesk rendered in campaign image",
   "hero_image": "hero-studio-v3.jpg",
   "hero_product_url": "https://tikbaldai.lt/products/dviviete-sofa-raudonai-oranzine-180x77x82-cm-velvetas-audinys",
-  "subject": "Sveiki atvykę. Išsirinkite baldus su 10 € nuolaida",
+  "subject": "Sveiki atvykę. Išsirinkite baldus su 35 € nuolaida",
   "preheader": "Atraskite Lietuvoje pagamintus lovų ir čiužinių komplektus. Pristatymas nemokamas.",
-  "offer_eur": 10,
-  "draft_coupon": "SVEIKI10",
+  "offer_eur": 35,
+  "draft_coupon": "SVEIKI35",
   "coupon_config_verified": false,
   "unsubscribe_placeholder": "{{unsubscribe_url}}",
-  "html_sha256": "76f7c0173055f9b45984206c3bf745beb91cf4a78fb0966ac9052d91a8446ec7",
+  "html_sha256": "c316be45427717e158eca5854cfcb9f33f4813e529054fe475052e0f42b46adf",
   "fonts": [
     "Georgia",
     "Arial"
@@ -40,7 +40,7 @@
     "button_height_px": 56,
     "mso_button": "conditional VML roundrect, full-surface href",
     "qa_status": "PASS at 320, 390, 430 and 600 px, with and without head styles",
-    "qa_html_sha256": "76f7c0173055f9b45984206c3bf745beb91cf4a78fb0966ac9052d91a8446ec7"
+    "qa_html_sha256": "c316be45427717e158eca5854cfcb9f33f4813e529054fe475052e0f42b46adf"
   },
   "status": "browser_qa_pass",
   "browser_qa_pass": true,
