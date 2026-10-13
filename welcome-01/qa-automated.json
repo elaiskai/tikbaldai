@@ -1,10 +1,10 @@
 {
   "frames": [
     {
-      "height": 3489,
+      "height": 3509,
       "i": 0,
       "rect": {
-        "bottom": 3535,
+        "bottom": 3555,
         "left": 26,
         "right": 346,
         "top": 46
@@ -12,7 +12,7 @@
       "variant": "normal",
       "width": 320,
       "checks": {
-        "benefitsTop": 2791.6015625,
+        "benefitsTop": 2811.6015625,
         "footer": true,
         "images": [
           {
@@ -97,10 +97,10 @@
       }
     },
     {
-      "height": 3629,
+      "height": 3649,
       "i": 1,
       "rect": {
-        "bottom": 3675,
+        "bottom": 3695,
         "left": 378,
         "right": 768,
         "top": 46
@@ -108,7 +108,7 @@
       "variant": "normal",
       "width": 390,
       "checks": {
-        "benefitsTop": 3055.7265625,
+        "benefitsTop": 3075.7265625,
         "footer": true,
         "images": [
           {
@@ -193,10 +193,10 @@
       }
     },
     {
-      "height": 3775,
+      "height": 3795,
       "i": 2,
       "rect": {
-        "bottom": 3821,
+        "bottom": 3841,
         "left": 800,
         "right": 1230,
         "top": 46
@@ -204,7 +204,7 @@
       "variant": "normal",
       "width": 430,
       "checks": {
-        "benefitsTop": 3201.5078125,
+        "benefitsTop": 3221.5078125,
         "footer": true,
         "images": [
           {
@@ -289,10 +289,10 @@
       }
     },
     {
-      "height": 3500,
+      "height": 3520,
       "i": 3,
       "rect": {
-        "bottom": 3546,
+        "bottom": 3566,
         "left": 1262,
         "right": 1862,
         "top": 46
@@ -300,7 +300,7 @@
       "variant": "normal",
       "width": 600,
       "checks": {
-        "benefitsTop": 2925.84375,
+        "benefitsTop": 2945.84375,
         "footer": true,
         "images": [
           {
@@ -385,18 +385,18 @@
       }
     },
     {
-      "height": 3489,
+      "height": 3509,
       "i": 4,
       "rect": {
-        "bottom": 7362,
+        "bottom": 7402,
         "left": 26,
         "right": 346,
-        "top": 3873
+        "top": 3893
       },
       "variant": "stripped",
       "width": 320,
       "checks": {
-        "benefitsTop": 2791.6015625,
+        "benefitsTop": 2811.6015625,
         "footer": true,
         "images": [
           {
@@ -481,18 +481,18 @@
       }
     },
     {
-      "height": 3629,
+      "height": 3649,
       "i": 5,
       "rect": {
-        "bottom": 7502,
+        "bottom": 7542,
         "left": 378,
         "right": 768,
-        "top": 3873
+        "top": 3893
       },
       "variant": "stripped",
       "width": 390,
       "checks": {
-        "benefitsTop": 3055.7265625,
+        "benefitsTop": 3075.7265625,
         "footer": true,
         "images": [
           {
@@ -577,18 +577,18 @@
       }
     },
     {
-      "height": 3775,
+      "height": 3795,
       "i": 6,
       "rect": {
-        "bottom": 7648,
+        "bottom": 7688,
         "left": 800,
         "right": 1230,
-        "top": 3873
+        "top": 3893
       },
       "variant": "stripped",
       "width": 430,
       "checks": {
-        "benefitsTop": 3201.5078125,
+        "benefitsTop": 3221.5078125,
         "footer": true,
         "images": [
           {
@@ -673,18 +673,18 @@
       }
     },
     {
-      "height": 4514,
+      "height": 4534,
       "i": 7,
       "rect": {
-        "bottom": 8387,
+        "bottom": 8427,
         "left": 1262,
         "right": 1862,
-        "top": 3873
+        "top": 3893
       },
       "variant": "stripped",
       "width": 600,
       "checks": {
-        "benefitsTop": 3940.078125,
+        "benefitsTop": 3960.078125,
         "footer": true,
         "images": [
           {
@@ -769,7 +769,7 @@
       }
     }
   ],
-  "source_sha256": "c316be45427717e158eca5854cfcb9f33f4813e529054fe475052e0f42b46adf",
-  "html_sha256": "c316be45427717e158eca5854cfcb9f33f4813e529054fe475052e0f42b46adf",
-  "screenshot_sha256": "b7c7036fc11bd2a288b66350926a1d7000b2068de90983e7f66b5d5bc1d1e34d"
+  "source_sha256": "ad80033db58f18c153af6fddded8785f5427b5b4f9c4d816711229ea57e948ba",
+  "html_sha256": "ad80033db58f18c153af6fddded8785f5427b5b4f9c4d816711229ea57e948ba",
+  "screenshot_sha256": "5d0428a53bb9869a8c711471483fad4982ff68c3eee34ea854b8653df06b4450"
 }

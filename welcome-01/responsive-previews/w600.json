@@ -1,8 +1,8 @@
 {
-  "html_sha256": "c316be45427717e158eca5854cfcb9f33f4813e529054fe475052e0f42b46adf",
-  "image_sha256": "f59c0f6be48dffaf06619116c6af7dfca509c10d9b91713743907323d1bb1145",
+  "html_sha256": "ad80033db58f18c153af6fddded8785f5427b5b4f9c4d816711229ea57e948ba",
+  "image_sha256": "4a1be2405a32ab2da5889baa2c146043b95ea362f7ff48a94face8eecdfe8f9b",
   "automated_pass": true,
   "width": 600,
-  "height": 3500,
+  "height": 3520,
   "visual_pass": true
 }

@@ -1,8 +1,8 @@
 {
-  "html_sha256": "7cff7734f6265311020ac84d1a0f37b3ceae3b419b4fddca938beebd054f5b56",
-  "image_sha256": "b688b2973e13a852cbc56d9d597a852f03c904a7e21878befd4ccacbec1b6b5c",
+  "html_sha256": "4375d768be15d0de453f243f7c75d405fb071aa0d1f601675ff4eabc49138288",
+  "image_sha256": "665aac7ae96dc2e31fa6d28c39a0aa8ad1d4aaeb7ffef406cc4891be32b145df",
   "automated_pass": true,
   "width": 320,
-  "height": 3489,
+  "height": 3509,
   "visual_pass": true
 }

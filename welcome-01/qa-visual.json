@@ -1,72 +1,72 @@
 {
-  "html_sha256": "c316be45427717e158eca5854cfcb9f33f4813e529054fe475052e0f42b46adf",
+  "html_sha256": "ad80033db58f18c153af6fddded8785f5427b5b4f9c4d816711229ea57e948ba",
   "status": "PASS",
   "views": {
     "w320": {
-      "html_sha256": "c316be45427717e158eca5854cfcb9f33f4813e529054fe475052e0f42b46adf",
-      "image_sha256": "6f924b870c9e107cf68b3a662266e5ef86600b7daae66c9c3786f3d745fcef3d",
+      "html_sha256": "ad80033db58f18c153af6fddded8785f5427b5b4f9c4d816711229ea57e948ba",
+      "image_sha256": "0e45097ae653e5bcebacc128383b93feef5044f274347393aa438171a6dd6963",
       "automated_pass": true,
       "width": 320,
-      "height": 3489,
+      "height": 3509,
       "visual_pass": true
     },
     "w390": {
-      "html_sha256": "c316be45427717e158eca5854cfcb9f33f4813e529054fe475052e0f42b46adf",
-      "image_sha256": "28926b60dff752ae60b8e555d5c2ce552c28f584e97f2561bea1b6ed4e21e6f5",
+      "html_sha256": "ad80033db58f18c153af6fddded8785f5427b5b4f9c4d816711229ea57e948ba",
+      "image_sha256": "0434ca8e32612b82c6578ae338fe5894ba1c40e1d3d41d123e86d3e1a3ee9abc",
       "automated_pass": true,
       "width": 390,
-      "height": 3629,
+      "height": 3649,
       "visual_pass": true
     },
     "w430": {
-      "html_sha256": "c316be45427717e158eca5854cfcb9f33f4813e529054fe475052e0f42b46adf",
-      "image_sha256": "29985d9dea3c4644512071ff2e97e0626948b4469d6caef310f292233416c311",
+      "html_sha256": "ad80033db58f18c153af6fddded8785f5427b5b4f9c4d816711229ea57e948ba",
+      "image_sha256": "3accd93452a3558bae05c44dd350c2ce71ed7e000e696665b238061868606294",
       "automated_pass": true,
       "width": 430,
-      "height": 3775,
+      "height": 3795,
       "visual_pass": true
     },
     "w600": {
-      "html_sha256": "c316be45427717e158eca5854cfcb9f33f4813e529054fe475052e0f42b46adf",
-      "image_sha256": "f59c0f6be48dffaf06619116c6af7dfca509c10d9b91713743907323d1bb1145",
+      "html_sha256": "ad80033db58f18c153af6fddded8785f5427b5b4f9c4d816711229ea57e948ba",
+      "image_sha256": "4a1be2405a32ab2da5889baa2c146043b95ea362f7ff48a94face8eecdfe8f9b",
       "automated_pass": true,
       "width": 600,
-      "height": 3500,
+      "height": 3520,
       "visual_pass": true
     },
     "w320-stripped": {
-      "html_sha256": "7cff7734f6265311020ac84d1a0f37b3ceae3b419b4fddca938beebd054f5b56",
-      "image_sha256": "b688b2973e13a852cbc56d9d597a852f03c904a7e21878befd4ccacbec1b6b5c",
+      "html_sha256": "4375d768be15d0de453f243f7c75d405fb071aa0d1f601675ff4eabc49138288",
+      "image_sha256": "665aac7ae96dc2e31fa6d28c39a0aa8ad1d4aaeb7ffef406cc4891be32b145df",
       "automated_pass": true,
       "width": 320,
-      "height": 3489,
+      "height": 3509,
       "visual_pass": true
     },
     "w390-stripped": {
-      "html_sha256": "7cff7734f6265311020ac84d1a0f37b3ceae3b419b4fddca938beebd054f5b56",
-      "image_sha256": "b902222aafd2faf171d3775eb40fee72cbf359c963fdc3f5e305feca93e03a43",
+      "html_sha256": "4375d768be15d0de453f243f7c75d405fb071aa0d1f601675ff4eabc49138288",
+      "image_sha256": "eccbf0242eaa11089c577a5e6994aabf4f430e9d790375f8bda8b42b3a34ce83",
       "automated_pass": true,
       "width": 390,
-      "height": 3629,
+      "height": 3649,
       "visual_pass": true
     },
     "w430-stripped": {
-      "html_sha256": "7cff7734f6265311020ac84d1a0f37b3ceae3b419b4fddca938beebd054f5b56",
-      "image_sha256": "c5fd57fb4e4d8ca902679f41ae4f35e2714b0357608de93ac7f1bedd1efefc55",
+      "html_sha256": "4375d768be15d0de453f243f7c75d405fb071aa0d1f601675ff4eabc49138288",
+      "image_sha256": "5313290340341e77de223b21f1c00abc371acc8f1d397ab4a5c995194de26db0",
       "automated_pass": true,
       "width": 430,
-      "height": 3775,
+      "height": 3795,
       "visual_pass": true
     },
     "w600-stripped": {
-      "html_sha256": "7cff7734f6265311020ac84d1a0f37b3ceae3b419b4fddca938beebd054f5b56",
-      "image_sha256": "b1d46bd10d43477329df8f2836d53cb3928cb7b7554a2c4b503ad6515036a0b6",
+      "html_sha256": "4375d768be15d0de453f243f7c75d405fb071aa0d1f601675ff4eabc49138288",
+      "image_sha256": "216a3da8fbfbee08a92d3e5d14e824eb2f13549f742fb5fd2322a22d76108505",
       "automated_pass": true,
       "width": 600,
-      "height": 4514,
+      "height": 4534,
       "visual_pass": true
     }
   },
   "platform_delivery_verified": false,
-  "visual_review": "Eight current renders visually inspected. Offer reads 35 € with SVEIKI35; button intact at all widths. Readable copy, natural photos, coherent stacking, aligned spacing and no clipping."
+  "visual_review": "Eight current renders inspected. Numerals raised 20 px to optically align with euro glyph. Offer crop confirms aligned tops. Full layouts retain readable copy, natural photos, associated 44 px or larger CTAs, balanced spacing and no clipping."
 }
