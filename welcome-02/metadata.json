@@ -1,49 +1,27 @@
 {
-  "version": 7,
-  "updated_date": "2026-10-10",
-  "subject": "Jaukumas turi daug formų",
-  "preheader": "Rinkitės lovos ir čiužinio komplektus, sofas, valgomojo baldus bei komodas.",
+  "version": 8,
+  "updated_date": "2026-10-13",
+  "subject": "Jūsų gero miego duetas",
+  "preheader": "Čiužiniai, lovos ir lietuviški komplektai. Nemokamas pristatymas ir 35 € su kodu SVEIKI35.",
   "delay_days": 2,
   "delay_origin": "Confirmed subscription",
-  "role": "Baldų pasirinkimas per konkrečias kategorijas ir populiarių baldų kolekciją",
-  "primary_url": "https://tikbaldai.lt/collections/populiariausi",
-  "primary_cta": "Žiūrėti populiariausius baldus",
-  "hero_headline": "JAUKUMAS TURI DAUG FORMŲ.",
+  "role": "Čiužinių ir lovų pasirinkimas, pagrindinis CTA į lietuviškus komplektus",
+  "primary_url": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai",
+  "primary_cta": "Išsirinkti lovą su čiužiniu",
+  "hero_headline": "GERO MIEGO DUETAS.",
   "hero_sizes_px": {
-    "fallback": 36,
-    "mobile_from_360": 46,
-    "desktop_from_600": 66
+    "fallback": 39,
+    "desktop_from_600": 58
   },
   "responsive": {
-    "inner_padding_px": {
-      "inline_default": 24,
-      "desktop_from_600": 38,
-      "mso": 38
-    },
-    "category_layout": {
-      "inline_default": "stacked",
-      "desktop_from_600": "45% photo / 55% copy",
-      "mso_ghost_widths_px": [
-        236,
-        288
-      ]
-    },
-    "category_image_width_attribute_px": 236,
-    "image_css": "width:100%; max-width:524px; height:auto",
-    "text_size_adjust_percent": 100,
-    "filled_buttons": {
-      "non_mso": "fluid up to 370px, 56px minimum height",
-      "mso": "VML roundrect, 370px by 56px, full shape hyperlink"
-    },
-    "head_stripped": "24px inline padding and full width stacked categories",
-    "qa_status": "PASS: eight fresh visually inspected fixed CSS width browser renders",
-    "qa_html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c"
+    "layout": "single column at every width",
+    "qa_status": "PASS at 320, 390, 430 and 600 px with and without head styles",
+    "qa_html_sha256": "5c8cf4f77d6999a3671aeddf8a7a8cd4627a4cf93b4ffdd6a056057c99504d04"
   },
   "category_urls": {
-    "Žiūrėti lovos ir čiužinio komplektus": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai",
-    "Žiūrėti sofas ir fotelius": "https://tikbaldai.lt/collections/svetaines-baldai",
-    "Žiūrėti valgomojo komplektus": "https://tikbaldai.lt/collections/virtuves-ir-valgomojo-baldu-komplektai",
-    "Žiūrėti spintas ir komodas": "https://tikbaldai.lt/collections/spintos-komodos"
+    "Čiužiniai": "https://tikbaldai.lt/collections/ciuziniai",
+    "Lovos": "https://tikbaldai.lt/collections/miegamojo-lovos",
+    "Komplektai": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai"
   },
   "fonts": [
     "Arial Bold",
@@ -51,7 +29,7 @@
     "Georgia"
   ],
   "font_links": false,
-  "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
+  "html_sha256": "5c8cf4f77d6999a3671aeddf8a7a8cd4627a4cf93b4ffdd6a056057c99504d04",
   "unsubscribe_placeholder": "{{unsubscribe_url}}",
   "trigger": "New confirmed marketing subscriber without prior purchase",
   "stop_conditions": [
@@ -61,5 +39,7 @@
   ],
   "status": "reviewed_design_draft",
   "browser_qa_pass": true,
-  "platform_delivery_verified": false
+  "platform_delivery_verified": false,
+  "offer_eur": 35,
+  "draft_coupon": "SVEIKI35"
 }

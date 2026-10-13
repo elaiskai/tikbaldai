@@ -1,70 +1,511 @@
 {
-  "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
-  "browser_qa_pass": true,
-  "views": [
+  "frames": [
     {
-      "name": "welcome-02-w320",
-      "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
-      "screenshot_sha256": "6a4823a56a724af7451591f86f494ed74bc4a560afe1d580cd6356e1aa219ec1",
-      "crop_sha256": "8934103d7226c33fada3a7111cc2b40c69f4c348feb2a02462f0afdc495a5994",
-      "browser_qa_pass": true,
-      "visual_qa_pass": true
+      "height": 2322,
+      "i": 0,
+      "rect": {
+        "bottom": 2368,
+        "left": 26,
+        "right": 346,
+        "top": 46
+      },
+      "variant": "normal",
+      "width": 320,
+      "checks": {
+        "benefitsTop": 1807.8828125,
+        "footer": true,
+        "images": [
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          }
+        ],
+        "links": [
+          {
+            "height": 45.1171875,
+            "text": ""
+          },
+          {
+            "height": 213.4375,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti čiužinius"
+          },
+          {
+            "height": 213.328125,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti lovas"
+          },
+          {
+            "height": 56,
+            "text": "Išsirinkti lovą su čiužiniu"
+          },
+          {
+            "height": 50,
+            "text": "Padėsime išsirinkti. Parašykite."
+          },
+          {
+            "height": 46,
+            "text": "Atsisakyti naujienlaiškių"
+          }
+        ],
+        "scrollWidth": 320,
+        "width": 320
+      }
     },
     {
-      "name": "welcome-02-w320-stripped",
-      "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
-      "screenshot_sha256": "64cc7be0b4251b712183d78422aa50656a07d0cce130cedebd3f9b1cc09d20a7",
-      "crop_sha256": "dd493e82092f57d68f2a56923bb8861985a318ce25ec07199831163439a6e0cd",
-      "browser_qa_pass": true,
-      "visual_qa_pass": true
+      "height": 2301,
+      "i": 1,
+      "rect": {
+        "bottom": 2347,
+        "left": 378,
+        "right": 768,
+        "top": 46
+      },
+      "variant": "normal",
+      "width": 390,
+      "checks": {
+        "benefitsTop": 1807.2421875,
+        "footer": true,
+        "images": [
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          }
+        ],
+        "links": [
+          {
+            "height": 45.1171875,
+            "text": ""
+          },
+          {
+            "height": 260.125,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti čiužinius"
+          },
+          {
+            "height": 260,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti lovas"
+          },
+          {
+            "height": 56,
+            "text": "Išsirinkti lovą su čiužiniu"
+          },
+          {
+            "height": 50,
+            "text": "Padėsime išsirinkti. Parašykite."
+          },
+          {
+            "height": 46,
+            "text": "Atsisakyti naujienlaiškių"
+          }
+        ],
+        "scrollWidth": 390,
+        "width": 390
+      }
     },
     {
-      "name": "welcome-02-w390",
-      "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
-      "screenshot_sha256": "14ea9b83c895cf7a3edbb7d5650475b7853473d07d984acb625b9382cc4d238e",
-      "crop_sha256": "cde41fbb0ff36d17c576311d0aae9d231cdb502ff7543b2a3e2d65fe547273b5",
-      "browser_qa_pass": true,
-      "visual_qa_pass": true
+      "height": 2327,
+      "i": 2,
+      "rect": {
+        "bottom": 2373,
+        "left": 800,
+        "right": 1230,
+        "top": 46
+      },
+      "variant": "normal",
+      "width": 430,
+      "checks": {
+        "benefitsTop": 1833.5859375,
+        "footer": true,
+        "images": [
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          }
+        ],
+        "links": [
+          {
+            "height": 45.1171875,
+            "text": ""
+          },
+          {
+            "height": 286.8046875,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti čiužinius"
+          },
+          {
+            "height": 286.6640625,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti lovas"
+          },
+          {
+            "height": 56,
+            "text": "Išsirinkti lovą su čiužiniu"
+          },
+          {
+            "height": 50,
+            "text": "Padėsime išsirinkti. Parašykite."
+          },
+          {
+            "height": 46,
+            "text": "Atsisakyti naujienlaiškių"
+          }
+        ],
+        "scrollWidth": 430,
+        "width": 430
+      }
     },
     {
-      "name": "welcome-02-w390-stripped",
-      "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
-      "screenshot_sha256": "ec51dacb7d06f6215c1861caf2272bee93a9c3ee0c210c12369a33377a07f08e",
-      "crop_sha256": "f8831ef0f2f04b6c91b411acb0d02ee73532795024cd9486044dc43d4ad91239",
-      "browser_qa_pass": true,
-      "visual_qa_pass": true
+      "height": 2592,
+      "i": 3,
+      "rect": {
+        "bottom": 2638,
+        "left": 1262,
+        "right": 1862,
+        "top": 46
+      },
+      "variant": "normal",
+      "width": 600,
+      "checks": {
+        "benefitsTop": 2098.3125,
+        "footer": true,
+        "images": [
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          }
+        ],
+        "links": [
+          {
+            "height": 45.1171875,
+            "text": ""
+          },
+          {
+            "height": 400.1953125,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti čiužinius"
+          },
+          {
+            "height": 400,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti lovas"
+          },
+          {
+            "height": 56,
+            "text": "Išsirinkti lovą su čiužiniu"
+          },
+          {
+            "height": 50,
+            "text": "Padėsime išsirinkti. Parašykite."
+          },
+          {
+            "height": 46,
+            "text": "Atsisakyti naujienlaiškių"
+          }
+        ],
+        "scrollWidth": 600,
+        "width": 600
+      }
     },
     {
-      "name": "welcome-02-w430",
-      "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
-      "screenshot_sha256": "cdbae0dbea843ec6ad33caa1392877fd1fa10dabc2e77406a0b1ab4cc7d098f3",
-      "crop_sha256": "880985790c995d9822a8e522a637badddb458946a9e09cf20eff814d0837aeff",
-      "browser_qa_pass": true,
-      "visual_qa_pass": true
+      "height": 2322,
+      "i": 4,
+      "rect": {
+        "bottom": 5012,
+        "left": 26,
+        "right": 346,
+        "top": 2690
+      },
+      "variant": "stripped",
+      "width": 320,
+      "checks": {
+        "benefitsTop": 1807.8828125,
+        "footer": true,
+        "images": [
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          }
+        ],
+        "links": [
+          {
+            "height": 45.1171875,
+            "text": ""
+          },
+          {
+            "height": 213.4375,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti čiužinius"
+          },
+          {
+            "height": 213.328125,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti lovas"
+          },
+          {
+            "height": 56,
+            "text": "Išsirinkti lovą su čiužiniu"
+          },
+          {
+            "height": 50,
+            "text": "Padėsime išsirinkti. Parašykite."
+          },
+          {
+            "height": 46,
+            "text": "Atsisakyti naujienlaiškių"
+          }
+        ],
+        "scrollWidth": 320,
+        "width": 320
+      }
     },
     {
-      "name": "welcome-02-w430-stripped",
-      "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
-      "screenshot_sha256": "5fbf64c0087730f7852dad8a536ed072dd5bbd65c62b543d0023324cb1ac0c92",
-      "crop_sha256": "81efb371917a991f9e97ad65d3685b48c761d42377200330be5e96ef926c0385",
-      "browser_qa_pass": true,
-      "visual_qa_pass": true
+      "height": 2301,
+      "i": 5,
+      "rect": {
+        "bottom": 4991,
+        "left": 378,
+        "right": 768,
+        "top": 2690
+      },
+      "variant": "stripped",
+      "width": 390,
+      "checks": {
+        "benefitsTop": 1807.2421875,
+        "footer": true,
+        "images": [
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          }
+        ],
+        "links": [
+          {
+            "height": 45.1171875,
+            "text": ""
+          },
+          {
+            "height": 260.125,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti čiužinius"
+          },
+          {
+            "height": 260,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti lovas"
+          },
+          {
+            "height": 56,
+            "text": "Išsirinkti lovą su čiužiniu"
+          },
+          {
+            "height": 50,
+            "text": "Padėsime išsirinkti. Parašykite."
+          },
+          {
+            "height": 46,
+            "text": "Atsisakyti naujienlaiškių"
+          }
+        ],
+        "scrollWidth": 390,
+        "width": 390
+      }
     },
     {
-      "name": "welcome-02-w600",
-      "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
-      "screenshot_sha256": "ecefd537cac2a6ccb1ad4759930d087501d5a675a09448ad58ff7696c857f0ad",
-      "crop_sha256": "2c905d1a09da6c74283b821689cbe1b74e6351a64ef7d76c1852e40221097754",
-      "browser_qa_pass": true,
-      "visual_qa_pass": true
+      "height": 2327,
+      "i": 6,
+      "rect": {
+        "bottom": 5017,
+        "left": 800,
+        "right": 1230,
+        "top": 2690
+      },
+      "variant": "stripped",
+      "width": 430,
+      "checks": {
+        "benefitsTop": 1833.5859375,
+        "footer": true,
+        "images": [
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          }
+        ],
+        "links": [
+          {
+            "height": 45.1171875,
+            "text": ""
+          },
+          {
+            "height": 286.8046875,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti čiužinius"
+          },
+          {
+            "height": 286.6640625,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti lovas"
+          },
+          {
+            "height": 56,
+            "text": "Išsirinkti lovą su čiužiniu"
+          },
+          {
+            "height": 50,
+            "text": "Padėsime išsirinkti. Parašykite."
+          },
+          {
+            "height": 46,
+            "text": "Atsisakyti naujienlaiškių"
+          }
+        ],
+        "scrollWidth": 430,
+        "width": 430
+      }
     },
     {
-      "name": "welcome-02-w600-stripped",
-      "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
-      "screenshot_sha256": "29499f7ba6da3d67d0194705a0c1a492bc31640a5d7db12d5f18a07bdbfbc572",
-      "crop_sha256": "a5e80eb3cd780d6bedb3091d47f9a4f2affd20ceefa2bf722cdfd24f857f3b8f",
-      "browser_qa_pass": true,
-      "visual_qa_pass": true
+      "height": 2554,
+      "i": 7,
+      "rect": {
+        "bottom": 5244,
+        "left": 1262,
+        "right": 1862,
+        "top": 2690
+      },
+      "variant": "stripped",
+      "width": 600,
+      "checks": {
+        "benefitsTop": 2060.3125,
+        "footer": true,
+        "images": [
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          },
+          {
+            "ok": true
+          }
+        ],
+        "links": [
+          {
+            "height": 45.1171875,
+            "text": ""
+          },
+          {
+            "height": 400.1953125,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti čiužinius"
+          },
+          {
+            "height": 400,
+            "text": ""
+          },
+          {
+            "height": 48,
+            "text": "Žiūrėti lovas"
+          },
+          {
+            "height": 56,
+            "text": "Išsirinkti lovą su čiužiniu"
+          },
+          {
+            "height": 50,
+            "text": "Padėsime išsirinkti. Parašykite."
+          },
+          {
+            "height": 46,
+            "text": "Atsisakyti naujienlaiškių"
+          }
+        ],
+        "scrollWidth": 600,
+        "width": 600
+      }
     }
-  ]
+  ],
+  "source_sha256": "5c8cf4f77d6999a3671aeddf8a7a8cd4627a4cf93b4ffdd6a056057c99504d04",
+  "html_sha256": "5c8cf4f77d6999a3671aeddf8a7a8cd4627a4cf93b4ffdd6a056057c99504d04",
+  "screenshot_sha256": "635c05803a83dd84d6997750847093ef50781b7530d646883c35f0a329a98453"
 }
