@@ -1,13 +1,13 @@
 {
   "version": 8,
-  "updated_date": "2026-10-13",
-  "subject": "Jūsų gero miego duetas",
-  "preheader": "Čiužiniai, lovos ir lietuviški komplektai. Nemokamas pristatymas ir 35 € su kodu SVEIKI35.",
+  "updated_date": "2026-10-15",
+  "subject": "Mūsų rekomenduojami Jūsų namams",
+  "preheader": "Lovų ir čiužinių komplektai, fotelis ir generatoriai. Pirmam užsakymui 25 € su SVEIKI25.",
   "delay_days": 2,
   "delay_origin": "Confirmed subscription",
-  "role": "Čiužinių ir lovų pasirinkimas, pagrindinis CTA į lietuviškus komplektus",
-  "primary_url": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai",
-  "primary_cta": "Išsirinkti lovą su čiužiniu",
+  "role": "Owner priority product recommendations",
+  "primary_url": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai?utm_source=welcome&amp;utm_medium=email&amp;utm_campaign=welcome_02&amp;utm_content=sets",
+  "primary_cta": "Rinktis lovą su čiužiniu",
   "hero_headline": "GERO MIEGO DUETAS.",
   "hero_sizes_px": {
     "fallback": 39,
@@ -15,13 +15,13 @@
   },
   "responsive": {
     "layout": "single column at every width",
-    "qa_status": "PASS at 320, 390, 430 and 600 px with and without head styles",
-    "qa_html_sha256": "5c8cf4f77d6999a3671aeddf8a7a8cd4627a4cf93b4ffdd6a056057c99504d04"
+    "qa_status": "pending",
+    "qa_html_sha256": "38b2a87926723db01dd97c50a2a716fc1a7c9a1d0d4609adc1a231e531bd8117"
   },
   "category_urls": {
-    "Čiužiniai": "https://tikbaldai.lt/collections/ciuziniai",
-    "Lovos": "https://tikbaldai.lt/collections/miegamojo-lovos",
-    "Komplektai": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai"
+    "Lovų ir čiužinių komplektai": "https://tikbaldai.lt/collections/lova-ciuzinys-pasiulymai?utm_source=welcome&amp;utm_medium=email&amp;utm_campaign=welcome_02&amp;utm_content=sets",
+    "Fotelis su pakoju": "https://tikbaldai.lt/collections/populiariausi/products/fotelis-vera-su-pakoju?utm_source=welcome&amp;utm_medium=email&amp;utm_campaign=welcome_02&amp;utm_content=relax",
+    "Generatoriai": "https://tikbaldai.lt/collections/elektros-generatoriai?utm_source=welcome&amp;utm_medium=email&amp;utm_campaign=welcome_02&amp;utm_content=generators"
   },
   "fonts": [
     "Arial Bold",
@@ -29,7 +29,7 @@
     "Georgia"
   ],
   "font_links": false,
-  "html_sha256": "5c8cf4f77d6999a3671aeddf8a7a8cd4627a4cf93b4ffdd6a056057c99504d04",
+  "html_sha256": "38b2a87926723db01dd97c50a2a716fc1a7c9a1d0d4609adc1a231e531bd8117",
   "unsubscribe_placeholder": "{{unsubscribe_url}}",
   "trigger": "New confirmed marketing subscriber without prior purchase",
   "stop_conditions": [
@@ -37,9 +37,19 @@
     "Unsubscribe",
     "Suppression"
   ],
-  "status": "reviewed_design_draft",
+  "status": "browser_reviewed_ready_for_omnisend_assembly",
   "browser_qa_pass": true,
   "platform_delivery_verified": false,
-  "offer_eur": 35,
-  "draft_coupon": "SVEIKI35"
+  "offer_eur": 25,
+  "draft_coupon": "SVEIKI25",
+  "hero_text_mode": "Raster headline and CTA, entire hero links to bed and mattress sets",
+  "product_order": [
+    "Gold",
+    "Valencia",
+    "Gubernator",
+    "Fotelis su pakoju",
+    "Elektros generatoriai"
+  ],
+  "stripped_sha256": "289272c336b0dbb4bfd64107178e09d4115dca64fb9235743e513d49ee96366e",
+  "qa_report": "qa-current/report.json"
 }

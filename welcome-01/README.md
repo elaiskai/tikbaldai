@@ -1,9 +1,7 @@
-# TIK BALDAI welcome 01, versija 11
+# Welcome 1
 
-Tikslinis produktų ir privalumų bloko atnaujinimas. Hero išlaikytas. Pasiūlymas atnaujintas į 35 € su kodu SVEIKI35.
+Dabartinis HTML: [email.html](email.html). SVEIKI25 suteikia 25 € pirmam užsakymui. Kodas aktyvus pagal savininko patvirtinimą.
 
-Pagrindinis pasirinkimas: Lietuvoje pagaminti lovų ir čiužinių komplektai. Papildomai fotelis su pakoju ir elektros generatoriai. Privalumai: vietinė lovų komplektų gamyba, nemokamas pristatymas, mokėjimas gavus prekę. Foteliui ir generatoriams naudojamos katalogo nuotraukos. Lovų kategorijos vizualas iš ankstesnio laiško.
+Naujausia patikra: [qa-current](../qa-current/report.json). Visos 8 peržiūros atliktos iš dabartinio HTML. Ankstesnės ataskaitos yra istorinės.
 
-Dabartinis HTML patikrintas 600, 320, 390, 430 px, su head stiliais ir be jų. Šviežios peržiūros ir jų hash yra responsive-previews, išvada responsive-visual-review.json. Tai naršyklės patikra, ne Omnisend ar Gmail testinis siuntimas.
-
-SVEIKI35 tebėra darbinis kodas, jo veikimas netikrintas. Automatizacija neaktyvuota.
+Importuoti pilną HTML; [[unsubscribe_link]] yra Omnisend žymuo. Prieš aktyvuojant būtinas platformos testas.

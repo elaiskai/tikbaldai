@@ -12,7 +12,7 @@ Trys atskiri HTML dizaino maketai esamiems baldų pirkėjams. CTA redakcija, 202
 
 Naujose kampanijos kompozicijose naudojamos tikrų katalogo produktų referencijos. Aplinka, šviesa ir Winback 2 sofa ant sidabrinio padėklo sukurta su AI. Tai nėra nepakitusios gamintojo nuotraukos. Kategorijos turi vientisą šiltą akmens foną. Pirmasis laiškas yra bendras variantas, kai nežinoma aktuali gavėjo kategorija. Dinaminis pasirinkimas pagal ankstesnį pirkimą ar paspaudimą dar neprijungtas. Generatorius pirkusiems kontaktams, kurių baldų interesas nežinomas, ši serija neskirta.
 
-Kliento kodas `assugrizau` rodomas antrame ir trečiame laiškuose. Skaitinė nuolaida neįrašyta, kol nepatikslinta, ar turimi omenyje 5 procentai, ar 5 eurai. Kodo veikimas, sąlygos ir galiojimas parduotuvėje netestuoti. Fiktyvaus termino ar didėjančios nuolaidos nėra.
+Kliento kodas `assugrizau` rodomas antrame ir trečiame laiškuose. Savininkas patvirtino 5 % nuolaidą visam pirkinių krepšeliui. Kodo veikimas, sąlygos ir galiojimas parduotuvėje netestuoti. Fiktyvaus termino ar didėjančios nuolaidos nėra.
 
 ## Siuntimo taisyklės
 
@@ -27,3 +27,6 @@ Vaizdai naudoja viešus HTTPS adresus, susietus su konkrečiu Git commit. Šalti
 `email-*.json` saugo temas ir preheaderius, `email-*-copy.txt` tekstus. `build.py` atkuria HTML. Pakeitus jį, dabartinė QA nebegalioja.
 
 Winback 3 hero yra AI koliažas su tikbaldai.lt oranžine sofa ir baltu apvaliu kavos staliuku. Lempa, žvakė, vaza, knygos ir vaisiai yra dekoratyviniai rekvizitai, ne patvirtintos katalogo prekės. Kilmė: hero-v3/provenance.json.
+
+
+Aktualūs siuntimo laikai: 60, 65 ir 72 dieną nuo paskutinio užsakymo, jei klientas dar nepirko. Pradžia po 60 dienų patvirtinta. Naujausia visų 24 vaizdų patikra: [qa-current](../qa-current/report.json). Senos qa ataskaitos istorinės.

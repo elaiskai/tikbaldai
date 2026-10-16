@@ -41,7 +41,7 @@ Kliento klausimynas pagrindžia pagarbų kreipinį, pagalbą, kainos ir kokybės
 
 Cart 2 atsiliepimas: Mantas, 2025 m. rugpjūčio 19 d., viešo komentaro ištrauka apie bendravimą, pristatymą ir baldų kokybę. Šaltinis patikrintas 2026 m. spalio 10 d.: https://rekvizitai.vz.lt/imone/rancoris/atsiliepimai/1/ . Tai individuali patirtis, ne viso katalogo garantija. Nepridėtas išgalvotas bendras žvaigždučių įvertinimas. Platformoje yra ir neigiamų atsiliepimų.
 
-Pristatymo neatitikimas: [bendroji politika](https://tikbaldai.lt/policies/shipping-policy) nurodo 20 € Lietuvoje, 45 € Neringoje, gamybai nuo 3 iki 4 savaičių ir papildomą siuntimą. [Baldų kategorijos DUK](https://tikbaldai.lt/collections/svetaines-baldai) nurodo kitus sąlyginius terminus. Klientas akcentuoja nemokamą pristatymą. Todėl maketuose nėra universalaus nemokamo pristatymo ar vieno termino pažado: terminas tikslinamas pagal prekę. Patvirtinus vienodas taisykles, šią naudos kortelę galima sustiprinti konkrečiu skaičiumi.
+Savininkas patvirtino nemokamą pristatymą ir atsiskaitymą gavus prekę. Šie privalumai aiškiai pateikti prieš dinamines prekes. Konkretus pristatymo terminas tikslinamas pagal pasirinktą prekę.
 
 ## Patikra prieš aktyvavimą
 
@@ -50,3 +50,6 @@ Naršyklės patikra vertina tik pateiktus fragmentus ir dinaminės vietos maket�
 Paskyroje patikrinti tikrus scenarijus: viena prekė, kelios skirtingų proporcijų nuotraukos, ilgas pavadinimas, pasirinktas dydis ar spalva, kiekis, pašalinta prekė, pasikeitusi kaina, išparduota prekė, tuščias krepšelis. Nepažadėti, kad prekės likutis rezervuotas. Įsitikinti, kad nuoroda atkuria tinkamo žmogaus teisingus variantus, o ne bendrą parduotuvės krepšelį. Jei native bloke varianto ar kiekio neįmanoma parodyti, tai pažymėti ir tikrinti jų išlaikymą atkurtame krepšelyje. Visiems nepasiekiamiems produktams ištuštėjus blokui, laiško nesiųsti. Didesniam nei 12 eilučių krepšeliui nustatyti atskirą elgesį, nežadėti visų prekių atvaizdavimo.
 
 Atlikti kontroliuojamą realų abandonment testą, exit po checkout pradžios ir po pirkimo bei testinius pristatymus naudojamuose pašto klientuose. Siuntimo teisėtumas ir kontaktų tinkamumas nustatomi paskyroje. Ši užduotis šių veiksmų neaktyvavo.
+
+
+Aktuali visų pločių patikra: [qa-current](../qa-current/report.json). Senasis qa katalogas istorinis.

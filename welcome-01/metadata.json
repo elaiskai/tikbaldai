@@ -1,21 +1,21 @@
 {
   "version": 11,
-  "updated_date": "2026-10-13",
+  "updated_date": "2026-10-15",
   "role": "Welcome su pagrindiniu lovų ir čiužinių komplektų bloku, papildomai fotelis ir generatoriai",
   "primary_url": "https://tikbaldai.lt/collections/populiariausi",
-  "primary_cta": "Išsirinkti baldus su 35 € nuolaida",
+  "primary_cta": "Išsirinkti baldus su 25 € nuolaida",
   "hero_headline": "ČIA GERA GRĮŽTI.",
   "hero_text_mode": "rasterized_editorial_headline",
   "hero_font": "Bold grotesk rendered in campaign image",
   "hero_image": "hero-studio-v3.jpg",
   "hero_product_url": "https://tikbaldai.lt/products/dviviete-sofa-raudonai-oranzine-180x77x82-cm-velvetas-audinys",
-  "subject": "Sveiki atvykę. Išsirinkite baldus su 35 € nuolaida",
+  "subject": "Sveiki atvykę. Išsirinkite baldus su 25 € nuolaida",
   "preheader": "Atraskite Lietuvoje pagamintus lovų ir čiužinių komplektus. Pristatymas nemokamas.",
-  "offer_eur": 35,
-  "draft_coupon": "SVEIKI35",
+  "offer_eur": 25,
+  "draft_coupon": "SVEIKI25",
   "coupon_config_verified": false,
   "unsubscribe_placeholder": "{{unsubscribe_url}}",
-  "html_sha256": "ad80033db58f18c153af6fddded8785f5427b5b4f9c4d816711229ea57e948ba",
+  "html_sha256": "3ff5168935f2221e3455f495888392ba01335f8da94c7429cf8b66a02aafd85e",
   "fonts": [
     "Georgia",
     "Arial"
@@ -39,10 +39,12 @@
     "mso_category_image_width_px": 254,
     "button_height_px": 56,
     "mso_button": "conditional VML roundrect, full-surface href",
-    "qa_status": "PASS at 320, 390, 430 and 600 px, with and without head styles",
-    "qa_html_sha256": "ad80033db58f18c153af6fddded8785f5427b5b4f9c4d816711229ea57e948ba"
+    "qa_status": "PASS",
+    "qa_html_sha256": "3ff5168935f2221e3455f495888392ba01335f8da94c7429cf8b66a02aafd85e"
   },
-  "status": "browser_qa_pass",
+  "status": "browser_reviewed_ready_for_omnisend_assembly",
   "browser_qa_pass": true,
-  "platform_delivery_verified": false
+  "platform_delivery_verified": false,
+  "stripped_sha256": "64cfc5f48d8d288794f5a0ad53fca57f913b3c631f589c79cf25ac081df23fab",
+  "qa_report": "qa-current/report.json"
 }

@@ -1,6 +1,6 @@
 {
-  "html_sha256": "5c8cf4f77d6999a3671aeddf8a7a8cd4627a4cf93b4ffdd6a056057c99504d04",
-  "source": "../email.html",
+  "html_sha256": "38b2a87926723db01dd97c50a2a716fc1a7c9a1d0d4609adc1a231e531bd8117",
+  "current_report": "../qa-current/report.json",
   "browser_qa_pass": true,
   "platform_delivery_verified": false
 }

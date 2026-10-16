@@ -1,9 +1,7 @@
-# Welcome 2: Jūsų gero miego duetas
+# Welcome 2
 
-Reference struktūra: didelė tipografinė pradžia, trumpas tekstas, atskiri čiužinių ir lovų blokai su didelėmis originaliomis katalogo nuotraukomis. Royal čiužinys ir Gold lova pristato kategorijas, mygtukai veda į visą atitinkamą pasirinkimą. Pagrindinis mygtukas veda į lovų ir čiužinių komplektus.
+Dabartinis HTML: [email.html](email.html). SVEIKI25 suteikia 25 € pirmam užsakymui. Kodas aktyvus pagal savininko patvirtinimą.
 
-Pabaigoje 35 € su SVEIKI35, nemokamas pristatymas ir mokėjimas gavus prekę. Kodo konfigūracija netikrinta.
+Naujausia patikra: [qa-current](../qa-current/report.json). Visos 8 peržiūros atliktos iš dabartinio HTML. Ankstesnės ataskaitos yra istorinės.
 
-Nuotraukos: https://tikbaldai.lt/collections/ciuziniai ir https://tikbaldai.lt/products/miegamojo-lova-gold . Naudoti originalūs CDN failai, prekės negeneruotos.
-
-Aštuonios šviežios 320, 390, 430 ir 600 px peržiūros, su stiliais ir be jų, patikrintos vizualiai. Hash ir metrikos pridėtos. Tai naršyklės patikra, ne Omnisend ar Gmail testinis siuntimas.
+Importuoti pilną HTML; [[unsubscribe_link]] yra Omnisend žymuo. Prieš aktyvuojant būtinas platformos testas.

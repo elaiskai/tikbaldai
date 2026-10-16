@@ -3,20 +3,25 @@
   "subject": "Dar kartą pažvelkite į patikusią prekę",
   "preheader": "Nuotraukos, variantai ir visa informacija vienoje vietoje.",
   "heading": "Verta pažiūrėti<br>dar kartą.",
-  "intro": "Patiko tai, ką apžiūrėjote? Grįžkite į prekės puslapį, peržiūrėkite detales ir pasirinkite Jums tinkamą variantą.",
+  "intro": "Dar svarstote? Peržiūrėkite patikusios prekės detales ir pasirinkite tinkamą variantą.",
   "eyebrow": "IDĖJA JŪSŲ NAMAMS",
   "bg": "#FAFAF8",
   "color": "#202221",
   "flow": "product_abandonment",
-  "status": "design_assembly_draft",
+  "status": "browser_reviewed_ready_for_omnisend_assembly",
   "platform_delivery_verified": false,
   "dynamic_products_connected": false,
   "primary_cta": "Apžiūrėti prekę",
   "cta_destination": "Native Abandoned Products product URL",
-  "preview_sha256": "c7bf8ead08ec3a7ebfe5b03897659d1c38c67ad276130aa772a2b33d720dfdc2",
+  "preview_sha256": "d378ca0db92fde17339a1a6a21e30d92b3416e37bd8b1070498a03947d1c5e57",
   "fragment_sha256": {
     "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
-    "01-before-product.html": "6f118eababf64074784f091fdd67f95cf57ed90c6903b4ec48c5bd9c448cb402",
-    "02-after-product.html": "e659b434405fcd3ec8521da53dbfa24986a2850fe03901bd38176cb273ea2b80"
-  }
+    "01-before-product.html": "97153d0380cd70f26f136dc3f39cda09e47b5d3f8fa96106134f0ddfd93f1134",
+    "02-after-product.html": "1c4fdf4e42d56b8f17f2021e373230fd429da920f87fe46f255801b9ae5ba7d8"
+  },
+  "browser_qa_pass": true,
+  "updated": "2026-10-16",
+  "html_sha256": "d378ca0db92fde17339a1a6a21e30d92b3416e37bd8b1070498a03947d1c5e57",
+  "stripped_sha256": "f9dbe0a2b7aa9448b82503c7ab1b3c25aec13d7345fc48f425b761642de601c2",
+  "qa_report": "qa-current/report.json"
 }

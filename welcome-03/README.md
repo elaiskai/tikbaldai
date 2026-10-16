@@ -1,11 +1,7 @@
-# TIK BALDAI welcome 03, versija 6
+# Welcome 3
 
-Tema: Išsirinkite baldą. Pirmam užsakymui 10 € nuolaida
+Dabartinis HTML: [email.html](email.html). SVEIKI25 suteikia 25 € pirmam užsakymui. Kodas aktyvus pagal savininko patvirtinimą.
 
-Preheaderis: Peržiūrėkite lovas, sofas ir komodas. Pirmam užsakymui pritaikykite kodą SVEIKI10.
+Naujausia patikra: [qa-current](../qa-current/report.json). Visos 8 peržiūros atliktos iš dabartinio HTML. Ankstesnės ataskaitos yra istorinės.
 
-Pagrindiniai mygtukai kviečia peržiūrėti konkrečias baldų kategorijas ir išsirinkti prekes. Konsultacija yra papildoma pagalba. Hero ir kategorijų nuotraukos šioje redakcijoje nekeistos.
-
-Dabartinis HTML vizualiai patikrintas 600, 320, 390, 430 px CSS pločiais, su head stiliais ir be jų. Aštuonios naujos peržiūros susietos su HTML SHA256. Tai naršyklės patikra, ne Gmail ar Omnisend testinis siuntimas.
-
-SVEIKI10 yra darbinis vartotojo numatyto 10 € pasiūlymo kodas. Veikimas ir sąlygos parduotuvėje netestuoti. Prieš siuntimą reikia platformos atsisakymo žymens ir testinio siuntimo. Automatizacija neaktyvuota.
+Importuoti pilną HTML; [[unsubscribe_link]] yra Omnisend žymuo. Prieš aktyvuojant būtinas platformos testas.

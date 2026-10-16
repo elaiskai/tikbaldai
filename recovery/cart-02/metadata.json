@@ -5,20 +5,25 @@
   "subject": "Prieš užsakant verta žinoti",
   "preheader": "Pristatymas, atsiskaitymas ir pirkėjo patirtis. Daugiau aiškumo Jūsų pasirinkimui.",
   "heading": "Geras pasirinkimas.<br>Daugiau aiškumo.",
-  "intro": "Jūsų pasirinktos prekės žemiau. O jei dar svarstote, surinkome svarbiausią informaciją, kuri padės apsispręsti.",
+  "intro": "Dar svarstote? Štai kas svarbu prieš užsakant.",
   "eyebrow": "RAMIAU APIE PIRKIMĄ",
   "bg": "#F4F0E8",
   "color": "#202221",
   "version": 1,
-  "preview_sha256": "ad2d2799ebac3c5dbf6df8caad0b54cadba30f833357e5b52350ee0aa814163c",
+  "preview_sha256": "e91465c68228536c123156c2bf1a3e79463a9bf231caa79e22cab3c019cc9065",
   "fragment_sha256": {
     "styles.css": "c79cd790c513d39422823cd62620d01f5adf0e750355241eb0420bb376a468b6",
-    "01-before-products.html": "40a5c1ea68df6f420599755a28db560cb68aa5c6a61ed2796717ba037ed0a5d0",
-    "02-after-products.html": "7e211a10f387259ba81c4044b5ec6a8c615fcac147626e2ba9a96de6d450df20"
+    "01-before-products.html": "027e6841b564d465168e5b89d2ba9092fafca0debb5ead4ddb86f9690a09701c",
+    "02-after-products.html": "049a63d87423dcc7afc968b7e28644d5975fb93860c9ce1ef7c98d61ed6fb7c5"
   },
-  "status": "design_assembly_draft",
+  "status": "browser_reviewed_ready_for_omnisend_assembly",
   "platform_delivery_verified": false,
   "dynamic_products_connected": false,
   "primary_cta": "Grįžti į krepšelį",
-  "recovery_url": "[[event.raw.abandoned_checkout_url]]"
+  "recovery_url": "[[event.raw.abandoned_checkout_url]]",
+  "browser_qa_pass": true,
+  "updated": "2026-10-16",
+  "html_sha256": "e91465c68228536c123156c2bf1a3e79463a9bf231caa79e22cab3c019cc9065",
+  "stripped_sha256": "c6e742a52860d70120e575f407eae8ec47e44218759de7f8a54dd7ba2fcb025e",
+  "qa_report": "qa-current/report.json"
 }

@@ -1,0 +1,56 @@
+TIK BALDAI. ĮKĖLIMO Į OMNISEND SĄRAŠAS
+Atnaujinta 2026 10 16
+
+PILNI HTML IMPORTUI
+welcome-01/email.html
+welcome-02/email.html
+welcome-03/email.html
+winback/email-01.html
+winback/email-02.html
+winback/email-03.html
+
+Temos ir preheaderiai: kiekvieno laiško metadata.json, Winback atveju email-01.json, email-02.json, email-03.json.
+Importas: Store Settings, Saved Templates, Import HTML. Išlaikyti visus inline stilius ir pilnus img src adresus. Atsisakymo žymuo [[unsubscribe_link]] jau įrašytas.
+
+DINAMINĖMS SERIJOMS
+recovery/cart-01/omnisend
+recovery/cart-02/omnisend
+recovery/cart-03/omnisend
+recovery/checkout-01/omnisend
+recovery/checkout-02/omnisend
+product-abandonment/product-01/omnisend
+product-abandonment/product-02/omnisend
+
+Šių serijų preview.html neimportuoti siuntimui. Tai maketas su pilku dinaminių prekių placeholderiu.
+
+Sukurti 600 px pločio laišką Omnisend redaktoriuje. Įkelti 01-before-products.html (product atveju 01-before-product.html) į Custom HTML bloką. CSS imti iš to paties katalogo styles.css. Toliau įterpti native Abandoned Products bloką.
+
+Cart ir checkout: nuotrauka, pavadinimas, kaina, vienas bendras native grįžimo mygtukas po produktais. Cart tekstas „Grįžti į krepšelį“, checkout „Užbaigti užsakymą“. Susieti su įvykio abandoned_checkout_url iš Omnisend personalization meniu ir patikrinti realiu įvykiu. Nenaudoti bendros parduotuvės krepšelio nuorodos.
+
+Product: paskutinė peržiūrėta prekė ir vienas native „Apžiūrėti prekę“ mygtukas į jos puslapį. Cart recovery nuoroda čia netinka.
+
+Po dinaminių prekių įkelti 02-after-products.html (product atveju 02-after-product.html). Pridėti native Omnisend footer su įmonės ir atsisakymo informacija. Fragmentai sąmoningai neturi atskiro papildomo pirkimo CTA.
+
+Native blokų išdėstymas: viena skiltis, natūralios foto proporcijos, ne mažiau kaip 18 px pagrindinis tekstas, 24 px šoniniai tarpai, pilno pločio mygtukas bent 44 px aukščio. Mygtuko fonas #38243F, tekstas #F4F0E8, Arial bold. Išlaikyti nuotraukos ir jos prekės pavadinimo asociaciją.
+
+PASIŪLYMAI IR LAIKAI
+SVEIKI25: 25 € pirmam užsakymui. Aktyvus pagal savininko patvirtinimą.
+assugrizau: 5 % visam pirkinių krepšeliui. Tai procentinė nuolaida, ne 5 €.
+Welcome: iškart po prenumeratos patvirtinimo, po 2 dienų, po 5 dienų. Tikrinti naujo pirkimo išėjimo sąlygą.
+Winback: 60, 65 ir 72 dieną nuo paskutinio pirkimo. Naujas pirkimas nutraukia likusius laiškus. Trečias skirtas susidomėjimą parodžiusiems.
+Cart: 1, 24 ir 48 val. nuo neveiklumo pradžios. Tarpai redaktoriuje: 1 val., tada 23 val., tada 24 val.
+Checkout: 1 ir 24 val. nuo neveiklumo pradžios.
+Product: 2 val., tada dar 24 val.
+Prioritetas: checkout, cart, product. Pradėjus kitą etapą arba nupirkus, ankstesnius priminimus stabdyti. Detali logika serijų README failuose.
+
+POPUP
+Derinti su SVEIKI25, 25 € pirmam užsakymui. Popup kuriamas atskirai. Welcome trigger susieti su tinkama prenumerata ir patikrinti, kad kodas nežadamas jau netinkamiems gavėjams. Papildomo galiojimo termino, minimalaus krepšelio ar sumuojamų nuolaidų neišgalvoti; taikyti parduotuvėje nustatytas taisykles.
+
+PRIEŠ ĮJUNGIANT
+Naršyklėje patikrintos visos 13 dabartinių HTML versijų 600, 320, 390 ir 430 px, su head stiliais ir be jų. Įrodymai ir hash: qa-current/report.json.
+Omnisend dar nesukonfigūruotas. Reikia testinio laiško į telefoną ir kompiuterį, veikiančios atsisakymo nuorodos bei kodo patikros. Dinamines serijas tikrinti su tikru įvykiu: konkrečios prekės, variantai, kaina, grįžimo URL ir išėjimas po pirkimo. Bendras testinis laiškas savaime nepatvirtina dinaminių blokų.
+
+Oficialios nuorodos, tikrintos 2026 10 16:
+https://support.omnisend.com/en/articles/1061866-add-configure-custom-html-item
+https://support.omnisend.com/en/articles/11197418-use-liquid-templating-for-message-personalization
+https://support.omnisend.com/en/articles/6092208-add-configure-abandoned-products-item

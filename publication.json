@@ -1,46 +1,89 @@
 {
-  "prepared_utc": "2026-10-10T17:29:55.059935+00:00",
-  "asset_commit": "ddd56ae34c9f1b9a504d955bce9d32633b1c5116",
-  "asset_base_url": "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/",
-  "platform_delivery_verified": false,
+  "date": "2026-10-16",
+  "current_qa": "qa-current/report.json",
   "emails": {
-    "01": {
-      "html_sha256": "e7296382858c351b25c65e07f4b4942237a549977531930210e1f9c1a4050b3f",
+    "welcome-01": {
+      "html": "welcome-01/email.html",
+      "sha256": "3ff5168935f2221e3455f495888392ba01335f8da94c7429cf8b66a02aafd85e",
       "browser_qa_pass": true,
-      "rendered_view_count": 8,
-      "visual_review_count": 8,
-      "widths": [
-        320,
-        390,
-        430,
-        600
-      ]
+      "platform_delivery_verified": false
     },
-    "02": {
-      "html_sha256": "a7ed00013a293b1d735195653397bbc3a69557d41ce9970344884bd1f01ac63c",
+    "welcome-02": {
+      "html": "welcome-02/email.html",
+      "sha256": "38b2a87926723db01dd97c50a2a716fc1a7c9a1d0d4609adc1a231e531bd8117",
       "browser_qa_pass": true,
-      "rendered_view_count": 8,
-      "visual_review_count": 8,
-      "widths": [
-        320,
-        390,
-        430,
-        600
-      ]
+      "platform_delivery_verified": false
     },
-    "03": {
-      "html_sha256": "20e4818d3f8e445cfc8f5c7cbf7790c6a465b5a28d17408d50e0b061491b8e55",
+    "welcome-03": {
+      "html": "welcome-03/email.html",
+      "sha256": "fa1ebb0a6300b355026adc9204fa155f2dbfdd2694db6a753d739c76b6d18700",
       "browser_qa_pass": true,
-      "rendered_view_count": 8,
-      "visual_review_count": 8,
-      "widths": [
-        320,
-        390,
-        430,
-        600
-      ]
+      "platform_delivery_verified": false
+    },
+    "winback-01": {
+      "html": "winback/email-01.html",
+      "sha256": "3f376e1f57fc80be1a2b09bb3ef8ee7c3c12043280739073a8a542ac97f7459a",
+      "browser_qa_pass": true,
+      "platform_delivery_verified": false
+    },
+    "winback-02": {
+      "html": "winback/email-02.html",
+      "sha256": "3b63d5325059662fe355172509be19012f75c091550dee769534a5039e71d2f5",
+      "browser_qa_pass": true,
+      "platform_delivery_verified": false
+    },
+    "winback-03": {
+      "html": "winback/email-03.html",
+      "sha256": "13069eaec8c21a4574d90dcb8bf470e3e4f823f8c7ed8f61c05b36b205c5545c",
+      "browser_qa_pass": true,
+      "platform_delivery_verified": false
+    },
+    "cart-01": {
+      "html": "recovery/cart-01/preview.html",
+      "sha256": "b57a1c78071dcbe4d17d12aea95b24acfdc2fac30811a5a59a84ec7680ff74fd",
+      "browser_qa_pass": true,
+      "platform_delivery_verified": false
+    },
+    "cart-02": {
+      "html": "recovery/cart-02/preview.html",
+      "sha256": "e91465c68228536c123156c2bf1a3e79463a9bf231caa79e22cab3c019cc9065",
+      "browser_qa_pass": true,
+      "platform_delivery_verified": false
+    },
+    "cart-03": {
+      "html": "recovery/cart-03/preview.html",
+      "sha256": "d85f99f911a2ba9b8f45334dcdfbe218c8041e6063a995825e5d6d60b2720f01",
+      "browser_qa_pass": true,
+      "platform_delivery_verified": false
+    },
+    "checkout-01": {
+      "html": "recovery/checkout-01/preview.html",
+      "sha256": "c02a0caf36923d151fa6ac6e4d6e730681908998871459a0ab15ebf150e823b6",
+      "browser_qa_pass": true,
+      "platform_delivery_verified": false
+    },
+    "checkout-02": {
+      "html": "recovery/checkout-02/preview.html",
+      "sha256": "97dbc3617e1727c2606718ff6c2644401849244f0d61801fb7942d174da9bd2b",
+      "browser_qa_pass": true,
+      "platform_delivery_verified": false
+    },
+    "product-01": {
+      "html": "product-abandonment/product-01/preview.html",
+      "sha256": "d378ca0db92fde17339a1a6a21e30d92b3416e37bd8b1070498a03947d1c5e57",
+      "browser_qa_pass": true,
+      "platform_delivery_verified": false
+    },
+    "product-02": {
+      "html": "product-abandonment/product-02/preview.html",
+      "sha256": "dc7ed60b56c81848a526834bd2102deef8c19d7a595526f1d4c2b99f91835e40",
+      "browser_qa_pass": true,
+      "platform_delivery_verified": false
     }
   },
-  "visual_refresh_asset_commit": "7c3d482d025223db1511b38b8d7b2b5fcc4281fe",
-  "current_qa": "cta-refresh/qa-summary.json"
+  "discounts": {
+    "SVEIKI25": "25 EUR first order, active per owner",
+    "assugrizau": "5% entire cart, confirmed by owner"
+  },
+  "omnisend_configured": false
 }

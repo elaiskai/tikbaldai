@@ -1,25 +1,32 @@
 {
   "version": 4,
-  "date": "2026-10-10",
+  "date": "2026-10-16",
   "subject": "Ko dabar trūksta Jūsų svetainei?",
-  "preheader": "Peržiūrėkite sofas, fotelius ir kavos staliukus. Kitam užsakymui panaudokite kodą assugrizau.",
-  "day_from_last_order": 194,
+  "preheader": "Visam pirkinių krepšeliui 5 % nuolaida su kodu assugrizau.",
+  "day_from_last_order": 72,
   "audience": "Existing furniture customers, general fallback design. Generator-only buyers excluded.",
   "send_rule": "Eligible nonbuyers; email3 requires recent click or known site visit.",
   "personalization": "Generic fallback. Dynamic category selection not connected.",
   "offer": {
     "code": "assugrizau",
-    "amount": null,
-    "unit": null,
-    "status": "Amount awaiting user clarification; show code only."
+    "amount": 5,
+    "unit": "percent",
+    "status": "Confirmed by owner: 5% discount on entire cart",
+    "scope": "entire_cart"
   },
-  "html_sha256": "a66afe00359d5ec0e18ee95c4e41e02f1b31504f041bf076c052337353843aad",
-  "stripped_sha256": "8774082da50503f4bfef9b6369d46121d1e861577295584844db915a57a6216c",
+  "html_sha256": "13069eaec8c21a4574d90dcb8bf470e3e4f823f8c7ed8f61c05b36b205c5545c",
+  "stripped_sha256": "2b2de7d247b74f0a1ff5e38575621169ba8103772ff47594736648644dbc9dbe",
   "platform_delivery_verified": false,
-  "status": "reviewed_design_draft",
+  "status": "browser_reviewed_ready_for_omnisend_assembly",
   "image_urls": [
+    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png",
     "https://raw.githubusercontent.com/elaiskai/tikbaldai/51f67ffd7644901f8f51a167351a409a17fdd43a/assets/winback/hero-moodboard-v3-5815568b9a96.jpg",
-    "https://raw.githubusercontent.com/elaiskai/tikbaldai/ddd56ae34c9f1b9a504d955bce9d32633b1c5116/assets/shared/logo-white-2091dfce2fe6.png"
+    "../welcome-02/assets/winback-gold-source.jpg",
+    "assets/room.jpg",
+    "assets/relax.jpg",
+    "assets/table.jpg"
   ],
-  "browser_qa_pass": true
+  "browser_qa_pass": true,
+  "schedule_status": "Proposed local flow plan; not configured in Omnisend",
+  "qa_report": "qa-current/report.json"
 }

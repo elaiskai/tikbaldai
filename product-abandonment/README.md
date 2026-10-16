@@ -29,8 +29,11 @@ Abu HTML fragmentai naudoja lenteles ir inline stilius. [Custom HTML taisyklės]
 
 ## Faktai ir patikra
 
-Taikomas esamas Brand DNA tonas: pagarbus Jūs, konkretus tekstas, jokių brūkšnių gavėjui skirtoje kopijoje. Pristatymo skaičiai, nemokamas pristatymas ar universali gamybos kilmė nežadami. Esamame kliento tyrime pristatymo sąlygos prieštaringos, todėl kviečiama tikrinti konkrečią prekę. Matmenų ir komplektacijos punktai yra praktiniai patarimai, ne teiginiai apie konkretaus modelio savybes.
+Taikomas esamas Brand DNA tonas: pagarbus Jūs, konkretus tekstas, jokių brūkšnių gavėjui skirtoje kopijoje. Savininkas patvirtino nemokamą pristatymą ir atsiskaitymą gavus prekę. Šie privalumai pateikti prieš dinaminę prekę. Konkretus pristatymo terminas tikslinamas pagal prekę. Matmenų ir komplektacijos punktai yra praktiniai patarimai, ne teiginiai apie konkretaus modelio savybes.
 
 Naršyklės QA apima statinius fragmentus ir pažymėtą native vietą 600, 320, 390 bei 430 px pločiu, su head stiliais ir be jų. Tikro dinaminio produkto, jo URL bei Omnisend ar pašto kliento pristatymo ši peržiūra nepatvirtina.
 
 Prieš aktyvuojant paskyroje atlikti realų identifikuoto kontakto Viewed Product testą. Patikrinti ilgą prekės pavadinimą, kainą, skirtingų proporcijų nuotrauką, vieną produkto CTA ir jo nuorodą, prieinamumo pokytį bei išėjimą pridėjus į krepšelį, pradėjus checkout ar nupirkus. Tuščio produkto bloko laiško nesiųsti. Tikrinti abu laiškus realiame gavime, ne vien redaktoriaus bendrame testiniame laiške.
+
+
+Aktuali visų pločių patikra: [qa-current](../qa-current/report.json). Senasis qa katalogas istorinis.
