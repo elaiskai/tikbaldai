@@ -4201,8 +4201,8 @@
   {
     "key": "winback-03",
     "path": "winback/email-03.html",
-    "html_sha256": "13069eaec8c21a4574d90dcb8bf470e3e4f823f8c7ed8f61c05b36b205c5545c",
-    "stripped_sha256": "2b2de7d247b74f0a1ff5e38575621169ba8103772ff47594736648644dbc9dbe",
+    "html_sha256": "05a1c1b617c95d4cf16e02d29002cdeef979a7640b926b10fb949689da80e109",
+    "stripped_sha256": "1056434c1d774f47ef6151addd588a9fadb39c7bb734048e9fc5bc028cee912b",
     "views": [
       {
         "width": 600,
@@ -4229,7 +4229,7 @@
               "width": 520
             },
             {
-              "text": "Rinktis baldus su kodu",
+              "text": "Rinktis su 5 % nuolaida",
               "height": 58,
               "width": 520
             }
@@ -4281,7 +4281,7 @@
             },
             {
               "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=return_offer",
-              "text": "Rinktis baldus su kodu"
+              "text": "Rinktis su 5 % nuolaida"
             },
             {
               "href": "[[unsubscribe_link]]",
@@ -4322,7 +4322,7 @@
           ]
         },
         "visual_review": "pass",
-        "image_sha256": "4e1dc2c25686fce8617e328440e4dd142a6e7e74aa4a4d70cf49cf89635bd272"
+        "image_sha256": "d96ba0e7976b1bb981eded0a6d1c8e17aeace4cf176e8a6a14fc850d7e04da16"
       },
       {
         "width": 320,
@@ -4349,7 +4349,7 @@
               "width": 272
             },
             {
-              "text": "Rinktis baldus su kodu",
+              "text": "Rinktis su 5 % nuolaida",
               "height": 58,
               "width": 272
             }
@@ -4401,7 +4401,7 @@
             },
             {
               "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=return_offer",
-              "text": "Rinktis baldus su kodu"
+              "text": "Rinktis su 5 % nuolaida"
             },
             {
               "href": "[[unsubscribe_link]]",
@@ -4442,7 +4442,7 @@
           ]
         },
         "visual_review": "pass",
-        "image_sha256": "a7a1da846c07e088ce8c0fc6c98a7916d1134f8d1ba6aaa705a2d5b63114313b"
+        "image_sha256": "74582d14c2a757a962593f823e38279254a8bcff79a097c35f89426a1e57c579"
       },
       {
         "width": 390,
@@ -4469,7 +4469,7 @@
               "width": 342
             },
             {
-              "text": "Rinktis baldus su kodu",
+              "text": "Rinktis su 5 % nuolaida",
               "height": 58,
               "width": 342
             }
@@ -4521,7 +4521,7 @@
             },
             {
               "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=return_offer",
-              "text": "Rinktis baldus su kodu"
+              "text": "Rinktis su 5 % nuolaida"
             },
             {
               "href": "[[unsubscribe_link]]",
@@ -4562,7 +4562,7 @@
           ]
         },
         "visual_review": "pass",
-        "image_sha256": "6b00b40501193132f5c4744d24f16fb4ceb727bbac658a2df46d582558702314"
+        "image_sha256": "84c10fa921c1c3b75b167f9177fd54c6d839728bd95b1b96ae0c90048e685916"
       },
       {
         "width": 430,
@@ -4589,7 +4589,7 @@
               "width": 382
             },
             {
-              "text": "Rinktis baldus su kodu",
+              "text": "Rinktis su 5 % nuolaida",
               "height": 58,
               "width": 382
             }
@@ -4641,7 +4641,7 @@
             },
             {
               "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=return_offer",
-              "text": "Rinktis baldus su kodu"
+              "text": "Rinktis su 5 % nuolaida"
             },
             {
               "href": "[[unsubscribe_link]]",
@@ -4682,7 +4682,7 @@
           ]
         },
         "visual_review": "pass",
-        "image_sha256": "3b93fd9c593524191cfd60048cc321e68f19b3ebabaca23959616c16bea83248"
+        "image_sha256": "df0d2d9eabe2ee1437ff6a0501a0639fd832ab1099444ca6927c2f0a4988f904"
       },
       {
         "width": 600,
@@ -4709,7 +4709,7 @@
               "width": 552
             },
             {
-              "text": "Rinktis baldus su kodu",
+              "text": "Rinktis su 5 % nuolaida",
               "height": 58,
               "width": 552
             }
@@ -4761,7 +4761,7 @@
             },
             {
               "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=return_offer",
-              "text": "Rinktis baldus su kodu"
+              "text": "Rinktis su 5 % nuolaida"
             },
             {
               "href": "[[unsubscribe_link]]",
@@ -4802,7 +4802,7 @@
           ]
         },
         "visual_review": "pass",
-        "image_sha256": "12b21fba16f4db3339f1944af1948a0bb2d6164521e4ca0d146f4635636739ce"
+        "image_sha256": "3a22eacbb26fc6bbe812f896e708d04868ddeee34068d4b748b806ae31a9ac65"
       },
       {
         "width": 320,
@@ -4829,7 +4829,7 @@
               "width": 272
             },
             {
-              "text": "Rinktis baldus su kodu",
+              "text": "Rinktis su 5 % nuolaida",
               "height": 58,
               "width": 272
             }
@@ -4881,7 +4881,7 @@
             },
             {
               "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=return_offer",
-              "text": "Rinktis baldus su kodu"
+              "text": "Rinktis su 5 % nuolaida"
             },
             {
               "href": "[[unsubscribe_link]]",
@@ -4922,7 +4922,7 @@
           ]
         },
         "visual_review": "pass",
-        "image_sha256": "a7a1da846c07e088ce8c0fc6c98a7916d1134f8d1ba6aaa705a2d5b63114313b"
+        "image_sha256": "74582d14c2a757a962593f823e38279254a8bcff79a097c35f89426a1e57c579"
       },
       {
         "width": 390,
@@ -4949,7 +4949,7 @@
               "width": 342
             },
             {
-              "text": "Rinktis baldus su kodu",
+              "text": "Rinktis su 5 % nuolaida",
               "height": 58,
               "width": 342
             }
@@ -5001,7 +5001,7 @@
             },
             {
               "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=return_offer",
-              "text": "Rinktis baldus su kodu"
+              "text": "Rinktis su 5 % nuolaida"
             },
             {
               "href": "[[unsubscribe_link]]",
@@ -5042,7 +5042,7 @@
           ]
         },
         "visual_review": "pass",
-        "image_sha256": "6b00b40501193132f5c4744d24f16fb4ceb727bbac658a2df46d582558702314"
+        "image_sha256": "84c10fa921c1c3b75b167f9177fd54c6d839728bd95b1b96ae0c90048e685916"
       },
       {
         "width": 430,
@@ -5069,7 +5069,7 @@
               "width": 382
             },
             {
-              "text": "Rinktis baldus su kodu",
+              "text": "Rinktis su 5 % nuolaida",
               "height": 58,
               "width": 382
             }
@@ -5121,7 +5121,7 @@
             },
             {
               "href": "https://tikbaldai.lt/collections/populiariausi?utm_source=automation&utm_medium=email&utm_campaign=winback_03&utm_content=return_offer",
-              "text": "Rinktis baldus su kodu"
+              "text": "Rinktis su 5 % nuolaida"
             },
             {
               "href": "[[unsubscribe_link]]",
@@ -5162,12 +5162,12 @@
           ]
         },
         "visual_review": "pass",
-        "image_sha256": "3b93fd9c593524191cfd60048cc321e68f19b3ebabaca23959616c16bea83248"
+        "image_sha256": "df0d2d9eabe2ee1437ff6a0501a0639fd832ab1099444ca6927c2f0a4988f904"
       }
     ],
     "visual_review": "pass",
     "platform_delivery_verified": false,
-    "visual_notes": "All four widths reviewed in normal and stripped modes: readable wrapping, intact names, image and CTA association, natural proportions, spacing and fully clickable buttons."
+    "visual_notes": "All eight full screenshots and offer closeups reviewed. Readable layout and offer; no clipped text, overflow or broken images."
   },
   {
     "key": "cart-01",

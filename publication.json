@@ -34,7 +34,7 @@
     },
     "winback-03": {
       "html": "winback/email-03.html",
-      "sha256": "13069eaec8c21a4574d90dcb8bf470e3e4f823f8c7ed8f61c05b36b205c5545c",
+      "sha256": "05a1c1b617c95d4cf16e02d29002cdeef979a7640b926b10fb949689da80e109",
       "browser_qa_pass": true,
       "platform_delivery_verified": false
     },

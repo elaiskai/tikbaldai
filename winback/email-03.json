@@ -14,8 +14,8 @@
     "status": "Confirmed by owner: 5% discount on entire cart",
     "scope": "entire_cart"
   },
-  "html_sha256": "13069eaec8c21a4574d90dcb8bf470e3e4f823f8c7ed8f61c05b36b205c5545c",
-  "stripped_sha256": "2b2de7d247b74f0a1ff5e38575621169ba8103772ff47594736648644dbc9dbe",
+  "html_sha256": "05a1c1b617c95d4cf16e02d29002cdeef979a7640b926b10fb949689da80e109",
+  "stripped_sha256": "1056434c1d774f47ef6151addd588a9fadb39c7bb734048e9fc5bc028cee912b",
   "platform_delivery_verified": false,
   "status": "browser_reviewed_ready_for_omnisend_assembly",
   "image_urls": [
@@ -28,5 +28,6 @@
   ],
   "browser_qa_pass": true,
   "schedule_status": "Proposed local flow plan; not configured in Omnisend",
-  "qa_report": "qa-current/report.json"
+  "qa_report": "qa-current/report.json",
+  "primary_cta": "Rinktis su 5 % nuolaida"
 }
